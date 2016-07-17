@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Il Trono di Spade 4. Il dominio della regina, L'ombra della profezia</title>
+  <id>urn:book:e59927c6-2ead-4786-b81c-69a86ffd1a3b</id>
+  <updated>2016-07-17T05:53:04Z</updated>
+  <link href="./book_29.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Il Trono di Spade 4. Il dominio della regina, L'ombra della profezia" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="../../George%20R.%20R.%20Martin/Il%20Trono%20di%20Spade%204.%20Il%20dominio%20dell%20%2829%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../George%20R.%20R.%20Martin/Il%20Trono%20di%20Spade%204.%20Il%20dominio%20dell%20%2829%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../George%20R.%20R.%20Martin/Il%20Trono%20di%20Spade%204.%20Il%20dominio%20dell%20%2829%29/Il%20Trono%20di%20Spade%204.%20Il%20dominio%20-%20George%20R.%20R.%20Martin.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+  <author>
+    <name>George R. R. Martin</name>
+    <uri>../author_0/author_26_Page_1.xml</uri>
+  </author>
+  <published>2014-04-07T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Edizioni Mondadori</dcterms:publisher>
+  <category term="Fantasy" />
+  <category term="Fiction" />
+  <category term="General" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Fantasy, Fiction, General, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">In spettrali campi di battaglia e tetre
+    fortezze in rovina, fra città tramutate in cimiteri e
+    terre ridotte a ossari, la spaventosa guerra dei cinque re
+    volge ormai al termine. La Casa Lannister e i suoi alleati
+    appaiono vincitori. Eppure, nei Sette Regni, qualcosa ancora si
+    agita. Mentre corvi in forma umana si raccolgono per un festino
+    di ceneri, nuovi, temerari complotti vengono orditi e nuove,
+    pericolose alleanze prendono forma. In questa apparentemente
+    consolidata "pace del re" forze inattese sono pronte a sferrare
+    attacchi cruenti. Guidati dal famigerato re Occhio-di-corvo,
+    gli uomini di ferro, eredi di un culto guerriero dimenticato da
+    secoli, si sono lanciati all'invasione del sudovest del reame,
+    costringendo la regina Cersei e il Trono di Spade ad affrontare
+    un'inedita prova di forza. E dalle brume di una memoria
+    lasciata troppo a lungo sepolta, un'antica, sinistra profezia
+    potrebbe minacciare la stessa regina. Non sembra esistere una
+    fine al banchetto dei corvi. E, forse, l'ora del destino sta
+    per scoccare perfino per le prede più inattaccabili.</p>
+  </content>
+  <link href="../author_0/author_26_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by George R. R. Martin" />
+  <link href="http://www.goodreads.com/book/title/Il%20Trono%20di%20Spade%204.%20Il%20dominio%20della%20regina%2C%20L%27ombra%20della%20profezia" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Il%20Trono%20di%20Spade%204.%20Il%20dominio%20della%20regina%2C%20L%27ombra%20della%20profezia" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Il%20Trono%20di%20Spade%204.%20Il%20dominio%20della%20regina%2C%20L%27ombra%20della%20profezia%20George%20R.%20R.%20Martin" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Il%20Trono%20di%20Spade%204.%20Il%20dominio%20della%20regina%2C%20L%27ombra%20della%20profezia&amp;field-author=George%20R.%20R.%20Martin" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/George%20R.%20R.%20Martin" type="text/html" rel="related" title="George R. R. Martin on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/George%20R.%20R.%20Martin" type="text/html" rel="related" title="George R. R. Martin on Wikipedia" />
+  <link href="http://www.librarything.com/author/MartinGeorgeR.R." type="text/html" rel="related" title="George R. R. Martin on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=George%20R.%20R.%20Martin" type="text/html" rel="related" title="George R. R. Martin on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?George%20R.%20R.%20Martin" type="text/html" rel="related" title="George R. R. Martin on ISFDB" />
+</entry>

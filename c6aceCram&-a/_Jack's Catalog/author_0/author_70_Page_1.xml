@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Charlie Fletcher</title>
+  <id>Calibre2opds:author:70</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_70_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Charlie Fletcher" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with F" />
+  <entry>
+    <title>Oversight</title>
+    <id>calibre:book:88</id>
+    <updated>2016-07-17T05:53:23Z</updated>
+    <link href="../../Charlie%20Fletcher/Oversight%20%2888%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Charlie%20Fletcher/Oversight%20%2888%29/Oversight%20-%20Charlie%20Fletcher.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="746 KB" />
+    <author>
+      <name>Charlie Fletcher</name>
+      <uri>../author_0/author_70_Page_1.xml</uri>
+    </author>
+    <published>2014-07-06T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Londra, metà Ottocento. L’organizzazione segreta Oversight ha il compito sia di proteggere gli esseri umani privi di poteri magici dalle scorribande degli esseri fatati di ogni genere, sia di difendere il mondo magico dalle ingiustizie perpetrate – p...</summary>
+    <link href="../book_0/book_88.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

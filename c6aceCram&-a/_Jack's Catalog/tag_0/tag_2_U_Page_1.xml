@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with U</title>
+  <id>Calibre2opds:taglist:F:2:U</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tag_2_U_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with U" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with F" />
+  <link href="./tag_2_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Fiction" />
+  <entry>
+    <title>Uomini che odiano le donne: Millennium 1</title>
+    <id>calibre:book:19</id>
+    <updated>2016-07-17T05:53:01Z</updated>
+    <link href="../../Stieg%20Larsson/Uomini%20che%20odiano%20le%20donne_%20Millenni%20%2819%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stieg%20Larsson/Uomini%20che%20odiano%20le%20donne_%20Millenni%20%2819%29/Uomini%20che%20odiano%20le%20donne_%20Mil%20-%20Stieg%20Larsson.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Stieg Larsson</name>
+      <uri>../author_0/author_19_Page_1.xml</uri>
+    </author>
+    <published>2010-10-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Marsilio Editori</dcterms:publisher>
+    <category term="Thrillers" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Da molti anni, la nipote prediletta del potente industriale Henrik Vanger è scomparsa senza lasciare traccia. Il corpo non è mai stato ritrovato. Quando, ormai vecchio, Vanger riceve un dono che riapre la vicenda, incarica Mikael Blomkvist, noto gior...</summary>
+    <link href="../book_0/book_19.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'Uomo Di Marte</title>
+    <id>calibre:book:17</id>
+    <updated>2016-07-17T05:53:00Z</updated>
+    <link href="../../Andy%20Weir/L%27Uomo%20Di%20Marte%20%2817%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Andy%20Weir/L%27Uomo%20Di%20Marte%20%2817%29/L%27Uomo%20Di%20Marte%20-%20Andy%20Weir.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="612 KB" />
+    <author>
+      <name>Andy Weir</name>
+      <uri>../author_0/author_17_Page_1.xml</uri>
+    </author>
+    <published>2014-07-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Newton Compton Editori</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>Bestseller mondiale Gravity incontra Robinson Crusoe Mark Watney è stato uno dei primi astronauti a mettere piede su Marte. Ma il suo momento di gloria è durato troppo poco. Un’improvvisa tempesta lo ha quasi ucciso e i suoi compagni di spedizione, c...</summary>
+    <link href="../book_0/book_17.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Uragano Rosso</title>
+    <id>calibre:book:22</id>
+    <updated>2016-07-17T05:53:02Z</updated>
+    <link href="../../Clancy%20Tom/Uragano%20Rosso%20%2822%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Clancy%20Tom/Uragano%20Rosso%20%2822%29/Uragano%20Rosso%20-%20Clancy%20Tom.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Clancy Tom</name>
+      <uri>../author_0/author_22_Page_1.xml</uri>
+    </author>
+    <published>1987-08-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Rizzoli</dcterms:publisher>
+    <category term="Espionage" />
+    <category term="Fiction" />
+    <category term="Thrillers" />
+    <category term="Lang:it" />
+    <summary>Oversized Trade paperback**</summary>
+    <link href="../book_0/book_22.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Science Fiction</title>
+  <id>Calibre2opds:taglist:S:18</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tag_18_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Science Fiction" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with S" />
+  <link href="../tag_0/tag_18_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 2)" />
+  <entry>
+    <title>Wool: La trilogia del Silo 1</title>
+    <id>calibre:book:8</id>
+    <updated>2016-07-17T05:52:57Z</updated>
+    <link href="../../Hugh%20Howey/Wool_%20La%20trilogia%20del%20Silo%201%20%288%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Hugh%20Howey/Wool_%20La%20trilogia%20del%20Silo%201%20%288%29/Wool_%20La%20trilogia%20del%20Silo%201%20-%20Hugh%20Howey.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Hugh Howey</name>
+      <uri>../author_0/author_8_Page_1.xml</uri>
+    </author>
+    <published>2013-10-09T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fabbri</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Science Fiction" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>I PRIMI SEI CAPITOLI DI WOOL, IL PRIMO ELETTRIZZANTE CAPITOLO DELLA TRILOGIA SILO CHE HA CONQUISTATO GLI STATI UNITI. Cosa faresti se il mondo fuori fosse letale e l’aria che respiri potesse uccidere? Se vivessi in un luogo dove ogni nascita richiede...</summary>
+    <link href="../book_0/book_8.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'Uomo Di Marte</title>
+    <id>calibre:book:17</id>
+    <updated>2016-07-17T05:53:00Z</updated>
+    <link href="../../Andy%20Weir/L%27Uomo%20Di%20Marte%20%2817%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Andy%20Weir/L%27Uomo%20Di%20Marte%20%2817%29/L%27Uomo%20Di%20Marte%20-%20Andy%20Weir.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="612 KB" />
+    <author>
+      <name>Andy Weir</name>
+      <uri>../author_0/author_17_Page_1.xml</uri>
+    </author>
+    <published>2014-07-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Newton Compton Editori</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>Bestseller mondiale Gravity incontra Robinson Crusoe Mark Watney è stato uno dei primi astronauti a mettere piede su Marte. Ma il suo momento di gloria è durato troppo poco. Un’improvvisa tempesta lo ha quasi ucciso e i suoi compagni di spedizione, c...</summary>
+    <link href="../book_0/book_17.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Snow Crash</title>
+    <id>calibre:book:44</id>
+    <updated>2016-07-17T05:53:09Z</updated>
+    <link href="../../Neal%20Stephenson/Snow%20Crash%20%2844%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Neal%20Stephenson/Snow%20Crash%20%2844%29/Snow%20Crash%20-%20Neal%20Stephenson.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="877 KB" />
+    <author>
+      <name>Neal Stephenson</name>
+      <uri>../author_0/author_38_Page_1.xml</uri>
+    </author>
+    <published>2000-05-01T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Spectra</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>One of Time magazine's 100 all-time best English-language novels.  Only once in a great while does a writer come along who defies comparison—a writer so original he redefines the way we look at the world. Neal Stephenson is such a writer and Snow Cra...</summary>
+    <link href="../book_0/book_44.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sfida alla nuova repubblica. La trilogia di Thrawn Vol. 2</title>
+    <id>calibre:book:49</id>
+    <updated>2016-07-17T05:53:10Z</updated>
+    <link href="../../Timothy%20Zahn/Sfida%20alla%20nuova%20repubblica.%20La%20tril%20%2849%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Timothy%20Zahn/Sfida%20alla%20nuova%20repubblica.%20La%20tril%20%2849%29/Sfida%20alla%20nuova%20repubblica.%20La%20-%20Timothy%20Zahn.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="905 KB" />
+    <author>
+      <name>Timothy Zahn</name>
+      <uri>../author_0/author_13_Page_1.xml</uri>
+    </author>
+    <published>2013-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Il condottiero più astuto e spietato dell'Impero morente, il Grande Ammiraglio Thrawn, ha assunto il comando di ciò che rimane della flotta Imperiale e ha lanciato un'imponente campagna tesa alla distruzione della Nuova Repubblica. Intanto, Han e Lan...</summary>
+    <link href="../book_0/book_49.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Shift: La trilogia del Silo 2</title>
+    <id>calibre:book:50</id>
+    <updated>2016-07-17T05:53:11Z</updated>
+    <link href="../../Hugh%20Howey/Shift_%20La%20trilogia%20del%20Silo%202%20%2850%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Hugh%20Howey/Shift_%20La%20trilogia%20del%20Silo%202%20%2850%29/Shift_%20La%20trilogia%20del%20Silo%202%20-%20Hugh%20Howey.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+    <author>
+      <name>Hugh Howey</name>
+      <uri>../author_0/author_8_Page_1.xml</uri>
+    </author>
+    <published>2015-05-26T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Bur</dcterms:publisher>
+    <category term="General" />
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="Science Fiction" />
+    <category term="Lang:it" />
+    <summary>Prima di Wool, il mondo è ancora come lo conosciamo oggi. Solo alcuni potenti della Terra sanno cosa accadrà di lì a poco, mentre nell’ombra orchestrano un futuro terribile per l’umanità. Due invenzioni fondamentali cambiano il corso della storia: un...</summary>
+    <link href="../book_0/book_50.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il rosso di Marte</title>
+    <id>calibre:book:54</id>
+    <updated>2016-07-17T05:53:12Z</updated>
+    <link href="../../Kim%20Stanley%20Robinson/Il%20rosso%20di%20Marte%20%2854%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Kim%20Stanley%20Robinson/Il%20rosso%20di%20Marte%20%2854%29/Il%20rosso%20di%20Marte%20-%20Kim%20Stanley%20Robinson.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="985 KB" />
+    <author>
+      <name>Kim Stanley Robinson</name>
+      <uri>../author_0/author_44_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Maurizio Carità</name>
+      <uri>../author_0/author_45_Page_1.xml</uri>
+    </author>
+    <published>2016-05-04T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Hard Science Fiction" />
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Science Fiction" />
+    <category term="Foreign Language Fiction" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Space Opera" />
+    <category term="Italian" />
+    <category term="Lang:it" />
+    <summary>Per secoli, le aride e desolate lande del pianeta rosso, sferzate da tempeste di sterile sabbia, hanno rappresentato per il genere umano la nuova frontiera della conquista interplanetaria. Ora, nell’anno 2026, un gruppo di cento coloni è pronto a com...</summary>
+    <link href="../book_0/book_54.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il prefetto</title>
+    <id>calibre:book:73</id>
+    <updated>2016-07-17T05:53:18Z</updated>
+    <link href="../../Alastair%20Reynolds/Il%20prefetto%20%2873%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alastair%20Reynolds/Il%20prefetto%20%2873%29/Il%20prefetto%20-%20Alastair%20Reynolds.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Alastair Reynolds</name>
+      <uri>../author_0/author_47_Page_1.xml</uri>
+    </author>
+    <published>2013-07-24T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Science Fiction" />
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Fantasy" />
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Lang:it" />
+    <summary>Tom Dreyfus è un prefetto, uno dei migliori. La sua forza è Panoply, il corpo di polizia per cui lavora, e il suo battito è la vita complessa e pulsante della Fascia splendente, un anello di asteroidi spaziali di diecimila habitat umani che orbitano ...</summary>
+    <link href="../book_0/book_73.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il programma. Virtnet Runner. The mortality doctrine</title>
+    <id>calibre:book:74</id>
+    <updated>2016-07-17T05:53:18Z</updated>
+    <link href="../../James%20Dashner/Il%20programma.%20Virtnet%20Runner.%20The%20mo%20%2874%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../James%20Dashner/Il%20programma.%20Virtnet%20Runner.%20The%20mo%20%2874%29/Il%20programma.%20Virtnet%20Runner.%20T%20-%20James%20Dashner.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="597 KB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../author_0/author_12_Page_1.xml</uri>
+    </author>
+    <published>2015-02-15T00:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Sopravvissuto alle insidie disseminate lungo il Sentiero, Michael ha finalmente davanti agli occhi la vera faccia della realtà, una presa di coscienza che ha sconvolto quello che credeva di sapere della sua stessa vita e del mondo. È vivo per miracol...</summary>
+    <link href="../book_0/book_74.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'erede dell'impero. La trilogia di Thrawn Vol. 1</title>
+    <id>calibre:book:135</id>
+    <updated>2016-07-17T05:53:36Z</updated>
+    <link href="../../Timothy%20Zahn/L%27erede%20dell%27impero.%20La%20trilogia%20di%20%28135%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Timothy%20Zahn/L%27erede%20dell%27impero.%20La%20trilogia%20di%20%28135%29/L%27erede%20dell%27impero.%20La%20trilogi%20-%20Timothy%20Zahn.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="596 KB" />
+    <author>
+      <name>Timothy Zahn</name>
+      <uri>../author_0/author_13_Page_1.xml</uri>
+    </author>
+    <published>2014-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Science Fiction" />
+    <category term="Lang:it" />
+    <summary>L'erede dell'impero segue le avventure di Luke Skywalker, Han Solo e della Principessa Leia dopo che questi hanno condotto l'Alleanza Ribelle alla vittoria in Star Wars Episodio VI: Il ritorno dello Jedi. All'interno potrete trovare l'introduzione e ...</summary>
+    <link href="../book_0/book_135.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'altro universo</title>
+    <id>calibre:book:144</id>
+    <updated>2016-07-17T05:53:39Z</updated>
+    <link href="../../Iain%20M.%20Banks/L%27altro%20universo%20%28144%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Iain%20M.%20Banks/L%27altro%20universo%20%28144%29/L%27altro%20universo%20-%20Iain%20M.%20Banks.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Iain M. Banks</name>
+      <uri>../author_0/author_106_Page_1.xml</uri>
+    </author>
+    <published>2004-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Nord</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Più di due millenni orsono, uno strano oggetto apparve in un remoto angolo dello spazio, nei pressi di un sole morente. Una sfera perfetta, nera, assolutamente inerte, forse proveniente da un'altra dimensione o un altro universo. Poi all'improvviso s...</summary>
+    <link href="../book_0/book_144.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La rifondazione di Dune</title>
+    <id>calibre:book:147</id>
+    <updated>2016-07-17T05:53:40Z</updated>
+    <link href="../../Frank%20Herbert/La%20rifondazione%20di%20Dune%20%28147%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Frank%20Herbert/La%20rifondazione%20di%20Dune%20%28147%29/La%20rifondazione%20di%20Dune%20-%20Frank%20Herbert.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Frank Herbert</name>
+      <uri>../author_0/author_100_Page_1.xml</uri>
+    </author>
+    <published>1985-12-31T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Nord</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:it" />
+    <summary>Dopo gli eventi descritti nel quinto volume della saga di Dune, (Gli 
+eretici di Dune), il vecchio ordine galattico è in pieno sfacelo: il 
+Sentiero Dorato stabilito dall'imperatore-dio Leto II ha condotto 
+all'Armageddon. Il pianeta Dune è stato dis...</summary>
+    <link href="../book_0/book_147.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La regola dei due</title>
+    <id>calibre:book:149</id>
+    <updated>2016-07-17T05:53:41Z</updated>
+    <link href="../../Drew%20Karpyshyn/La%20regola%20dei%20due%20%28149%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Drew%20Karpyshyn/La%20regola%20dei%20due%20%28149%29/La%20regola%20dei%20due%20-%20Drew%20Karpyshyn.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Drew Karpyshyn</name>
+      <uri>../author_0/author_33_Page_1.xml</uri>
+    </author>
+    <published>2013-06-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="Fantascienza" />
+    <category term="Star Wars" />
+    <category term="Science Fiction" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>"Sempre due: né più, né meno. Uno racchiude il potere, l'altro lo brama." Ora Darth Bane è pronto a mettere in atto la sua Regola, e crede di aver trovato l'elemento chiave che completerà il suo trionfo: un allievo da addestrare al Lato Oscuro. Bench...</summary>
+    <link href="../book_0/book_149.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La crociata dei bambini.</title>
+    <id>calibre:book:154</id>
+    <updated>2016-07-17T05:53:43Z</updated>
+    <link href="../../Tullio%20Avoledo/La%20crociata%20dei%20bambini_%20%28154%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Tullio%20Avoledo/La%20crociata%20dei%20bambini_%20%28154%29/La%20crociata%20dei%20bambini_%20-%20Tullio%20Avoledo.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="632 KB" />
+    <author>
+      <name>Tullio Avoledo</name>
+      <uri>../author_0/author_110_Page_1.xml</uri>
+    </author>
+    <published>2014-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="370" />
+    <category term="Science Fiction" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Tra Iliade metropolitana e Odissea distopica, è un viaggio che dalle gallerie della metro non tarda a scivolare negli abissi della mente. John Daniels, il sacerdote già protagonista de "Le radici del cielo", dovrà cercare, fra le comunità che popolan...</summary>
+    <link href="../book_0/book_154.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La dinastia del male</title>
+    <id>calibre:book:155</id>
+    <updated>2016-07-17T05:53:43Z</updated>
+    <link href="../../Drew%20Karpyshyn/La%20dinastia%20del%20male%20%28155%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Drew%20Karpyshyn/La%20dinastia%20del%20male%20%28155%29/La%20dinastia%20del%20male%20-%20Drew%20Karpyshyn.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Drew Karpyshyn</name>
+      <uri>../author_0/author_33_Page_1.xml</uri>
+    </author>
+    <published>2013-06-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Fantascienza" />
+    <category term="Science Fiction" />
+    <category term="Star Wars" />
+    <category term="Lang:it" />
+    <summary>Sono trascorsi vent'anni da quando Darth Bane, Signore Oscuro regnante dei Sith, ha distrutto l'antico ordine e lo ha ricreato composto da due persone: un Maestro che detiene il potere e tramanda il sapere, e un apprendista che impara per sfidare e u...</summary>
+    <link href="../book_0/book_155.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Juggernaut</title>
+    <id>calibre:book:166</id>
+    <updated>2016-07-17T05:53:46Z</updated>
+    <link href="../../Alan%20D.%20Altieri/Juggernaut%20%28166%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alan%20D.%20Altieri/Juggernaut%20%28166%29/Juggernaut%20-%20Alan%20D.%20Altieri.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Alan D. Altieri</name>
+      <uri>../author_0/author_115_Page_1.xml</uri>
+    </author>
+    <published>2013-06-11T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>TEA</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>La guerra è finita. Così è scritto su monumento battuto dalla pioggia tossica, davanti a un edificio-simulacro. Non ci sono vincitori, dopo la guerra, non ci sono vinti, soltanto vittime. In un mondo in cui un’unica mega-corporazione chiamata Gottsch...</summary>
+    <link href="../book_0/book_166.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Internet Apocalypse</title>
+    <id>calibre:book:172</id>
+    <updated>2016-07-17T05:53:48Z</updated>
+    <link href="../../Wayne%20Gladstone/Internet%20Apocalypse%20%28172%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Wayne%20Gladstone/Internet%20Apocalypse%20%28172%29/Internet%20Apocalypse%20-%20Wayne%20Gladstone.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="807 KB" />
+    <author>
+      <name>Wayne Gladstone</name>
+      <uri>../author_0/author_119_Page_1.xml</uri>
+    </author>
+    <published>2014-11-10T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Hard Science Fiction" />
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Teen &amp; Young Adult" />
+    <category term="Science Fiction" />
+    <category term="Foreign Language Fiction" />
+    <category term="Post-Apocalyptic" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Italian" />
+    <category term="Lang:it" />
+    <summary>IL VIAGGIO DI UN UOMO IN UN MONDO SENZA INTERNET, UN’APOCALISSE CHE POTREBBE RIVELARSI NECESSARIA PER RICORDARE CHI SIAMO DAVVERO.   
+Il World Wide Web è scomparso. Nessuno - nemmeno il Presidente degli Stati Uniti – è in grado di trovare un segnale ...</summary>
+    <link href="../book_0/book_172.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il Gioco di Ender</title>
+    <id>calibre:book:188</id>
+    <updated>2016-07-17T05:53:52Z</updated>
+    <link href="../../Orson%20Scott%20Card/Il%20Gioco%20di%20Ender%20%28188%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Orson%20Scott%20Card/Il%20Gioco%20di%20Ender%20%28188%29/Il%20Gioco%20di%20Ender%20-%20Orson%20Scott%20Card.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="725 KB" />
+    <author>
+      <name>Orson Scott Card</name>
+      <uri>../author_0/author_129_Page_1.xml</uri>
+    </author>
+    <published>1987-11-04T00:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Nord</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:it" />
+    <summary>Gli alieni, minacciosi esseri dall'aspetto insettoide, hanno attaccato 
+due volte la Terra e hanno quasi distrutto la specie umana. Per 
+assicurarsi la vittoria nel successivo scontro di questa guerra il 
+governo del mondo ha deciso di creare una raz...</summary>
+    <link href="../book_0/book_188.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>I figli di Dune</title>
+    <id>calibre:book:192</id>
+    <updated>2016-07-17T05:53:53Z</updated>
+    <link href="../../Frank%20Herbert/I%20figli%20di%20Dune%20%28192%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Frank%20Herbert/I%20figli%20di%20Dune%20%28192%29/I%20figli%20di%20Dune%20-%20Frank%20Herbert.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Frank Herbert</name>
+      <uri>../author_0/author_100_Page_1.xml</uri>
+    </author>
+    <published>1977-08-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Nord</dcterms:publisher>
+    <category term="Fantascienza" />
+    <category term="Science Fiction" />
+    <category term="Horror E Fantasy" />
+    <category term="Lang:it" />
+    <link href="../book_0/book_192.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Globalia</title>
+    <id>calibre:book:199</id>
+    <updated>2016-07-17T05:53:55Z</updated>
+    <link href="../../Jean-Cristophe%20Rufin/Globalia%20%28199%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jean-Cristophe%20Rufin/Globalia%20%28199%29/Globalia%20-%20Jean-Cristophe%20Rufin.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="891 KB" />
+    <author>
+      <name>Jean-Cristophe Rufin</name>
+      <uri>../author_0/author_132_Page_1.xml</uri>
+    </author>
+    <published>2016-05-18T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Edizioni e/o</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Foreign Language Fiction" />
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Science Fiction" />
+    <category term="Literary Fiction" />
+    <category term="Literary" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Post-Apocalyptic" />
+    <category term="Italian" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>Dall’autore de L’uomo dei sogni, un libro che merita di stare a fianco di Orwell e Huxley sullo scaffale delle grandi distopie del nostro tempo.  
+In un futuro prossimo, così prossimo da apparirci verosimile in maniera preoccupante, il pianeta è un u...</summary>
+    <link href="../book_0/book_199.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Gli eretici di Dune</title>
+    <id>calibre:book:200</id>
+    <updated>2016-07-17T05:53:55Z</updated>
+    <link href="../../Frank%20Herbert/Gli%20eretici%20di%20Dune%20%28200%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Frank%20Herbert/Gli%20eretici%20di%20Dune%20%28200%29/Gli%20eretici%20di%20Dune%20-%20Frank%20Herbert.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Frank Herbert</name>
+      <uri>../author_0/author_100_Page_1.xml</uri>
+    </author>
+    <published>1984-10-02T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Nord</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:it" />
+    <summary>«Un sibilo sotterraneo, trasformato 
+dallo spessore della sabbia si fece più forte con incredibile 
+rapidità... C'era del calore in quel sibilo, e la brezza che si 
+riversava nel sentiero roccioso si riscaldò di colpo. Il sibilo crebbe 
+fino a diveni...</summary>
+    <link href="../book_0/book_200.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Epidemia Zombie</title>
+    <id>calibre:book:221</id>
+    <updated>2016-07-17T05:54:01Z</updated>
+    <link href="../../Z.%20A.%20Recht/Epidemia%20Zombie%20%28221%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Z.%20A.%20Recht/Epidemia%20Zombie%20%28221%29/Epidemia%20Zombie%20-%20Z.%20A.%20Recht.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="951 KB" />
+    <author>
+      <name>Z. A. Recht</name>
+      <uri>../author_0/author_145_Page_1.xml</uri>
+    </author>
+    <published>2014-11-26T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Science Fiction" />
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Post-Apocalyptic" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Fantasy" />
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Adventure" />
+    <category term="Lang:it" />
+    <summary>Il tema dell‘apocalisse zombie, un tempo ai margini del panorama horror, ha assunto un ruolo centrale nella moderna cultura pop. Ora, con “Epidemia Zombie“, Z.A. Recht dà vita a un‘opera acuta e appassionante, un thriller che lascerà senza fiato sia ...</summary>
+    <link href="../book_0/book_221.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Embassytown</title>
+    <id>calibre:book:225</id>
+    <updated>2016-07-17T05:54:03Z</updated>
+    <link href="../../China%20Mieville/Embassytown%20%28225%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../China%20Mieville/Embassytown%20%28225%29/Embassytown%20-%20China%20Mieville.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="655 KB" />
+    <author>
+      <name>China Miéville</name>
+      <uri>../author_0/author_147_Page_1.xml</uri>
+    </author>
+    <published>2016-03-16T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Fantasy" />
+    <category term="Foreign Language Fiction" />
+    <category term="Foreign Languages" />
+    <category term="Science Fiction" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Italian" />
+    <category term="Lang:it" />
+    <summary>In un futuro remoto, gli esseri umani si sono spinti ai confini dell’universo, colonizzando il pianeta Areka. Qui, i rapporti tra gli uomini e il misterioso popolo degli Arekei, custode di una lingua misteriosa e inaccessibile, sono possibili solo gr...</summary>
+    <link href="../book_0/book_225.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Dust: La trilogia del Silo 3</title>
+    <id>calibre:book:228</id>
+    <updated>2016-07-17T05:54:03Z</updated>
+    <link href="../../Hugh%20Howey/Dust_%20La%20trilogia%20del%20Silo%203%20%28228%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Hugh%20Howey/Dust_%20La%20trilogia%20del%20Silo%203%20%28228%29/Dust_%20La%20trilogia%20del%20Silo%203%20-%20Hugh%20Howey.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Hugh Howey</name>
+      <uri>../author_0/author_8_Page_1.xml</uri>
+    </author>
+    <published>2014-05-26T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fabbri</dcterms:publisher>
+    <category term="General" />
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="Science Fiction" />
+    <category term="Lang:it" />
+    <summary>Cosa faresti se il destino di tutte le persone che ami fosse nelle tue mani? Se le tue scelte potessero salvare o condannare a morte l’umanità intera? La storia del Silo finisce così, con il ritorno alla polvere. Dust, polvere: quella che cade sugli ...</summary>
+    <link href="../book_0/book_228.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Dune</title>
+    <id>calibre:book:231</id>
+    <updated>2016-07-17T05:54:04Z</updated>
+    <link href="../../Frank%20Herbert/Dune%20%28231%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Frank%20Herbert/Dune%20%28231%29/Dune%20-%20Frank%20Herbert.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Frank Herbert</name>
+      <uri>../author_0/author_100_Page_1.xml</uri>
+    </author>
+    <published>1973-09-30T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Nord (Cosmo Oro. Classici della fantascienza)</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:it" />
+    <summary>Il giovane Paul, figlio del duca Leto, non sa quasi nulla di Arrakis 
+quando gli annunciano che è la sua prossima destinazione. Poi, a poco a 
+poco, frammenti di racconti, ricordi, qualche parola rubata - tutto 
+stranamente pervaso da un che di legge...</summary>
+    <link href="../book_0/book_231.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Darth Plagueis. Star Wars</title>
+    <id>calibre:book:236</id>
+    <updated>2016-07-17T05:54:06Z</updated>
+    <link href="../../James%20Luceno/Darth%20Plagueis.%20Star%20Wars%20%28236%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../James%20Luceno/Darth%20Plagueis.%20Star%20Wars%20%28236%29/Darth%20Plagueis.%20Star%20Wars%20-%20James%20Luceno.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="874 KB" />
+    <author>
+      <name>James Luceno</name>
+      <uri>../author_0/author_150_Page_1.xml</uri>
+    </author>
+    <published>2014-01-14T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Darth Plagueis: uno dei più brillanti Signori dei Sith mai vissuti. Tutto quello che desiderava era il potere. L'unica cosa di cui aveva paura era perderlo. Da apprendista, aveva abbracciato le spietate vie dei Sith, e quando era giunto il momento op...</summary>
+    <link href="../book_0/book_236.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

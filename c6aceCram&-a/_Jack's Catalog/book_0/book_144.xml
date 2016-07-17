@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>L'altro universo</title>
+  <id>urn:book:f9e173f6-9405-49bb-b014-bb0ca87f14c6</id>
+  <updated>2016-07-17T05:53:39Z</updated>
+  <link href="./book_144.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="L'altro universo" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with B" />
+  <link href="../../Iain%20M.%20Banks/L%27altro%20universo%20%28144%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Iain%20M.%20Banks/L%27altro%20universo%20%28144%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Iain%20M.%20Banks/L%27altro%20universo%20%28144%29/L%27altro%20universo%20-%20Iain%20M.%20Banks.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+  <author>
+    <name>Iain M. Banks</name>
+    <uri>../author_0/author_106_Page_1.xml</uri>
+  </author>
+  <published>2004-01-01T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Nord</dcterms:publisher>
+  <category term="Science Fiction" />
+  <category term="Fiction" />
+  <category term="General" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Science Fiction, Fiction, General, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">Più di due millenni orsono, uno
+    strano oggetto apparve in un remoto angolo dello spazio, nei
+    pressi di un sole morente. Una sfera perfetta, nera,
+    assolutamente inerte, forse proveniente da un'altra dimensione
+    o un altro universo. Poi all'improvviso svanì. E adesso
+    è riapparsa. Silenziosa, immobile, resiste a qualsiasi
+    tentativo di stabilire un contatto e rimane in attesa. Le
+    astronavi della Cultura, una civiltà futura smisurata,
+    invulnerabile, tecnologicamente avanzatissima, non possono fare
+    altrettanto. Il mistero va chiarito e compreso prima che cada
+    in mani assai meno tolleranti e inneschi una crisi politica e
+    militare che può minacciare tutto quello che la Cultura
+    è riuscita a costruire...</p>
+  </content>
+  <link href="../author_0/author_106_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Iain M. Banks" />
+  <link href="http://www.goodreads.com/book/title/L%27altro%20universo" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/L%27altro%20universo" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/L%27altro%20universo%20Iain%20M.%20Banks" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=L%27altro%20universo&amp;field-author=Iain%20M.%20Banks" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Iain%20M.%20Banks" type="text/html" rel="related" title="Iain M. Banks on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Iain%20M.%20Banks" type="text/html" rel="related" title="Iain M. Banks on Wikipedia" />
+  <link href="http://www.librarything.com/author/BanksIainM." type="text/html" rel="related" title="Iain M. Banks on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Iain%20M.%20Banks" type="text/html" rel="related" title="Iain M. Banks on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Iain%20M.%20Banks" type="text/html" rel="related" title="Iain M. Banks on ISFDB" />
+</entry>

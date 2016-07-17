@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Ann Leckie</title>
+  <id>Calibre2opds:author:169</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_169_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Ann Leckie" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with L" />
+  <entry>
+    <title>Ancillary Sword - La Stazione Di Athoek</title>
+    <id>calibre:book:268</id>
+    <updated>2016-07-17T05:54:15Z</updated>
+    <link href="../../Ann%20Leckie/Ancillary%20Sword%20-%20La%20Stazione%20Di%20At%20%28268%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ann%20Leckie/Ancillary%20Sword%20-%20La%20Stazione%20Di%20At%20%28268%29/Ancillary%20Sword%20-%20La%20Stazione%20D%20-%20Ann%20Leckie.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="544 KB" />
+    <author>
+      <name>Ann Leckie</name>
+      <uri>../author_0/author_169_Page_1.xml</uri>
+    </author>
+    <published>2015-07-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+    <category term="Sci Fi &amp; Fantasy" />
+    <category term="Space Opera" />
+    <category term="Lang:it" />
+    <summary>SinossiAnaander, il signore del Radch, ha nominato Breq Ammiraglio e le ha affidato il comando della nave spaziale Mercy of Kalr. La missione che le è stata assegnata prevede il trasferimento presso la stazione di Athoek, uno degli avamposti dell’imp...</summary>
+    <link href="../book_0/book_268.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ancillary justice - La vendetta di Breq</title>
+    <id>calibre:book:270</id>
+    <updated>2016-07-17T05:54:15Z</updated>
+    <link href="../../Ann%20Leckie/Ancillary%20justice%20-%20La%20vendetta%20di%20%28270%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ann%20Leckie/Ancillary%20justice%20-%20La%20vendetta%20di%20%28270%29/Ancillary%20justice%20-%20La%20vendetta%20-%20Ann%20Leckie.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="555 KB" />
+    <author>
+      <name>Ann Leckie</name>
+      <uri>../author_0/author_169_Page_1.xml</uri>
+    </author>
+    <published>2014-11-17T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <link href="../book_0/book_270.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

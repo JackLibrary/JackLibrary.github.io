@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Neil Gaiman</title>
+  <id>Calibre2opds:author:50</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_50_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Neil Gaiman" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <entry>
+    <title>I ragazzi di Anansi</title>
+    <id>calibre:book:63</id>
+    <updated>2016-07-17T05:53:15Z</updated>
+    <link href="../../Neil%20Gaiman/I%20ragazzi%20di%20Anansi%20%2863%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Neil%20Gaiman/I%20ragazzi%20di%20Anansi%20%2863%29/I%20ragazzi%20di%20Anansi%20-%20Neil%20Gaiman.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="665 KB" />
+    <author>
+      <name>Neil Gaiman</name>
+      <uri>../author_0/author_50_Page_1.xml</uri>
+    </author>
+    <published>2007-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Charlie Nancy, remissivo, imbranato, grigissimo e noioso impiegatuccio inglese, non riesce a scuotersi di dosso il maledetto nomignolo di "Ciccio Charlie", datogli dal padre quand'era bambino. È solo uno dei tanti imbarazzanti lasciti del genitore, m...</summary>
+    <link href="../book_0/book_63.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Doctor Who: Nothing O'Clock: Eleventh Doctor: 50th Anniversary</title>
+    <id>calibre:book:233</id>
+    <updated>2016-07-17T05:54:05Z</updated>
+    <link href="../../Neil%20Gaiman/Doctor%20Who_%20Nothing%20O%27Clock_%20Eleven%20%28233%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Neil%20Gaiman/Doctor%20Who_%20Nothing%20O%27Clock_%20Eleven%20%28233%29/Doctor%20Who_%20Nothing%20O%27Clock_%20El%20-%20Neil%20Gaiman.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="303 KB" />
+    <author>
+      <name>Neil Gaiman</name>
+      <uri>../author_0/author_50_Page_1.xml</uri>
+    </author>
+    <published>2013-11-21T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin UK</dcterms:publisher>
+    <category term="Juvenile Nonfiction" />
+    <category term="Performing Arts" />
+    <category term="Film" />
+    <category term="Lang:en" />
+    <summary>Eleven Doctors, eleven months, eleven stories: a year-long celebration of Doctor Who! The most exciting names in children's fiction each create their own unique adventure about the time-travelling Time Lord.  Thousands of years ago, Time Lords built ...</summary>
+    <link href="../book_0/book_233.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cose fragili</title>
+    <id>calibre:book:237</id>
+    <updated>2016-07-17T05:54:06Z</updated>
+    <link href="../../Neil%20Gaiman/Cose%20fragili%20%28237%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Neil%20Gaiman/Cose%20fragili%20%28237%29/Cose%20fragili%20-%20Neil%20Gaiman.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="545 KB" />
+    <author>
+      <name>Neil Gaiman</name>
+      <uri>../author_0/author_50_Page_1.xml</uri>
+    </author>
+    <published>2014-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Un circo misterioso terrorizza il pubblico con una performance straordinaria prima di svanire nella notte, portando con sé uno spettatore… Due anni dopo American Gods, Shadow va a visitare una vecchia villa scozzese e si trova intrappolato in un gioc...</summary>
+    <link href="../book_0/book_237.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>American Gods</title>
+    <id>calibre:book:273</id>
+    <updated>2016-07-17T05:54:16Z</updated>
+    <link href="../../Neil%20Gaiman/American%20Gods%20%28273%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Neil%20Gaiman/American%20Gods%20%28273%29/American%20Gods%20-%20Neil%20Gaiman.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="811 KB" />
+    <author>
+      <name>Neil Gaiman</name>
+      <uri>../author_0/author_50_Page_1.xml</uri>
+    </author>
+    <published>2003-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>Dopo tre anni di prigione Shadow sta per tornare in libertà quando viene a sapere della morte misteriosa della moglie e del suo migliore amico. Sull'aereo che lo riporta a casa l'uomo riceve una proposta di lavoro da un tipo piuttosto enigmatico, Mis...</summary>
+    <link href="../book_0/book_273.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

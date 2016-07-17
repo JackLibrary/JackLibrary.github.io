@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Redemption Ark</title>
+  <id>urn:book:faba941d-5b51-44c9-ae31-b0909dc66dc7</id>
+  <updated>2016-07-17T05:53:14Z</updated>
+  <link href="./book_61.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Redemption Ark" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with R" />
+  <link href="../../Alastair%20Reynolds/Redemption%20Ark%20%2861%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Alastair%20Reynolds/Redemption%20Ark%20%2861%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Alastair%20Reynolds/Redemption%20Ark%20%2861%29/Redemption%20Ark%20-%20Alastair%20Reynolds.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+  <author>
+    <name>Alastair Reynolds</name>
+    <uri>../author_0/author_47_Page_1.xml</uri>
+  </author>
+  <published>2013-12-31T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Mondadori</dcterms:publisher>
+  <category term="Fantascienza" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Fantascienza, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">Nella galassia è in corso un conflitto spietato e i
+    pianeti Resurgam e Yellowstone sono al centro
+    dell’azione. Nostalgia dell’Infinito,
+    l’astronave che somiglia a un’Arca spaziale,
+    contiene un carico di armi perfezionatissime appartenenti alla
+    cosiddetta hell class che vanno recuperate a tutti i costi.
+    Bisogna arginare la guerra, superando gli odi delle opposte
+    fazioni, o vincerla con una mossa fulminea. Ed ecco emergere
+    dallo sfondo la figura di Nevil Clavain, un essere umano
+    modificato che può controllare il suo corpo e trasmettere
+    il pensiero, al quale spetta il compito di guidare suo malgrado
+    la fazione degli Ultra. Sono questi gli spunti da cui parte
+    Redemption Ark, il nuovo, massiccio affresco di Alastair
+    Reynolds ambientato nell’universo coerente della
+    Rivelazione, già conosciuto dai nostri lettori in
+    Rivelazione 1 e 2.</p>
+  </content>
+  <link href="../author_0/author_47_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Alastair Reynolds" />
+  <link href="http://www.goodreads.com/book/title/Redemption%20Ark" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Redemption%20Ark" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Redemption%20Ark%20Alastair%20Reynolds" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Redemption%20Ark&amp;field-author=Alastair%20Reynolds" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Alastair%20Reynolds" type="text/html" rel="related" title="Alastair Reynolds on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Alastair%20Reynolds" type="text/html" rel="related" title="Alastair Reynolds on Wikipedia" />
+  <link href="http://www.librarything.com/author/ReynoldsAlastair" type="text/html" rel="related" title="Alastair Reynolds on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Alastair%20Reynolds" type="text/html" rel="related" title="Alastair Reynolds on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Alastair%20Reynolds" type="text/html" rel="related" title="Alastair Reynolds on ISFDB" />
+</entry>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with D</title>
+  <id>Calibre2opds:taglist:F:2:D</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tag_2_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with D" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with F" />
+  <link href="./tag_2_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Fiction" />
+  <entry>
+    <title>Darth Plagueis. Star Wars</title>
+    <id>calibre:book:236</id>
+    <updated>2016-07-17T05:54:06Z</updated>
+    <link href="../../James%20Luceno/Darth%20Plagueis.%20Star%20Wars%20%28236%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../James%20Luceno/Darth%20Plagueis.%20Star%20Wars%20%28236%29/Darth%20Plagueis.%20Star%20Wars%20-%20James%20Luceno.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="874 KB" />
+    <author>
+      <name>James Luceno</name>
+      <uri>../author_0/author_150_Page_1.xml</uri>
+    </author>
+    <published>2014-01-14T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Darth Plagueis: uno dei più brillanti Signori dei Sith mai vissuti. Tutto quello che desiderava era il potere. L'unica cosa di cui aveva paura era perderlo. Da apprendista, aveva abbracciato le spietate vie dei Sith, e quando era giunto il momento op...</summary>
+    <link href="../book_0/book_236.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Drive</title>
+    <id>calibre:book:230</id>
+    <updated>2016-07-17T05:54:04Z</updated>
+    <link href="../../James%20Sallis/Drive%20%28230%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../James%20Sallis/Drive%20%28230%29/Drive%20-%20James%20Sallis.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="228 KB" />
+    <author>
+      <name>James Sallis</name>
+      <uri>../author_0/author_148_Page_1.xml</uri>
+    </author>
+    <published>2011-06-14T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Giano</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Suspense" />
+    <category term="Thrillers" />
+    <category term="Lang:en" />
+    <summary>La stanza di un Motel 6 a nord di Phoenix, la tarda luce dell'alba che preme alla porta e alle finestre, i rumori del traffico dalla vicina autostrada, il lamento di qualcuno che piange nella camera attigua. E una pozza di sangue che avanza, lenta, i...</summary>
+    <link href="../book_0/book_230.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Dust: La trilogia del Silo 3</title>
+    <id>calibre:book:228</id>
+    <updated>2016-07-17T05:54:03Z</updated>
+    <link href="../../Hugh%20Howey/Dust_%20La%20trilogia%20del%20Silo%203%20%28228%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Hugh%20Howey/Dust_%20La%20trilogia%20del%20Silo%203%20%28228%29/Dust_%20La%20trilogia%20del%20Silo%203%20-%20Hugh%20Howey.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Hugh Howey</name>
+      <uri>../author_0/author_8_Page_1.xml</uri>
+    </author>
+    <published>2014-05-26T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fabbri</dcterms:publisher>
+    <category term="General" />
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="Science Fiction" />
+    <category term="Lang:it" />
+    <summary>Cosa faresti se il destino di tutte le persone che ami fosse nelle tue mani? Se le tue scelte potessero salvare o condannare a morte l’umanità intera? La storia del Silo finisce così, con il ritorno alla polvere. Dust, polvere: quella che cade sugli ...</summary>
+    <link href="../book_0/book_228.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La dinastia del male</title>
+    <id>calibre:book:155</id>
+    <updated>2016-07-17T05:53:43Z</updated>
+    <link href="../../Drew%20Karpyshyn/La%20dinastia%20del%20male%20%28155%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Drew%20Karpyshyn/La%20dinastia%20del%20male%20%28155%29/La%20dinastia%20del%20male%20-%20Drew%20Karpyshyn.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Drew Karpyshyn</name>
+      <uri>../author_0/author_33_Page_1.xml</uri>
+    </author>
+    <published>2013-06-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Fantascienza" />
+    <category term="Science Fiction" />
+    <category term="Star Wars" />
+    <category term="Lang:it" />
+    <summary>Sono trascorsi vent'anni da quando Darth Bane, Signore Oscuro regnante dei Sith, ha distrutto l'antico ordine e lo ha ricreato composto da due persone: un Maestro che detiene il potere e tramanda il sapere, e un apprendista che impara per sfidare e u...</summary>
+    <link href="../book_0/book_155.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

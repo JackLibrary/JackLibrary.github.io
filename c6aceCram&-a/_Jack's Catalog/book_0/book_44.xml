@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Snow Crash</title>
+  <id>urn:book:f5f8e528-cda9-4032-97b9-47aeed47101d</id>
+  <updated>2016-07-17T05:53:09Z</updated>
+  <link href="./book_44.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Snow Crash" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../../Neal%20Stephenson/Snow%20Crash%20%2844%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Neal%20Stephenson/Snow%20Crash%20%2844%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Neal%20Stephenson/Snow%20Crash%20%2844%29/Snow%20Crash%20-%20Neal%20Stephenson.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="877 KB" />
+  <author>
+    <name>Neal Stephenson</name>
+    <uri>../author_0/author_38_Page_1.xml</uri>
+  </author>
+  <published>2000-05-01T10:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Spectra</dcterms:publisher>
+  <category term="Science Fiction" />
+  <category term="Fiction" />
+  <category term="General" />
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Science Fiction, Fiction, General, Lang:en
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>
+        One of
+        <em>Time</em>
+        magazine's 100 all-time best English-language
+      novels.
+      </p>
+      <p>
+        Only once in a great while does a writer come along who
+      defies comparison—a writer so original he redefines the
+      way we look at the world. Neal Stephenson is such a writer
+      and
+        <strong>Snow Crash</strong>
+        is such a novel, weaving virtual
+      reality, Sumerian myth, and just about everything in between
+      with a cool, hip cybersensibility to bring us the
+      gigathriller of the information age.
+        <br />
+        <strong>
+          <br />
+        </strong>
+        In reality, Hiro Protagonist delivers pizza for
+      Uncle Enzo’s CosoNostra Pizza Inc., but in the
+      Metaverse he’s a warrior prince. Plunging headlong into
+      the enigma of a new computer virus that’s striking down
+      hackers everywhere, he races along the neon-lit streets on a
+      search-and-destroy mission for the shadowy virtual villain
+      threatening to bring about infocalypse.
+        <strong>Snow Crash</strong>
+        is a mind-altering romp through a
+      future America so bizarre, so outrageous…you’ll
+      recognize it immediately.
+      </p>
+      <p>**</p>
+    </div>
+  </content>
+  <link href="../author_0/author_38_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Neal Stephenson" />
+  <link href="http://www.goodreads.com/book/title/Snow%20Crash" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Snow%20Crash" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Snow%20Crash%20Neal%20Stephenson" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Snow%20Crash&amp;field-author=Neal%20Stephenson" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Neal%20Stephenson" type="text/html" rel="related" title="Neal Stephenson on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Neal%20Stephenson" type="text/html" rel="related" title="Neal Stephenson on Wikipedia" />
+  <link href="http://www.librarything.com/author/StephensonNeal" type="text/html" rel="related" title="Neal Stephenson on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Neal%20Stephenson" type="text/html" rel="related" title="Neal Stephenson on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Neal%20Stephenson" type="text/html" rel="related" title="Neal Stephenson on ISFDB" />
+</entry>

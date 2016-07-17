@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Luigi Carletti</title>
+  <id>Calibre2opds:author:31</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_31_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Luigi Carletti" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <entry>
+    <title>Supernotes</title>
+    <id>calibre:book:37</id>
+    <updated>2016-07-17T05:53:07Z</updated>
+    <link href="../../Agente%20Kasper/Supernotes%20%2837%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Agente%20Kasper/Supernotes%20%2837%29/Supernotes%20-%20Agente%20Kasper.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Agente Kasper</name>
+      <uri>../author_0/author_30_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Luigi Carletti</name>
+      <uri>../author_0/author_31_Page_1.xml</uri>
+    </author>
+    <published>2014-03-21T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="Political Science" />
+    <category term="General" />
+    <category term="International Relations" />
+    <category term="Lang:it" />
+    <summary>«L'inferno esiste e io ci sono stato.» Sono queste le parole con cui l'Agente Kasper, un ex carabiniere divenuto agente dei sevizi segreti e poi del ROS, comincia a raccontare la sua vicenda a Luigi Carletti. Il caso dell'Agente Kasper è stato copert...</summary>
+    <link href="../book_0/book_37.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

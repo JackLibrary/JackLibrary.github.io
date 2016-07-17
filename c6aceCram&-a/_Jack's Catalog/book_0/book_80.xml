@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Per sempre</title>
+  <id>urn:book:03648e92-faa5-456d-a729-14b5b8937b10</id>
+  <updated>2016-07-17T05:53:20Z</updated>
+  <link href="./book_80.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Per sempre" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with P" />
+  <link href="../../Piergiorgio%20Pulixi/Per%20sempre%20%2880%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Piergiorgio%20Pulixi/Per%20sempre%20%2880%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Piergiorgio%20Pulixi/Per%20sempre%20%2880%29/Per%20sempre%20-%20Piergiorgio%20Pulixi.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+  <author>
+    <name>Piergiorgio Pulixi</name>
+    <uri>../author_0/author_20_Page_1.xml</uri>
+  </author>
+  <published>2015-10-21T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Edizioni e/o</dcterms:publisher>
+  <category term="Italian" />
+  <category term="Thriller &amp; Mystery" />
+  <category term="Thriller &amp; Suspense" />
+  <category term="Mystery" />
+  <category term="Foreign Language Fiction" />
+  <category term="Foreign Languages" />
+  <category term="Literature &amp; Fiction" />
+  <category term="Crime" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Italian, Thriller &amp; Mystery, Thriller &amp; Suspense, Mystery, Foreign Language Fiction, Foreign Languages, Literature &amp; Fiction, Crime, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>
+        La paura è più forte dell’amore e
+      l’ispettore Mazzeo l’ha vissuto sulla sua pelle.
+        <br />
+        Per la prima volta il poliziotto è tentato di
+      lasciarsi tutto alle spalle e ricominciare da zero con Nicky,
+      la ragazzina che gli è stata affidata. I suoi nemici non
+      sono dello stesso parere e lottare per la sopravvivenza
+      sarà di nuovo l'unica opzione possibile.
+        <br />
+        Mazzeo, combattuto tra il desiderio di essere un capo
+      freddo e temuto come Ivankov, il mafioso ceceno da cui è
+      ossessionato, e l’amore fraterno per i suoi uomini,
+      dovrà decidere una volta per tutte chi essere e da che
+      parte stare, e scegliere tra l'amore per la sua
+      “famiglia” e il potere.
+        <br />
+        In un finale che cambierà per sempre il suo
+      destino, Mazzeo scoprirà che la vendetta non è
+      un'arte ma una scienza.
+      </p>
+      <p>**</p>
+    </div>
+  </content>
+  <link href="../author_0/author_20_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Piergiorgio Pulixi" />
+  <link href="http://www.goodreads.com/book/title/Per%20sempre" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Per%20sempre" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Per%20sempre%20Piergiorgio%20Pulixi" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Per%20sempre&amp;field-author=Piergiorgio%20Pulixi" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Piergiorgio%20Pulixi" type="text/html" rel="related" title="Piergiorgio Pulixi on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Piergiorgio%20Pulixi" type="text/html" rel="related" title="Piergiorgio Pulixi on Wikipedia" />
+  <link href="http://www.librarything.com/author/PulixiPiergiorgio" type="text/html" rel="related" title="Piergiorgio Pulixi on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Piergiorgio%20Pulixi" type="text/html" rel="related" title="Piergiorgio Pulixi on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Piergiorgio%20Pulixi" type="text/html" rel="related" title="Piergiorgio Pulixi on ISFDB" />
+</entry>

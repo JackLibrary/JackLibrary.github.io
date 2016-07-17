@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Urban Fantasy</title>
+  <id>Calibre2opds:taglist:U:135</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tag_135_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Urban Fantasy" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_U_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with U" />
+  <entry>
+    <title>Apocalypse Now Now</title>
+    <id>calibre:book:266</id>
+    <updated>2016-07-17T05:54:14Z</updated>
+    <link href="../../Charlie%20Human/Apocalypse%20Now%20Now%20%28266%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Charlie%20Human/Apocalypse%20Now%20Now%20%28266%29/Apocalypse%20Now%20Now%20-%20Charlie%20Human.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="686 KB" />
+    <author>
+      <name>Charlie Human</name>
+      <uri>../author_0/author_168_Page_1.xml</uri>
+    </author>
+    <published>2015-01-31T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Gargoyle</dcterms:publisher>
+    <category term="Urban Fantasy" />
+    <category term="Lang:it" />
+    <summary>Baxter Zevcenko non è proprio un comune liceale: certo, è imbevuto di cultura pop come gli altri, ma lui è a capo di una gang clandestina che vende materiale pornografico nel cortile della scuola ed è assillato da inquietanti visioni di inaudita viol...</summary>
+    <link href="../book_0/book_266.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Gli illuminati</title>
+  <id>urn:book:df6c71b8-a0c5-4344-be5f-2dbcea6a4f9f</id>
+  <updated>2016-07-17T05:53:49Z</updated>
+  <link href="./book_175.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Gli illuminati" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with B" />
+  <link href="../../Antoine%20Bello/Gli%20illuminati%20%28175%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Antoine%20Bello/Gli%20illuminati%20%28175%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Antoine%20Bello/Gli%20illuminati%20%28175%29/Gli%20illuminati%20-%20Antoine%20Bello.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="565 KB" />
+  <author>
+    <name>Antoine Bello</name>
+    <uri>../author_0/author_122_Page_1.xml</uri>
+  </author>
+  <published>2014-10-09T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Fazi Editore</dcterms:publisher>
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">Gli Illuminati, sequel de I
+    falsificatori, vincitore nel 2009 del Prix du Livre France
+    Culture Télérama, mescola narrazione paranoica, opera
+    d'avventura, di spionaggio e di attualità insieme
+    attraverso la storia di un'organizzazione segreta
+    internazionale, il CFR (Consorzio per la Falsificazione della
+    Realtà), che da tempo immemore, senza che nessuno ne abbia
+    mai sospettato l'esistenza, reinventa il reale per fini e
+    moventi ignoti ai suoi stessi membri. Dietro la riflessione
+    sull'informazione e la rappresentazione del mondo, Bello mostra
+    l'ombra di uno scrittore-demiurgo che ci conduce dove vuole,
+    qualunque sia lo scenario descritto. «Lontano
+    dall'impantanarsi nelle teorie del complotto, Antoine Bello ci
+    offre una delle analisi più mature e meglio documentate
+    sulla deriva americana. Magistrale». Lire E' la storia di
+    Sliv, agente speciale del CFR (Consorzio per la Falsificazione
+    della Realtà) che ora, e soltanto ora, arriverà a
+    capire chi tira le fila dell'organizzazione per la quale
+    lavora. E' la storia di un capillare, antichissimo complotto
+    internazionale che da secoli tenta d'influenzare la Storia e
+    che, l'11 settembre 2001, vede il proprio potere messo in
+    discussione. E' la storia di Youssef, diviso tra quanto gli
+    imporrebbe il suo credo religioso e la fedeltà agli amici
+    di sempre; di Maga, pericolosamente in bilico tra la propria
+    integrità morale e le tentazioni dell'integralismo; di
+    Lena, la cui rivalità professionale nei confronti di Sliv
+    nasconde forse un sentimento d'altra natura. E' la storia di
+    una grande nazione, l'America, che tradirà i suoi valori
+    quando il mondo ne avrà maggiormente bisogno. E', per
+    molti versi, la storia del secolo appena iniziato, delle sue
+    contraddizioni, della sua nascente, tormentata
+    identità.</p>
+  </content>
+  <link href="../author_0/author_122_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Antoine Bello" />
+  <link href="http://www.goodreads.com/book/title/Gli%20illuminati" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Gli%20illuminati" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Gli%20illuminati%20Antoine%20Bello" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Gli%20illuminati&amp;field-author=Antoine%20Bello" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Antoine%20Bello" type="text/html" rel="related" title="Antoine Bello on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Antoine%20Bello" type="text/html" rel="related" title="Antoine Bello on Wikipedia" />
+  <link href="http://www.librarything.com/author/BelloAntoine" type="text/html" rel="related" title="Antoine Bello on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Antoine%20Bello" type="text/html" rel="related" title="Antoine Bello on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Antoine%20Bello" type="text/html" rel="related" title="Antoine Bello on ISFDB" />
+</entry>

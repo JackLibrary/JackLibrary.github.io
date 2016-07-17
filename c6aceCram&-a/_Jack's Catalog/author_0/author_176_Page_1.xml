@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Riccardo Gazzaniga</title>
+  <id>Calibre2opds:author:176</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_176_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Riccardo Gazzaniga" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <entry>
+    <title>A viso coperto</title>
+    <id>calibre:book:279</id>
+    <updated>2016-07-17T05:54:18Z</updated>
+    <link href="../../Riccardo%20Gazzaniga/A%20viso%20coperto%20%28279%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Riccardo%20Gazzaniga/A%20viso%20coperto%20%28279%29/A%20viso%20coperto%20-%20Riccardo%20Gazzaniga.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+    <author>
+      <name>Riccardo Gazzaniga</name>
+      <uri>../author_0/author_176_Page_1.xml</uri>
+    </author>
+    <published>2013-03-26T06:44:54Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Giulio Einaudi Editore</dcterms:publisher>
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>Leggi un estratto *** Due schieramenti nemici si sfidano ogni settimana su un terreno di rabbia e violenza: sono gli ultrà e i celerini. A Genova un gruppo di tifosi sceglie di non accettare imposizioni e ingaggia uno scontro frontale con la polizia....</summary>
+    <link href="../book_0/book_279.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

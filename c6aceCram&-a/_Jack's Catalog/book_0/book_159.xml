@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>La Crisi della Realtà Volume 1 - Emergenza!</title>
+  <id>urn:book:22e0ad46-02a5-436d-9ff0-5b94a62965c4</id>
+  <updated>2016-07-17T05:53:44Z</updated>
+  <link href="./book_159.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La Crisi della Realtà Volume 1 - Emergenza!" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with H" />
+  <link href="../../Peter%20F.%20Hamilton/La%20Crisi%20della%20Realta%20Volume%201%20-%20Em%20%28159%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Peter%20F.%20Hamilton/La%20Crisi%20della%20Realta%20Volume%201%20-%20Em%20%28159%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Peter%20F.%20Hamilton/La%20Crisi%20della%20Realta%20Volume%201%20-%20Em%20%28159%29/La%20Crisi%20della%20Realta%20Volume%201%20-%20Peter%20F.%20Hamilton.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="525 KB" />
+  <author>
+    <name>Peter F. Hamilton</name>
+    <uri>../author_0/author_103_Page_1.xml</uri>
+  </author>
+  <published>2011-06-11T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:it
+    </p>
+  </content>
+  <link href="../author_0/author_103_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Peter F. Hamilton" />
+  <link href="http://www.goodreads.com/book/title/La%20Crisi%20della%20Realt%C3%A0%20Volume%201%20-%20Emergenza%21" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/La%20Crisi%20della%20Realt%C3%A0%20Volume%201%20-%20Emergenza%21" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/La%20Crisi%20della%20Realt%C3%A0%20Volume%201%20-%20Emergenza%21%20Peter%20F.%20Hamilton" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=La%20Crisi%20della%20Realt%C3%A0%20Volume%201%20-%20Emergenza%21&amp;field-author=Peter%20F.%20Hamilton" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Peter%20F.%20Hamilton" type="text/html" rel="related" title="Peter F. Hamilton on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Peter%20F.%20Hamilton" type="text/html" rel="related" title="Peter F. Hamilton on Wikipedia" />
+  <link href="http://www.librarything.com/author/HamiltonPeterF." type="text/html" rel="related" title="Peter F. Hamilton on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Peter%20F.%20Hamilton" type="text/html" rel="related" title="Peter F. Hamilton on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Peter%20F.%20Hamilton" type="text/html" rel="related" title="Peter F. Hamilton on ISFDB" />
+</entry>

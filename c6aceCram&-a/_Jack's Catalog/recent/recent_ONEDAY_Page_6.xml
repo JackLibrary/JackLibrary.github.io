@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Jul 17, 2016</title>
+  <id>Calibre2opds:recent:ONEDAY</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./recent_ONEDAY_Page_6.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Jul 17, 2016" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
+  <link href="../recent/recent_ONEDAY_Page_7.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (7 of 12)" />
+  <entry>
+    <title>La crociata dei bambini. [July 17, 2016]</title>
+    <id>calibre:book:154</id>
+    <updated>2016-07-17T05:53:43Z</updated>
+    <link href="../../Tullio%20Avoledo/La%20crociata%20dei%20bambini_%20%28154%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Tullio%20Avoledo/La%20crociata%20dei%20bambini_%20%28154%29/La%20crociata%20dei%20bambini_%20-%20Tullio%20Avoledo.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="632 KB" />
+    <author>
+      <name>Tullio Avoledo</name>
+      <uri>../author_0/author_110_Page_1.xml</uri>
+    </author>
+    <published>2014-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="370" />
+    <category term="Science Fiction" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Tra Iliade metropolitana e Odissea distopica, è un viaggio che dalle gallerie della metro non tarda a scivolare negli abissi della mente. John Daniels, il sacerdote già protagonista de "Le radici del cielo", dovrà cercare, fra le comunità che popolan...</summary>
+    <link href="../book_0/book_154.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La dinastia del male [July 17, 2016]</title>
+    <id>calibre:book:155</id>
+    <updated>2016-07-17T05:53:43Z</updated>
+    <link href="../../Drew%20Karpyshyn/La%20dinastia%20del%20male%20%28155%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Drew%20Karpyshyn/La%20dinastia%20del%20male%20%28155%29/La%20dinastia%20del%20male%20-%20Drew%20Karpyshyn.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Drew Karpyshyn</name>
+      <uri>../author_0/author_33_Page_1.xml</uri>
+    </author>
+    <published>2013-06-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Fantascienza" />
+    <category term="Science Fiction" />
+    <category term="Star Wars" />
+    <category term="Lang:it" />
+    <summary>Sono trascorsi vent'anni da quando Darth Bane, Signore Oscuro regnante dei Sith, ha distrutto l'antico ordine e lo ha ricreato composto da due persone: un Maestro che detiene il potere e tramanda il sapere, e un apprendista che impara per sfidare e u...</summary>
+    <link href="../book_0/book_155.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La Crisi della Realtà Volume 4 - Contrattacco [July 17, 2016]</title>
+    <id>calibre:book:156</id>
+    <updated>2016-07-17T05:53:44Z</updated>
+    <link href="../../Peter%20F.%20Hamilton/La%20Crisi%20della%20Realta%20Volume%204%20-%20Co%20%28156%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Peter%20F.%20Hamilton/La%20Crisi%20della%20Realta%20Volume%204%20-%20Co%20%28156%29/La%20Crisi%20della%20Realta%20Volume%204%20-%20Peter%20F.%20Hamilton.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="434 KB" />
+    <author>
+      <name>Peter F. Hamilton</name>
+      <uri>../author_0/author_103_Page_1.xml</uri>
+    </author>
+    <published>2011-06-23T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <link href="../book_0/book_156.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La Mezza Guerra [July 17, 2016]</title>
+    <id>calibre:book:152</id>
+    <updated>2016-07-17T05:53:42Z</updated>
+    <link href="../../Joe%20Abercrombie/La%20Mezza%20Guerra%20%28152%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Joe%20Abercrombie/La%20Mezza%20Guerra%20%28152%29/La%20Mezza%20Guerra%20-%20Joe%20Abercrombie.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Joe Abercrombie</name>
+      <uri>../author_0/author_51_Page_1.xml</uri>
+    </author>
+    <published>2015-09-07T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Fantasy" />
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Lang:it" />
+    <summary>L'ora dello scontro finale è arrivata. Il Gran Re e Gran Madre Wexen hanno giurato vendetta, più feroci che mai. Sono stati traditi dal possente Grom-gil-Gorm, lo Spezza-spade, il Creatore di Orfani, il re che non può essere ucciso da nessun uomo, ch...</summary>
+    <link href="../book_0/book_152.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La quinta onda [July 17, 2016]</title>
+    <id>calibre:book:153</id>
+    <updated>2016-07-17T05:53:43Z</updated>
+    <link href="../../Rick%20Yancey/La%20quinta%20onda%20%28153%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Rick%20Yancey/La%20quinta%20onda%20%28153%29/La%20quinta%20onda%20-%20Rick%20Yancey.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Rick Yancey</name>
+      <uri>../author_0/author_108_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Elisabetta Spediacci</name>
+      <uri>../author_0/author_109_Page_1.xml</uri>
+    </author>
+    <published>2014-03-17T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Fantasy" />
+    <category term="Foreign Language Fiction" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Italian" />
+    <category term="Lang:it" />
+    <summary>Di notte, Cassie non può più guardare il cielo stellato con gli stessi occhi di prima; ora sa che loro arrivano da lì, da quegli astri luminosi e distanti, e arrivano per distruggere il suo mondo. Cassie è tra gli ultimi superstiti, sola, in fuga da ...</summary>
+    <link href="../book_0/book_153.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La regola dei due [July 17, 2016]</title>
+    <id>calibre:book:149</id>
+    <updated>2016-07-17T05:53:41Z</updated>
+    <link href="../../Drew%20Karpyshyn/La%20regola%20dei%20due%20%28149%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Drew%20Karpyshyn/La%20regola%20dei%20due%20%28149%29/La%20regola%20dei%20due%20-%20Drew%20Karpyshyn.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Drew Karpyshyn</name>
+      <uri>../author_0/author_33_Page_1.xml</uri>
+    </author>
+    <published>2013-06-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="Fantascienza" />
+    <category term="Star Wars" />
+    <category term="Science Fiction" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>"Sempre due: né più, né meno. Uno racchiude il potere, l'altro lo brama." Ora Darth Bane è pronto a mettere in atto la sua Regola, e crede di aver trovato l'elemento chiave che completerà il suo trionfo: un allievo da addestrare al Lato Oscuro. Bench...</summary>
+    <link href="../book_0/book_149.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La sfera del buio [July 17, 2016]</title>
+    <id>calibre:book:150</id>
+    <updated>2016-07-17T05:53:41Z</updated>
+    <link href="../../Stephen%20King/La%20sfera%20del%20buio%20%28150%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/La%20sfera%20del%20buio%20%28150%29/La%20sfera%20del%20buio%20-%20Stephen%20King.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2015-05-11T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Sperling &amp; Kupfer</dcterms:publisher>
+    <category term="Contemporary Fiction" />
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>Nel quarto romanzo del ciclo de La Torre Nera ritroviamo Roland di Gilead, Eddie, Susannah e Jake intrappolati in una carrozza di Blaine il Mono, il treno teleguidato dalla stessa intelligenza malefica che ha sterminato la cittadina di Lud.L'ultimo c...</summary>
+    <link href="../book_0/book_150.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La lunga oscura pausa caffé dell'anima [July 17, 2016]</title>
+    <id>calibre:book:151</id>
+    <updated>2016-07-17T05:53:42Z</updated>
+    <link href="../../Douglas%20Adams/La%20lunga%20oscura%20pausa%20caffe%20dell%27an%20%28151%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Douglas%20Adams/La%20lunga%20oscura%20pausa%20caffe%20dell%27an%20%28151%29/La%20lunga%20oscura%20pausa%20caffe%20del%20-%20Douglas%20Adams.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="424 KB" />
+    <author>
+      <name>Douglas Adams</name>
+      <uri>../author_0/author_101_Page_1.xml</uri>
+    </author>
+    <published>2011-01-26T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>Dirk Gently, “detective olistico”, si trova invischiato in un pericoloso intrigointernazionale. Tutto inizia all’aeroporto londinese di Heathrow con un misterioso personaggio che tenta di imbarcarsi sul volo delle 15.37 per Oslo. Chi è? E cos’ha a ch...</summary>
+    <link href="../book_0/book_151.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La rifondazione di Dune [July 17, 2016]</title>
+    <id>calibre:book:147</id>
+    <updated>2016-07-17T05:53:40Z</updated>
+    <link href="../../Frank%20Herbert/La%20rifondazione%20di%20Dune%20%28147%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Frank%20Herbert/La%20rifondazione%20di%20Dune%20%28147%29/La%20rifondazione%20di%20Dune%20-%20Frank%20Herbert.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Frank Herbert</name>
+      <uri>../author_0/author_100_Page_1.xml</uri>
+    </author>
+    <published>1985-12-31T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Nord</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:it" />
+    <summary>Dopo gli eventi descritti nel quinto volume della saga di Dune, (Gli 
+eretici di Dune), il vecchio ordine galattico è in pieno sfacelo: il 
+Sentiero Dorato stabilito dall'imperatore-dio Leto II ha condotto 
+all'Armageddon. Il pianeta Dune è stato dis...</summary>
+    <link href="../book_0/book_147.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La Torre Nera [July 17, 2016]</title>
+    <id>calibre:book:148</id>
+    <updated>2016-07-17T05:53:40Z</updated>
+    <link href="../../Stephen%20King/La%20Torre%20Nera%20%28148%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/La%20Torre%20Nera%20%28148%29/La%20Torre%20Nera%20-%20Stephen%20King.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2015-05-11T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Sperling &amp; Kupfer</dcterms:publisher>
+    <category term="Foreign Languages" />
+    <category term="Contemporary Fiction" />
+    <category term="Foreign Language Fiction" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Italian" />
+    <category term="Lang:it" />
+    <summary>Si conclude con questo volume la saga de *La Torre Nera*: Roland di Gilead, il pistolero, con i compagni che ha raccolto attorno a sé durante il viaggio, è di fronte al suo destino. Il gruppetto è sano e salvo, sebbene sparso per ogni dove (e ogni qu...</summary>
+    <link href="../book_0/book_148.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'altro universo [July 17, 2016]</title>
+    <id>calibre:book:144</id>
+    <updated>2016-07-17T05:53:39Z</updated>
+    <link href="../../Iain%20M.%20Banks/L%27altro%20universo%20%28144%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Iain%20M.%20Banks/L%27altro%20universo%20%28144%29/L%27altro%20universo%20-%20Iain%20M.%20Banks.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Iain M. Banks</name>
+      <uri>../author_0/author_106_Page_1.xml</uri>
+    </author>
+    <published>2004-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Nord</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Più di due millenni orsono, uno strano oggetto apparve in un remoto angolo dello spazio, nei pressi di un sole morente. Una sfera perfetta, nera, assolutamente inerte, forse proveniente da un'altra dimensione o un altro universo. Poi all'improvviso s...</summary>
+    <link href="../book_0/book_144.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La trilogia di Bartimeus [July 17, 2016]</title>
+    <id>calibre:book:145</id>
+    <updated>2016-07-17T05:53:39Z</updated>
+    <link href="../../Jonathan%20Stroud/La%20trilogia%20di%20Bartimeus%20%28145%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jonathan%20Stroud/La%20trilogia%20di%20Bartimeus%20%28145%29/La%20trilogia%20di%20Bartimeus%20-%20Jonathan%20Stroud.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+    <author>
+      <name>Jonathan Stroud</name>
+      <uri>../author_0/author_107_Page_1.xml</uri>
+    </author>
+    <published>2012-10-15T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Salani Editore</dcterms:publisher>
+    <category term="ebook" />
+    <category term="Lang:it" />
+    <link href="../book_0/book_145.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La via dei Re [July 17, 2016]</title>
+    <id>calibre:book:146</id>
+    <updated>2016-07-17T05:53:40Z</updated>
+    <link href="../../Brandon%20Sanderson/La%20via%20dei%20Re%20%28146%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brandon%20Sanderson/La%20via%20dei%20Re%20%28146%29/La%20via%20dei%20Re%20-%20Brandon%20Sanderson.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="5 MB" />
+    <author>
+      <name>Brandon Sanderson</name>
+      <uri>../author_0/author_32_Page_1.xml</uri>
+    </author>
+    <published>2013-12-22T05:08:53Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <summary>Rimpiango i giorni precedenti all'Ultima Desolazione. L'epoca prima che gli Araldi ci abbandonassero e i Cavalieri Radiosi si rivoltassero contro di noi. Un tempo in cui c'era ancora la magia nel mondo e l'onore nel cuore degli uomini. Il mondo diven...</summary>
+    <link href="../book_0/book_146.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'Alchimista delle Stelle Volume 3 - Collasso [July 17, 2016]</title>
+    <id>calibre:book:140</id>
+    <updated>2016-07-17T05:53:38Z</updated>
+    <link href="../../Peter%20F.%20Hamilton/L%27Alchimista%20delle%20Stelle%20Volume%203%20%28140%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Peter%20F.%20Hamilton/L%27Alchimista%20delle%20Stelle%20Volume%203%20%28140%29/L%27Alchimista%20delle%20Stelle%20Volum%20-%20Peter%20F.%20Hamilton.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="456 KB" />
+    <author>
+      <name>Peter F. Hamilton</name>
+      <uri>../author_0/author_103_Page_1.xml</uri>
+    </author>
+    <published>2011-07-29T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <link href="../book_0/book_140.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'Alchimista delle Stelle Volume 2 - Il Nemico [July 17, 2016]</title>
+    <id>calibre:book:141</id>
+    <updated>2016-07-17T05:53:38Z</updated>
+    <link href="../../Peter%20F.%20Hamilton/L%27Alchimista%20delle%20Stelle%20Volume%202%20%28141%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Peter%20F.%20Hamilton/L%27Alchimista%20delle%20Stelle%20Volume%202%20%28141%29/L%27Alchimista%20delle%20Stelle%20Volum%20-%20Peter%20F.%20Hamilton.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="501 KB" />
+    <author>
+      <name>Peter F. Hamilton</name>
+      <uri>../author_0/author_103_Page_1.xml</uri>
+    </author>
+    <published>2011-07-09T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <link href="../book_0/book_141.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'Alchimista delle Stelle Volume 1 - I Morti contro i Vivi [July 17, 2016]</title>
+    <id>calibre:book:142</id>
+    <updated>2016-07-17T05:53:38Z</updated>
+    <link href="../../Peter%20F.%20Hamilton/L%27Alchimista%20delle%20Stelle%20Volume%201%20%28142%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Peter%20F.%20Hamilton/L%27Alchimista%20delle%20Stelle%20Volume%201%20%28142%29/L%27Alchimista%20delle%20Stelle%20Volum%20-%20Peter%20F.%20Hamilton.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="463 KB" />
+    <author>
+      <name>Peter F. Hamilton</name>
+      <uri>../author_0/author_103_Page_1.xml</uri>
+    </author>
+    <published>2011-07-09T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <link href="../book_0/book_142.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Labirinto blu [July 17, 2016]</title>
+    <id>calibre:book:143</id>
+    <updated>2016-07-17T05:53:39Z</updated>
+    <link href="../../Douglas%20Preston/Labirinto%20blu%20%28143%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Douglas%20Preston/Labirinto%20blu%20%28143%29/Labirinto%20blu%20-%20Douglas%20Preston.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Douglas Preston</name>
+      <uri>../author_0/author_104_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Lincoln Child</name>
+      <uri>../author_0/author_105_Page_1.xml</uri>
+    </author>
+    <published>2015-04-30T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Rizzoli</dcterms:publisher>
+    <category term="Thriller" />
+    <category term="Lang:it" />
+    <summary>La sera in cui trova il cadavere del figlio sulla soglia di casa, l’agente dell’FBI Aloysius Pendergast non ha idea di chi possa celarsi dietro quell’omicidio. Sa soltanto che il messaggio è diretto senza dubbio a lui. Per cercare il suo nemico, Pend...</summary>
+    <link href="../book_0/book_143.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le mie due vite [July 17, 2016]</title>
+    <id>calibre:book:137</id>
+    <updated>2016-07-17T05:53:37Z</updated>
+    <link href="../../Jo%20Walton/Le%20mie%20due%20vite%20%28137%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jo%20Walton/Le%20mie%20due%20vite%20%28137%29/Le%20mie%20due%20vite%20-%20Jo%20Walton.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="744 KB" />
+    <author>
+      <name>Jo Walton</name>
+      <uri>../author_0/author_24_Page_1.xml</uri>
+    </author>
+    <published>2014-10-01T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Gargoyle</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Lang:it" />
+    <summary>Patricia ha dei ricordi molto confusi del suo passato. Le immagini dell’adolescenza sono nitide e intatte, ma dopo cosa è successo?
+Ha sposato Mark ed è stata moglie e madre come le sue coetanee, oppure ha scelto di amare liberamente la sua compagna ...</summary>
+    <link href="../book_0/book_137.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'Alchimista delle Stelle Volume 4 - Il Grande Conflitto [July 17, 2016]</title>
+    <id>calibre:book:138</id>
+    <updated>2016-07-17T05:53:37Z</updated>
+    <link href="../../Peter%20F.%20Hamilton/L%27Alchimista%20delle%20Stelle%20Volume%204%20%28138%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Peter%20F.%20Hamilton/L%27Alchimista%20delle%20Stelle%20Volume%204%20%28138%29/L%27Alchimista%20delle%20Stelle%20Volum%20-%20Peter%20F.%20Hamilton.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="444 KB" />
+    <author>
+      <name>Peter F. Hamilton</name>
+      <uri>../author_0/author_103_Page_1.xml</uri>
+    </author>
+    <published>2011-07-29T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <link href="../book_0/book_138.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le brigate fantasma [July 17, 2016]</title>
+    <id>calibre:book:139</id>
+    <updated>2016-07-17T05:53:38Z</updated>
+    <link href="../../John%20Scalzi/Le%20brigate%20fantasma%20%28139%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../John%20Scalzi/Le%20brigate%20fantasma%20%28139%29/Le%20brigate%20fantasma%20-%20John%20Scalzi.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="739 KB" />
+    <author>
+      <name>John Scalzi</name>
+      <uri>../author_0/author_18_Page_1.xml</uri>
+    </author>
+    <published>2012-06-10T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Gargoyle</dcterms:publisher>
+    <category term="Fantascienza" />
+    <category term="Lang:it" />
+    <summary>Le Brigate Fantasma: un gruppo di soldati superumani, forti, agili e amorali. Tre razze aliene alleatesi per annientare l’umanità. Charles Boutin: uno scienziato che collabora col nemico per tradire la sua stessa specie. Quando le Brigate Fantasma ap...</summary>
+    <link href="../book_0/book_139.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'imperatore-dio di Dune [July 17, 2016]</title>
+    <id>calibre:book:133</id>
+    <updated>2016-07-17T05:53:36Z</updated>
+    <link href="../../Frank%20Herbert/L%27imperatore-dio%20di%20Dune%20%28133%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Frank%20Herbert/L%27imperatore-dio%20di%20Dune%20%28133%29/L%27imperatore-dio%20di%20Dune%20-%20Frank%20Herbert.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="623 KB" />
+    <author>
+      <name>Frank Herbert</name>
+      <uri>../author_0/author_100_Page_1.xml</uri>
+    </author>
+    <published>2011-12-03T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Editrice Nord</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>Tremilacinquecento anni sono trascorsi da quando le visioni profetiche avevano spinto Leto II nel deserto, verso il destino che suo padre Paul Atreides aveva rifiutato: indossare la pelle di trota delle sabbie per ottenere il dominio su tutto l'unive...</summary>
+    <link href="../book_0/book_133.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'investigatore olistico Dirk Gently [July 17, 2016]</title>
+    <id>calibre:book:134</id>
+    <updated>2016-07-17T05:53:36Z</updated>
+    <link href="../../Douglas%20Adams/L%27investigatore%20olistico%20Dirk%20Gentl%20%28134%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Douglas%20Adams/L%27investigatore%20olistico%20Dirk%20Gentl%20%28134%29/L%27investigatore%20olistico%20Dirk%20G%20-%20Douglas%20Adams.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="400 KB" />
+    <author>
+      <name>Douglas Adams</name>
+      <uri>../author_0/author_101_Page_1.xml</uri>
+    </author>
+    <published>1995-12-31T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Feltrinelli</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>Dirk Gently è il titolare, perennemente al verde, dell'agenzia di 
+investigazione olistica che dà il titolo al romanzo. Fermamente convinto
+ dell'esistenza di una "fondamentale interconnessione di tutte le cose",
+ è specializzato in casi di gatti sco...</summary>
+    <link href="../book_0/book_134.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'erede dell'impero. La trilogia di Thrawn Vol. 1 [July 17, 2016]</title>
+    <id>calibre:book:135</id>
+    <updated>2016-07-17T05:53:36Z</updated>
+    <link href="../../Timothy%20Zahn/L%27erede%20dell%27impero.%20La%20trilogia%20di%20%28135%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Timothy%20Zahn/L%27erede%20dell%27impero.%20La%20trilogia%20di%20%28135%29/L%27erede%20dell%27impero.%20La%20trilogi%20-%20Timothy%20Zahn.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="596 KB" />
+    <author>
+      <name>Timothy Zahn</name>
+      <uri>../author_0/author_13_Page_1.xml</uri>
+    </author>
+    <published>2014-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Science Fiction" />
+    <category term="Lang:it" />
+    <summary>L'erede dell'impero segue le avventure di Luke Skywalker, Han Solo e della Principessa Leia dopo che questi hanno condotto l'Alleanza Ribelle alla vittoria in Star Wars Episodio VI: Il ritorno dello Jedi. All'interno potrete trovare l'introduzione e ...</summary>
+    <link href="../book_0/book_135.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il libro che i servizi segreti italiani non ti farebbero mai leggere [July 17, 2016]</title>
+    <id>calibre:book:136</id>
+    <updated>2016-07-17T05:53:37Z</updated>
+    <link href="../../Gianni%20Flamini/Il%20libro%20che%20i%20servizi%20segreti%20ital%20%28136%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gianni%20Flamini/Il%20libro%20che%20i%20servizi%20segreti%20ital%20%28136%29/Il%20libro%20che%20i%20servizi%20segreti%20-%20Gianni%20Flamini.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Gianni Flamini</name>
+      <uri>../author_0/author_102_Page_1.xml</uri>
+    </author>
+    <published>2013-05-29T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Newton Compton Editori</dcterms:publisher>
+    <category term="Europe" />
+    <category term="Italian" />
+    <category term="Italy" />
+    <category term="Diaries &amp; True Accounts" />
+    <category term="History" />
+    <category term="Biographies" />
+    <category term="Saggistica" />
+    <category term="Biographies &amp; Memoirs" />
+    <category term="True Crime" />
+    <category term="Espionage" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>Spie, misteri irrisolti e spari nel buio  
+Equivoci e oscuri accordi tra politica, economia e ambienti religiosi, ambigui compromessi, schedature illegali: i servizi segreti italiani sono stati anche questo, dal dopoguerra fino ai giorni nostri. Fosc...</summary>
+    <link href="../book_0/book_136.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Lo specchio di Dio [July 17, 2016]</title>
+    <id>calibre:book:131</id>
+    <updated>2016-07-17T05:53:35Z</updated>
+    <link href="../../Andreas%20Eschbach/Lo%20specchio%20di%20Dio%20%28131%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Andreas%20Eschbach/Lo%20specchio%20di%20Dio%20%28131%29/Lo%20specchio%20di%20Dio%20-%20Andreas%20Eschbach.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Andreas Eschbach</name>
+      <uri>../author_0/author_99_Page_1.xml</uri>
+    </author>
+    <published>2001-12-31T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <summary>Nella necropoli di Bet Hamesh, non lontano da Gerusalemme, l’archeologo Stephen Foxx scopre lo scheletro di un uomo morto duemila anni prima… con accanto il manuale di utilizzo di una videocamera. Lo stupore del ritrovamento si trasforma subito in in...</summary>
+    <link href="../book_0/book_131.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../recent/recent_ONEDAY_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (5 of 12)" />
+  <link href="../recent/recent_ONEDAY_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 12)" />
+  <link href="../recent/recent_ONEDAY_Page_12.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (12 of 12)" />
+</feed>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Matthew Mather</title>
+  <id>Calibre2opds:author:149</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_149_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Matthew Mather" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <entry>
+    <title>Cyberstorm</title>
+    <id>calibre:book:234</id>
+    <updated>2016-07-17T05:54:05Z</updated>
+    <link href="../../Matthew%20Mather/Cyberstorm%20%28234%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Matthew%20Mather/Cyberstorm%20%28234%29/Cyberstorm%20-%20Matthew%20Mather.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="562 KB" />
+    <author>
+      <name>Matthew Mather</name>
+      <uri>../author_0/author_149_Page_1.xml</uri>
+    </author>
+    <published>2014-08-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Suspense" />
+    <category term="Thrillers" />
+    <category term="Lang:it" />
+    <summary>A Mike Mitchell sembrava già difficile tenere unite la propria famiglia, ma non pensava che si sarebbe ritrovato a lottare per tenerla in vita, quando una serie di inspiegabili catastrofi inizia a dominare i telegiornali di tutto il mondo. Mentre il ...</summary>
+    <link href="../book_0/book_234.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

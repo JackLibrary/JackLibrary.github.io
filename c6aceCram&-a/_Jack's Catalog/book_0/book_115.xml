@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Memento. I sopravvissuti</title>
+  <id>urn:book:9f5bd685-c7e9-413b-8d84-f83aedd374af</id>
+  <updated>2016-07-17T05:53:30Z</updated>
+  <link href="./book_115.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Memento. I sopravvissuti" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with B" />
+  <link href="../../Julianna%20Baggott/Memento.%20I%20sopravvissuti%20%28115%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Julianna%20Baggott/Memento.%20I%20sopravvissuti%20%28115%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Julianna%20Baggott/Memento.%20I%20sopravvissuti%20%28115%29/Memento.%20I%20sopravvissuti%20-%20Julianna%20Baggott.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="608 KB" />
+  <author>
+    <name>Julianna Baggott</name>
+    <uri>../author_0/author_88_Page_1.xml</uri>
+  </author>
+  <published>2011-12-31T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Giano</dcterms:publisher>
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">Un grande boato, il sole che emana la luce e il calore di
+    tre stelle sovrapposte, e il mondo svanisce, spazzato via dal
+    fuoco. È il giorno delle Detonazioni, il giorno in cui
+    l&amp;apos;umanità si divide in due: da un lato i Puri
+    che, rifugiatisi nella Sfera, sono privi di deformazioni o
+    cicatrici sul corpo; dall&amp;apos;altro i Sopravvissuti che,
+    coi loro corpi deformi, fusi con gli oggetti più
+    disparati, si aggirano tra i detriti e le pozzanghere nere di
+    pioggia della terra esplosa. Pressia aveva sette anni quando le
+    Detonazioni le regalarono una bambola al posto di una mano. Ora
+    ha quasi sedici anni e la bambola è divenuta parte di lei.
+    Tuttavia, nel magazzino sul retro di un negozio di barbiere
+    dove vive con suo nonno, Pressia pensa a volte che sarebbe
+    bello essere Puri, cancellare le cicatrici, vivere in quella
+    Sfera da dove qualche settimana dopo le Detonazioni lasciarono
+    cadere sulla terra devastata un messaggio che diceva: "Sappiamo
+    che siete li, fratelli e sorelle. E un giorno emergeremo dalla
+    Sfera per unirci a voi, in pace". Invece Pressia deve ora
+    guardarsi dall&amp;apos;ORS, il cui acronimo significava
+    Operazione Ricerca e Salvataggio, e aveva l&amp;apos;obiettivo
+    di ripristinare le unità mediche, redigere liste dei morti
+    e dei sopravvissuti e poi formare una piccola milizia per
+    mantenere l&amp;apos;ordine. Trasformata in Operazione
+    Rivoluzione Sacra, L&amp;apos;ORS governa infatti col terrore e
+    arruola tutti i sedicenni con lo scopo di abbattere, un giorno,
+    la Sfera.</p>
+  </content>
+  <link href="../author_0/author_88_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Julianna Baggott" />
+  <link href="http://www.goodreads.com/book/title/Memento.%20I%20sopravvissuti" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Memento.%20I%20sopravvissuti" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Memento.%20I%20sopravvissuti%20Julianna%20Baggott" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Memento.%20I%20sopravvissuti&amp;field-author=Julianna%20Baggott" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Julianna%20Baggott" type="text/html" rel="related" title="Julianna Baggott on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Julianna%20Baggott" type="text/html" rel="related" title="Julianna Baggott on Wikipedia" />
+  <link href="http://www.librarything.com/author/BaggottJulianna" type="text/html" rel="related" title="Julianna Baggott on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Julianna%20Baggott" type="text/html" rel="related" title="Julianna Baggott on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Julianna%20Baggott" type="text/html" rel="related" title="Julianna Baggott on ISFDB" />
+</entry>

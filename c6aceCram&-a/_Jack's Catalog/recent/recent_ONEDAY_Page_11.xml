@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Jul 17, 2016</title>
+  <id>Calibre2opds:recent:ONEDAY</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./recent_ONEDAY_Page_11.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Jul 17, 2016" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
+  <link href="../recent/recent_ONEDAY_Page_12.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (12 of 12)" />
+  <entry>
+    <title>Terre Desolate [July 17, 2016]</title>
+    <id>calibre:book:34</id>
+    <updated>2016-07-17T05:53:06Z</updated>
+    <link href="../../Stephen%20King/Terre%20Desolate%20%2834%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/Terre%20Desolate%20%2834%29/Terre%20Desolate%20-%20Stephen%20King.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2003-08-31T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Sperling &amp; Kupfer</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>Roland di Gilead, il Prigioniero e la Signora delle Ombre sono impegnati ad acquisire le doti indispensabili per proseguire la ricerca della Torre Nera. Grazie alla guida tenace ed imperturbabile dell'ultimo cavaliere, Eddie e Susannah, (la nuova don...</summary>
+    <link href="../book_0/book_34.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il trono ombra [July 17, 2016]</title>
+    <id>calibre:book:28</id>
+    <updated>2016-07-17T05:53:04Z</updated>
+    <link href="../../Django%20Wexler/Il%20trono%20ombra%20%2828%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Django%20Wexler/Il%20trono%20ombra%20%2828%29/Il%20trono%20ombra%20-%20Django%20Wexler.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Django Wexler</name>
+      <uri>../author_0/author_25_Page_1.xml</uri>
+    </author>
+    <published>2015-01-14T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+    <category term="General" />
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>Il re di Vordan giace sul letto di morte. Presto sua figlia Raesinia Orboan gli succederà al trono, ma il regno è minacciato da uomini ambiziosi, e povertà e speculazione stanno spingendo la popolazione allo stremo. È questo lo scenario che si presen...</summary>
+    <link href="../book_0/book_28.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il Trono di Spade 4. Il dominio della regina, L'ombra della profezia [July 17, 2016]</title>
+    <id>calibre:book:29</id>
+    <updated>2016-07-17T05:53:04Z</updated>
+    <link href="../../George%20R.%20R.%20Martin/Il%20Trono%20di%20Spade%204.%20Il%20dominio%20dell%20%2829%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../George%20R.%20R.%20Martin/Il%20Trono%20di%20Spade%204.%20Il%20dominio%20dell%20%2829%29/Il%20Trono%20di%20Spade%204.%20Il%20dominio%20-%20George%20R.%20R.%20Martin.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+    <author>
+      <name>George R. R. Martin</name>
+      <uri>../author_0/author_26_Page_1.xml</uri>
+    </author>
+    <published>2014-04-07T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Edizioni Mondadori</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>In spettrali campi di battaglia e tetre fortezze in rovina, fra città tramutate in cimiteri e terre ridotte a ossari, la spaventosa guerra dei cinque re volge ormai al termine. La Casa Lannister e i suoi alleati appaiono vincitori. Eppure, nei Sette ...</summary>
+    <link href="../book_0/book_29.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il Trono di Spade 3. Tempesta di Spade, Fiumi della Guerra, Il Portale delle Tenebre. [July 17, 2016]</title>
+    <id>calibre:book:30</id>
+    <updated>2016-07-17T05:53:04Z</updated>
+    <link href="../../George%20R.%20R.%20Martin/Il%20Trono%20di%20Spade%203.%20Tempesta%20di%20Spa%20%2830%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../George%20R.%20R.%20Martin/Il%20Trono%20di%20Spade%203.%20Tempesta%20di%20Spa%20%2830%29/Il%20Trono%20di%20Spade%203.%20Tempesta%20d%20-%20George%20R.%20R.%20Martin.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="4 MB" />
+    <author>
+      <name>George R. R. Martin</name>
+      <uri>../author_0/author_26_Page_1.xml</uri>
+    </author>
+    <published>2013-10-30T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Edizioni Mondadori</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Dopo la morte di re Renly Baratheon gli avversari che si contendono il Trono di Spade sono ridotti a quattro. Il gioco di alleanze, inganni e tradimenti si fa sempre più spietato, sempre più labirintico, e l'ambizione dei contendenti non ha limite. S...</summary>
+    <link href="../book_0/book_30.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A tuo rischio e pericolo [July 17, 2016]</title>
+    <id>calibre:book:25</id>
+    <updated>2016-07-17T05:53:03Z</updated>
+    <link href="../../Josh%20Bazell/A%20tuo%20rischio%20e%20pericolo%20%2825%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Josh%20Bazell/A%20tuo%20rischio%20e%20pericolo%20%2825%29/A%20tuo%20rischio%20e%20pericolo%20-%20Josh%20Bazell.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Josh Bazell</name>
+      <uri>../author_0/author_14_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Einaudi</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>Il dottor Peter Brown è tornato. Il comico e 
+spiazzante medico-killer affronta di nuovo pazienti e criminali ma, 
+questa volta, soprattutto uno strano mostro omicida che si nasconde 
+nelle acque di un lago. È lí che viene spedito insieme alla paleon...</summary>
+    <link href="../book_0/book_25.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il turista [July 17, 2016]</title>
+    <id>calibre:book:26</id>
+    <updated>2016-07-17T05:53:03Z</updated>
+    <link href="../../Olen%20Steinhauer/Il%20turista%20%2826%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Olen%20Steinhauer/Il%20turista%20%2826%29/Il%20turista%20-%20Olen%20Steinhauer.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="641 KB" />
+    <author>
+      <name>Olen Steinhauer</name>
+      <uri>../author_0/author_23_Page_1.xml</uri>
+    </author>
+    <published>2009-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Giano</dcterms:publisher>
+    <category term="Thrillers" />
+    <category term="Fiction" />
+    <category term="Suspense" />
+    <category term="Lang:it" />
+    <summary>Milo Weaver ha trascorso anni a guardarsi intorno sospettoso, anni a ingollare anfetamine e a osservare il tremito continuo delle sue mani, e a sentire Grainger, il suo ex capo, declamare incipit di capolavori letterari per comunicare in codice il co...</summary>
+    <link href="../book_0/book_26.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Un altro mondo [July 17, 2016]</title>
+    <id>calibre:book:27</id>
+    <updated>2016-07-17T05:53:04Z</updated>
+    <link href="../../Jo%20Walton/Un%20altro%20mondo%20%2827%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jo%20Walton/Un%20altro%20mondo%20%2827%29/Un%20altro%20mondo%20-%20Jo%20Walton.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="700 KB" />
+    <author>
+      <name>Jo Walton</name>
+      <uri>../author_0/author_24_Page_1.xml</uri>
+    </author>
+    <published>2013-10-13T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Gargoyle</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Lang:it" />
+    <summary>Allevata da una madre instabile che si diletta di magia, Morwenna Phelps trova rifugio in due mondi: tra gli spiriti che dimorano nei siti industriali abbandonati, nella sua città natale in Galles, e nei romanzi di fantascienza, suoi fedeli compagni,...</summary>
+    <link href="../book_0/book_27.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Uragano Rosso [July 17, 2016]</title>
+    <id>calibre:book:22</id>
+    <updated>2016-07-17T05:53:02Z</updated>
+    <link href="../../Clancy%20Tom/Uragano%20Rosso%20%2822%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Clancy%20Tom/Uragano%20Rosso%20%2822%29/Uragano%20Rosso%20-%20Clancy%20Tom.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Clancy Tom</name>
+      <uri>../author_0/author_22_Page_1.xml</uri>
+    </author>
+    <published>1987-08-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Rizzoli</dcterms:publisher>
+    <category term="Espionage" />
+    <category term="Fiction" />
+    <category term="Thrillers" />
+    <category term="Lang:it" />
+    <summary>Oversized Trade paperback**</summary>
+    <link href="../book_0/book_22.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'ultimo cavaliere [July 17, 2016]</title>
+    <id>calibre:book:23</id>
+    <updated>2016-07-17T05:53:02Z</updated>
+    <link href="../../Stephen%20King/L%27ultimo%20cavaliere%20%2823%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/L%27ultimo%20cavaliere%20%2823%29/L%27ultimo%20cavaliere%20-%20Stephen%20King.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="584 KB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2002-12-31T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Sperling &amp; Kupfer</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>Edizione riveduta e ampliata dall'autore, il primo volume di una saga fantastica, ambientata in un mondo sinistro e macabro, Qui, in un paesaggio apocalittico, l'eterno, epico scontro tra bene e male si incarna nel pistolero, l'ultimo cavaliere, legg...</summary>
+    <link href="../book_0/book_23.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'ultima missione. La trilogia di Thrawn Vol. 3 [July 17, 2016]</title>
+    <id>calibre:book:24</id>
+    <updated>2016-07-17T05:53:02Z</updated>
+    <link href="../../Timothy%20Zahn/L%27ultima%20missione.%20La%20trilogia%20di%20Th%20%2824%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Timothy%20Zahn/L%27ultima%20missione.%20La%20trilogia%20di%20Th%20%2824%29/L%27ultima%20missione.%20La%20trilogia%20-%20Timothy%20Zahn.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="983 KB" />
+    <author>
+      <name>Timothy Zahn</name>
+      <uri>../author_0/author_13_Page_1.xml</uri>
+    </author>
+    <published>2013-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>DescrizioneUna
+ Repubblica alle strette cerca di riprendersi dagli attacchi del 
+Grand'Ammiraglio Thrawn, che ha schierato le rimanenti forze Imperiali e
+ costretto i Ribelli ad arretrare grazie ad una tecnologia abominevole 
+recuperata dalla fortezz...</summary>
+    <link href="../book_0/book_24.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Una brutta storia [July 17, 2016]</title>
+    <id>calibre:book:20</id>
+    <updated>2016-07-17T05:53:01Z</updated>
+    <link href="../../Piergiorgio%20Pulixi/Una%20brutta%20storia%20%2820%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Piergiorgio%20Pulixi/Una%20brutta%20storia%20%2820%29/Una%20brutta%20storia%20-%20Piergiorgio%20Pulixi.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="721 KB" />
+    <author>
+      <name>Piergiorgio Pulixi</name>
+      <uri>../author_0/author_20_Page_1.xml</uri>
+    </author>
+    <published>2012-11-07T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <summary>Quella dell'ispettore Biagio Mazzeo non è una famiglia normale. È una famiglia composta solo da poliziotti. Un clan molto unito. Un branco dove si combatte insieme contro il crimine. Ma Mazzeo e i suoi ragazzi non sono poliziotti comuni: sono una ban...</summary>
+    <link href="../book_0/book_20.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'uomo che ricordava troppo [July 17, 2016]</title>
+    <id>calibre:book:21</id>
+    <updated>2016-07-17T05:53:01Z</updated>
+    <link href="../../Umberto%20Rossi/L%27uomo%20che%20ricordava%20troppo%20%2821%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Umberto%20Rossi/L%27uomo%20che%20ricordava%20troppo%20%2821%29/L%27uomo%20che%20ricordava%20troppo%20-%20Umberto%20Rossi.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="862 KB" />
+    <author>
+      <name>Umberto Rossi</name>
+      <uri>../author_0/author_21_Page_1.xml</uri>
+    </author>
+    <published>2015-12-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Delos Digital srl, Milano</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>Johann Hagenström non aveva ricordi del suo passato. In compenso ricordava eventi che non erano mai avvenuti. Un romanzo finalista al premio Urania che richiama gli incubi di Philip K. Dick. Johann Hagenström ha un bel problema: la sua memoria ha per...</summary>
+    <link href="../book_0/book_21.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Vajont - Oltre il muro (Italian Edition) [July 17, 2016]</title>
+    <id>calibre:book:16</id>
+    <updated>2016-07-17T05:53:00Z</updated>
+    <link href="../../Paolo%20Guarnieri/Vajont%20-%20Oltre%20il%20muro%20%28Italian%20Edit%20%2816%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Paolo%20Guarnieri/Vajont%20-%20Oltre%20il%20muro%20%28Italian%20Edit%20%2816%29/Vajont%20-%20Oltre%20il%20muro%20%28Italian%20-%20Paolo%20Guarnieri.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Paolo Guarnieri</name>
+      <uri>../author_0/author_16_Page_1.xml</uri>
+    </author>
+    <published>2016-05-24T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Panda Edizioni</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>L&amp;apos;autore di questo libro, all&amp;apos;epoca dei fatti, era un giovane pompiere. Assieme ai suoi compagni, all&amp;apos;alba del 10 ottobre del 1963, si è trovato improvvisamente catapultato sul luogo del disastro, una delle più grandi catastrofi degli ...</summary>
+    <link href="../book_0/book_16.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'Uomo Di Marte [July 17, 2016]</title>
+    <id>calibre:book:17</id>
+    <updated>2016-07-17T05:53:00Z</updated>
+    <link href="../../Andy%20Weir/L%27Uomo%20Di%20Marte%20%2817%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Andy%20Weir/L%27Uomo%20Di%20Marte%20%2817%29/L%27Uomo%20Di%20Marte%20-%20Andy%20Weir.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="612 KB" />
+    <author>
+      <name>Andy Weir</name>
+      <uri>../author_0/author_17_Page_1.xml</uri>
+    </author>
+    <published>2014-07-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Newton Compton Editori</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>Bestseller mondiale Gravity incontra Robinson Crusoe Mark Watney è stato uno dei primi astronauti a mettere piede su Marte. Ma il suo momento di gloria è durato troppo poco. Un’improvvisa tempesta lo ha quasi ucciso e i suoi compagni di spedizione, c...</summary>
+    <link href="../book_0/book_17.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Uomini in rosso [July 17, 2016]</title>
+    <id>calibre:book:18</id>
+    <updated>2016-07-17T05:53:00Z</updated>
+    <link href="../../John%20Scalzi/Uomini%20in%20rosso%20%2818%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../John%20Scalzi/Uomini%20in%20rosso%20%2818%29/Uomini%20in%20rosso%20-%20John%20Scalzi.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="471 KB" />
+    <author>
+      <name>John Scalzi</name>
+      <uri>../author_0/author_18_Page_1.xml</uri>
+    </author>
+    <published>2014-09-02T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="Lang:it" />
+    <link href="../book_0/book_18.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Uomini che odiano le donne: Millennium 1 [July 17, 2016]</title>
+    <id>calibre:book:19</id>
+    <updated>2016-07-17T05:53:01Z</updated>
+    <link href="../../Stieg%20Larsson/Uomini%20che%20odiano%20le%20donne_%20Millenni%20%2819%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stieg%20Larsson/Uomini%20che%20odiano%20le%20donne_%20Millenni%20%2819%29/Uomini%20che%20odiano%20le%20donne_%20Mil%20-%20Stieg%20Larsson.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Stieg Larsson</name>
+      <uri>../author_0/author_19_Page_1.xml</uri>
+    </author>
+    <published>2010-10-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Marsilio Editori</dcterms:publisher>
+    <category term="Thrillers" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Da molti anni, la nipote prediletta del potente industriale Henrik Vanger è scomparsa senza lasciare traccia. Il corpo non è mai stato ritrovato. Quando, ormai vecchio, Vanger riceve un dono che riapre la vicenda, incarica Mikael Blomkvist, noto gior...</summary>
+    <link href="../book_0/book_19.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Visione del Futuro [July 17, 2016]</title>
+    <id>calibre:book:13</id>
+    <updated>2016-07-17T05:52:59Z</updated>
+    <link href="../../Timothy%20Zahn/Visione%20del%20Futuro%20%2813%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Timothy%20Zahn/Visione%20del%20Futuro%20%2813%29/Visione%20del%20Futuro%20-%20Timothy%20Zahn.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Timothy Zahn</name>
+      <uri>../author_0/author_13_Page_1.xml</uri>
+    </author>
+    <published>2013-12-02T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it</dcterms:publisher>
+    <category term="Fantascienza" />
+    <category term="Star Wars" />
+    <category term="Lang:it" />
+    <summary>"Visione del futuro" è il grandioso atto conclusivo di una delle storie di Star Wars più avvincenti e frenetiche mai scritte: un universo ricreato in modo magistrale che ci restituisce la magia e l'avventura della più grande saga fantascientifica di ...</summary>
+    <link href="../book_0/book_13.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Vedi di non morire [July 17, 2016]</title>
+    <id>calibre:book:14</id>
+    <updated>2016-07-17T05:52:59Z</updated>
+    <link href="../../Josh%20Bazell/Vedi%20di%20non%20morire%20%2814%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Josh%20Bazell/Vedi%20di%20non%20morire%20%2814%29/Vedi%20di%20non%20morire%20-%20Josh%20Bazell.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="456 KB" />
+    <author>
+      <name>Josh Bazell</name>
+      <uri>../author_0/author_14_Page_1.xml</uri>
+    </author>
+    <published>2009-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Einaudi</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Suspense" />
+    <category term="Thrillers" />
+    <category term="Lang:it" />
+    <summary>Grazie a Peter Brown, ex killer entrato in un programma di protezione governativo, la mafia fa il suo ingresso tra le corsie di un famigerato ospedale di Manhattan. Quando Peter va come ogni mattina al lavoro in ospedale, non sa che la Grande Mietitr...</summary>
+    <link href="../book_0/book_14.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Verification Handbook [July 17, 2016]</title>
+    <id>calibre:book:15</id>
+    <updated>2016-07-17T05:53:00Z</updated>
+    <link href="../../EJC/Verification%20Handbook%20%2815%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../EJC/Verification%20Handbook%20%2815%29/Verification%20Handbook%20-%20EJC.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="8 MB" />
+    <author>
+      <name>EJC</name>
+      <uri>../author_0/author_15_Page_1.xml</uri>
+    </author>
+    <published>2014-02-06T11:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>European Journalism Centre</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_15.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Windfall: The Booming Business of Global Warming [July 17, 2016]</title>
+    <id>calibre:book:10</id>
+    <updated>2016-07-17T05:52:58Z</updated>
+    <link href="../../Mckenzie%20Funk/Windfall_%20The%20Booming%20Business%20of%20Gl%20%2810%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mckenzie%20Funk/Windfall_%20The%20Booming%20Business%20of%20Gl%20%2810%29/Windfall_%20The%20Booming%20Business%20-%20Mckenzie%20Funk.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="5 MB" />
+    <author>
+      <name>Mckenzie Funk</name>
+      <uri>../author_0/author_10_Page_1.xml</uri>
+    </author>
+    <published>2015-01-26T11:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>A fascinating investigation into how people around the globe are cashing in on a warming world  McKenzie Funk has spent the last six years reporting around the world on how we are preparing for a warmer planet. Funk shows us that the best way to unde...</summary>
+    <link href="../book_0/book_10.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>I 500 [July 17, 2016]</title>
+    <id>calibre:book:11</id>
+    <updated>2016-07-17T05:52:58Z</updated>
+    <link href="../../Matthew%20Quirk/i%20500%20%2811%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Matthew%20Quirk/i%20500%20%2811%29/i%20500%20-%20Matthew%20Quirk.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Matthew Quirk</name>
+      <uri>../author_0/author_11_Page_1.xml</uri>
+    </author>
+    <published>2012-10-15T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Sperling &amp; Kupfer</dcterms:publisher>
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Thrillers" />
+    <category term="Crime" />
+    <category term="Mystery" />
+    <category term="Foreign Language Fiction" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Lang:it" />
+    <summary>Un anno fa, fresco di laurea in legge a Harvard, Mike Ford ha ottenuto il posto di lavoro che ha sempre sognato: è stato assunto al Davies Group, lo studio di consulenza più influente di Washington. Oggi si ritrova al centro di un gioco mortale, inse...</summary>
+    <link href="../book_0/book_11.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>VirtNet Runner – Il giocatore [July 17, 2016]</title>
+    <id>calibre:book:12</id>
+    <updated>2016-07-17T05:52:59Z</updated>
+    <link href="../../James%20Dashner/VirtNet%20Runner%20-%20Il%20giocatore%20%2812%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../James%20Dashner/VirtNet%20Runner%20-%20Il%20giocatore%20%2812%29/VirtNet%20Runner%20-%20Il%20giocatore%20-%20James%20Dashner.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="473 KB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../author_0/author_12_Page_1.xml</uri>
+    </author>
+    <published>2015-03-23T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>Michael è un gamer, e come la maggior parte dei gamer, spende più tempo nella VirtNet che nel mondo reale. La VirtNet è una totale immersione del corpo e della mente nel mondo virtuale, e crea dipendenza. Grazie alla tecnologia, chiunque abbia un bel...</summary>
+    <link href="../book_0/book_12.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>ZOMBIE STORY [July 17, 2016]</title>
+    <id>calibre:book:7</id>
+    <updated>2016-07-17T05:52:57Z</updated>
+    <link href="../../Max%20Brooks/ZOMBIE%20STORY%20%287%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Max%20Brooks/ZOMBIE%20STORY%20%287%29/ZOMBIE%20STORY%20-%20Max%20Brooks.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="221 KB" />
+    <author>
+      <name>Max Brooks</name>
+      <uri>../author_0/author_7_Page_1.xml</uri>
+    </author>
+    <published>2011-11-04T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>[eBL 042 by Pico &amp; Elena77]</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>[eBL 042] MAX BROOKS - ZOMBIE STORY[by Pico &amp;amp; Elena77]Max Brooks continua a raccontare il mondo contemporaneo attraverso la grande metafora dei “non-morti”, stavolta scegliendo il genere del racconto. Conflitti mondiali che vedono i Vampiri sfida...</summary>
+    <link href="../book_0/book_7.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Wool: La trilogia del Silo 1 [July 17, 2016]</title>
+    <id>calibre:book:8</id>
+    <updated>2016-07-17T05:52:57Z</updated>
+    <link href="../../Hugh%20Howey/Wool_%20La%20trilogia%20del%20Silo%201%20%288%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Hugh%20Howey/Wool_%20La%20trilogia%20del%20Silo%201%20%288%29/Wool_%20La%20trilogia%20del%20Silo%201%20-%20Hugh%20Howey.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Hugh Howey</name>
+      <uri>../author_0/author_8_Page_1.xml</uri>
+    </author>
+    <published>2013-10-09T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fabbri</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Science Fiction" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>I PRIMI SEI CAPITOLI DI WOOL, IL PRIMO ELETTRIZZANTE CAPITOLO DELLA TRILOGIA SILO CHE HA CONQUISTATO GLI STATI UNITI. Cosa faresti se il mondo fuori fosse letale e l’aria che respiri potesse uccidere? Se vivessi in un luogo dove ogni nascita richiede...</summary>
+    <link href="../book_0/book_8.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Wanted [July 17, 2016]</title>
+    <id>calibre:book:9</id>
+    <updated>2016-07-17T05:52:58Z</updated>
+    <link href="../../Lavie%20Tidhar/Wanted%20%289%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lavie%20Tidhar/Wanted%20%289%29/Wanted%20-%20Lavie%20Tidhar.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="835 KB" />
+    <author>
+      <name>Lavie Tidhar</name>
+      <uri>../author_0/author_9_Page_1.xml</uri>
+    </author>
+    <published>2013-10-20T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Gargoyle</dcterms:publisher>
+    <category term="Fantascienza" />
+    <category term="Lang:it" />
+    <summary>Joe è un detective privato alla vecchia maniera e vive in un mondo in cui gli attacchi dell’11 settembre non sono mai avvenuti, anzi fanno parte della realtà immaginaria di una famosa serie di romanzi che hanno come protagonista la figura, altrettant...</summary>
+    <link href="../book_0/book_9.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../recent/recent_ONEDAY_Page_10.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (10 of 12)" />
+  <link href="../recent/recent_ONEDAY_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 12)" />
+</feed>

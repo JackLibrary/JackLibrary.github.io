@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>I mercanti dell'Apocalisse</title>
+  <id>urn:book:dee5ad98-0b85-4a00-b783-377288175831</id>
+  <updated>2016-07-17T05:53:30Z</updated>
+  <link href="./book_114.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="I mercanti dell'Apocalisse" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with B" />
+  <link href="../../L.%20K.%20Brass/I%20mercanti%20dell%27Apocalisse%20%28114%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../L.%20K.%20Brass/I%20mercanti%20dell%27Apocalisse%20%28114%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../L.%20K.%20Brass/I%20mercanti%20dell%27Apocalisse%20%28114%29/I%20mercanti%20dell%27Apocalisse%20-%20L.%20K.%20Brass.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="561 KB" />
+  <author>
+    <name>L. K. Brass</name>
+    <uri>../author_0/author_87_Page_1.xml</uri>
+  </author>
+  <published>2016-03-15T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Giunti</dcterms:publisher>
+  <category term="Literature &amp; Fiction" />
+  <category term="Crime" />
+  <category term="International Mystery &amp; Crime" />
+  <category term="Mystery" />
+  <category term="Thrillers &amp; Suspense" />
+  <category term="Foreign Language Fiction" />
+  <category term="Italian" />
+  <category term="Thriller &amp; Mystery" />
+  <category term="Foreign Languages" />
+  <category term="Thriller &amp; Suspense" />
+  <category term="Thrillers" />
+  <category term="Political" />
+  <category term="Spies &amp; Politics" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Literature &amp; Fiction, Crime, International Mystery &amp; Crime, Mystery, Thrillers &amp; Suspense, Foreign Language Fiction, Italian, Thriller &amp; Mystery, Foreign Languages, Thriller &amp; Suspense, Thrillers, Political, Spies &amp; Politics, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>
+        Daniel, geniale matematico, ha raggiunto il successo e
+      tutto ciò che un uomo può desiderare, ma una breve
+      telefonata cambierà la sua vita per sempre. Una
+      terribile sciagura aerea e un attentato da cui si salva quasi
+      per miracolo gli fanno capire di essere rimasto invischiato
+      in qualcosa di oscuro e mortale. L’unico modo per
+      proteggere se stesso e la figlia Isabel, la sola della sua
+      famiglia a essere sopravvissuta, sarà scomparire. Anni
+      dopo, vivendo sotto falso nome alla ricerca di chi gli ha
+      distrutto la vita, si imbatterà in una nuova scia di
+      morte e in un complotto che sta dissanguando la BCE e le
+      economie europee. Con l'aiuto insperato di una giovane e
+      brillante operatrice finanziaria, Daniel lotta per ottenere
+      risposte. Fra spionaggio informatico, inseguimenti e abili
+      travestimenti, riuscirà a ricomporre tutte le tessere di
+      quell'inquietante mosaico?
+        <br />
+        Denaro, amore, intrighi e speculazioni si intrecciano
+      in un mystery pieno di colpi di scena.
+      </p>
+      <p>**</p>
+    </div>
+  </content>
+  <link href="../author_0/author_87_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by L. K. Brass" />
+  <link href="http://www.goodreads.com/book/title/I%20mercanti%20dell%27Apocalisse" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/I%20mercanti%20dell%27Apocalisse" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/I%20mercanti%20dell%27Apocalisse%20L.%20K.%20Brass" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=I%20mercanti%20dell%27Apocalisse&amp;field-author=L.%20K.%20Brass" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/L.%20K.%20Brass" type="text/html" rel="related" title="L. K. Brass on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/L.%20K.%20Brass" type="text/html" rel="related" title="L. K. Brass on Wikipedia" />
+  <link href="http://www.librarything.com/author/BrassL.K." type="text/html" rel="related" title="L. K. Brass on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=L.%20K.%20Brass" type="text/html" rel="related" title="L. K. Brass on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?L.%20K.%20Brass" type="text/html" rel="related" title="L. K. Brass on ISFDB" />
+</entry>

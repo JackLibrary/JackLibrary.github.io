@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Pashazade</title>
+  <id>urn:book:8e0591a0-af72-4cff-9c73-cecae0915fdf</id>
+  <updated>2016-07-17T05:53:21Z</updated>
+  <link href="./book_84.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Pashazade" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <link href="../../Jon%20Courtenay%20Grimwood/Pashazade%20%2884%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Jon%20Courtenay%20Grimwood/Pashazade%20%2884%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Jon%20Courtenay%20Grimwood/Pashazade%20%2884%29/Pashazade%20-%20Jon%20Courtenay%20Grimwood.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+  <author>
+    <name>Jon Courtenay Grimwood</name>
+    <uri>../author_0/author_67_Page_1.xml</uri>
+  </author>
+  <published>2015-09-22T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Zona 42</dcterms:publisher>
+  <category term="Fantascienza" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Fantascienza, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">Al confine tra oriente ed occidente, El Iskandryia, l'antica
+    Alessandria d'Egitto, è un crocevia di culture e
+    ambizioni: libera città dell'impero ottomano, luogo di
+    intrighi e potere, dove i soldi si mescolano alla tradizione e
+    il valore di un uomo si giudica dal suo status sociale.
+    Collocata in un prossimo futuro ucronico in cui le due guerre
+    mondiali non ci sono mai state, El Iskandryia è lo
+    scenario in cui si muovono i protagonisti di Pashazade. Ashraf
+    giunge in città in fuga da un passato misterioso per
+    affrontare un futuro ignoto: promesso sposo di una ragazza che
+    non ha mai conosciuto, sospettato dell'omicidio di una donna
+    scomoda, alle prese con una nipote che non pensava nemmeno
+    esistesse. Ashraf si ritroverà a muoversi in precario
+    equilibrio tra i poteri che governano la città, con una
+    voce in testa che non smette di dargli opinioni non richieste.
+    Pashazade è il racconto di un uomo costretto a fare i
+    conti con la propria storia e a sciogliere i nodi della propria
+    esistenza, cercando nel frattempo di sopravvivere in una
+    città che prospera su inganni e segreti. </p>
+  </content>
+  <link href="../author_0/author_67_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Jon Courtenay Grimwood" />
+  <link href="http://www.goodreads.com/book/title/Pashazade" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Pashazade" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Pashazade%20Jon%20Courtenay%20Grimwood" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Pashazade&amp;field-author=Jon%20Courtenay%20Grimwood" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Jon%20Courtenay%20Grimwood" type="text/html" rel="related" title="Jon Courtenay Grimwood on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Jon%20Courtenay%20Grimwood" type="text/html" rel="related" title="Jon Courtenay Grimwood on Wikipedia" />
+  <link href="http://www.librarything.com/author/GrimwoodJonCourtenay" type="text/html" rel="related" title="Jon Courtenay Grimwood on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Jon%20Courtenay%20Grimwood" type="text/html" rel="related" title="Jon Courtenay Grimwood on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Jon%20Courtenay%20Grimwood" type="text/html" rel="related" title="Jon Courtenay Grimwood on ISFDB" />
+</entry>

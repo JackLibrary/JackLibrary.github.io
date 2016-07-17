@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>L'ultima missione. La trilogia di Thrawn Vol. 3</title>
+  <id>urn:book:bf3fa332-a407-4ee0-b097-9b85e47914cd</id>
+  <updated>2016-07-17T05:53:02Z</updated>
+  <link href="./book_24.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="L'ultima missione. La trilogia di Thrawn Vol. 3" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_Z_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with Z" />
+  <link href="../../Timothy%20Zahn/L%27ultima%20missione.%20La%20trilogia%20di%20Th%20%2824%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Timothy%20Zahn/L%27ultima%20missione.%20La%20trilogia%20di%20Th%20%2824%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Timothy%20Zahn/L%27ultima%20missione.%20La%20trilogia%20di%20Th%20%2824%29/L%27ultima%20missione.%20La%20trilogia%20-%20Timothy%20Zahn.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="983 KB" />
+  <author>
+    <name>Timothy Zahn</name>
+    <uri>../author_0/author_13_Page_1.xml</uri>
+  </author>
+  <published>2013-01-01T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <table border="0" cellpadding="2" cellspacing="2" width="100%">
+        <tbody>
+          <tr>
+            <td style="background-image:url(/images/header/gt-b.jpg);background-repeat:repeat-x;" class="ttitolettobianco" bgcolor="#336633">
+              <b>Descrizione</b>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <span class="tcorpotesto">Una Repubblica alle strette cerca
+      di riprendersi dagli attacchi del Grand'Ammiraglio Thrawn,
+      che ha schierato le rimanenti forze Imperiali e costretto i
+      Ribelli ad arretrare grazie ad una tecnologia abominevole
+      recuperata dalla fortezza segreta dell'Imperatore: i cloni.
+      Mentre Thrawn è pronto al suo assedio finale, Han e
+      Chewbecca tentano strenuamente di dar vita ad una coalizione
+      di contrabbandieri pronta a sferrare un ultimo attacco
+      all'Impero; Leia che sta per dare alla luce i suoi gemelli
+      Jedi, ha invece il compito di tenere assieme l'alleanza.
+      Travolta dalle armate di Thrawn, la Repubblica ha una sola
+      speranza: inviare un piccolo gruppo guidato da Luke Skywalker
+      nella roccaforte che ospita le terribili macchine da
+      clonazione. Lì dovranno affrontare un ultimo grande
+      ostacolo: il Jedi Oscuro C'baoth che dirige la battaglia
+      contro i Ribelli e vuole distruggere Luke
+      Skywalker. </span>
+    </div>
+  </content>
+  <link href="../author_0/author_13_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Timothy Zahn" />
+  <link href="http://www.goodreads.com/book/title/L%27ultima%20missione.%20La%20trilogia%20di%20Thrawn%20Vol.%203" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/L%27ultima%20missione.%20La%20trilogia%20di%20Thrawn%20Vol.%203" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/L%27ultima%20missione.%20La%20trilogia%20di%20Thrawn%20Vol.%203%20Timothy%20Zahn" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=L%27ultima%20missione.%20La%20trilogia%20di%20Thrawn%20Vol.%203&amp;field-author=Timothy%20Zahn" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Timothy%20Zahn" type="text/html" rel="related" title="Timothy Zahn on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Timothy%20Zahn" type="text/html" rel="related" title="Timothy Zahn on Wikipedia" />
+  <link href="http://www.librarything.com/author/ZahnTimothy" type="text/html" rel="related" title="Timothy Zahn on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Timothy%20Zahn" type="text/html" rel="related" title="Timothy Zahn on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Timothy%20Zahn" type="text/html" rel="related" title="Timothy Zahn on ISFDB" />
+</entry>

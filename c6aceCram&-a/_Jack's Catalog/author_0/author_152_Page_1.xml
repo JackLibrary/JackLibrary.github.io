@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Dario Tonani</title>
+  <id>Calibre2opds:author:152</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_152_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Dario Tonani" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with T" />
+  <entry>
+    <title>Cronache di Mondo9</title>
+    <id>calibre:book:243</id>
+    <updated>2016-07-17T05:54:08Z</updated>
+    <link href="../../Dario%20Tonani/Cronache%20di%20Mondo9%20%28243%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dario%20Tonani/Cronache%20di%20Mondo9%20%28243%29/Cronache%20di%20Mondo9%20-%20Dario%20Tonani.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+    <author>
+      <name>Dario Tonani</name>
+      <uri>../author_0/author_152_Page_1.xml</uri>
+    </author>
+    <published>2015-08-04T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Foreign Language Fiction" />
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Italian" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>È un pianeta desertico, letale, una sconfinata distesa di sabbie velenose. Nel corso dell'evoluzione i suoi abitanti si sono applicati a una sola arte, la meccanica, rendendolo il regno delle macchine, del metallo e della ruggine. Eppure Mondo9 vive ...</summary>
+    <link href="../book_0/book_243.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'algoritmo bianco</title>
+    <id>calibre:book:275</id>
+    <updated>2016-07-17T05:54:17Z</updated>
+    <link href="../../Dario%20Tonani/L%27algoritmo%20bianco%20%28275%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dario%20Tonani/L%27algoritmo%20bianco%20%28275%29/L%27algoritmo%20bianco%20-%20Dario%20Tonani.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+    <author>
+      <name>Dario Tonani</name>
+      <uri>../author_0/author_152_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Mondadori</name>
+      <uri>../author_0/author_174_Page_1.xml</uri>
+    </author>
+    <published>2009-10-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="Lang:it" />
+    <link href="../book_0/book_275.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

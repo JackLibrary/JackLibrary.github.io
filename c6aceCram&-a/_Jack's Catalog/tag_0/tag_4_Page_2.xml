@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Thrillers</title>
+  <id>Calibre2opds:taglist:T:4</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tag_4_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Thrillers" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with T" />
+  <entry>
+    <title>L'indice della paura</title>
+    <id>calibre:book:176</id>
+    <updated>2016-07-17T05:53:49Z</updated>
+    <link href="../../Robert%20Harris/L%27indice%20della%20paura%20%28176%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Robert%20Harris/L%27indice%20della%20paura%20%28176%29/L%27indice%20della%20paura%20-%20Robert%20Harris.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="430 KB" />
+    <author>
+      <name>Robert Harris</name>
+      <uri>../author_0/author_123_Page_1.xml</uri>
+    </author>
+    <published>2011-09-05T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Edizioni Mondadori</dcterms:publisher>
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Thrillers" />
+    <category term="Crime" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Mystery" />
+    <category term="Foreign Language Fiction" />
+    <category term="General" />
+    <category term="Foreign Languages" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>È notte fonda quando il dottor Alex Hoffmann viene aggredito da uno sconosciuto che si introduce di nascosto nella sua residenza di Ginevra. A quarantadue anni Hoffmann è una leggenda: scienziato tra i più noti al mondo, è ora un ricco e potente uomo...</summary>
+    <link href="../book_0/book_176.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il segno</title>
+    <id>calibre:book:181</id>
+    <updated>2016-07-17T05:53:51Z</updated>
+    <link href="../../Sarah%20Lotz/Il%20segno%20%28181%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sarah%20Lotz/Il%20segno%20%28181%29/Il%20segno%20-%20Sarah%20Lotz.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Sarah Lotz</name>
+      <uri>../author_0/author_125_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Laura Prandino</name>
+      <uri>../author_0/author_126_Page_1.xml</uri>
+    </author>
+    <published>2015-09-09T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Casa Editrice Nord</dcterms:publisher>
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Thrillers" />
+    <category term="ebook" />
+    <category term="Crime" />
+    <category term="Mystery" />
+    <category term="Foreign Language Fiction" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Lang:it" />
+    <summary>«Un thriller coinvolgente e raffinato, una scoperta eccezionale.»The Guardian  «L'autrice trascina il lettore in una storia ambigua e ad altissima tensione. Un romanzo travolgente»The Indipendent  Uno è un casoDue sono una coincidenzaTre sono un segn...</summary>
+    <link href="../book_0/book_181.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il giorno del cobra</title>
+    <id>calibre:book:205</id>
+    <updated>2016-07-17T05:53:57Z</updated>
+    <link href="../../Richard%20Preston/Il%20giorno%20del%20cobra%20%28205%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Richard%20Preston/Il%20giorno%20del%20cobra%20%28205%29/Il%20giorno%20del%20cobra%20-%20Richard%20Preston.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="958 KB" />
+    <author>
+      <name>Richard Preston</name>
+      <uri>../author_0/author_137_Page_1.xml</uri>
+    </author>
+    <published>2000-06-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Rizzoli</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Suspense" />
+    <category term="Thrillers" />
+    <category term="Lang:it" />
+    <summary>Una ragazza di diciassette anni, Kate Moran, si presenta una mattina a scuola leggermente raffreddata. Una semplice seccatura, ma solo in apparenza... Nel giro di pochi minuti la ragazza muore sotto gli occhi di compagni ed insegnanti. Sarà una giova...</summary>
+    <link href="../book_0/book_205.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Gangsterland</title>
+    <id>calibre:book:206</id>
+    <updated>2016-07-17T05:53:57Z</updated>
+    <link href="../../Tod%20Goldberg/Gangsterland%20%28206%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Tod%20Goldberg/Gangsterland%20%28206%29/Gangsterland%20-%20Tod%20Goldberg.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="655 KB" />
+    <author>
+      <name>Tod Goldberg</name>
+      <uri>../author_0/author_138_Page_1.xml</uri>
+    </author>
+    <published>2016-05-29T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Sperling &amp; Kupfer</dcterms:publisher>
+    <category term="Crime" />
+    <category term="Mystery" />
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Foreign Languages" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Thrillers" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Lang:it" />
+    <summary>Sal Cupertine è un serio professionista di Chicago, marito fedele e padre affettuoso. 
+È famoso per la sua prodigiosa memoria, tanto che nel suo ambiente lo hanno soprannominato Rain Man, niente di personale. 
+Anzi, il datore di lavoro apprezza molti...</summary>
+    <link href="../book_0/book_206.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Drive</title>
+    <id>calibre:book:230</id>
+    <updated>2016-07-17T05:54:04Z</updated>
+    <link href="../../James%20Sallis/Drive%20%28230%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../James%20Sallis/Drive%20%28230%29/Drive%20-%20James%20Sallis.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="228 KB" />
+    <author>
+      <name>James Sallis</name>
+      <uri>../author_0/author_148_Page_1.xml</uri>
+    </author>
+    <published>2011-06-14T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Giano</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Suspense" />
+    <category term="Thrillers" />
+    <category term="Lang:en" />
+    <summary>La stanza di un Motel 6 a nord di Phoenix, la tarda luce dell'alba che preme alla porta e alle finestre, i rumori del traffico dalla vicina autostrada, il lamento di qualcuno che piange nella camera attigua. E una pozza di sangue che avanza, lenta, i...</summary>
+    <link href="../book_0/book_230.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cyberstorm</title>
+    <id>calibre:book:234</id>
+    <updated>2016-07-17T05:54:05Z</updated>
+    <link href="../../Matthew%20Mather/Cyberstorm%20%28234%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Matthew%20Mather/Cyberstorm%20%28234%29/Cyberstorm%20-%20Matthew%20Mather.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="562 KB" />
+    <author>
+      <name>Matthew Mather</name>
+      <uri>../author_0/author_149_Page_1.xml</uri>
+    </author>
+    <published>2014-08-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Suspense" />
+    <category term="Thrillers" />
+    <category term="Lang:it" />
+    <summary>A Mike Mitchell sembrava già difficile tenere unite la propria famiglia, ma non pensava che si sarebbe ritrovato a lottare per tenerla in vita, quando una serie di inspiegabili catastrofi inizia a dominare i telegiornali di tutto il mondo. Mentre il ...</summary>
+    <link href="../book_0/book_234.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Confine di Stato: Il primo volume della Trilogia sporca dell'Italia</title>
+    <id>calibre:book:239</id>
+    <updated>2016-07-17T05:54:06Z</updated>
+    <link href="../../Simone%20Sarasso/Confine%20di%20Stato_%20Il%20primo%20volume%20d%20%28239%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Simone%20Sarasso/Confine%20di%20Stato_%20Il%20primo%20volume%20d%20%28239%29/Confine%20di%20Stato_%20Il%20primo%20volu%20-%20Simone%20Sarasso.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Simone Sarasso</name>
+      <uri>../author_0/author_39_Page_1.xml</uri>
+    </author>
+    <published>2010-10-15T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Marsilio</dcterms:publisher>
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Thrillers" />
+    <category term="Crime" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Mystery" />
+    <category term="Contemporary Fiction" />
+    <category term="Foreign Language Fiction" />
+    <category term="Spies &amp; Politics" />
+    <category term="Foreign Languages" />
+    <category term="Espionage" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Lang:it" />
+    <summary>Erano sbirri corrotti, traditori della Repubblica, politici con le mani sporche di sangue, spacciatori irlandesi in affari con Cosa Nostra, ragazzi in nero pronti a tutto. Se solo un istante delle loro esistenze avesse imboccato una strada diversa, l...</summary>
+    <link href="../book_0/book_239.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il codice Dominus</title>
+    <id>calibre:book:244</id>
+    <updated>2016-07-17T05:54:08Z</updated>
+    <link href="../../Tom%20Fox/Il%20codice%20Dominus%20%28244%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Tom%20Fox/Il%20codice%20Dominus%20%28244%29/Il%20codice%20Dominus%20-%20Tom%20Fox.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="663 KB" />
+    <author>
+      <name>Tom Fox</name>
+      <uri>../author_0/author_153_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Massimo Gardella</name>
+      <uri>../author_0/author_154_Page_1.xml</uri>
+    </author>
+    <published>2016-06-15T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Tre60</dcterms:publisher>
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Thrillers" />
+    <category term="Crime" />
+    <category term="Mystery" />
+    <category term="Foreign Language Fiction" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Lang:it" />
+    <summary>È un papa molto amato, Gregorio XVII, non soltanto per i suoi messaggi di pace e di tolleranza, ma anche perché porta su di sé i segni di una sofferenza indicibile: la grave malattia di cui soffre sin dall’infanzia non gli permette di stare in piedi ...</summary>
+    <link href="../book_0/book_244.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Codice Beta</title>
+    <id>calibre:book:246</id>
+    <updated>2016-07-17T05:54:08Z</updated>
+    <link href="../../Michael%20Crichton/Codice%20Beta%20%28246%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michael%20Crichton/Codice%20Beta%20%28246%29/Codice%20Beta%20-%20Michael%20Crichton.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="325 KB" />
+    <author>
+      <name>Michael Crichton</name>
+      <uri>../author_0/author_155_Page_1.xml</uri>
+    </author>
+    <published>2014-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Garzanti</dcterms:publisher>
+    <category term="Thrillers" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Deserto dello Utah. La sagoma scura di un treno blindato attraversa la notte. All’improvviso, un’esplosione scuote il silenzio del deserto. Il treno si ferma, un gruppo di uomini armati circonda i portelloni avvolti dal fumo. I gesti sono rapidi e pr...</summary>
+    <link href="../book_0/book_246.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La città buia</title>
+    <id>calibre:book:247</id>
+    <updated>2016-07-17T05:54:09Z</updated>
+    <link href="../../Michael%20Connelly/La%20citta%20buia%20%28247%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michael%20Connelly/La%20citta%20buia%20%28247%29/La%20citta%20buia%20-%20Michael%20Connelly.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="398 KB" />
+    <author>
+      <name>Michael Connelly</name>
+      <uri>../author_0/author_156_Page_1.xml</uri>
+    </author>
+    <published>2010-10-06T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Piemme</dcterms:publisher>
+    <category term="Thrillers" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Sul belvedere vicino a Mulholland Drive viene ritrovato un cadavere. La vittima, identificata come il dottor Stanley Kent, è stata freddata con due colpi di pistola alla nuca: a prima vista, una tipica esecuzione. L'indagine è affidata al detective H...</summary>
+    <link href="../book_0/book_247.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Catrame</title>
+    <id>calibre:book:249</id>
+    <updated>2016-07-17T05:54:09Z</updated>
+    <link href="../../Giuseppe%20Genna/Catrame%20%28249%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Giuseppe%20Genna/Catrame%20%28249%29/Catrame%20-%20Giuseppe%20Genna.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="217 KB" />
+    <author>
+      <name>Giuseppe Genna</name>
+      <uri>../author_0/author_158_Page_1.xml</uri>
+    </author>
+    <published>2008-05-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="Thrillers" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Fumo di asfalto colloso nella spossante Milano estiva delle periferie. Tra le case popolari di Calvairate, il quartiere dormitorio di Quarto Oggiaro e il carcere di Opera emergono, come strani zombie dal sottosuolo, un suicidio sospetto, un giro di p...</summary>
+    <link href="../book_0/book_249.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>China Girl: Le indagini di Neal Carey</title>
+    <id>calibre:book:250</id>
+    <updated>2016-07-17T05:54:09Z</updated>
+    <link href="../../Don%20Winslow/China%20Girl_%20Le%20indagini%20di%20Neal%20Car%20%28250%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Don%20Winslow/China%20Girl_%20Le%20indagini%20di%20Neal%20Car%20%28250%29/China%20Girl_%20Le%20indagini%20di%20Neal%20-%20Don%20Winslow.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="572 KB" />
+    <author>
+      <name>Don Winslow</name>
+      <uri>../author_0/author_43_Page_1.xml</uri>
+    </author>
+    <published>2016-06-20T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Einaudi</dcterms:publisher>
+    <category term="Crime" />
+    <category term="Foreign Language Fiction" />
+    <category term="Mystery" />
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Thrillers" />
+    <category term="Italian" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>Robert Pendleton è un genio della chimica e ha appena brevettato un fertilizzante che potrebbe valere una fortuna. Partito per una conferenza a San Francisco, smette di dare notizie di sé e dei frutti delle sue ricerche. Non c'è da stupirsi se gli Am...</summary>
+    <link href="../book_0/book_250.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Brilliance. La formula del potere</title>
+    <id>calibre:book:258</id>
+    <updated>2016-07-17T05:54:12Z</updated>
+    <link href="../../Marcus%20Sakey/Brilliance.%20La%20formula%20del%20potere%20%28258%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Marcus%20Sakey/Brilliance.%20La%20formula%20del%20potere%20%28258%29/Brilliance.%20La%20formula%20del%20pote%20-%20Marcus%20Sakey.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="795 KB" />
+    <author>
+      <name>Marcus Sakey</name>
+      <uri>../author_0/author_164_Page_1.xml</uri>
+    </author>
+    <published>2015-07-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Nord</dcterms:publisher>
+    <category term="ebook" />
+    <category term="Fiction" />
+    <category term="Suspense" />
+    <category term="Thrillers" />
+    <category term="Lang:it" />
+    <summary>Nessuno ne conosce la causa, ma una cosa è certa: dal 1980 l'1% dei nuovi nati è un genio. Una percentuale altissima, che in un primo momento aveva dato speranza al mondo intero. Si pensava che quei "bambini speciali" avrebbero aiutato l'umanità a pr...</summary>
+    <link href="../book_0/book_258.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Alif l'invisibile</title>
+    <id>calibre:book:274</id>
+    <updated>2016-07-17T05:54:17Z</updated>
+    <link href="../../Willow%20Wilson/Alif%20l%27invisibile%20%28274%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Willow%20Wilson/Alif%20l%27invisibile%20%28274%29/Alif%20l%27invisibile%20-%20Willow%20Wilson.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="848 KB" />
+    <author>
+      <name>Willow Wilson</name>
+      <uri>../author_0/author_171_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>G.</name>
+      <uri>../author_0/author_172_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>L. Fusari</name>
+      <uri>../author_0/author_173_Page_1.xml</uri>
+    </author>
+    <published>2016-05-31T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Il Saggiatore</dcterms:publisher>
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Technothrillers" />
+    <category term="Paranormal &amp; Urban" />
+    <category term="Mystery" />
+    <category term="Fantasy" />
+    <category term="Foreign Language Fiction" />
+    <category term="Contemporary" />
+    <category term="Thrillers" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Italian" />
+    <category term="Lang:it" />
+    <summary>La Città sorge da tempo immemorabile in un piccolo emirato del Medio Oriente, ricco di petrolio, corruzione e ingiustizie. Il potere dei suoi governanti si regge sulla polizia segreta e sui censori che filtrano tutto ciò che passa su internet, capegg...</summary>
+    <link href="../book_0/book_274.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../tag_0/tag_4_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 2)" />
+</feed>

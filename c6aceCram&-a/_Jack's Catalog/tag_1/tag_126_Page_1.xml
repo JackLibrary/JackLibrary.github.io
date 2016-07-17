@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Adventure</title>
+  <id>Calibre2opds:taglist:A:126</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tag_126_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Adventure" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with A" />
+  <entry>
+    <title>Epidemia Zombie</title>
+    <id>calibre:book:221</id>
+    <updated>2016-07-17T05:54:01Z</updated>
+    <link href="../../Z.%20A.%20Recht/Epidemia%20Zombie%20%28221%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Z.%20A.%20Recht/Epidemia%20Zombie%20%28221%29/Epidemia%20Zombie%20-%20Z.%20A.%20Recht.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="951 KB" />
+    <author>
+      <name>Z. A. Recht</name>
+      <uri>../author_0/author_145_Page_1.xml</uri>
+    </author>
+    <published>2014-11-26T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Science Fiction" />
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Post-Apocalyptic" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Fantasy" />
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Adventure" />
+    <category term="Lang:it" />
+    <summary>Il tema dell‘apocalisse zombie, un tempo ai margini del panorama horror, ha assunto un ruolo centrale nella moderna cultura pop. Ora, con “Epidemia Zombie“, Z.A. Recht dà vita a un‘opera acuta e appassionante, un thriller che lascerà senza fiato sia ...</summary>
+    <link href="../book_0/book_221.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

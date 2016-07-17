@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Cronache di Mondo9</title>
+  <id>urn:book:785f0ac1-1256-4ec2-8059-c8209a51fd98</id>
+  <updated>2016-07-17T05:54:08Z</updated>
+  <link href="./book_243.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Cronache di Mondo9" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with T" />
+  <link href="../../Dario%20Tonani/Cronache%20di%20Mondo9%20%28243%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Dario%20Tonani/Cronache%20di%20Mondo9%20%28243%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Dario%20Tonani/Cronache%20di%20Mondo9%20%28243%29/Cronache%20di%20Mondo9%20-%20Dario%20Tonani.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+  <author>
+    <name>Dario Tonani</name>
+    <uri>../author_0/author_152_Page_1.xml</uri>
+  </author>
+  <published>2015-08-04T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Mondadori</dcterms:publisher>
+  <category term="Fantasy" />
+  <category term="Foreign Language Fiction" />
+  <category term="Horror &amp; Science Fiction" />
+  <category term="Science Fiction &amp; Fantasy" />
+  <category term="Literature &amp; Fiction" />
+  <category term="Italian" />
+  <category term="Foreign Languages" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Fantasy, Foreign Language Fiction, Horror &amp; Science Fiction, Science Fiction &amp; Fantasy, Literature &amp; Fiction, Italian, Foreign Languages, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>
+        È un pianeta desertico, letale, una sconfinata
+      distesa di sabbie velenose. Nel corso dell'evoluzione i suoi
+      abitanti si sono applicati a una sola arte, la meccanica,
+      rendendolo il regno delle macchine, del metallo e della
+      ruggine. Eppure Mondo9 vive su una fiorente attività di
+      commerci: titanici veicoli a ruote, grandi come bastimenti e
+      governati da decine di uomini, solcano i deserti tra una
+      città e l'altra. Perché c'è una guerra in
+      corso: macchine contro macchine, metallo contro metallo. E
+      mille pericoli attendono le loro prede acquattati sotto le
+      dune: un misterioso morbo che trasforma la carne in ottone,
+      fiori giganteschi che si nutrono di ruggine... Per la prima
+      volta in un solo volume, il romanzo originario
+        <em>Mondo9</em>
+        e quello nuovo,
+        <em>Mechardionica</em>
+        , inedito in edizione cartacea. Con
+      tutti i tasselli mancanti a completare uno dei cicli più
+      avventurosi della fantascienza internazionale.
+      </p>
+      <p>**</p>
+    </div>
+  </content>
+  <link href="../author_0/author_152_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Dario Tonani" />
+  <link href="http://www.goodreads.com/book/title/Cronache%20di%20Mondo9" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Cronache%20di%20Mondo9" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Cronache%20di%20Mondo9%20Dario%20Tonani" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Cronache%20di%20Mondo9&amp;field-author=Dario%20Tonani" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Dario%20Tonani" type="text/html" rel="related" title="Dario Tonani on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Dario%20Tonani" type="text/html" rel="related" title="Dario Tonani on Wikipedia" />
+  <link href="http://www.librarything.com/author/TonaniDario" type="text/html" rel="related" title="Dario Tonani on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Dario%20Tonani" type="text/html" rel="related" title="Dario Tonani on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Dario%20Tonani" type="text/html" rel="related" title="Dario Tonani on ISFDB" />
+</entry>

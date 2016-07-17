@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Wanted</title>
+  <id>urn:book:3254b40b-d73d-4056-a9e0-7f19d96a5223</id>
+  <updated>2016-07-17T05:52:58Z</updated>
+  <link href="./book_9.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Wanted" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with T" />
+  <link href="../../Lavie%20Tidhar/Wanted%20%289%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Lavie%20Tidhar/Wanted%20%289%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Lavie%20Tidhar/Wanted%20%289%29/Wanted%20-%20Lavie%20Tidhar.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="835 KB" />
+  <author>
+    <name>Lavie Tidhar</name>
+    <uri>../author_0/author_9_Page_1.xml</uri>
+  </author>
+  <published>2013-10-20T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Gargoyle</dcterms:publisher>
+  <category term="Fantascienza" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Fantascienza, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">Joe è un detective privato alla vecchia maniera e vive
+    in un mondo in cui gli attacchi dell’11 settembre non
+    sono mai avvenuti, anzi fanno parte della realtà
+    immaginaria di una famosa serie di romanzi che hanno come
+    protagonista la figura, altrettanto immaginaria, di Osama bin
+    Laden.</p>
+    <p xmlns="">Un giorno Joe riceve la visita di una misteriosa donna, che
+    lo ingaggia per trovare proprio Mike Longshott, l’autore
+    di quei libri; inizia così un’avventura paradossale
+    fra Laos, New York, Londra, Parigi e, ovviamente, Kabul.</p>
+    <p xmlns="">Man mano che l’indagine di Joe progredisce, le cose si
+    fanno sempre più strane e le certezze del detective
+    cominciano a trasformarsi in lancinanti dubbi, tanto da
+    portarlo a non essere più sicuro nemmeno della sua stessa
+    identità. Così, in un mondo senza terrorismo globale,
+    Joe si ritrova ad affrontare nemici oscuri che cercano di
+    impedirgli di scovare la verità che sta sotto a quella che
+    lui ha sempre considerato la realtà.</p>
+    <p xmlns="">Wanted è un romanzo dai contorni noir in cui i confini
+    fra reale e immaginario si confondono, in cui il thriller
+    internazionale si tramuta in storia alternativa, e in cui Lavie
+    Tidhar, con la sua bravura narrativa, delinea uno sconcertante
+    ritratto dei nostri tempi.</p>
+  </content>
+  <link href="../author_0/author_9_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Lavie Tidhar" />
+  <link href="http://www.goodreads.com/book/title/Wanted" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Wanted" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Wanted%20Lavie%20Tidhar" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Wanted&amp;field-author=Lavie%20Tidhar" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Lavie%20Tidhar" type="text/html" rel="related" title="Lavie Tidhar on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Lavie%20Tidhar" type="text/html" rel="related" title="Lavie Tidhar on Wikipedia" />
+  <link href="http://www.librarything.com/author/TidharLavie" type="text/html" rel="related" title="Lavie Tidhar on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Lavie%20Tidhar" type="text/html" rel="related" title="Lavie Tidhar on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Lavie%20Tidhar" type="text/html" rel="related" title="Lavie Tidhar on ISFDB" />
+</entry>

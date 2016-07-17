@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with O</title>
+  <id>Calibre2opds:allbooks:O</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_O_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with O" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>L'Occhio Del Sole</title>
+    <id>calibre:book:132</id>
+    <updated>2016-07-17T05:53:36Z</updated>
+    <link href="../../Arthur%20C.%20Clarke/L%27Occhio%20Del%20Sole%20%28132%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Arthur%20C.%20Clarke/L%27Occhio%20Del%20Sole%20%28132%29/L%27Occhio%20Del%20Sole%20-%20Arthur%20C.%20Clarke.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+    <author>
+      <name>Arthur C. Clarke</name>
+      <uri>../author_0/author_96_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Stephen Baxter</name>
+      <uri>../author_0/author_97_Page_1.xml</uri>
+    </author>
+    <published>2012-01-17T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <summary>Arthur C. Clarke, l&amp;apos;indimenticabile autore di 2001: Odissea nello spazio, è una leggenda vivente, il cui nome è sinonimo di fantascienza da più di cinquant&amp;apos;anni. Stephen Baxter è uno scrittore dotato di un&amp;apos;immaginazione che non conosce...</summary>
+    <link href="../book_0/book_132.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'Occhio di Dio</title>
+    <id>calibre:book:90</id>
+    <updated>2016-07-17T05:53:23Z</updated>
+    <link href="../../Barry%20Eisler/L%27Occhio%20di%20Dio%20%2890%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Barry%20Eisler/L%27Occhio%20di%20Dio%20%2890%29/L%27Occhio%20di%20Dio%20-%20Barry%20Eisler.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="584 KB" />
+    <author>
+      <name>Barry Eisler</name>
+      <uri>../author_0/author_72_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Francesca Cosi</name>
+      <uri>../author_0/author_73_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Alessandra Reposi</name>
+      <uri>../author_0/author_74_Page_1.xml</uri>
+    </author>
+    <published>2016-05-12T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Spies &amp; Politics" />
+    <category term="Crime" />
+    <category term="Foreign Language Fiction" />
+    <category term="Mystery" />
+    <category term="Espionage" />
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Thriller" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Action &amp; Adventure" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Thrillers" />
+    <category term="Italian" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>Il direttore dell’NSA Theodore Anders ha un solo obiettivo: intercettare ogni telefonata, email e messaggio diffuso tramite Internet. Sa che la sorveglianza totale è l’unico modo per proteggere l’America.   A Evelyn Gallagher non importa granché. Vuo...</summary>
+    <link href="../book_0/book_90.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Omega Days</title>
+    <id>calibre:book:89</id>
+    <updated>2016-07-17T05:53:23Z</updated>
+    <link href="../../John%20L.%20Campbell/Omega%20Days%20%2889%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../John%20L.%20Campbell/Omega%20Days%20%2889%29/Omega%20Days%20-%20John%20L.%20Campbell.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="563 KB" />
+    <author>
+      <name>John L. Campbell</name>
+      <uri>../author_0/author_71_Page_1.xml</uri>
+    </author>
+    <published>2016-04-04T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Horror" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Genre Fiction" />
+    <category term="Fantasy" />
+    <category term="Lang:it" />
+    <summary>San Francisco. Padre Xavier Church ha passato la vita tra i diseredati della città, e ne ha viste di ogni sorta. Ma nulla di ciò che ha incontrato è paragonabile all'orrore cui si trova davanti: l'immondo pasto di una suora zombie che azzanna il volt...</summary>
+    <link href="../book_0/book_89.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ora zero</title>
+    <id>calibre:book:86</id>
+    <updated>2016-07-17T05:53:22Z</updated>
+    <link href="../../Andy%20McNab/Ora%20zero%20%2886%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Andy%20McNab/Ora%20zero%20%2886%29/Ora%20zero%20-%20Andy%20McNab.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="445 KB" />
+    <author>
+      <name>Andy McNab</name>
+      <uri>../author_0/author_68_Page_1.xml</uri>
+    </author>
+    <published>2014-02-02T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <summary>Lilian Edinet, vent&amp;apos;anni appena, figlia di un imprenditore moldavo e studentessa in Inghilterra, è scomparsa da una settimana. Un caso come un altro, una delle migliaia di persone che ogni giorno vengono inghiottite dal nulla, a volte per sempre...</summary>
+    <link href="../book_0/book_86.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'Orda del Vento</title>
+    <id>calibre:book:124</id>
+    <updated>2016-07-17T05:53:33Z</updated>
+    <link href="../../Alain%20Damasio/L%27Orda%20del%20Vento%20%28124%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alain%20Damasio/L%27Orda%20del%20Vento%20%28124%29/L%27Orda%20del%20Vento%20-%20Alain%20Damasio.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="3 MB" />
+    <author>
+      <name>Alain Damasio</name>
+      <uri>../author_0/author_94_Page_1.xml</uri>
+    </author>
+    <published>2008-12-31T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Casa Editrice Nord</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Lang:it" />
+    <summary>Questa è la storia di una terra circondata dai ghiacci e spazzata dal vento. Da un vento che cambia sempre forza, intensità e direzione. Ma non smette mai di soffiare. Costante e implacabile. Questa è la storia della 34a Orda, decisa a scoprire l'ori...</summary>
+    <link href="../book_0/book_124.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Oversight</title>
+    <id>calibre:book:88</id>
+    <updated>2016-07-17T05:53:23Z</updated>
+    <link href="../../Charlie%20Fletcher/Oversight%20%2888%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Charlie%20Fletcher/Oversight%20%2888%29/Oversight%20-%20Charlie%20Fletcher.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="746 KB" />
+    <author>
+      <name>Charlie Fletcher</name>
+      <uri>../author_0/author_70_Page_1.xml</uri>
+    </author>
+    <published>2014-07-06T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Londra, metà Ottocento. L’organizzazione segreta Oversight ha il compito sia di proteggere gli esseri umani privi di poteri magici dalle scorribande degli esseri fatati di ogni genere, sia di difendere il mondo magico dalle ingiustizie perpetrate – p...</summary>
+    <link href="../book_0/book_88.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'occhio del tempo</title>
+    <id>calibre:book:127</id>
+    <updated>2016-07-17T05:53:34Z</updated>
+    <link href="../../Arthur%20C.%20Clarke/L%27occhio%20del%20tempo%20%28127%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Arthur%20C.%20Clarke/L%27occhio%20del%20tempo%20%28127%29/L%27occhio%20del%20tempo%20-%20Arthur%20C.%20Clarke.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="594 KB" />
+    <author>
+      <name>Arthur C. Clarke</name>
+      <uri>../author_0/author_96_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Stephen Baxter</name>
+      <uri>../author_0/author_97_Page_1.xml</uri>
+    </author>
+    <published>2005-05-07T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <summary>Arthur C. Clarke è una leggenda della fantascienza, capace come nessun altro di trasmettere ai lettori un&amp;apos;incrollabile fiducia nelle potenzialità dell&amp;apos;essere umano e della scienza. Stephen Baxter è uno scrittore dotato di un&amp;apos;immaginazi...</summary>
+    <link href="../book_0/book_127.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'ombra della maledizione</title>
+    <id>calibre:book:125</id>
+    <updated>2016-07-17T05:53:33Z</updated>
+    <link href="../../Lois%20McMaster%20Bujold/L%27ombra%20della%20maledizione%20%28125%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lois%20McMaster%20Bujold/L%27ombra%20della%20maledizione%20%28125%29/L%27ombra%20della%20maledizione%20-%20Lois%20McMaster%20Bujold.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="943 KB" />
+    <author>
+      <name>Lois McMaster Bujold</name>
+      <uri>../author_0/author_95_Page_1.xml</uri>
+    </author>
+    <published>2003-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Nord</dcterms:publisher>
+    <category term="General" />
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>Sopravvissuto a una lunga prigionia, ma distrutto nel corpo e nello spirito, Cazaril ritorna nei domini della nobile casata per cui aveva servito come paggio ed è nominato, a sorpresa, tutore di Royesse, bella e intelligente sorella dell'erede al tro...</summary>
+    <link href="../book_0/book_125.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Little Brother</title>
+  <id>urn:book:4c87e061-bf08-4782-837b-e27b5b84c018</id>
+  <updated>2016-07-17T05:53:34Z</updated>
+  <link href="./book_129.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Little Brother" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with D" />
+  <link href="../../Cory%20Doctorow/Little%20Brother%20%28129%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Cory%20Doctorow/Little%20Brother%20%28129%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Cory%20Doctorow/Little%20Brother%20%28129%29/Little%20Brother%20-%20Cory%20Doctorow.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="622 KB" />
+  <author>
+    <name>Cory Doctorow</name>
+    <uri>../author_0/author_98_Page_1.xml</uri>
+  </author>
+  <published>2010-04-12T10:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Tor Teen</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>Marcus, a.k.a "w1n5t0n," is only seventeen years old, but
+      he figures he already knows how the system works-and how to
+      work the system. Smart, fast, and wise to the ways of the
+      networked world, he has no trouble outwitting his high
+      school's intrusive but clumsy surveillance systems.</p>
+      <p>But his whole world changes when he and his friends find
+      themselves caught in the aftermath of a major terrorist
+      attack on San Francisco. In the wrong place at the wrong
+      time, Marcus and his crew are apprehended by the Department
+      of Homeland Security and whisked away to a secret prison
+      where they're mercilessly interrogated for days.</p>
+      <p>When the DHS finally releases them, Marcus discovers that
+      his city has become a police state where every citizen is
+      treated like a potential terrorist. He knows that no one will
+      believe his story, which leaves him only one option: to take
+      down the DHS himself.</p>
+      <p>**</p>
+    </div>
+  </content>
+  <link href="../author_0/author_98_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Cory Doctorow" />
+  <link href="http://www.goodreads.com/book/title/Little%20Brother" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Little%20Brother" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Little%20Brother%20Cory%20Doctorow" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Little%20Brother&amp;field-author=Cory%20Doctorow" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Cory%20Doctorow" type="text/html" rel="related" title="Cory Doctorow on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Cory%20Doctorow" type="text/html" rel="related" title="Cory Doctorow on Wikipedia" />
+  <link href="http://www.librarything.com/author/DoctorowCory" type="text/html" rel="related" title="Cory Doctorow on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Cory%20Doctorow" type="text/html" rel="related" title="Cory Doctorow on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Cory%20Doctorow" type="text/html" rel="related" title="Cory Doctorow on ISFDB" />
+</entry>

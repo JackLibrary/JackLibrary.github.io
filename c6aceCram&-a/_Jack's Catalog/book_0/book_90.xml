@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>L'Occhio di Dio</title>
+  <id>urn:book:72e564a8-efb5-4bac-8bd7-5338eb296ee8</id>
+  <updated>2016-07-17T05:53:23Z</updated>
+  <link href="./book_90.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="L'Occhio di Dio" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../../Barry%20Eisler/L%27Occhio%20di%20Dio%20%2890%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Barry%20Eisler/L%27Occhio%20di%20Dio%20%2890%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Barry%20Eisler/L%27Occhio%20di%20Dio%20%2890%29/L%27Occhio%20di%20Dio%20-%20Barry%20Eisler.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="584 KB" />
+  <author>
+    <name>Barry Eisler</name>
+    <uri>../author_0/author_72_Page_1.xml</uri>
+  </author>
+  <author>
+    <name>Francesca Cosi</name>
+    <uri>../author_0/author_73_Page_1.xml</uri>
+  </author>
+  <author>
+    <name>Alessandra Reposi</name>
+    <uri>../author_0/author_74_Page_1.xml</uri>
+  </author>
+  <published>2016-05-12T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <category term="Spies &amp; Politics" />
+  <category term="Crime" />
+  <category term="Foreign Language Fiction" />
+  <category term="Mystery" />
+  <category term="Espionage" />
+  <category term="Thrillers &amp; Suspense" />
+  <category term="Thriller" />
+  <category term="Thriller &amp; Suspense" />
+  <category term="Thriller &amp; Mystery" />
+  <category term="Action &amp; Adventure" />
+  <category term="Literature &amp; Fiction" />
+  <category term="Thrillers" />
+  <category term="Italian" />
+  <category term="Foreign Languages" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Spies &amp; Politics, Crime, Foreign Language Fiction, Mystery, Espionage, Thrillers &amp; Suspense, Thriller, Thriller &amp; Suspense, Thriller &amp; Mystery, Action &amp; Adventure, Literature &amp; Fiction, Thrillers, Italian, Foreign Languages, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>Il direttore dell’NSA Theodore Anders ha un solo
+      obiettivo: intercettare ogni telefonata, email e messaggio
+      diffuso tramite Internet. Sa che la sorveglianza totale
+      è l’unico modo per proteggere l’America.</p>
+      <p>A Evelyn Gallagher non importa granché. Vuole
+      soltanto fare il proprio lavoro e gestire la rete di
+      videocamere e il programma di riconoscimento facciale
+      dell’NSA, in modo da poter pagare la retta della scuola
+      privata del figlio Dash, un bambino sordo.</p>
+      <p>Ma quando Evelyn scopre l’esistenza di un programma
+      dell’NSA dal nome in codice God’s Eye, e lo
+      collega alle misteriose morti di una serie di giornalisti e
+      gole profonde, i suoi dubbi la fanno finire insieme a Dash
+      nel mirino di due assassini prezzolati dal governo: Delgado,
+      un sadico hacker dinamitardo, e Manus, un colosso pieno di
+      problemi il cui unico scopo nella vita, fino a quel momento,
+      è stato proteggere il direttore.</p>
+      <p>In un complesso gioco di ricatti politici, provocazioni
+      terroristiche e macchinazioni della Casa Bianca, è in
+      corso una guerra tra chi cerca disperatamente di mantenere al
+      sicuro i segreti più oscuri dello Stato e chi intende
+      rivelarli al mondo. È una guerra dalla quale Evelyn
+      dovrà cercare di uscire viva sfruttando il suo
+      addestramento da spia e la sua intelligenza. Una guerra che
+      il direttore combatte servendosi dello strumento di raccolta
+      informazioni più avanzato del mondo: God’s Eye,
+      l’Occhio di Dio.</p>
+      <br class="description" />
+      <br />
+      <p>**</p>
+    </div>
+  </content>
+  <link href="../author_0/author_72_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Barry Eisler" />
+  <link href="../author_0/author_73_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Francesca Cosi" />
+  <link href="../author_0/author_74_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Alessandra Reposi" />
+  <link href="http://www.goodreads.com/book/title/L%27Occhio%20di%20Dio" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/L%27Occhio%20di%20Dio" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/L%27Occhio%20di%20Dio%20Barry%20Eisler" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=L%27Occhio%20di%20Dio&amp;field-author=Barry%20Eisler" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Barry%20Eisler" type="text/html" rel="related" title="Barry Eisler on Goodreads" />
+  <link href="http://www.goodreads.com/book/author/Francesca%20Cosi" type="text/html" rel="related" title="Francesca Cosi on Goodreads" />
+  <link href="http://www.goodreads.com/book/author/Alessandra%20Reposi" type="text/html" rel="related" title="Alessandra Reposi on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Barry%20Eisler" type="text/html" rel="related" title="Barry Eisler on Wikipedia" />
+  <link href="http://en.wikipedia.org/wiki/Francesca%20Cosi" type="text/html" rel="related" title="Francesca Cosi on Wikipedia" />
+  <link href="http://en.wikipedia.org/wiki/Alessandra%20Reposi" type="text/html" rel="related" title="Alessandra Reposi on Wikipedia" />
+  <link href="http://www.librarything.com/author/EislerBarry" type="text/html" rel="related" title="Barry Eisler on LibraryThing" />
+  <link href="http://www.librarything.com/author/CosiFrancesca" type="text/html" rel="related" title="Francesca Cosi on LibraryThing" />
+  <link href="http://www.librarything.com/author/ReposiAlessandra" type="text/html" rel="related" title="Alessandra Reposi on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Barry%20Eisler" type="text/html" rel="related" title="Barry Eisler on Amazon" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Francesca%20Cosi" type="text/html" rel="related" title="Francesca Cosi on Amazon" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Alessandra%20Reposi" type="text/html" rel="related" title="Alessandra Reposi on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Barry%20Eisler" type="text/html" rel="related" title="Barry Eisler on ISFDB" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Francesca%20Cosi" type="text/html" rel="related" title="Francesca Cosi on ISFDB" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Alessandra%20Reposi" type="text/html" rel="related" title="Alessandra Reposi on ISFDB" />
+</entry>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with V</title>
+  <id>Calibre2opds:allbooks:V</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with V" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>Vajont - Oltre il muro (Italian Edition)</title>
+    <id>calibre:book:16</id>
+    <updated>2016-07-17T05:53:00Z</updated>
+    <link href="../../Paolo%20Guarnieri/Vajont%20-%20Oltre%20il%20muro%20%28Italian%20Edit%20%2816%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Paolo%20Guarnieri/Vajont%20-%20Oltre%20il%20muro%20%28Italian%20Edit%20%2816%29/Vajont%20-%20Oltre%20il%20muro%20%28Italian%20-%20Paolo%20Guarnieri.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Paolo Guarnieri</name>
+      <uri>../author_0/author_16_Page_1.xml</uri>
+    </author>
+    <published>2016-05-24T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Panda Edizioni</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>L&amp;apos;autore di questo libro, all&amp;apos;epoca dei fatti, era un giovane pompiere. Assieme ai suoi compagni, all&amp;apos;alba del 10 ottobre del 1963, si è trovato improvvisamente catapultato sul luogo del disastro, una delle più grandi catastrofi degli ...</summary>
+    <link href="../book_0/book_16.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Vedi di non morire</title>
+    <id>calibre:book:14</id>
+    <updated>2016-07-17T05:52:59Z</updated>
+    <link href="../../Josh%20Bazell/Vedi%20di%20non%20morire%20%2814%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Josh%20Bazell/Vedi%20di%20non%20morire%20%2814%29/Vedi%20di%20non%20morire%20-%20Josh%20Bazell.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="456 KB" />
+    <author>
+      <name>Josh Bazell</name>
+      <uri>../author_0/author_14_Page_1.xml</uri>
+    </author>
+    <published>2009-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Einaudi</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Suspense" />
+    <category term="Thrillers" />
+    <category term="Lang:it" />
+    <summary>Grazie a Peter Brown, ex killer entrato in un programma di protezione governativo, la mafia fa il suo ingresso tra le corsie di un famigerato ospedale di Manhattan. Quando Peter va come ogni mattina al lavoro in ospedale, non sa che la Grande Mietitr...</summary>
+    <link href="../book_0/book_14.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Verification Handbook</title>
+    <id>calibre:book:15</id>
+    <updated>2016-07-17T05:53:00Z</updated>
+    <link href="../../EJC/Verification%20Handbook%20%2815%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../EJC/Verification%20Handbook%20%2815%29/Verification%20Handbook%20-%20EJC.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="8 MB" />
+    <author>
+      <name>EJC</name>
+      <uri>../author_0/author_15_Page_1.xml</uri>
+    </author>
+    <published>2014-02-06T11:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>European Journalism Centre</dcterms:publisher>
+    <category term="Lang:en" />
+    <link href="../book_0/book_15.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>VirtNet Runner – Il giocatore</title>
+    <id>calibre:book:12</id>
+    <updated>2016-07-17T05:52:59Z</updated>
+    <link href="../../James%20Dashner/VirtNet%20Runner%20-%20Il%20giocatore%20%2812%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../James%20Dashner/VirtNet%20Runner%20-%20Il%20giocatore%20%2812%29/VirtNet%20Runner%20-%20Il%20giocatore%20-%20James%20Dashner.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="473 KB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../author_0/author_12_Page_1.xml</uri>
+    </author>
+    <published>2015-03-23T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>Michael è un gamer, e come la maggior parte dei gamer, spende più tempo nella VirtNet che nel mondo reale. La VirtNet è una totale immersione del corpo e della mente nel mondo virtuale, e crea dipendenza. Grazie alla tecnologia, chiunque abbia un bel...</summary>
+    <link href="../book_0/book_12.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Visione del Futuro</title>
+    <id>calibre:book:13</id>
+    <updated>2016-07-17T05:52:59Z</updated>
+    <link href="../../Timothy%20Zahn/Visione%20del%20Futuro%20%2813%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Timothy%20Zahn/Visione%20del%20Futuro%20%2813%29/Visione%20del%20Futuro%20-%20Timothy%20Zahn.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Timothy Zahn</name>
+      <uri>../author_0/author_13_Page_1.xml</uri>
+    </author>
+    <published>2013-12-02T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it</dcterms:publisher>
+    <category term="Fantascienza" />
+    <category term="Star Wars" />
+    <category term="Lang:it" />
+    <summary>"Visione del futuro" è il grandioso atto conclusivo di una delle storie di Star Wars più avvincenti e frenetiche mai scritte: un universo ricreato in modo magistrale che ci restituisce la magia e l'avventura della più grande saga fantascientifica di ...</summary>
+    <link href="../book_0/book_13.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La via dei Re</title>
+    <id>calibre:book:146</id>
+    <updated>2016-07-17T05:53:40Z</updated>
+    <link href="../../Brandon%20Sanderson/La%20via%20dei%20Re%20%28146%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brandon%20Sanderson/La%20via%20dei%20Re%20%28146%29/La%20via%20dei%20Re%20-%20Brandon%20Sanderson.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="5 MB" />
+    <author>
+      <name>Brandon Sanderson</name>
+      <uri>../author_0/author_32_Page_1.xml</uri>
+    </author>
+    <published>2013-12-22T05:08:53Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <summary>Rimpiango i giorni precedenti all'Ultima Desolazione. L'epoca prima che gli Araldi ci abbandonassero e i Cavalieri Radiosi si rivoltassero contro di noi. Un tempo in cui c'era ancora la magia nel mondo e l'onore nel cuore degli uomini. Il mondo diven...</summary>
+    <link href="../book_0/book_146.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

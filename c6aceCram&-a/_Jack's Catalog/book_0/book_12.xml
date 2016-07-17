@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>VirtNet Runner – Il giocatore</title>
+  <id>urn:book:f99dd5cf-28a4-4814-933f-65935e8092ea</id>
+  <updated>2016-07-17T05:52:59Z</updated>
+  <link href="./book_12.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="VirtNet Runner – Il giocatore" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with D" />
+  <link href="../../James%20Dashner/VirtNet%20Runner%20-%20Il%20giocatore%20%2812%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../James%20Dashner/VirtNet%20Runner%20-%20Il%20giocatore%20%2812%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../James%20Dashner/VirtNet%20Runner%20-%20Il%20giocatore%20%2812%29/VirtNet%20Runner%20-%20Il%20giocatore%20-%20James%20Dashner.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="473 KB" />
+  <author>
+    <name>James Dashner</name>
+    <uri>../author_0/author_12_Page_1.xml</uri>
+  </author>
+  <published>2015-03-23T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <span xmlns="" style="font-family: verdana, arial, helvetica, sans-serif; font-size: small; widows: 1; background-color: rgb(255, 255, 255);">Michael
+    è un gamer, e come la maggior parte dei gamer, spende
+    più tempo nella VirtNet che nel mondo reale. La VirtNet
+    è una totale immersione del corpo e della mente nel mondo
+    virtuale, e crea dipendenza. Grazie alla tecnologia, chiunque
+    abbia un bel po’ di soldi può sperimentare mondi
+    fantastici, rischiare la propria vita senza essere mai in
+    pericolo o semplicemente spassarsela con i propri amici
+    virtuali. E più si hanno doti da hacker, maggiore è
+    il divertimento. Perché preoccuparsi di seguire le regole
+    quando la maggior parte di esse non ha senso? Eppure, alcune
+    sono state create per una ragione: la tecnologia può
+    essere pericolosa. Un gamer sconosciuto è andato oltre
+    ogni limite, tenendo in ostaggio altri gamer nella VirtNet. Gli
+    effetti sono devastanti: tutti i gamer ostaggi finiscono per
+    essere dichiarati cerebralmente morti. Quali sono i motivi che
+    spingono il misterioso gamer ad agire in questo modo? Il
+    governo sa che per acciuffare un hacker ci vuole un hacker. Il
+    prescelto è Michael, ma il rischio è enorme. Se
+    accetta la sfida, Michael sa di dover andare oltre le regole
+    della VirtNet e affrontare pericoli e predatori che una mente
+    umana non riuscirebbe neanche a immaginare. E sa che il confine
+    tra gioco e realtà potrebbe essere cancellato per
+    sempre.</span>
+  </content>
+  <link href="../author_0/author_12_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by James Dashner" />
+  <link href="http://www.goodreads.com/book/title/VirtNet%20Runner%20%E2%80%93%20Il%20giocatore" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/VirtNet%20Runner%20%E2%80%93%20Il%20giocatore" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/VirtNet%20Runner%20%E2%80%93%20Il%20giocatore%20James%20Dashner" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=VirtNet%20Runner%20%E2%80%93%20Il%20giocatore&amp;field-author=James%20Dashner" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/James%20Dashner" type="text/html" rel="related" title="James Dashner on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/James%20Dashner" type="text/html" rel="related" title="James Dashner on Wikipedia" />
+  <link href="http://www.librarything.com/author/DashnerJames" type="text/html" rel="related" title="James Dashner on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=James%20Dashner" type="text/html" rel="related" title="James Dashner on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?James%20Dashner" type="text/html" rel="related" title="James Dashner on ISFDB" />
+</entry>

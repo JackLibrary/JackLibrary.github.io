@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Caliban. La guerra</title>
+  <id>urn:book:f07489c0-2310-46dd-90c3-4ff6430aaefc</id>
+  <updated>2016-07-17T05:54:11Z</updated>
+  <link href="./book_256.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Caliban. La guerra" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../../James%20s.%20A.%20Corey/Caliban.%20La%20guerra%20%28256%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../James%20s.%20A.%20Corey/Caliban.%20La%20guerra%20%28256%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../James%20s.%20A.%20Corey/Caliban.%20La%20guerra%20%28256%29/Caliban.%20La%20guerra%20-%20James%20s.%20A.%20Corey.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+  <author>
+    <name>James s. A. Corey</name>
+    <uri>../author_0/author_2_Page_1.xml</uri>
+  </author>
+  <published>2015-11-10T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+  <category term="Science Fiction" />
+  <category term="Fiction" />
+  <category term="General" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Science Fiction, Fiction, General, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">Su Ganimede, il pianeta granaio
+    dell’intero sistema gioviano e fonte di
+    approvvigionamento per i pianeti più esterni, un marine
+    dell’esercito di Marte assiste inerme allo sterminio del
+    suo plotone, massacrato da un mostruoso supersoldato. Nel
+    frattempo, Venere è stato invaso da una protomolecola
+    aliena altamente infettiva che, dopo aver apportato misteriosi
+    e catastrofici cambiamenti all’equilibrio del pianeta,
+    minaccia di espandersi nell’intero sistema solare. Sulla
+    Terra, un politico di alto rango lotta per evitare che si
+    riaccenda la guerra interplanetaria.È in questo scenario
+    che James Holden e l’equipaggio della Rocinante provano a
+    mantenere la pace all’interno dell’Alleanza dei
+    Pianeti Esterni. Quando accettano di aiutare uno scienziato a
+    ritrovare un bambino scomparso in una Ganimede devastata dalla
+    guerra, comprenderanno che in gioco c’è molto
+    più della sorte di un singolo. L’avvenire
+    dell’umanità è nelle loro mani, ma
+    riuscirà una sola navicella a impedire un’invasione
+    aliena che forse è già cominciata?Un’epopea
+    visionaria e avveniristica, un viaggio in un futuro remoto ma
+    al tempo stesso sorprendentemente tangibile.</p>
+  </content>
+  <link href="../author_0/author_2_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by James s. A. Corey" />
+  <link href="http://www.goodreads.com/book/title/Caliban.%20La%20guerra" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Caliban.%20La%20guerra" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Caliban.%20La%20guerra%20James%20s.%20A.%20Corey" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Caliban.%20La%20guerra&amp;field-author=James%20s.%20A.%20Corey" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/James%20s.%20A.%20Corey" type="text/html" rel="related" title="James s. A. Corey on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/James%20s.%20A.%20Corey" type="text/html" rel="related" title="James s. A. Corey on Wikipedia" />
+  <link href="http://www.librarything.com/author/CoreyJamess.A." type="text/html" rel="related" title="James s. A. Corey on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=James%20s.%20A.%20Corey" type="text/html" rel="related" title="James s. A. Corey on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?James%20s.%20A.%20Corey" type="text/html" rel="related" title="James s. A. Corey on ISFDB" />
+</entry>

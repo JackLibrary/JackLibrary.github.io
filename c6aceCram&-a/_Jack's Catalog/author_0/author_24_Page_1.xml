@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Jo Walton</title>
+  <id>Calibre2opds:author:24</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_24_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Jo Walton" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_W_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with W" />
+  <entry>
+    <title>Un altro mondo</title>
+    <id>calibre:book:27</id>
+    <updated>2016-07-17T05:53:04Z</updated>
+    <link href="../../Jo%20Walton/Un%20altro%20mondo%20%2827%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jo%20Walton/Un%20altro%20mondo%20%2827%29/Un%20altro%20mondo%20-%20Jo%20Walton.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="700 KB" />
+    <author>
+      <name>Jo Walton</name>
+      <uri>../author_0/author_24_Page_1.xml</uri>
+    </author>
+    <published>2013-10-13T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Gargoyle</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Lang:it" />
+    <summary>Allevata da una madre instabile che si diletta di magia, Morwenna Phelps trova rifugio in due mondi: tra gli spiriti che dimorano nei siti industriali abbandonati, nella sua città natale in Galles, e nei romanzi di fantascienza, suoi fedeli compagni,...</summary>
+    <link href="../book_0/book_27.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le mie due vite</title>
+    <id>calibre:book:137</id>
+    <updated>2016-07-17T05:53:37Z</updated>
+    <link href="../../Jo%20Walton/Le%20mie%20due%20vite%20%28137%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jo%20Walton/Le%20mie%20due%20vite%20%28137%29/Le%20mie%20due%20vite%20-%20Jo%20Walton.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="744 KB" />
+    <author>
+      <name>Jo Walton</name>
+      <uri>../author_0/author_24_Page_1.xml</uri>
+    </author>
+    <published>2014-10-01T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Gargoyle</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Lang:it" />
+    <summary>Patricia ha dei ricordi molto confusi del suo passato. Le immagini dell’adolescenza sono nitide e intatte, ma dopo cosa è successo?
+Ha sposato Mark ed è stata moglie e madre come le sue coetanee, oppure ha scelto di amare liberamente la sua compagna ...</summary>
+    <link href="../book_0/book_137.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

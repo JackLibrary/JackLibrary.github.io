@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Internet Apocalypse</title>
+  <id>urn:book:04825f1a-db73-4310-ab94-9fdd9d2048b1</id>
+  <updated>2016-07-17T05:53:48Z</updated>
+  <link href="./book_172.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Internet Apocalypse" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <link href="../../Wayne%20Gladstone/Internet%20Apocalypse%20%28172%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Wayne%20Gladstone/Internet%20Apocalypse%20%28172%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Wayne%20Gladstone/Internet%20Apocalypse%20%28172%29/Internet%20Apocalypse%20-%20Wayne%20Gladstone.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="807 KB" />
+  <author>
+    <name>Wayne Gladstone</name>
+    <uri>../author_0/author_119_Page_1.xml</uri>
+  </author>
+  <published>2014-11-10T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+  <category term="Fantasy" />
+  <category term="Hard Science Fiction" />
+  <category term="Science Fiction &amp; Fantasy" />
+  <category term="Horror &amp; Science Fiction" />
+  <category term="Teen &amp; Young Adult" />
+  <category term="Science Fiction" />
+  <category term="Foreign Language Fiction" />
+  <category term="Post-Apocalyptic" />
+  <category term="Foreign Languages" />
+  <category term="Literature &amp; Fiction" />
+  <category term="Italian" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Fantasy, Hard Science Fiction, Science Fiction &amp; Fantasy, Horror &amp; Science Fiction, Teen &amp; Young Adult, Science Fiction, Foreign Language Fiction, Post-Apocalyptic, Foreign Languages, Literature &amp; Fiction, Italian, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>IL VIAGGIO DI UN UOMO IN UN MONDO SENZA INTERNET,
+      UN’APOCALISSE CHE POTREBBE RIVELARSI NECESSARIA PER
+      RICORDARE CHI SIAMO DAVVERO.</p>
+      <p>
+        Il World Wide Web è scomparso. Nessuno - nemmeno il
+      Presidente degli Stati Uniti – è in grado di
+      trovare un segnale Wi-Fi e accedere alla Rete. La gente va
+      nel panico, l’economia si paralizza e il mondo scivola
+      lentamente nel caos.
+        <br />
+        L’apocalisse di Internet ha avuto inizio. Per
+      Gladstone, disilluso impiegato newyorkese, è un duro
+      colpo: niente più Facebook, niente più Twitter,
+      niente più Youtube, niente più pornografia
+      online… ma la vita va avanti, e i cittadini di New York
+      trovano presto nuovi, bizzarri metodi per passare il tempo
+      offline e senza social network. Girano comunque voci che, da
+      qualche parte, tra i grattacieli della Grande Mela, si
+      nasconda Internet… ma chi l’ha rubato, e per
+      quale motivo?
+        <br />
+        Armato solo del suo borsalino, della sua fiaschetta di
+      whiskey e della sua ironia, Gladstone si imbarca in
+      un’esilarante odissea in compagnia dell’immaturo
+      blogger Tobey e della sensuale webcam girl Oz, per scoprire
+      la verità e riportare il Web alla normalità.
+        <br />
+        L’improbabile trio inizia così la ricerca
+      dell’inafferrabile segnale Wi-Fi ritrovandosi alle
+      prese con minacce terroristiche, covi di Anonymous, esclusivi
+      club a luci rosse, incredibili profezie e zombie in astinenza
+      da Web. Ci vorrebbe un Messia per restituire Internet
+      all’umanità… ma sarà Gladstone
+      all’altezza del compito?
+      </p>
+      <p>**</p>
+    </div>
+  </content>
+  <link href="../author_0/author_119_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Wayne Gladstone" />
+  <link href="http://www.goodreads.com/book/title/Internet%20Apocalypse" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Internet%20Apocalypse" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Internet%20Apocalypse%20Wayne%20Gladstone" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Internet%20Apocalypse&amp;field-author=Wayne%20Gladstone" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Wayne%20Gladstone" type="text/html" rel="related" title="Wayne Gladstone on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Wayne%20Gladstone" type="text/html" rel="related" title="Wayne Gladstone on Wikipedia" />
+  <link href="http://www.librarything.com/author/GladstoneWayne" type="text/html" rel="related" title="Wayne Gladstone on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Wayne%20Gladstone" type="text/html" rel="related" title="Wayne Gladstone on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Wayne%20Gladstone" type="text/html" rel="related" title="Wayne Gladstone on ISFDB" />
+</entry>

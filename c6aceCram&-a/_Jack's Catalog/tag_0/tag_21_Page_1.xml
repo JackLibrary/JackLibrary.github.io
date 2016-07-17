@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Thriller &amp; Mystery</title>
+  <id>Calibre2opds:taglist:T:21</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tag_21_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Thriller &amp; Mystery" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with T" />
+  <entry>
+    <title>I 500</title>
+    <id>calibre:book:11</id>
+    <updated>2016-07-17T05:52:58Z</updated>
+    <link href="../../Matthew%20Quirk/i%20500%20%2811%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Matthew%20Quirk/i%20500%20%2811%29/i%20500%20-%20Matthew%20Quirk.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Matthew Quirk</name>
+      <uri>../author_0/author_11_Page_1.xml</uri>
+    </author>
+    <published>2012-10-15T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Sperling &amp; Kupfer</dcterms:publisher>
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Thrillers" />
+    <category term="Crime" />
+    <category term="Mystery" />
+    <category term="Foreign Language Fiction" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Lang:it" />
+    <summary>Un anno fa, fresco di laurea in legge a Harvard, Mike Ford ha ottenuto il posto di lavoro che ha sempre sognato: è stato assunto al Davies Group, lo studio di consulenza più influente di Washington. Oggi si ritrova al centro di un gioco mortale, inse...</summary>
+    <link href="../book_0/book_11.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sbirritudine: Un poliziotto dentro la mafia più feroce. Una storia vera.</title>
+    <id>calibre:book:55</id>
+    <updated>2016-07-17T05:53:12Z</updated>
+    <link href="../../Giorgio%20Glaviano/Sbirritudine_%20Un%20poliziotto%20dentro%20l%20%2855%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Giorgio%20Glaviano/Sbirritudine_%20Un%20poliziotto%20dentro%20l%20%2855%29/Sbirritudine_%20Un%20poliziotto%20den%20-%20Giorgio%20Glaviano.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="790 KB" />
+    <author>
+      <name>Giorgio Glaviano</name>
+      <uri>../author_0/author_46_Page_1.xml</uri>
+    </author>
+    <published>2015-05-20T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Rizzoli</dcterms:publisher>
+    <category term="Crime" />
+    <category term="Mystery" />
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Foreign Languages" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Thrillers" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Lang:it" />
+    <summary>UN UOMO CHE HA SCELTO DI RISCHIARE TUTTO IN NOME DELLA GIUSTIZIA. UN THRILLER ISPIRATO A FATTI REALMENTE ACCADUTI.  Conosce le loro regole, ma non è uno di loro. Sopporta notti insonni e lunghi appostamenti, inseguendo segreti antichi come l’Italia. ...</summary>
+    <link href="../book_0/book_55.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il quarto uomo</title>
+    <id>calibre:book:67</id>
+    <updated>2016-07-17T05:53:16Z</updated>
+    <link href="../../Frank%20Schatzing/Il%20quarto%20uomo%20%2867%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Frank%20Schatzing/Il%20quarto%20uomo%20%2867%29/Il%20quarto%20uomo%20-%20Frank%20Schatzing.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="850 KB" />
+    <author>
+      <name>Frank Schätzing</name>
+      <uri>../author_0/author_53_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Lucia Ferrantini</name>
+      <uri>../author_0/author_54_Page_1.xml</uri>
+    </author>
+    <published>2015-10-07T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Casa Editrice Nord</dcterms:publisher>
+    <category term="Crime" />
+    <category term="Mystery" />
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Foreign Languages" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Thrillers" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Lang:it" />
+    <summary>Kuwait, 1991. Una scatola piena di diamanti tra le macerie di un convoglio saltato in aria. Per uno come lui, che da anni combatte come mercenario, è un sogno diventato realtà. Presto lui e i suoi due compagni potranno farla finita con quella vita. A...</summary>
+    <link href="../book_0/book_67.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La ragazza che sapeva troppo</title>
+    <id>calibre:book:68</id>
+    <updated>2016-07-17T05:53:16Z</updated>
+    <link href="../../M.%20R.%20Carey/La%20ragazza%20che%20sapeva%20troppo%20%2868%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../M.%20R.%20Carey/La%20ragazza%20che%20sapeva%20troppo%20%2868%29/La%20ragazza%20che%20sapeva%20troppo%20-%20M.%20R.%20Carey.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="811 KB" />
+    <author>
+      <name>M. R. Carey</name>
+      <uri>../author_0/author_55_Page_1.xml</uri>
+    </author>
+    <published>2015-03-26T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Newton Compton Editori</dcterms:publisher>
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Thrillers" />
+    <category term="Crime" />
+    <category term="Mystery" />
+    <category term="Foreign Language Fiction" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Lang:it" />
+    <summary>«Un capolavoro.»The Sun   «Originale, avvincente, potente.»The Guardian«Accattivante, travolgente, commovente.»VogueMelanie, dieci anni e un quoziente intellettivo altissimo, ogni mattina aspetta paziente nella stanza dove vive chiusa a chiave che la...</summary>
+    <link href="../book_0/book_68.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Prima di dirti addio</title>
+    <id>calibre:book:72</id>
+    <updated>2016-07-17T05:53:17Z</updated>
+    <link href="../../Piergiorgio%20Pulixi/Prima%20di%20dirti%20addio%20%2872%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Piergiorgio%20Pulixi/Prima%20di%20dirti%20addio%20%2872%29/Prima%20di%20dirti%20addio%20-%20Piergiorgio%20Pulixi.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Piergiorgio Pulixi</name>
+      <uri>../author_0/author_20_Page_1.xml</uri>
+    </author>
+    <published>2016-05-18T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Edizioni e/o</dcterms:publisher>
+    <category term="Crime" />
+    <category term="Foreign Language Fiction" />
+    <category term="Mystery" />
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Hard-Boiled" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Foreign Languages" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Crime Fiction" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Lang:it" />
+    <summary>Nulla è per sempre. A parte il rimpianto e la vendetta. Mazzeo è stato trascinato all’inferno dai suoi errori e dai suoi nemici e ora è rimasto solo. Anche i suoi uomini l’hanno abbandonato. Ma prima dell’addio c’è un conto che deve saldare. Vatslava...</summary>
+    <link href="../book_0/book_72.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Per sempre</title>
+    <id>calibre:book:80</id>
+    <updated>2016-07-17T05:53:20Z</updated>
+    <link href="../../Piergiorgio%20Pulixi/Per%20sempre%20%2880%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Piergiorgio%20Pulixi/Per%20sempre%20%2880%29/Per%20sempre%20-%20Piergiorgio%20Pulixi.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Piergiorgio Pulixi</name>
+      <uri>../author_0/author_20_Page_1.xml</uri>
+    </author>
+    <published>2015-10-21T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Edizioni e/o</dcterms:publisher>
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Mystery" />
+    <category term="Foreign Language Fiction" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Crime" />
+    <category term="Lang:it" />
+    <summary>La paura è più forte dell’amore e l’ispettore Mazzeo l’ha vissuto sulla sua pelle.Per la prima volta il poliziotto è tentato di lasciarsi tutto alle spalle e ricominciare da zero con Nicky, la ragazzina che gli è stata affidata. I suoi nemici non son...</summary>
+    <link href="../book_0/book_80.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'Occhio di Dio</title>
+    <id>calibre:book:90</id>
+    <updated>2016-07-17T05:53:23Z</updated>
+    <link href="../../Barry%20Eisler/L%27Occhio%20di%20Dio%20%2890%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Barry%20Eisler/L%27Occhio%20di%20Dio%20%2890%29/L%27Occhio%20di%20Dio%20-%20Barry%20Eisler.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="584 KB" />
+    <author>
+      <name>Barry Eisler</name>
+      <uri>../author_0/author_72_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Francesca Cosi</name>
+      <uri>../author_0/author_73_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Alessandra Reposi</name>
+      <uri>../author_0/author_74_Page_1.xml</uri>
+    </author>
+    <published>2016-05-12T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Spies &amp; Politics" />
+    <category term="Crime" />
+    <category term="Foreign Language Fiction" />
+    <category term="Mystery" />
+    <category term="Espionage" />
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Thriller" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Action &amp; Adventure" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Thrillers" />
+    <category term="Italian" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>Il direttore dell’NSA Theodore Anders ha un solo obiettivo: intercettare ogni telefonata, email e messaggio diffuso tramite Internet. Sa che la sorveglianza totale è l’unico modo per proteggere l’America.   A Evelyn Gallagher non importa granché. Vuo...</summary>
+    <link href="../book_0/book_90.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>I mercanti dell'Apocalisse</title>
+    <id>calibre:book:114</id>
+    <updated>2016-07-17T05:53:30Z</updated>
+    <link href="../../L.%20K.%20Brass/I%20mercanti%20dell%27Apocalisse%20%28114%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../L.%20K.%20Brass/I%20mercanti%20dell%27Apocalisse%20%28114%29/I%20mercanti%20dell%27Apocalisse%20-%20L.%20K.%20Brass.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="561 KB" />
+    <author>
+      <name>L. K. Brass</name>
+      <uri>../author_0/author_87_Page_1.xml</uri>
+    </author>
+    <published>2016-03-15T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Giunti</dcterms:publisher>
+    <category term="Literature &amp; Fiction" />
+    <category term="Crime" />
+    <category term="International Mystery &amp; Crime" />
+    <category term="Mystery" />
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Foreign Languages" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Thrillers" />
+    <category term="Political" />
+    <category term="Spies &amp; Politics" />
+    <category term="Lang:it" />
+    <summary>Daniel, geniale matematico, ha raggiunto il successo e tutto ciò che un uomo può desiderare, ma una breve telefonata cambierà la sua vita per sempre. Una terribile sciagura aerea e un attentato da cui si salva quasi per miracolo gli fanno capire di e...</summary>
+    <link href="../book_0/book_114.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>London Underground: Le indagini di Neal Carey (Einaudi. Stile libero big) (Italian Edition)</title>
+    <id>calibre:book:128</id>
+    <updated>2016-07-17T05:53:34Z</updated>
+    <link href="../../Don%20Winslow/London%20Underground_%20Le%20indagini%20di%20%28128%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Don%20Winslow/London%20Underground_%20Le%20indagini%20di%20%28128%29/London%20Underground_%20Le%20indagini%20-%20Don%20Winslow.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="652 KB" />
+    <author>
+      <name>Don Winslow</name>
+      <uri>../author_0/author_43_Page_1.xml</uri>
+    </author>
+    <published>2016-04-25T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Einaudi</dcterms:publisher>
+    <category term="Crime" />
+    <category term="Mystery" />
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Foreign Languages" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Thrillers" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Lang:it" />
+    <summary>Neal Carey era un ragazzino che viveva di espedienti nel West Side di New York quando Joe Graham lo ha scoperto e lo ha affiliato a una misteriosa agenzia del New England, gli Amici di Famiglia, che per i suoi facoltosi clienti è disposta a fare di t...</summary>
+    <link href="../book_0/book_128.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La città sepolta: Un'avventura della Sigma Force</title>
+    <id>calibre:book:160</id>
+    <updated>2016-07-17T05:53:45Z</updated>
+    <link href="../../James%20Rollins/La%20citta%20sepolta_%20Un%27avventura%20dell%20%28160%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../James%20Rollins/La%20citta%20sepolta_%20Un%27avventura%20dell%20%28160%29/La%20citta%20sepolta_%20Un%27avventura%20-%20James%20Rollins.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>James Rollins</name>
+      <uri>../author_0/author_111_Page_1.xml</uri>
+    </author>
+    <published>2010-10-15T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Casa Editrice Nord</dcterms:publisher>
+    <category term="Crime" />
+    <category term="Foreign Language Fiction" />
+    <category term="Mystery" />
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Thriller" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Action &amp; Adventure" />
+    <category term="ebook" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Thrillers" />
+    <category term="Italian" />
+    <category term="Suspense" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>L’esplosione che ha distrutto la Galleria Kensington del British Museum sembra non avere spiegazioni. Le ultime immagini delle telecamere di sorveglianza mostrano una sfera di luce che, entrando in contatto con un antico manufatto, innesta una reazio...</summary>
+    <link href="../book_0/book_160.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'informazionista (Rizzoli best) (Italian Edition)</title>
+    <id>calibre:book:173</id>
+    <updated>2016-07-17T05:53:48Z</updated>
+    <link href="../../Taylor%20Stevens/L%27informazionista%20%28Rizzoli%20best%29%20%28I%20%28173%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Taylor%20Stevens/L%27informazionista%20%28Rizzoli%20best%29%20%28I%20%28173%29/L%27informazionista%20%28Rizzoli%20best%20-%20Taylor%20Stevens.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="644 KB" />
+    <author>
+      <name>Taylor Stevens</name>
+      <uri>../author_0/author_120_Page_1.xml</uri>
+    </author>
+    <published>2011-06-21T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Rizzoli</dcterms:publisher>
+    <category term="Crime" />
+    <category term="Foreign Language Fiction" />
+    <category term="Mystery" />
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Thrillers" />
+    <category term="Italian" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>Il suo nome è Vanessa “Michael” Monroe. Ha un fisico asciutto e nervoso e un viso dalla bellezza misteriosa e androgina. Può scegliere se passare per uomo o per donna, a seconda della necessità e delle circostanze. Sa fiutare la paura e la menzogna e...</summary>
+    <link href="../book_0/book_173.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'indice della paura</title>
+    <id>calibre:book:176</id>
+    <updated>2016-07-17T05:53:49Z</updated>
+    <link href="../../Robert%20Harris/L%27indice%20della%20paura%20%28176%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Robert%20Harris/L%27indice%20della%20paura%20%28176%29/L%27indice%20della%20paura%20-%20Robert%20Harris.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="430 KB" />
+    <author>
+      <name>Robert Harris</name>
+      <uri>../author_0/author_123_Page_1.xml</uri>
+    </author>
+    <published>2011-09-05T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Edizioni Mondadori</dcterms:publisher>
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Thrillers" />
+    <category term="Crime" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Mystery" />
+    <category term="Foreign Language Fiction" />
+    <category term="General" />
+    <category term="Foreign Languages" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>È notte fonda quando il dottor Alex Hoffmann viene aggredito da uno sconosciuto che si introduce di nascosto nella sua residenza di Ginevra. A quarantadue anni Hoffmann è una leggenda: scienziato tra i più noti al mondo, è ora un ricco e potente uomo...</summary>
+    <link href="../book_0/book_176.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il segno</title>
+    <id>calibre:book:181</id>
+    <updated>2016-07-17T05:53:51Z</updated>
+    <link href="../../Sarah%20Lotz/Il%20segno%20%28181%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sarah%20Lotz/Il%20segno%20%28181%29/Il%20segno%20-%20Sarah%20Lotz.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Sarah Lotz</name>
+      <uri>../author_0/author_125_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Laura Prandino</name>
+      <uri>../author_0/author_126_Page_1.xml</uri>
+    </author>
+    <published>2015-09-09T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Casa Editrice Nord</dcterms:publisher>
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Thrillers" />
+    <category term="ebook" />
+    <category term="Crime" />
+    <category term="Mystery" />
+    <category term="Foreign Language Fiction" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Lang:it" />
+    <summary>«Un thriller coinvolgente e raffinato, una scoperta eccezionale.»The Guardian  «L'autrice trascina il lettore in una storia ambigua e ad altissima tensione. Un romanzo travolgente»The Indipendent  Uno è un casoDue sono una coincidenzaTre sono un segn...</summary>
+    <link href="../book_0/book_181.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Gangsterland</title>
+    <id>calibre:book:206</id>
+    <updated>2016-07-17T05:53:57Z</updated>
+    <link href="../../Tod%20Goldberg/Gangsterland%20%28206%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Tod%20Goldberg/Gangsterland%20%28206%29/Gangsterland%20-%20Tod%20Goldberg.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="655 KB" />
+    <author>
+      <name>Tod Goldberg</name>
+      <uri>../author_0/author_138_Page_1.xml</uri>
+    </author>
+    <published>2016-05-29T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Sperling &amp; Kupfer</dcterms:publisher>
+    <category term="Crime" />
+    <category term="Mystery" />
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Foreign Languages" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Thrillers" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Lang:it" />
+    <summary>Sal Cupertine è un serio professionista di Chicago, marito fedele e padre affettuoso. 
+È famoso per la sua prodigiosa memoria, tanto che nel suo ambiente lo hanno soprannominato Rain Man, niente di personale. 
+Anzi, il datore di lavoro apprezza molti...</summary>
+    <link href="../book_0/book_206.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Confine di Stato: Il primo volume della Trilogia sporca dell'Italia</title>
+    <id>calibre:book:239</id>
+    <updated>2016-07-17T05:54:06Z</updated>
+    <link href="../../Simone%20Sarasso/Confine%20di%20Stato_%20Il%20primo%20volume%20d%20%28239%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Simone%20Sarasso/Confine%20di%20Stato_%20Il%20primo%20volume%20d%20%28239%29/Confine%20di%20Stato_%20Il%20primo%20volu%20-%20Simone%20Sarasso.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Simone Sarasso</name>
+      <uri>../author_0/author_39_Page_1.xml</uri>
+    </author>
+    <published>2010-10-15T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Marsilio</dcterms:publisher>
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Thrillers" />
+    <category term="Crime" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Mystery" />
+    <category term="Contemporary Fiction" />
+    <category term="Foreign Language Fiction" />
+    <category term="Spies &amp; Politics" />
+    <category term="Foreign Languages" />
+    <category term="Espionage" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Lang:it" />
+    <summary>Erano sbirri corrotti, traditori della Repubblica, politici con le mani sporche di sangue, spacciatori irlandesi in affari con Cosa Nostra, ragazzi in nero pronti a tutto. Se solo un istante delle loro esistenze avesse imboccato una strada diversa, l...</summary>
+    <link href="../book_0/book_239.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il codice Dominus</title>
+    <id>calibre:book:244</id>
+    <updated>2016-07-17T05:54:08Z</updated>
+    <link href="../../Tom%20Fox/Il%20codice%20Dominus%20%28244%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Tom%20Fox/Il%20codice%20Dominus%20%28244%29/Il%20codice%20Dominus%20-%20Tom%20Fox.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="663 KB" />
+    <author>
+      <name>Tom Fox</name>
+      <uri>../author_0/author_153_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Massimo Gardella</name>
+      <uri>../author_0/author_154_Page_1.xml</uri>
+    </author>
+    <published>2016-06-15T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Tre60</dcterms:publisher>
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Thrillers" />
+    <category term="Crime" />
+    <category term="Mystery" />
+    <category term="Foreign Language Fiction" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Lang:it" />
+    <summary>È un papa molto amato, Gregorio XVII, non soltanto per i suoi messaggi di pace e di tolleranza, ma anche perché porta su di sé i segni di una sofferenza indicibile: la grave malattia di cui soffre sin dall’infanzia non gli permette di stare in piedi ...</summary>
+    <link href="../book_0/book_244.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>China Girl: Le indagini di Neal Carey</title>
+    <id>calibre:book:250</id>
+    <updated>2016-07-17T05:54:09Z</updated>
+    <link href="../../Don%20Winslow/China%20Girl_%20Le%20indagini%20di%20Neal%20Car%20%28250%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Don%20Winslow/China%20Girl_%20Le%20indagini%20di%20Neal%20Car%20%28250%29/China%20Girl_%20Le%20indagini%20di%20Neal%20-%20Don%20Winslow.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="572 KB" />
+    <author>
+      <name>Don Winslow</name>
+      <uri>../author_0/author_43_Page_1.xml</uri>
+    </author>
+    <published>2016-06-20T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Einaudi</dcterms:publisher>
+    <category term="Crime" />
+    <category term="Foreign Language Fiction" />
+    <category term="Mystery" />
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Thrillers" />
+    <category term="Italian" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>Robert Pendleton è un genio della chimica e ha appena brevettato un fertilizzante che potrebbe valere una fortuna. Partito per una conferenza a San Francisco, smette di dare notizie di sé e dei frutti delle sue ricerche. Non c'è da stupirsi se gli Am...</summary>
+    <link href="../book_0/book_250.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

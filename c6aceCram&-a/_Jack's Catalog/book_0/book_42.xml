@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Star Wars - Aftermath</title>
+  <id>urn:book:41314aa7-5827-401a-85af-6b62009f97a0</id>
+  <updated>2016-07-17T05:53:08Z</updated>
+  <link href="./book_42.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Star Wars - Aftermath" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_W_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with W" />
+  <link href="../../Chuck%20Wendig/Star%20Wars%20-%20Aftermath%20%2842%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Chuck%20Wendig/Star%20Wars%20-%20Aftermath%20%2842%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Chuck%20Wendig/Star%20Wars%20-%20Aftermath%20%2842%29/Star%20Wars%20-%20Aftermath%20-%20Chuck%20Wendig.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="701 KB" />
+  <author>
+    <name>Chuck Wendig</name>
+    <uri>../author_0/author_36_Page_1.xml</uri>
+  </author>
+  <published>2016-04-07T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Multiplayer Edizioni</dcterms:publisher>
+  <category term="Sci Fi &amp; Fantasy" />
+  <category term="Fantasy" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Sci Fi &amp; Fantasy, Fantasy, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>La seconda Morte Nera è stata distrutta,
+      l’Imperatore è morto e Darth Vader è stato
+      sconfitto: questi devastanti colpi inferti all’Impero
+      sono stati le più grandi vittorie dell’Alleanza
+      Ribelle. La battaglia per la libertà, però, non
+      è ancora finita.</p>
+      <p>Mentre l’Impero cerca di riprendersi dalla sconfitta
+      subita nella Battaglia di Endor, l’Alleanza Ribelle
+      – ora chiamata Nuova Repubblica – cavalca
+      l’onda del suo successo in una caccia spietata alle
+      forze nemiche sparpagliate per la galassia, prima che possano
+      radunarsi e contrattaccare. Tuttavia, sul lontano pianeta di
+      Akiva, il nemico si sta già riorganizzando. Durante una
+      solitaria missione di ricognizione, il pilota Wedge Antilles
+      scopre che gli Star Destroyer imperiali si stanno radunando
+      come cacciatori intorno alle loro prede, ma viene catturato
+      prima di riuscire a informare i capi della Nuova
+      Repubblica.</p>
+      <p>Nel frattempo, sul pianeta, l’ex pilota ribelle
+      Norra Wexley è tornata sul suo mondo natale, stremata
+      dalla guerra, pronta a rivedere suo figlio e a ricominciare a
+      vivere in qualche posto lontano da tutto. Una volta
+      intercettata la richiesta di soccorso di Wedge Antilles,
+      però, Norra capisce che la sua lotta per la libertà
+      non è ancora finita. Quel che non sa è che il
+      nemico è più vicino di quanto non immagini… e
+      che la sua nuova missione sarà tanto pericolosa quanto
+      decisiva.</p>
+      <p>Decisi a difendere il potere dell’Impero, gli
+      Imperiali sopravvissuti si stanno riunendo su Akiva per un
+      vertice di emergenza e per consolidare le loro forze prima di
+      sferrare un contrattacco. Non hanno ancora fatto i conti con
+      Norra e i suoi nuovi alleati – il suo geniale figlio,
+      un cacciatore di taglie zabrak e uno spietato traditore
+      dell’Impero – che intendono fare tutto quello che
+      è in loro potere per porre fine all’opprimente
+      minaccia dell’Impero una volta per tutte.</p>
+    </div>
+  </content>
+  <link href="../author_0/author_36_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Chuck Wendig" />
+  <link href="http://www.goodreads.com/book/title/Star%20Wars%20-%20Aftermath" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Star%20Wars%20-%20Aftermath" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Star%20Wars%20-%20Aftermath%20Chuck%20Wendig" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Star%20Wars%20-%20Aftermath&amp;field-author=Chuck%20Wendig" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Chuck%20Wendig" type="text/html" rel="related" title="Chuck Wendig on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Chuck%20Wendig" type="text/html" rel="related" title="Chuck Wendig on Wikipedia" />
+  <link href="http://www.librarything.com/author/WendigChuck" type="text/html" rel="related" title="Chuck Wendig on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Chuck%20Wendig" type="text/html" rel="related" title="Chuck Wendig on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Chuck%20Wendig" type="text/html" rel="related" title="Chuck Wendig on ISFDB" />
+</entry>

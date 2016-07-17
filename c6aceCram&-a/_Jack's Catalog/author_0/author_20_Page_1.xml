@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Piergiorgio Pulixi</title>
+  <id>Calibre2opds:author:20</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_20_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Piergiorgio Pulixi" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with P" />
+  <entry>
+    <title>Una brutta storia</title>
+    <id>calibre:book:20</id>
+    <updated>2016-07-17T05:53:01Z</updated>
+    <link href="../../Piergiorgio%20Pulixi/Una%20brutta%20storia%20%2820%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Piergiorgio%20Pulixi/Una%20brutta%20storia%20%2820%29/Una%20brutta%20storia%20-%20Piergiorgio%20Pulixi.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="721 KB" />
+    <author>
+      <name>Piergiorgio Pulixi</name>
+      <uri>../author_0/author_20_Page_1.xml</uri>
+    </author>
+    <published>2012-11-07T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <summary>Quella dell'ispettore Biagio Mazzeo non è una famiglia normale. È una famiglia composta solo da poliziotti. Un clan molto unito. Un branco dove si combatte insieme contro il crimine. Ma Mazzeo e i suoi ragazzi non sono poliziotti comuni: sono una ban...</summary>
+    <link href="../book_0/book_20.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Prima di dirti addio</title>
+    <id>calibre:book:72</id>
+    <updated>2016-07-17T05:53:17Z</updated>
+    <link href="../../Piergiorgio%20Pulixi/Prima%20di%20dirti%20addio%20%2872%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Piergiorgio%20Pulixi/Prima%20di%20dirti%20addio%20%2872%29/Prima%20di%20dirti%20addio%20-%20Piergiorgio%20Pulixi.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Piergiorgio Pulixi</name>
+      <uri>../author_0/author_20_Page_1.xml</uri>
+    </author>
+    <published>2016-05-18T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Edizioni e/o</dcterms:publisher>
+    <category term="Crime" />
+    <category term="Foreign Language Fiction" />
+    <category term="Mystery" />
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Hard-Boiled" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Foreign Languages" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Crime Fiction" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Lang:it" />
+    <summary>Nulla è per sempre. A parte il rimpianto e la vendetta. Mazzeo è stato trascinato all’inferno dai suoi errori e dai suoi nemici e ora è rimasto solo. Anche i suoi uomini l’hanno abbandonato. Ma prima dell’addio c’è un conto che deve saldare. Vatslava...</summary>
+    <link href="../book_0/book_72.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Per sempre</title>
+    <id>calibre:book:80</id>
+    <updated>2016-07-17T05:53:20Z</updated>
+    <link href="../../Piergiorgio%20Pulixi/Per%20sempre%20%2880%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Piergiorgio%20Pulixi/Per%20sempre%20%2880%29/Per%20sempre%20-%20Piergiorgio%20Pulixi.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Piergiorgio Pulixi</name>
+      <uri>../author_0/author_20_Page_1.xml</uri>
+    </author>
+    <published>2015-10-21T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Edizioni e/o</dcterms:publisher>
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Mystery" />
+    <category term="Foreign Language Fiction" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Crime" />
+    <category term="Lang:it" />
+    <summary>La paura è più forte dell’amore e l’ispettore Mazzeo l’ha vissuto sulla sua pelle.Per la prima volta il poliziotto è tentato di lasciarsi tutto alle spalle e ricominciare da zero con Nicky, la ragazzina che gli è stata affidata. I suoi nemici non son...</summary>
+    <link href="../book_0/book_80.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La notte delle pantere</title>
+    <id>calibre:book:91</id>
+    <updated>2016-07-17T05:53:23Z</updated>
+    <link href="../../Piergiorgio%20Pulixi/La%20notte%20delle%20pantere%20%2891%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Piergiorgio%20Pulixi/La%20notte%20delle%20pantere%20%2891%29/La%20notte%20delle%20pantere%20-%20Piergiorgio%20Pulixi.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Piergiorgio Pulixi</name>
+      <uri>../author_0/author_20_Page_1.xml</uri>
+    </author>
+    <published>2014-04-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>E/O</dcterms:publisher>
+    <category term="Gialli e Thriller" />
+    <category term="Lang:it" />
+    <summary>RecensionePer proteggere la sua squadra da uno scandalo di crimini e corruzione, l'ispettore Mazzeo finisce in carcere. Ma il suo sacrificio non può fermare le conseguenze di anni di crimini. I suoi uomini, infatti, hanno messo le mani su una partita...</summary>
+    <link href="../book_0/book_91.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

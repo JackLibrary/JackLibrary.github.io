@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Oversight</title>
+  <id>urn:book:37d77cc9-aa50-434b-82d4-cde1baeb8dd0</id>
+  <updated>2016-07-17T05:53:23Z</updated>
+  <link href="./book_88.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Oversight" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with F" />
+  <link href="../../Charlie%20Fletcher/Oversight%20%2888%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Charlie%20Fletcher/Oversight%20%2888%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Charlie%20Fletcher/Oversight%20%2888%29/Oversight%20-%20Charlie%20Fletcher.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="746 KB" />
+  <author>
+    <name>Charlie Fletcher</name>
+    <uri>../author_0/author_70_Page_1.xml</uri>
+  </author>
+  <published>2014-07-06T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+  <category term="Fantasy" />
+  <category term="Fiction" />
+  <category term="General" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Fantasy, Fiction, General, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">Londra, metà Ottocento.
+    L’organizzazione segreta Oversight ha il compito sia di
+    proteggere gli esseri umani privi di poteri magici dalle
+    scorribande degli esseri fatati di ogni genere, sia di
+    difendere il mondo magico dalle ingiustizie perpetrate –
+    più o meno involontariamente –
+    dall’umanità che avanza a grandi passi verso la
+    modernizzazione. I membri di Oversight sono tutti dotati di
+    particolari poteri extrasensoriali, ma dopo il Disastro le loro
+    fila sono state decimate a soltanto cinque componenti, il
+    numero minimo indispensabile, costituiscon una Mano. Questi
+    ultimi cinque sopravvissuti hanno la missione di custodire la
+    misteriosa Chiave, il fulcro attorno al quale ruotano gli
+    equilibri tra mondo magico e mondo ‘normale’,
+    oggetto del desiderio per chiunque brami un grande potere... Un
+    fantasy strabiliante, che ha la potenza evocativa di un
+    classico.</p>
+  </content>
+  <link href="../author_0/author_70_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Charlie Fletcher" />
+  <link href="http://www.goodreads.com/book/title/Oversight" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Oversight" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Oversight%20Charlie%20Fletcher" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Oversight&amp;field-author=Charlie%20Fletcher" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Charlie%20Fletcher" type="text/html" rel="related" title="Charlie Fletcher on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Charlie%20Fletcher" type="text/html" rel="related" title="Charlie Fletcher on Wikipedia" />
+  <link href="http://www.librarything.com/author/FletcherCharlie" type="text/html" rel="related" title="Charlie Fletcher on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Charlie%20Fletcher" type="text/html" rel="related" title="Charlie Fletcher on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Charlie%20Fletcher" type="text/html" rel="related" title="Charlie Fletcher on ISFDB" />
+</entry>

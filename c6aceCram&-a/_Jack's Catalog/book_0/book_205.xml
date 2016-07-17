@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Il giorno del cobra</title>
+  <id>urn:book:ce11b092-480a-4939-aa81-371973b45772</id>
+  <updated>2016-07-17T05:53:57Z</updated>
+  <link href="./book_205.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Il giorno del cobra" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with P" />
+  <link href="../../Richard%20Preston/Il%20giorno%20del%20cobra%20%28205%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Richard%20Preston/Il%20giorno%20del%20cobra%20%28205%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Richard%20Preston/Il%20giorno%20del%20cobra%20%28205%29/Il%20giorno%20del%20cobra%20-%20Richard%20Preston.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="958 KB" />
+  <author>
+    <name>Richard Preston</name>
+    <uri>../author_0/author_137_Page_1.xml</uri>
+  </author>
+  <published>2000-06-14T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Rizzoli</dcterms:publisher>
+  <category term="Fiction" />
+  <category term="Suspense" />
+  <category term="Thrillers" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Fiction, Suspense, Thrillers, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">Una ragazza di diciassette anni, Kate
+    Moran, si presenta una mattina a scuola leggermente
+    raffreddata. Una semplice seccatura, ma solo in apparenza...
+    Nel giro di pochi minuti la ragazza muore sotto gli occhi di
+    compagni ed insegnanti. Sarà una giovane patologa, Alice
+    Austen, a scoprire che quel "raffreddore" era la manifestazione
+    di un terribile virus in grado di annientare
+    l'umanità.</p>
+  </content>
+  <link href="../author_0/author_137_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Richard Preston" />
+  <link href="http://www.goodreads.com/book/title/Il%20giorno%20del%20cobra" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Il%20giorno%20del%20cobra" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Il%20giorno%20del%20cobra%20Richard%20Preston" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Il%20giorno%20del%20cobra&amp;field-author=Richard%20Preston" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Richard%20Preston" type="text/html" rel="related" title="Richard Preston on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Richard%20Preston" type="text/html" rel="related" title="Richard Preston on Wikipedia" />
+  <link href="http://www.librarything.com/author/PrestonRichard" type="text/html" rel="related" title="Richard Preston on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Richard%20Preston" type="text/html" rel="related" title="Richard Preston on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Richard%20Preston" type="text/html" rel="related" title="Richard Preston on ISFDB" />
+</entry>

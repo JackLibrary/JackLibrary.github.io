@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Max Brooks</title>
+  <id>Calibre2opds:author:7</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_7_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Max Brooks" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with B" />
+  <entry>
+    <title>ZOMBIE STORY</title>
+    <id>calibre:book:7</id>
+    <updated>2016-07-17T05:52:57Z</updated>
+    <link href="../../Max%20Brooks/ZOMBIE%20STORY%20%287%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Max%20Brooks/ZOMBIE%20STORY%20%287%29/ZOMBIE%20STORY%20-%20Max%20Brooks.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="221 KB" />
+    <author>
+      <name>Max Brooks</name>
+      <uri>../author_0/author_7_Page_1.xml</uri>
+    </author>
+    <published>2011-11-04T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>[eBL 042 by Pico &amp; Elena77]</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>[eBL 042] MAX BROOKS - ZOMBIE STORY[by Pico &amp;amp; Elena77]Max Brooks continua a raccontare il mondo contemporaneo attraverso la grande metafora dei “non-morti”, stavolta scegliendo il genere del racconto. Conflitti mondiali che vedono i Vampiri sfida...</summary>
+    <link href="../book_0/book_7.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Manuale per sopravvivere agli zombi</title>
+    <id>calibre:book:117</id>
+    <updated>2016-07-17T05:53:31Z</updated>
+    <link href="../../Max%20Brooks/Manuale%20per%20sopravvivere%20agli%20zombi%20%28117%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Max%20Brooks/Manuale%20per%20sopravvivere%20agli%20zombi%20%28117%29/Manuale%20per%20sopravvivere%20agli%20z%20-%20Max%20Brooks.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="3 MB" />
+    <author>
+      <name>Max Brooks</name>
+      <uri>../author_0/author_7_Page_1.xml</uri>
+    </author>
+    <published>2011-12-31T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Einaudi</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>Il mondo è infestato dai morti viventi? Niente paura: affidatevi con tranquillità al Manuale per sopravvivere agli zombi. C'è tutto quello di cui oggi avete veramente bisogno. Armi, tecniche e terreni di combattimento, una descrizione attenta di usi,...</summary>
+    <link href="../book_0/book_117.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

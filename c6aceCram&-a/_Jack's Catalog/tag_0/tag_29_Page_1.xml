@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Espionage</title>
+  <id>Calibre2opds:taglist:E:29</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tag_29_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Espionage" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with E" />
+  <entry>
+    <title>Uragano Rosso</title>
+    <id>calibre:book:22</id>
+    <updated>2016-07-17T05:53:02Z</updated>
+    <link href="../../Clancy%20Tom/Uragano%20Rosso%20%2822%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Clancy%20Tom/Uragano%20Rosso%20%2822%29/Uragano%20Rosso%20-%20Clancy%20Tom.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Clancy Tom</name>
+      <uri>../author_0/author_22_Page_1.xml</uri>
+    </author>
+    <published>1987-08-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Rizzoli</dcterms:publisher>
+    <category term="Espionage" />
+    <category term="Fiction" />
+    <category term="Thrillers" />
+    <category term="Lang:it" />
+    <summary>Oversized Trade paperback**</summary>
+    <link href="../book_0/book_22.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Piranha Posizione di tiro</title>
+    <id>calibre:book:79</id>
+    <updated>2016-07-17T05:53:20Z</updated>
+    <link href="../../Michael%20Dimercurio/Piranha%20Posizione%20di%20tiro%20%2879%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michael%20Dimercurio/Piranha%20Posizione%20di%20tiro%20%2879%29/Piranha%20Posizione%20di%20tiro%20-%20Michael%20Dimercurio.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="978 KB" />
+    <author>
+      <name>Michael Dimercurio</name>
+      <uri>../author_0/author_63_Page_1.xml</uri>
+    </author>
+    <published>2005-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Longanesi</dcterms:publisher>
+    <category term="Espionage" />
+    <category term="Fiction" />
+    <category term="Thrillers" />
+    <category term="Lang:it" />
+    <summary>L'Oriente è diviso tra la nuova Cina, sempre più prosperosa, e la vecchia Cina Rossa, retta da guerrafondai che sognano il ritorno al passato. Ma per farlo devono scatenare una nuova offensiva. Così, quando sei sottomarini di fabbricazione giapponese...</summary>
+    <link href="../book_0/book_79.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il Paese che amo: Il terzo volume della Trilogia sporca dell’Italia</title>
+    <id>calibre:book:85</id>
+    <updated>2016-07-17T05:53:22Z</updated>
+    <link href="../../Simone%20Sarasso/Il%20Paese%20che%20amo_%20Il%20terzo%20volume%20de%20%2885%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Simone%20Sarasso/Il%20Paese%20che%20amo_%20Il%20terzo%20volume%20de%20%2885%29/Il%20Paese%20che%20amo_%20Il%20terzo%20volu%20-%20Simone%20Sarasso.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="4 MB" />
+    <author>
+      <name>Simone Sarasso</name>
+      <uri>../author_0/author_39_Page_1.xml</uri>
+    </author>
+    <published>2013-09-30T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Marsilio Editori</dcterms:publisher>
+    <category term="Thrillers" />
+    <category term="Espionage" />
+    <category term="Fiction" />
+    <category term="Mystery &amp; Detective" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Dai fasti della Milano da Bere degli anni 80 allo scandalo Tangentopoli, il ritratto spietato e crudele di un Paese senza eroi. Dopo "Confine di Stato" e "Settanta", il terzo e conclusivo volume della Trilogia sporca dell'Italia. Ljuba Marekovna è so...</summary>
+    <link href="../book_0/book_85.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'Occhio di Dio</title>
+    <id>calibre:book:90</id>
+    <updated>2016-07-17T05:53:23Z</updated>
+    <link href="../../Barry%20Eisler/L%27Occhio%20di%20Dio%20%2890%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Barry%20Eisler/L%27Occhio%20di%20Dio%20%2890%29/L%27Occhio%20di%20Dio%20-%20Barry%20Eisler.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="584 KB" />
+    <author>
+      <name>Barry Eisler</name>
+      <uri>../author_0/author_72_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Francesca Cosi</name>
+      <uri>../author_0/author_73_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Alessandra Reposi</name>
+      <uri>../author_0/author_74_Page_1.xml</uri>
+    </author>
+    <published>2016-05-12T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Spies &amp; Politics" />
+    <category term="Crime" />
+    <category term="Foreign Language Fiction" />
+    <category term="Mystery" />
+    <category term="Espionage" />
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Thriller" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Action &amp; Adventure" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Thrillers" />
+    <category term="Italian" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>Il direttore dell’NSA Theodore Anders ha un solo obiettivo: intercettare ogni telefonata, email e messaggio diffuso tramite Internet. Sa che la sorveglianza totale è l’unico modo per proteggere l’America.   A Evelyn Gallagher non importa granché. Vuo...</summary>
+    <link href="../book_0/book_90.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il libro che i servizi segreti italiani non ti farebbero mai leggere</title>
+    <id>calibre:book:136</id>
+    <updated>2016-07-17T05:53:37Z</updated>
+    <link href="../../Gianni%20Flamini/Il%20libro%20che%20i%20servizi%20segreti%20ital%20%28136%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gianni%20Flamini/Il%20libro%20che%20i%20servizi%20segreti%20ital%20%28136%29/Il%20libro%20che%20i%20servizi%20segreti%20-%20Gianni%20Flamini.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Gianni Flamini</name>
+      <uri>../author_0/author_102_Page_1.xml</uri>
+    </author>
+    <published>2013-05-29T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Newton Compton Editori</dcterms:publisher>
+    <category term="Europe" />
+    <category term="Italian" />
+    <category term="Italy" />
+    <category term="Diaries &amp; True Accounts" />
+    <category term="History" />
+    <category term="Biographies" />
+    <category term="Saggistica" />
+    <category term="Biographies &amp; Memoirs" />
+    <category term="True Crime" />
+    <category term="Espionage" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>Spie, misteri irrisolti e spari nel buio  
+Equivoci e oscuri accordi tra politica, economia e ambienti religiosi, ambigui compromessi, schedature illegali: i servizi segreti italiani sono stati anche questo, dal dopoguerra fino ai giorni nostri. Fosc...</summary>
+    <link href="../book_0/book_136.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Confine di Stato: Il primo volume della Trilogia sporca dell'Italia</title>
+    <id>calibre:book:239</id>
+    <updated>2016-07-17T05:54:06Z</updated>
+    <link href="../../Simone%20Sarasso/Confine%20di%20Stato_%20Il%20primo%20volume%20d%20%28239%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Simone%20Sarasso/Confine%20di%20Stato_%20Il%20primo%20volume%20d%20%28239%29/Confine%20di%20Stato_%20Il%20primo%20volu%20-%20Simone%20Sarasso.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Simone Sarasso</name>
+      <uri>../author_0/author_39_Page_1.xml</uri>
+    </author>
+    <published>2010-10-15T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Marsilio</dcterms:publisher>
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Thrillers" />
+    <category term="Crime" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Mystery" />
+    <category term="Contemporary Fiction" />
+    <category term="Foreign Language Fiction" />
+    <category term="Spies &amp; Politics" />
+    <category term="Foreign Languages" />
+    <category term="Espionage" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Lang:it" />
+    <summary>Erano sbirri corrotti, traditori della Repubblica, politici con le mani sporche di sangue, spacciatori irlandesi in affari con Cosa Nostra, ragazzi in nero pronti a tutto. Se solo un istante delle loro esistenze avesse imboccato una strada diversa, l...</summary>
+    <link href="../book_0/book_239.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

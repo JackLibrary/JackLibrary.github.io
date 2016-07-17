@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>writers</title>
+  <id>Calibre2opds:taglist:W:38</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tag_38_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="writers" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_W_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with W" />
+  <entry>
+    <title>Suk Ovest. Banditi a Roma</title>
+    <id>calibre:book:35</id>
+    <updated>2016-07-17T05:53:06Z</updated>
+    <link href="../../Massimilaino%20Smeriglio/Suk%20Ovest.%20Banditi%20a%20Roma%20%2835%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Massimilaino%20Smeriglio/Suk%20Ovest.%20Banditi%20a%20Roma%20%2835%29/Suk%20Ovest.%20Banditi%20a%20Roma%20-%20Massimilaino%20Smeriglio.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="337 KB" />
+    <author>
+      <name>Massimilaino Smeriglio</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>2015-05-01T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fazi Editore</dcterms:publisher>
+    <category term="banda" />
+    <category term="Roma sud" />
+    <category term="gatto" />
+    <category term="karate" />
+    <category term="quartiere" />
+    <category term="memoria" />
+    <category term="writers" />
+    <category term="garbatella" />
+    <category term="Resistenza" />
+    <category term="Roma nord" />
+    <category term="graffiti" />
+    <category term="fontana di Carlotta" />
+    <category term="escort" />
+    <category term="destino" />
+    <category term="nonno" />
+    <category term="partigiano" />
+    <category term="Valerio Natali" />
+    <category term="discarica" />
+    <category term="vendetta" />
+    <category term="banda Koch" />
+    <category term="batteria" />
+    <category term="Lang:it" />
+    <summary>Il Gatto è morto, l’hanno assassinato. Sono proiettili, queste parole, che accolgono Valerio Natali al suo rientro dal Messico dove ha trascorso una lunga latitanza. Massimo Giunti, alias il Gatto, amico fraterno, anche lui della Garbatella, non c’è ...</summary>
+    <link href="../book_0/book_35.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

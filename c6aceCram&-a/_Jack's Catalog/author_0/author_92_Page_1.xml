@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Terry Pratchett</title>
+  <id>Calibre2opds:author:92</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_92_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Terry Pratchett" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with P" />
+  <entry>
+    <title>A me le guardie!</title>
+    <id>calibre:book:120</id>
+    <updated>2016-07-17T05:53:31Z</updated>
+    <link href="../../Terry%20Pratchett/A%20me%20le%20guardie%21%20%28120%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Terry%20Pratchett/A%20me%20le%20guardie%21%20%28120%29/A%20me%20le%20guardie%21%20-%20Terry%20Pratchett.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="667 KB" />
+    <author>
+      <name>Terry Pratchett</name>
+      <uri>../author_0/author_92_Page_1.xml</uri>
+    </author>
+    <published>2010-06-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>TEA</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>Ankh-Morpork è la città più grande del Mondo Disco, che è un mondo piatto che vaga nello spazio, sorretto da quattro elefanti che poggiano sul guscio di una tartaruga gigante... Ad Ankh-Morpork tutto è in vendita, i ladri rubano solamente su appuntam...</summary>
+    <link href="../book_0/book_120.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

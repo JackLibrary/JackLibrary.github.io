@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with I</title>
+  <id>Calibre2opds:allbooks:I</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with I" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>Ice Station</title>
+    <id>calibre:book:190</id>
+    <updated>2016-07-17T05:53:53Z</updated>
+    <link href="../../Matthew%20Reilly/Ice%20Station%20%28190%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Matthew%20Reilly/Ice%20Station%20%28190%29/Ice%20Station%20-%20Matthew%20Reilly.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="830 KB" />
+    <author>
+      <name>Matthew Reilly</name>
+      <uri>../author_0/author_83_Page_1.xml</uri>
+    </author>
+    <published>2003-06-09T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Dalai editore</dcterms:publisher>
+    <category term="Fantascienza" />
+    <category term="Lang:it" />
+    <summary>In una remota stazione di ricerca glaciologica americana, un&amp;apos;équipe di scienziati ha scoperto, sepolto in una caverna sottomarina e intrappolato in uno strato di ghiaccio risalente a quattrocento milioni di anni prima, uno strano aereo nero, una...</summary>
+    <link href="../book_0/book_190.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Inganno</title>
+    <id>calibre:book:174</id>
+    <updated>2016-07-17T05:53:49Z</updated>
+    <link href="../../Paul%20S.%20Kemp/Inganno%20%28174%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Paul%20S.%20Kemp/Inganno%20%28174%29/Inganno%20-%20Paul%20S.%20Kemp.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="978 KB" />
+    <author>
+      <name>Paul S. Kemp</name>
+      <uri>../author_0/author_121_Page_1.xml</uri>
+    </author>
+    <published>2012-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="The Old Republic" />
+    <category term="Fantascienza" />
+    <category term="Star Wars" />
+    <category term="Lang:it" />
+    <summary>In questo romanzo si intensifica il ritmo dell'azione e per la prima volta vengono messi i lettori faccia a faccia con un guerriero Sith in grado di competere con il più sinistro dei Signori Oscuri dell'Ordine: Darth Malgus, il misterioso Sith masche...</summary>
+    <link href="../book_0/book_174.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Internet Apocalypse</title>
+    <id>calibre:book:172</id>
+    <updated>2016-07-17T05:53:48Z</updated>
+    <link href="../../Wayne%20Gladstone/Internet%20Apocalypse%20%28172%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Wayne%20Gladstone/Internet%20Apocalypse%20%28172%29/Internet%20Apocalypse%20-%20Wayne%20Gladstone.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="807 KB" />
+    <author>
+      <name>Wayne Gladstone</name>
+      <uri>../author_0/author_119_Page_1.xml</uri>
+    </author>
+    <published>2014-11-10T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Hard Science Fiction" />
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Teen &amp; Young Adult" />
+    <category term="Science Fiction" />
+    <category term="Foreign Language Fiction" />
+    <category term="Post-Apocalyptic" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Italian" />
+    <category term="Lang:it" />
+    <summary>IL VIAGGIO DI UN UOMO IN UN MONDO SENZA INTERNET, UN’APOCALISSE CHE POTREBBE RIVELARSI NECESSARIA PER RICORDARE CHI SIAMO DAVVERO.   
+Il World Wide Web è scomparso. Nessuno - nemmeno il Presidente degli Stati Uniti – è in grado di trovare un segnale ...</summary>
+    <link href="../book_0/book_172.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Internet è il nemico: Conversazione con Jacob Appelbaum, Andy Müller-Maguhn e Jérémie Zimmermann (Serie bianca) (Italian Edition)</title>
+    <id>calibre:book:171</id>
+    <updated>2016-07-17T05:53:48Z</updated>
+    <link href="../../Julian%20Assange/Internet%20e%20il%20nemico_%20Conversazione%20%28171%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Julian%20Assange/Internet%20e%20il%20nemico_%20Conversazione%20%28171%29/Internet%20e%20il%20nemico_%20Conversaz%20-%20Julian%20Assange.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+    <author>
+      <name>Julian Assange</name>
+      <uri>../author_0/author_118_Page_1.xml</uri>
+    </author>
+    <published>2013-06-11T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Feltrinelli Editore</dcterms:publisher>
+    <category term="Computers &amp; Technology" />
+    <category term="Internet &amp; Social Media" />
+    <category term="Networking &amp; Cloud Computing" />
+    <category term="&amp; Telecommunications" />
+    <category term="Internet &amp; Digital Media" />
+    <category term="Computing" />
+    <category term="Groupware" />
+    <category term="Italian" />
+    <category term="Internet" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>"Tanti autori si sono interrogati su quello che significa Internet per la civiltà globale, ma si sbagliano. Si sbagliano perché non hanno la giusta prospettiva frutto dell’esperienza diretta. Si sbagliano perché non hanno mai conosciuto il nemico. Ne...</summary>
+    <link href="../book_0/book_171.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Invictus: Costantino, L'Imperatore Guerriero</title>
+    <id>calibre:book:167</id>
+    <updated>2016-07-17T05:53:47Z</updated>
+    <link href="../../Simone%20Sarasso/Invictus_%20Costantino%2C%20L%27Imperatore%20%28167%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Simone%20Sarasso/Invictus_%20Costantino%2C%20L%27Imperatore%20%28167%29/Invictus_%20Costantino%2C%20L%27Imperat%20-%20Simone%20Sarasso.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+    <author>
+      <name>Simone Sarasso</name>
+      <uri>../author_0/author_39_Page_1.xml</uri>
+    </author>
+    <published>2012-06-04T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Rizzoli Max</dcterms:publisher>
+    <category term="Historical" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>Elmi e corazze di legionari si specchiano nel Tevere. L’Aquila e la Croce sulle insegne romane svettano al richiamo della battaglia. In prima fila, l’imperatore Costantino guida l’assalto dei suoi uomini, devastante. Il nemico è in fuga, ma il fragil...</summary>
+    <link href="../book_0/book_167.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Io, Jedi</title>
+    <id>calibre:book:169</id>
+    <updated>2016-07-17T05:53:47Z</updated>
+    <link href="../../Michael%20A.%20Stackpole/Io%2C%20Jedi%20%28169%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michael%20A.%20Stackpole/Io%2C%20Jedi%20%28169%29/Io%2C%20Jedi%20-%20Michael%20A.%20Stackpole.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Michael A. Stackpole</name>
+      <uri>../author_0/author_117_Page_1.xml</uri>
+    </author>
+    <published>2013-10-02T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it</dcterms:publisher>
+    <category term="Fantascienza" />
+    <category term="Star Wars" />
+    <category term="Lang:it" />
+    <summary>Stackpole, autore best-seller del New York Times, regala ai fan di Star Wars il primo libro interamente scritto dal punto di vista di un personaggio mai visto prima nelle pellicole di Lucas: Corran Horn. "Io, Jedi" conduce i lettori lungo l'avvincent...</summary>
+    <link href="../book_0/book_169.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Italiani di domani</title>
+    <id>calibre:book:168</id>
+    <updated>2016-07-17T05:53:47Z</updated>
+    <link href="../../Beppe%20Severgnini/Italiani%20di%20domani%20%28168%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Beppe%20Severgnini/Italiani%20di%20domani%20%28168%29/Italiani%20di%20domani%20-%20Beppe%20Severgnini.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="292 KB" />
+    <author>
+      <name>Beppe Severgnini</name>
+      <uri>../author_0/author_116_Page_1.xml</uri>
+    </author>
+    <published>2011-12-31T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Rizzoli</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>L'Italia deve pensare in avanti. Non è un lusso, è una necessità. Con questo libro Beppe Severgnini ci spinge a "riprogrammare noi stessi e il nostro Paese (brutto verbo, bel proposito)". E offre agli italiani di domani questione di atteggiamento, no...</summary>
+    <link href="../book_0/book_168.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Gli illuminati</title>
+    <id>calibre:book:175</id>
+    <updated>2016-07-17T05:53:49Z</updated>
+    <link href="../../Antoine%20Bello/Gli%20illuminati%20%28175%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Antoine%20Bello/Gli%20illuminati%20%28175%29/Gli%20illuminati%20-%20Antoine%20Bello.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="565 KB" />
+    <author>
+      <name>Antoine Bello</name>
+      <uri>../author_0/author_122_Page_1.xml</uri>
+    </author>
+    <published>2014-10-09T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fazi Editore</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>Gli Illuminati, sequel de I falsificatori, vincitore nel 2009 del Prix du Livre France Culture Télérama, mescola narrazione paranoica, opera d'avventura, di spionaggio e di attualità insieme attraverso la storia di un'organizzazione segreta internazi...</summary>
+    <link href="../book_0/book_175.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'imperatore-dio di Dune</title>
+    <id>calibre:book:133</id>
+    <updated>2016-07-17T05:53:36Z</updated>
+    <link href="../../Frank%20Herbert/L%27imperatore-dio%20di%20Dune%20%28133%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Frank%20Herbert/L%27imperatore-dio%20di%20Dune%20%28133%29/L%27imperatore-dio%20di%20Dune%20-%20Frank%20Herbert.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="623 KB" />
+    <author>
+      <name>Frank Herbert</name>
+      <uri>../author_0/author_100_Page_1.xml</uri>
+    </author>
+    <published>2011-12-03T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Editrice Nord</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>Tremilacinquecento anni sono trascorsi da quando le visioni profetiche avevano spinto Leto II nel deserto, verso il destino che suo padre Paul Atreides aveva rifiutato: indossare la pelle di trota delle sabbie per ottenere il dominio su tutto l'unive...</summary>
+    <link href="../book_0/book_133.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'indice della paura</title>
+    <id>calibre:book:176</id>
+    <updated>2016-07-17T05:53:49Z</updated>
+    <link href="../../Robert%20Harris/L%27indice%20della%20paura%20%28176%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Robert%20Harris/L%27indice%20della%20paura%20%28176%29/L%27indice%20della%20paura%20-%20Robert%20Harris.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="430 KB" />
+    <author>
+      <name>Robert Harris</name>
+      <uri>../author_0/author_123_Page_1.xml</uri>
+    </author>
+    <published>2011-09-05T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Edizioni Mondadori</dcterms:publisher>
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Thrillers" />
+    <category term="Crime" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Mystery" />
+    <category term="Foreign Language Fiction" />
+    <category term="General" />
+    <category term="Foreign Languages" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>È notte fonda quando il dottor Alex Hoffmann viene aggredito da uno sconosciuto che si introduce di nascosto nella sua residenza di Ginevra. A quarantadue anni Hoffmann è una leggenda: scienziato tra i più noti al mondo, è ora un ricco e potente uomo...</summary>
+    <link href="../book_0/book_176.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'informazionista (Rizzoli best) (Italian Edition)</title>
+    <id>calibre:book:173</id>
+    <updated>2016-07-17T05:53:48Z</updated>
+    <link href="../../Taylor%20Stevens/L%27informazionista%20%28Rizzoli%20best%29%20%28I%20%28173%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Taylor%20Stevens/L%27informazionista%20%28Rizzoli%20best%29%20%28I%20%28173%29/L%27informazionista%20%28Rizzoli%20best%20-%20Taylor%20Stevens.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="644 KB" />
+    <author>
+      <name>Taylor Stevens</name>
+      <uri>../author_0/author_120_Page_1.xml</uri>
+    </author>
+    <published>2011-06-21T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Rizzoli</dcterms:publisher>
+    <category term="Crime" />
+    <category term="Foreign Language Fiction" />
+    <category term="Mystery" />
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Thrillers" />
+    <category term="Italian" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>Il suo nome è Vanessa “Michael” Monroe. Ha un fisico asciutto e nervoso e un viso dalla bellezza misteriosa e androgina. Può scegliere se passare per uomo o per donna, a seconda della necessità e delle circostanze. Sa fiutare la paura e la menzogna e...</summary>
+    <link href="../book_0/book_173.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'inverno di Frankie Machine</title>
+    <id>calibre:book:170</id>
+    <updated>2016-07-17T05:53:47Z</updated>
+    <link href="../../Don%20Winslow/L%27inverno%20di%20Frankie%20Machine%20%28170%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Don%20Winslow/L%27inverno%20di%20Frankie%20Machine%20%28170%29/L%27inverno%20di%20Frankie%20Machine%20-%20Don%20Winslow.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="490 KB" />
+    <author>
+      <name>Don Winslow</name>
+      <uri>../author_0/author_43_Page_1.xml</uri>
+    </author>
+    <published>2008-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Einaudi</dcterms:publisher>
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Mystery &amp; Detective" />
+    <category term="Lang:it" />
+    <summary>A sessantadue anni, Frank Machianno, alias Frankie Machine, è un tranquillo uomo d'affari, ancora nel pieno delle sue forze: proprietario di un negozio di esche sul molo di San Diego, agente immobiliare, rifornitore di pesce e tovaglie per ristoranti...</summary>
+    <link href="../book_0/book_170.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'investigatore olistico Dirk Gently</title>
+    <id>calibre:book:134</id>
+    <updated>2016-07-17T05:53:36Z</updated>
+    <link href="../../Douglas%20Adams/L%27investigatore%20olistico%20Dirk%20Gentl%20%28134%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Douglas%20Adams/L%27investigatore%20olistico%20Dirk%20Gentl%20%28134%29/L%27investigatore%20olistico%20Dirk%20G%20-%20Douglas%20Adams.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="400 KB" />
+    <author>
+      <name>Douglas Adams</name>
+      <uri>../author_0/author_101_Page_1.xml</uri>
+    </author>
+    <published>1995-12-31T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Feltrinelli</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>Dirk Gently è il titolare, perennemente al verde, dell'agenzia di 
+investigazione olistica che dà il titolo al romanzo. Fermamente convinto
+ dell'esistenza di una "fondamentale interconnessione di tutte le cose",
+ è specializzato in casi di gatti sco...</summary>
+    <link href="../book_0/book_134.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'isola dei segreti</title>
+    <id>calibre:book:130</id>
+    <updated>2016-07-17T05:53:35Z</updated>
+    <link href="../../Scarlett%20Thomas/L%27isola%20dei%20segreti%20%28130%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Scarlett%20Thomas/L%27isola%20dei%20segreti%20%28130%29/L%27isola%20dei%20segreti%20-%20Scarlett%20Thomas.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="581 KB" />
+    <author>
+      <name>Scarlett Thomas</name>
+      <uri>../author_0/author_89_Page_1.xml</uri>
+    </author>
+    <published>2010-05-16T08:23:45Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>MyBookLibrary</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>Sono giovani e motivati. Hanno poco più di vent'anni. E hanno voglia di cambiare vita. La loro grande opportunità si nasconde dietro una semplice e all'apparenza innocua inserzione sul giornale: "Giovani brillanti cercasi per grande progetto". Un bre...</summary>
+    <link href="../book_0/book_130.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

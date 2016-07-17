@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Il Sentiero Della Distruzione</title>
+  <id>urn:book:97ffa2f2-9db4-4c19-bc42-603a753d7d53</id>
+  <updated>2016-07-17T05:53:50Z</updated>
+  <link href="./book_180.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Il Sentiero Della Distruzione" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_K_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with K" />
+  <link href="../../Drew%20Karpyshyn/Il%20Sentiero%20Della%20Distruzione%20%28180%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Drew%20Karpyshyn/Il%20Sentiero%20Della%20Distruzione%20%28180%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Drew%20Karpyshyn/Il%20Sentiero%20Della%20Distruzione%20%28180%29/Il%20Sentiero%20Della%20Distruzione%20-%20Drew%20Karpyshyn.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="619 KB" />
+  <author>
+    <name>Drew Karpyshyn</name>
+    <uri>../author_0/author_33_Page_1.xml</uri>
+  </author>
+  <published>2013-01-30T00:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+  <category term="Foreign Language Fiction" />
+  <category term="Italian" />
+  <category term="Foreign Languages" />
+  <category term="Action &amp; Adventure" />
+  <category term="Literature &amp; Fiction" />
+  <category term="Genre Fiction" />
+  <category term="Star Wars" />
+  <category term="Fantasy" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Foreign Language Fiction, Italian, Foreign Languages, Action &amp; Adventure, Literature &amp; Fiction, Genre Fiction, Star Wars, Fantasy, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">Sin dall’infanzia Dessel non ha conosciuto che i
+    maltrattamenti del suo detestabile padre e il lavoro sfiancante
+    e pericoloso nelle miniere di corto site. Nelle profondità
+    delle gallerie del desolato pianeta Apatros, costretto a
+    estrarre senza fine il minerale più raro e prezioso in
+    tutta la galassia, Dessel sogna il giorno in cui potrà
+    fuggire – un momento che teme non arriverà mai. Ma
+    quando una partita a carte con una posta in palio molto alta si
+    conclude violentemente, Dessel diventa improvvisamente un
+    ricercato…In fuga dalle vendicative forze della
+    Repubblica, Dessel si dissolve nelle fila dell’esercito
+    Sith e parte per unirsi alla sanguinosa guerra contro la
+    Repubblica e i suoi Jedi. Lì la brutalità,
+    l’astuzia e l’eccezionale controllo della Forza di
+    Dessel gli fanno conquistare rapidamente una fama di guerriero
+    invincibile. Agli occhi dei suoi sempre vigili signori è
+    destinato a un ruolo assai più grande nel piano ultimo dei
+    Sith, sempre che si dimostri davvero all’altezza.Da
+    allievo nell’accademia dei Sith, studiando i segreti e le
+    abilità del Lato Oscuro all’ombra dei suoi più
+    grandi maestri, Dessel abbraccia la sua nuova identità
+    Sith: Bane. La vera prova, tuttavia, deve ancora venire. Per
+    poter essere accettato nella Confraternita
+    dell’Oscurità deve consegnarsi completamente al Lato
+    Oscuro attraverso una prova del fuoco che Bane, pur con tutta
+    la sua furia insaziabile e la sua brama di potere, potrebbe non
+    avere la forza di sopportare… soprattutto dato che
+    l’inganno, il tradimento e l’assassinio sono
+    all’ordine del giorno fra i discepoli Sith e
+    l’unica chiave per la sopravvivenza è la più
+    totale mancanza di pietà. Solo sfidando le tradizioni
+    più sacre, rifiutando tutto ciò che gli è stato
+    insegnato e attingendo al sapere ormai dimenticato dei
+    primissimi Sith, Bane potrà sperare di trionfare,
+    forgiando dalle ceneri di ciò che dovrà distruggere
+    una nuova epoca di assoluto potere oscuro…</p>
+  </content>
+  <link href="../author_0/author_33_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Drew Karpyshyn" />
+  <link href="http://www.goodreads.com/book/title/Il%20Sentiero%20Della%20Distruzione" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Il%20Sentiero%20Della%20Distruzione" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Il%20Sentiero%20Della%20Distruzione%20Drew%20Karpyshyn" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Il%20Sentiero%20Della%20Distruzione&amp;field-author=Drew%20Karpyshyn" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Drew%20Karpyshyn" type="text/html" rel="related" title="Drew Karpyshyn on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Drew%20Karpyshyn" type="text/html" rel="related" title="Drew Karpyshyn on Wikipedia" />
+  <link href="http://www.librarything.com/author/KarpyshynDrew" type="text/html" rel="related" title="Drew Karpyshyn on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Drew%20Karpyshyn" type="text/html" rel="related" title="Drew Karpyshyn on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Drew%20Karpyshyn" type="text/html" rel="related" title="Drew Karpyshyn on ISFDB" />
+</entry>

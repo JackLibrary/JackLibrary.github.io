@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>I Robot dell'Alba</title>
+  <id>urn:book:e97a4d8e-4910-4ef8-93b5-b3bf80e264ac</id>
+  <updated>2016-07-17T05:53:54Z</updated>
+  <link href="./book_194.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="I Robot dell'Alba" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
+  <link href="../../Isaac%20Asimov/I%20Robot%20dell%27Alba%20%28194%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Isaac%20Asimov/I%20Robot%20dell%27Alba%20%28194%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Isaac%20Asimov/I%20Robot%20dell%27Alba%20%28194%29/I%20Robot%20dell%27Alba%20-%20Isaac%20Asimov.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+  <author>
+    <name>Isaac Asimov</name>
+    <uri>../author_0/author_124_Page_1.xml</uri>
+  </author>
+  <published>2011-03-08T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">Con I robot dell'alba, torna la
+    memorabile coppia di protagonisti, quei Lije Baley e R. Olivaw
+    che sono diventati tra i più famosi personaggi della
+    fantascienza americana". Baley, questa volta, sul pianeta
+    Aurora, conosciuto anche come il Mondo dell'Alba, dovrà
+    cercare di svelare la trama che ha portato a un crimine di tipo
+    insolito: la 'morte' di un robot. Ma dietro la risposta che
+    Baley potrà trovare si celano un enigma e
+    un'opportunità ancora più grandi: chi dovrà
+    colonizzare l'Universo, l'Umanità o le macchine simili
+    all'uomo, i robot?</p>
+  </content>
+  <link href="../author_0/author_124_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Isaac Asimov" />
+  <link href="http://www.goodreads.com/book/title/I%20Robot%20dell%27Alba" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/I%20Robot%20dell%27Alba" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/I%20Robot%20dell%27Alba%20Isaac%20Asimov" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=I%20Robot%20dell%27Alba&amp;field-author=Isaac%20Asimov" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Isaac%20Asimov" type="text/html" rel="related" title="Isaac Asimov on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Isaac%20Asimov" type="text/html" rel="related" title="Isaac Asimov on Wikipedia" />
+  <link href="http://www.librarything.com/author/AsimovIsaac" type="text/html" rel="related" title="Isaac Asimov on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Isaac%20Asimov" type="text/html" rel="related" title="Isaac Asimov on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Isaac%20Asimov" type="text/html" rel="related" title="Isaac Asimov on ISFDB" />
+</entry>

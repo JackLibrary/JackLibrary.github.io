@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Michael Reaves Neil Gaiman</title>
+  <id>Calibre2opds:author:49</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_49_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Michael Reaves Neil Gaiman" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <entry>
+    <title>Il ragazzo dei mondi infiniti</title>
+    <id>calibre:book:62</id>
+    <updated>2016-07-17T05:53:14Z</updated>
+    <link href="../../Michael%20Reaves%20Neil%20Gaiman/Il%20ragazzo%20dei%20mondi%20infiniti%20%2862%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michael%20Reaves%20Neil%20Gaiman/Il%20ragazzo%20dei%20mondi%20infiniti%20%2862%29/Il%20ragazzo%20dei%20mondi%20infiniti%20-%20Michael%20Reaves%20Neil%20Gaiman.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="352 KB" />
+    <author>
+      <name>Michael Reaves Neil Gaiman</name>
+      <uri>../author_0/author_49_Page_1.xml</uri>
+    </author>
+    <published>2011-09-01T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="Fantasia" />
+    <category term="Avventura" />
+    <category term="Lang:it" />
+    <summary>Alcuni pensano che Joey sia strano. Altri che viva in un mondo parallelo. E non hanno torto. Un giorno infatti Joey finisce in una realtà in cui uomini che fanno surf su dischi volanti lo inseguono, e un misterioso eroe lo salva conducendolo in un&amp;ap...</summary>
+    <link href="../book_0/book_62.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

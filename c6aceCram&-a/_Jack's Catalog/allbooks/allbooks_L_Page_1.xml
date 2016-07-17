@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with L</title>
+  <id>Calibre2opds:allbooks:L</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with L" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>Labirinto blu</title>
+    <id>calibre:book:143</id>
+    <updated>2016-07-17T05:53:39Z</updated>
+    <link href="../../Douglas%20Preston/Labirinto%20blu%20%28143%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Douglas%20Preston/Labirinto%20blu%20%28143%29/Labirinto%20blu%20-%20Douglas%20Preston.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Douglas Preston</name>
+      <uri>../author_0/author_104_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Lincoln Child</name>
+      <uri>../author_0/author_105_Page_1.xml</uri>
+    </author>
+    <published>2015-04-30T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Rizzoli</dcterms:publisher>
+    <category term="Thriller" />
+    <category term="Lang:it" />
+    <summary>La sera in cui trova il cadavere del figlio sulla soglia di casa, l’agente dell’FBI Aloysius Pendergast non ha idea di chi possa celarsi dietro quell’omicidio. Sa soltanto che il messaggio è diretto senza dubbio a lui. Per cercare il suo nemico, Pend...</summary>
+    <link href="../book_0/book_143.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Little Brother</title>
+    <id>calibre:book:129</id>
+    <updated>2016-07-17T05:53:34Z</updated>
+    <link href="../../Cory%20Doctorow/Little%20Brother%20%28129%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Cory%20Doctorow/Little%20Brother%20%28129%29/Little%20Brother%20-%20Cory%20Doctorow.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="622 KB" />
+    <author>
+      <name>Cory Doctorow</name>
+      <uri>../author_0/author_98_Page_1.xml</uri>
+    </author>
+    <published>2010-04-12T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Tor Teen</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>Marcus, a.k.a "w1n5t0n," is only seventeen years old, but he figures he already knows how the system works-and how to work the system. Smart, fast, and wise to the ways of the networked world, he has no trouble outwitting his high school's intrusive ...</summary>
+    <link href="../book_0/book_129.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>London Underground: Le indagini di Neal Carey (Einaudi. Stile libero big) (Italian Edition)</title>
+    <id>calibre:book:128</id>
+    <updated>2016-07-17T05:53:34Z</updated>
+    <link href="../../Don%20Winslow/London%20Underground_%20Le%20indagini%20di%20%28128%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Don%20Winslow/London%20Underground_%20Le%20indagini%20di%20%28128%29/London%20Underground_%20Le%20indagini%20-%20Don%20Winslow.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="652 KB" />
+    <author>
+      <name>Don Winslow</name>
+      <uri>../author_0/author_43_Page_1.xml</uri>
+    </author>
+    <published>2016-04-25T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Einaudi</dcterms:publisher>
+    <category term="Crime" />
+    <category term="Mystery" />
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Foreign Languages" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Thrillers" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Lang:it" />
+    <summary>Neal Carey era un ragazzino che viveva di espedienti nel West Side di New York quando Joe Graham lo ha scoperto e lo ha affiliato a una misteriosa agenzia del New England, gli Amici di Famiglia, che per i suoi facoltosi clienti è disposta a fare di t...</summary>
+    <link href="../book_0/book_128.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il libro che i servizi segreti italiani non ti farebbero mai leggere</title>
+    <id>calibre:book:136</id>
+    <updated>2016-07-17T05:53:37Z</updated>
+    <link href="../../Gianni%20Flamini/Il%20libro%20che%20i%20servizi%20segreti%20ital%20%28136%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gianni%20Flamini/Il%20libro%20che%20i%20servizi%20segreti%20ital%20%28136%29/Il%20libro%20che%20i%20servizi%20segreti%20-%20Gianni%20Flamini.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Gianni Flamini</name>
+      <uri>../author_0/author_102_Page_1.xml</uri>
+    </author>
+    <published>2013-05-29T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Newton Compton Editori</dcterms:publisher>
+    <category term="Europe" />
+    <category term="Italian" />
+    <category term="Italy" />
+    <category term="Diaries &amp; True Accounts" />
+    <category term="History" />
+    <category term="Biographies" />
+    <category term="Saggistica" />
+    <category term="Biographies &amp; Memoirs" />
+    <category term="True Crime" />
+    <category term="Espionage" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>Spie, misteri irrisolti e spari nel buio  
+Equivoci e oscuri accordi tra politica, economia e ambienti religiosi, ambigui compromessi, schedature illegali: i servizi segreti italiani sono stati anche questo, dal dopoguerra fino ai giorni nostri. Fosc...</summary>
+    <link href="../book_0/book_136.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La lunga oscura pausa caffé dell'anima</title>
+    <id>calibre:book:151</id>
+    <updated>2016-07-17T05:53:42Z</updated>
+    <link href="../../Douglas%20Adams/La%20lunga%20oscura%20pausa%20caffe%20dell%27an%20%28151%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Douglas%20Adams/La%20lunga%20oscura%20pausa%20caffe%20dell%27an%20%28151%29/La%20lunga%20oscura%20pausa%20caffe%20del%20-%20Douglas%20Adams.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="424 KB" />
+    <author>
+      <name>Douglas Adams</name>
+      <uri>../author_0/author_101_Page_1.xml</uri>
+    </author>
+    <published>2011-01-26T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>Dirk Gently, “detective olistico”, si trova invischiato in un pericoloso intrigointernazionale. Tutto inizia all’aeroporto londinese di Heathrow con un misterioso personaggio che tenta di imbarcarsi sul volo delle 15.37 per Oslo. Chi è? E cos’ha a ch...</summary>
+    <link href="../book_0/book_151.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>I lupi del Calla</title>
+    <id>calibre:book:122</id>
+    <updated>2016-07-17T05:53:32Z</updated>
+    <link href="../../Stephen%20King/I%20lupi%20del%20Calla%20%28122%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/I%20lupi%20del%20Calla%20%28122%29/I%20lupi%20del%20Calla%20-%20Stephen%20King.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2015-05-11T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Sperling &amp; Kupfer</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Horror" />
+    <category term="Lang:it" />
+    <summary>Rumore di passi sul Sentiero del Vettore. Roland, l'ultimo cavaliere, e il suo bizzarro seguito – il giovane Jake, Eddie e Susannah – cercano di raggiungere la Torre per arrestare il disfacimento della realtà. Ma, attraversando le foreste del Calla, ...</summary>
+    <link href="../book_0/book_122.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

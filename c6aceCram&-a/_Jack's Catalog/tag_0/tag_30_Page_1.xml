@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Horror</title>
+  <id>Calibre2opds:taglist:H:30</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tag_30_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Horror" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with H" />
+  <entry>
+    <title>Torno a prenderti</title>
+    <id>calibre:book:33</id>
+    <updated>2016-07-17T05:53:05Z</updated>
+    <link href="../../Stephen%20King/Torno%20a%20prenderti%20%2833%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/Torno%20a%20prenderti%20%2833%29/Torno%20a%20prenderti%20-%20Stephen%20King.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="186 KB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2008-05-31T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Sperling &amp; Kupfer</dcterms:publisher>
+    <category term="Horror" />
+    <category term="Thriller" />
+    <category term="Lang:it" />
+    <summary>Emily si è rifugiata in un disabitato luogo di villeggiatura. Un giorno mentre fa jogging lancia uno sguardo incauto al bagagliaio dell'auto del vicino... e si risveglia saldamente legata nella cucina di lui, in procinto di essere torturata e fatta a...</summary>
+    <link href="../book_0/book_33.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Omega Days</title>
+    <id>calibre:book:89</id>
+    <updated>2016-07-17T05:53:23Z</updated>
+    <link href="../../John%20L.%20Campbell/Omega%20Days%20%2889%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../John%20L.%20Campbell/Omega%20Days%20%2889%29/Omega%20Days%20-%20John%20L.%20Campbell.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="563 KB" />
+    <author>
+      <name>John L. Campbell</name>
+      <uri>../author_0/author_71_Page_1.xml</uri>
+    </author>
+    <published>2016-04-04T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Horror" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Genre Fiction" />
+    <category term="Fantasy" />
+    <category term="Lang:it" />
+    <summary>San Francisco. Padre Xavier Church ha passato la vita tra i diseredati della città, e ne ha viste di ogni sorta. Ma nulla di ciò che ha incontrato è paragonabile all'orrore cui si trova davanti: l'immondo pasto di una suora zombie che azzanna il volt...</summary>
+    <link href="../book_0/book_89.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>NOS4A2: Ritorno a Christmasland</title>
+    <id>calibre:book:97</id>
+    <updated>2016-07-17T05:53:25Z</updated>
+    <link href="../../Joe%20Hill/NOS4A2_%20Ritorno%20a%20Christmasland%20%2897%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Joe%20Hill/NOS4A2_%20Ritorno%20a%20Christmasland%20%2897%29/NOS4A2_%20Ritorno%20a%20Christmasland%20-%20Joe%20Hill.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Joe Hill</name>
+      <uri>../author_0/author_78_Page_1.xml</uri>
+    </author>
+    <published>2014-10-24T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Sperling &amp; Kupfer</dcterms:publisher>
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Horror" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Genre Fiction" />
+    <category term="Fantasy" />
+    <category term="Lang:it" />
+    <summary>Victoria McQueen ha la stupefacente capacità di trovare le cose: un braccialetto smarrito, una foto persa, risposte a interrogativi che non hanno soluzione. Quando passa con la sua bicicletta sul vecchio e traballante ponte coperto nei boschi dietro ...</summary>
+    <link href="../book_0/book_97.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il mondo in un tappeto</title>
+    <id>calibre:book:100</id>
+    <updated>2016-07-17T05:53:26Z</updated>
+    <link href="../../Clive%20Barker/Il%20mondo%20in%20un%20tappeto%20%28100%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Clive%20Barker/Il%20mondo%20in%20un%20tappeto%20%28100%29/Il%20mondo%20in%20un%20tappeto%20-%20Clive%20Barker.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Clive Barker</name>
+      <uri>../author_0/author_80_Page_1.xml</uri>
+    </author>
+    <published>1994-05-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>TEA</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Horror" />
+    <category term="Lang:it" />
+    <summary>E' un'opera fantastica che prende l'avvio dall'immagine di un vecchio tappeto: questo semplice oggetto nasconde un mondo di incantesimi e di inebriante beatitudine, un mondo che ritorna in vita per sfidare le forze del male e preservare le ultime tra...</summary>
+    <link href="../book_0/book_100.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>I lupi del Calla</title>
+    <id>calibre:book:122</id>
+    <updated>2016-07-17T05:53:32Z</updated>
+    <link href="../../Stephen%20King/I%20lupi%20del%20Calla%20%28122%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/I%20lupi%20del%20Calla%20%28122%29/I%20lupi%20del%20Calla%20-%20Stephen%20King.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2015-05-11T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Sperling &amp; Kupfer</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Horror" />
+    <category term="Lang:it" />
+    <summary>Rumore di passi sul Sentiero del Vettore. Roland, l'ultimo cavaliere, e il suo bizzarro seguito – il giovane Jake, Eddie e Susannah – cercano di raggiungere la Torre per arrestare il disfacimento della realtà. Ma, attraversando le foreste del Calla, ...</summary>
+    <link href="../book_0/book_122.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Joyland</title>
+    <id>calibre:book:163</id>
+    <updated>2016-07-17T05:53:45Z</updated>
+    <link href="../../Stephen%20King/Joyland%20%28163%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/Joyland%20%28163%29/Joyland%20-%20Stephen%20King.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="532 KB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2013-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondolibri</dcterms:publisher>
+    <category term="Horror" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>Estate 1973, Heavens Bay, Carolina del Nord. Devin Jones è uno studente universitario squattrinato e con il cuore a pezzi, perché la sua ragazza lo ha tradito. Per dimenticare lei e guadagnare qualche dollaro, decide di accettare il lavoro in un luna...</summary>
+    <link href="../book_0/book_163.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La canzone di Susannah</title>
+    <id>calibre:book:252</id>
+    <updated>2016-07-17T05:54:10Z</updated>
+    <link href="../../Stephen%20King/La%20canzone%20di%20Susannah%20%28252%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/La%20canzone%20di%20Susannah%20%28252%29/La%20canzone%20di%20Susannah%20-%20Stephen%20King.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="732 KB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2004-09-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Sperling &amp; Kupfer Editori</dcterms:publisher>
+    <category term="Horror" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>"Il pistolero Roland guida l'ex drogato Eddie, il ragazzino Jake e la bella Susannah attraverso una geografia vacillante - l'Entromondo, il Medio Mondo, il Fine Mondo - dove universi onirici, ma concreti, tracimano l'uno nell'altro. I quattro sono un...</summary>
+    <link href="../book_0/book_252.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Un buon presagio</title>
+    <id>calibre:book:254</id>
+    <updated>2016-07-17T05:54:10Z</updated>
+    <link href="../../Gillian%20Flynn/Un%20buon%20presagio%20%28254%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gillian%20Flynn/Un%20buon%20presagio%20%28254%29/Un%20buon%20presagio%20-%20Gillian%20Flynn.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="513 KB" />
+    <author>
+      <name>Gillian Flynn</name>
+      <uri>../author_0/author_162_Page_1.xml</uri>
+    </author>
+    <published>2016-06-15T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Rizzoli</dcterms:publisher>
+    <category term="Contemporary Fiction" />
+    <category term="Fantasy" />
+    <category term="Foreign Language Fiction" />
+    <category term="Horror" />
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Genre Fiction" />
+    <category term="One hour (33-43 pages)" />
+    <category term="Occult" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Italian" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>La incontriamo in un piovoso mattino d’aprile, nel bugigattolo dove legge l’aura a signore fragili di nervi, dispensando loro consigli e previsioni. Di lei non conosciamo il nome, sappiamo solo che è una giovane donna intraprendente, scaltra, cresciu...</summary>
+    <link href="../book_0/book_254.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Gli abitatori delle tenebre</title>
+    <id>calibre:book:276</id>
+    <updated>2016-07-17T05:54:17Z</updated>
+    <link href="../../Stefan%20Spjut/Gli%20abitatori%20delle%20tenebre%20%28276%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stefan%20Spjut/Gli%20abitatori%20delle%20tenebre%20%28276%29/Gli%20abitatori%20delle%20tenebre%20-%20Stefan%20Spjut.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="948 KB" />
+    <author>
+      <name>Stefan Spjut</name>
+      <uri>../author_0/author_175_Page_1.xml</uri>
+    </author>
+    <published>2015-12-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Salani</dcterms:publisher>
+    <category term="Horror" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>«Cupo ed emozionante... come King, Spjut spinge a credere nell’incredibile. Ma è anche semplice ed elegante: non solo cattura il quotidiano, ma fonde le proprie creature fantastiche nella storia con estrema naturalezza. E fa anche paura, tanta paura»...</summary>
+    <link href="../book_0/book_276.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

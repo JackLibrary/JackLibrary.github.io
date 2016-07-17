@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Il sole nudo</title>
+  <id>urn:book:70a46a78-8b4b-4572-ac33-5bdb932e7811</id>
+  <updated>2016-07-17T05:53:50Z</updated>
+  <link href="./book_178.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Il sole nudo" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
+  <link href="../../Isaac%20Asimov/Il%20sole%20nudo%20%28178%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Isaac%20Asimov/Il%20sole%20nudo%20%28178%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Isaac%20Asimov/Il%20sole%20nudo%20%28178%29/Il%20sole%20nudo%20-%20Isaac%20Asimov.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="902 KB" />
+  <author>
+    <name>Isaac Asimov</name>
+    <uri>../author_0/author_124_Page_1.xml</uri>
+  </author>
+  <published>2012-05-09T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Mondadori Oscar fantascienza</dcterms:publisher>
+  <category term="Secondo romanzo del ciclo dei Robot." />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Secondo romanzo del ciclo dei Robot., Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">Come il libro che lo precede nel ciclo,
+    è una detective story e chiarisce un'idea di Asimov: la
+    fantascienza è un ingrediente che può essere
+    applicato ad ogni genere letterario. Il libro venne pubblicato
+    nel 1957, dopo essere apparso a puntate nella rivista
+    Astounding Science Fiction fra l'ottobre e il dicembre 1956.
+    Rikaine Delmarre, un "fetologista" (scienziato fetale),
+    responsabile del centro nascite del pianeta di Solaria, ostile
+    alla Terra, viene ucciso. Il poliziotto terrestre Elijah Baley
+    viene chiamato a investigare su richiesta del governo
+    solariano. Nonostante i difficili rapporti fra i due pianeti,
+    il governo terrestre accetta la richiesta per individuare
+    eventuali punti di debolezza nella società solariana. Come
+    nel romanzo precedente, il terrestre lavorerà in
+    collaborazione con il robot umanoide R. Daneel Olivaw. Il libro
+    si concentra sugli strani costumi della società solariana,
+    in cui il numero di abitanti è rigidamente controllato e i
+    robot superano gli umani con un rapporto di diecimila a uno. I
+    solariani sono educati dalla nascita a evitare il contatto
+    umano, e vivono in immense proprietà da soli o al massimo
+    con il coniuge, che comunque vedono durante la giornata solo
+    per alcuni minuti, dove il rapporto è limitato a brevi
+    conversazioni. Qualsiasi rapporto fisico è considerato non
+    solo sgradevole dai solariani, ma persino ripugnante. La
+    comunicazione viene effettuata soltanto attraverso trasmissioni
+    olografiche. Anche la Terra sembra essersi evoluta in una
+    società inusuale, con la popolazione confinata, o
+    piuttosto ormai interamente assuefatta, a una vita sotterranea,
+    senza uscire mai all'aperto. Si è infatti sviluppata una
+    forma di agorafobia collettiva, una irrazionale paura contro
+    l'essere esposti al sole nudo.</p>
+  </content>
+  <link href="../author_0/author_124_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Isaac Asimov" />
+  <link href="http://www.goodreads.com/book/title/Il%20sole%20nudo" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Il%20sole%20nudo" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Il%20sole%20nudo%20Isaac%20Asimov" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Il%20sole%20nudo&amp;field-author=Isaac%20Asimov" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Isaac%20Asimov" type="text/html" rel="related" title="Isaac Asimov on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Isaac%20Asimov" type="text/html" rel="related" title="Isaac Asimov on Wikipedia" />
+  <link href="http://www.librarything.com/author/AsimovIsaac" type="text/html" rel="related" title="Isaac Asimov on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Isaac%20Asimov" type="text/html" rel="related" title="Isaac Asimov on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Isaac%20Asimov" type="text/html" rel="related" title="Isaac Asimov on ISFDB" />
+</entry>

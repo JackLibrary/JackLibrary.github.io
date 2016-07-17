@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>L'Occhio Del Sole</title>
+  <id>urn:book:a640890a-a5e5-4c91-9f6a-65b3a7afe710</id>
+  <updated>2016-07-17T05:53:36Z</updated>
+  <link href="./book_132.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="L'Occhio Del Sole" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with B" />
+  <link href="../../Arthur%20C.%20Clarke/L%27Occhio%20Del%20Sole%20%28132%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Arthur%20C.%20Clarke/L%27Occhio%20Del%20Sole%20%28132%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Arthur%20C.%20Clarke/L%27Occhio%20Del%20Sole%20%28132%29/L%27Occhio%20Del%20Sole%20-%20Arthur%20C.%20Clarke.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+  <author>
+    <name>Arthur C. Clarke</name>
+    <uri>../author_0/author_96_Page_1.xml</uri>
+  </author>
+  <author>
+    <name>Stephen Baxter</name>
+    <uri>../author_0/author_97_Page_1.xml</uri>
+  </author>
+  <published>2012-01-17T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">
+      Arthur C. Clarke, l&amp;apos;indimenticabile autore di 2001:
+    Odissea nello spazio, è una leggenda vivente, il cui nome
+    è sinonimo di fantascienza da più di
+    cinquant&amp;apos;anni. Stephen Baxter è uno scrittore
+    dotato di un&amp;apos;immaginazione che non conosce confini e
+    di un vigore narrativo unico, grazie al quale riesce a
+    «raccontare» anche le più complesse teorie
+    scientifiche. Dopo L&amp;apos;occhio del tempo, queste due
+    menti eccezionali si sono unite di nuovo per creare un romanzo
+    che affronta i temi del nostro futuro.
+      <br />
+      Dopo cinque anni passati su Mir, il pianeta costruito dalla
+    misteriosa razza dei Primogeniti con migliaia di «schegge
+    temporali» prelevate dalla Terra, Bisesa Dutt si ritrova
+    improvvisamente nel suo appartamento di Londra. Per lei sono
+    trascorsi anni, ma per la Terra è passato un giorno solo.
+    E proprio quel giorno, il 9 giugno 2037, il Sole investe il
+    nostro pianeta con una tempesta di radiazioni letali. Ma questo
+    è soltanto il prologo di uno spaventoso cataclisma che,
+    secondo le previsioni degli scienziati, si scatenerà
+    nell&amp;apos;aprile del 2042, quando il Sole proietterà
+    un fascio d&amp;apos;energia tale da bruciare la Terra e da
+    annientare ogni forma di vita... Bisesa Dutt è
+    l&amp;apos;unica a sapere che la tempesta solare non è un
+    evento naturale, bensì un atto aggressivo da parte dei
+    Primogeniti, un nemico che ha deciso di cancellare
+    l&amp;apos;umanità, come ha già fatto con altre
+    razze, per il semplice motivo che gli esseri viventi consumano
+    troppo in fretta l&amp;apos;energia dell&amp;apos;universo...
+      <br />
+    </p>
+  </content>
+  <link href="../author_0/author_96_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Arthur C. Clarke" />
+  <link href="../author_0/author_97_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Stephen Baxter" />
+  <link href="http://www.goodreads.com/book/title/L%27Occhio%20Del%20Sole" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/L%27Occhio%20Del%20Sole" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/L%27Occhio%20Del%20Sole%20Arthur%20C.%20Clarke" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=L%27Occhio%20Del%20Sole&amp;field-author=Arthur%20C.%20Clarke" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Arthur%20C.%20Clarke" type="text/html" rel="related" title="Arthur C. Clarke on Goodreads" />
+  <link href="http://www.goodreads.com/book/author/Stephen%20Baxter" type="text/html" rel="related" title="Stephen Baxter on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Arthur%20C.%20Clarke" type="text/html" rel="related" title="Arthur C. Clarke on Wikipedia" />
+  <link href="http://en.wikipedia.org/wiki/Stephen%20Baxter" type="text/html" rel="related" title="Stephen Baxter on Wikipedia" />
+  <link href="http://www.librarything.com/author/ClarkeArthurC." type="text/html" rel="related" title="Arthur C. Clarke on LibraryThing" />
+  <link href="http://www.librarything.com/author/BaxterStephen" type="text/html" rel="related" title="Stephen Baxter on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Arthur%20C.%20Clarke" type="text/html" rel="related" title="Arthur C. Clarke on Amazon" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Stephen%20Baxter" type="text/html" rel="related" title="Stephen Baxter on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Arthur%20C.%20Clarke" type="text/html" rel="related" title="Arthur C. Clarke on ISFDB" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Stephen%20Baxter" type="text/html" rel="related" title="Stephen Baxter on ISFDB" />
+</entry>

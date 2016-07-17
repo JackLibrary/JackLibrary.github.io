@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Battle Royale</title>
+  <id>urn:book:aa4adcc2-9e45-448a-bec6-593e763184ff</id>
+  <updated>2016-07-17T05:54:13Z</updated>
+  <link href="./book_261.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Battle Royale" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with T" />
+  <link href="../../Koushun%20Takami/Battle%20Royale%20%28261%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Koushun%20Takami/Battle%20Royale%20%28261%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Koushun%20Takami/Battle%20Royale%20%28261%29/Battle%20Royale%20-%20Koushun%20Takami.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="792 KB" />
+  <author>
+    <name>Koushun Takami</name>
+    <uri>../author_0/author_165_Page_1.xml</uri>
+  </author>
+  <published>1998-12-31T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <category term="Romanzo" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Romanzo, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">Nella "Repubblica della Grande Asia",
+    uno stato totalitario geograficamente localizzato nel Giappone
+    della realtà, vige il BR Act. Secondo tale legge, ogni
+    anno viene scelta tramite sorteggio una classe di terza media
+    per partecipare al cosiddetto Programma. Il gioco consiste in
+    una lotta all'ultimo sangue in cui i giovani e sorpresi
+    partecipanti devono impugnare l'arma affidatagli a caso dentro
+    uno zaino e uccidersi a vicenda in un luogo scelto
+    appositamente dal governo, precedentemente evacuato: in questa
+    edizione si tratta di un'isola deserta e sconosciuta. Per
+    costringerli a partecipare, tra i vari espedienti c'è un
+    collare che fornisce al centro di controllo la posizione degli
+    studenti e che esplode in caso di fuga o di ammutinamento.
+    L'obiettivo è che rimanga un solo superstite, l'unico che
+    potrà fare ritorno a casa. Gli studenti sono 42, 21 maschi
+    e 21 femmine.</p>
+  </content>
+  <link href="../author_0/author_165_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Koushun Takami" />
+  <link href="http://www.goodreads.com/book/title/Battle%20Royale" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Battle%20Royale" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Battle%20Royale%20Koushun%20Takami" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Battle%20Royale&amp;field-author=Koushun%20Takami" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Koushun%20Takami" type="text/html" rel="related" title="Koushun Takami on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Koushun%20Takami" type="text/html" rel="related" title="Koushun Takami on Wikipedia" />
+  <link href="http://www.librarything.com/author/TakamiKoushun" type="text/html" rel="related" title="Koushun Takami on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Koushun%20Takami" type="text/html" rel="related" title="Koushun Takami on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Koushun%20Takami" type="text/html" rel="related" title="Koushun Takami on ISFDB" />
+</entry>

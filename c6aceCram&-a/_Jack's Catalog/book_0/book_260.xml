@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Battlefield 3: Il Russo</title>
+  <id>urn:book:0c743f41-6d64-41cf-84a6-2f22b042c460</id>
+  <updated>2016-07-17T05:54:12Z</updated>
+  <link href="./book_260.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Battlefield 3: Il Russo" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="../../Andy%20McNab/Battlefield%203_%20Il%20Russo%20%28260%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Andy%20McNab/Battlefield%203_%20Il%20Russo%20%28260%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Andy%20McNab/Battlefield%203_%20Il%20Russo%20%28260%29/Battlefield%203_%20Il%20Russo%20-%20Andy%20McNab.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="622 KB" />
+  <author>
+    <name>Andy McNab</name>
+    <uri>../author_0/author_68_Page_1.xml</uri>
+  </author>
+  <published>2016-03-04T00:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Longanesi</dcterms:publisher>
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:it
+    </p>
+  </content>
+  <link href="../author_0/author_68_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Andy McNab" />
+  <link href="http://www.goodreads.com/book/title/Battlefield%203%3A%20Il%20Russo" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Battlefield%203%3A%20Il%20Russo" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Battlefield%203%3A%20Il%20Russo%20Andy%20McNab" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Battlefield%203%3A%20Il%20Russo&amp;field-author=Andy%20McNab" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Andy%20McNab" type="text/html" rel="related" title="Andy McNab on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Andy%20McNab" type="text/html" rel="related" title="Andy McNab on Wikipedia" />
+  <link href="http://www.librarything.com/author/McNabAndy" type="text/html" rel="related" title="Andy McNab on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Andy%20McNab" type="text/html" rel="related" title="Andy McNab on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Andy%20McNab" type="text/html" rel="related" title="Andy McNab on ISFDB" />
+</entry>

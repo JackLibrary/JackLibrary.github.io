@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Cosa Nostra, istruzioni per l'uso. La vita quotidiana dei boss mafiosi osservata da vicino</title>
+  <id>urn:book:c2181955-5ad0-43e3-9315-c95bfdb1103f</id>
+  <updated>2016-07-17T05:54:06Z</updated>
+  <link href="./book_238.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Cosa Nostra, istruzioni per l'uso. La vita quotidiana dei boss mafiosi osservata da vicino" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with P" />
+  <link href="../../Joseph%20Pistone/Cosa%20Nostra%2C%20istruzioni%20per%20l%27uso.%20%28238%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Joseph%20Pistone/Cosa%20Nostra%2C%20istruzioni%20per%20l%27uso.%20%28238%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Joseph%20Pistone/Cosa%20Nostra%2C%20istruzioni%20per%20l%27uso.%20%28238%29/Cosa%20Nostra%2C%20istruzioni%20per%20l%27u%20-%20Joseph%20Pistone.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+  <author>
+    <name>Joseph Pistone</name>
+    <uri>../author_0/author_151_Page_1.xml</uri>
+  </author>
+  <published>2010-01-01T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Mondadori</dcterms:publisher>
+  <category term="Criminology" />
+  <category term="Social science" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Criminology, Social science, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">"Ehi, Lefty. Che vantaggi avrei a
+    diventare un mafioso? Lefty mi guarda come se fossi l'essere
+    più idiota sulla faccia della terra. Perde la calma, si
+    alza di scatto dalla sedia e inizia a strillare e a
+    gesticolare. 'Cosa c'è? Ti sei fottuto il cervello?' dice.
+    'Ti sei rincoglionito? Se sei un mafioso puoi rubare, truffare,
+    mentire, uccidere... ed è tutto legittimo." Nessuna
+    formula potrebbe descrivere meglio il mondo della mafia: e
+    possiamo crederci sulla parola, visto che a riferirlo è
+    Joseph Pistone, alias Donnie Brasco, l'agente dell'FBl
+    infiltrato per sei interminabili anni nella famiglia Bonanno,
+    "una leggenda che cammina", come è stato definito da
+    Roberto Saviano. Dopo il bestseller "Donnie Brasco", ecco una
+    sorta di vademecum, una guida al mondo della malavita
+    organizzata in cui si racconta come i mafiosi gestiscono gli
+    affari, come passano le giornate, come si comportano a tavola
+    (male), che rapporto hanno con le donne (la mamma... e le
+    altre), in che modo tolgono di mezzo i nemici, quali sono i
+    loro passatempi preferiti, perché non hanno amici
+    (sarà sempre il tuo migliore amico a piazzarti una
+    pallottola in testa), come si preparano a un "ammazzamento",
+    quando e perché "vanno sui materassi", ossia scatenano una
+    guerra tra famiglie rivali... È uno sguardo spietato,
+    ironico e tagliente "sul lato più oscuro della natura
+    umana, sulle pulsioni selvagge che tutti noi abbiamo imparato a
+    controllare e che i mafiosi sfogano liberamente".</p>
+  </content>
+  <link href="../author_0/author_151_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Joseph Pistone" />
+  <link href="http://www.goodreads.com/book/title/Cosa%20Nostra%2C%20istruzioni%20per%20l%27uso.%20La%20vita%20quotidiana%20dei%20boss%20mafiosi%20osservata%20da%20vicino" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Cosa%20Nostra%2C%20istruzioni%20per%20l%27uso.%20La%20vita%20quotidiana%20dei%20boss%20mafiosi%20osservata%20da%20vicino" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Cosa%20Nostra%2C%20istruzioni%20per%20l%27uso.%20La%20vita%20quotidiana%20dei%20boss%20mafiosi%20osservata%20da%20vicino%20Joseph%20Pistone" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Cosa%20Nostra%2C%20istruzioni%20per%20l%27uso.%20La%20vita%20quotidiana%20dei%20boss%20mafiosi%20osservata%20da%20vicino&amp;field-author=Joseph%20Pistone" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Joseph%20Pistone" type="text/html" rel="related" title="Joseph Pistone on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Joseph%20Pistone" type="text/html" rel="related" title="Joseph Pistone on Wikipedia" />
+  <link href="http://www.librarything.com/author/PistoneJoseph" type="text/html" rel="related" title="Joseph Pistone on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Joseph%20Pistone" type="text/html" rel="related" title="Joseph Pistone on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Joseph%20Pistone" type="text/html" rel="related" title="Joseph Pistone on ISFDB" />
+</entry>

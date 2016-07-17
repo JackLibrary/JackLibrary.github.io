@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Italian</title>
+  <id>Calibre2opds:taglist:I:20</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tag_20_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Italian" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with I" />
+  <entry>
+    <title>La città sepolta: Un'avventura della Sigma Force</title>
+    <id>calibre:book:160</id>
+    <updated>2016-07-17T05:53:45Z</updated>
+    <link href="../../James%20Rollins/La%20citta%20sepolta_%20Un%27avventura%20dell%20%28160%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../James%20Rollins/La%20citta%20sepolta_%20Un%27avventura%20dell%20%28160%29/La%20citta%20sepolta_%20Un%27avventura%20-%20James%20Rollins.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>James Rollins</name>
+      <uri>../author_0/author_111_Page_1.xml</uri>
+    </author>
+    <published>2010-10-15T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Casa Editrice Nord</dcterms:publisher>
+    <category term="Crime" />
+    <category term="Foreign Language Fiction" />
+    <category term="Mystery" />
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Thriller" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Action &amp; Adventure" />
+    <category term="ebook" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Thrillers" />
+    <category term="Italian" />
+    <category term="Suspense" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>L’esplosione che ha distrutto la Galleria Kensington del British Museum sembra non avere spiegazioni. Le ultime immagini delle telecamere di sorveglianza mostrano una sfera di luce che, entrando in contatto con un antico manufatto, innesta una reazio...</summary>
+    <link href="../book_0/book_160.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Killing machine: Come gli Usa combattono le loro guerre segrete (Serie bianca) (Italian Edition)</title>
+    <id>calibre:book:164</id>
+    <updated>2016-07-17T05:53:46Z</updated>
+    <link href="../../Mark%20Mazzetti/Killing%20machine_%20Come%20gli%20Usa%20comba%20%28164%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mark%20Mazzetti/Killing%20machine_%20Come%20gli%20Usa%20comba%20%28164%29/Killing%20machine_%20Come%20gli%20Usa%20c%20-%20Mark%20Mazzetti.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="972 KB" />
+    <author>
+      <name>Mark Mazzetti</name>
+      <uri>../author_0/author_113_Page_1.xml</uri>
+    </author>
+    <published>2014-02-10T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Feltrinelli Editore</dcterms:publisher>
+    <category term="Politics" />
+    <category term="Political Science" />
+    <category term="Politics &amp; Social Sciences" />
+    <category term="Italian" />
+    <category term="Politics &amp; Government" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>Questa è la storia mai raccontata di una metamorfosi silenziosa. Una metamorfosi che ha cambiato il modo in cui gli Stati Uniti d’America fanno la guerra, uccidono i loro nemici ai quattro angoli del pianeta, influenzano gli equilibri dello scacchier...</summary>
+    <link href="../book_0/book_164.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Internet è il nemico: Conversazione con Jacob Appelbaum, Andy Müller-Maguhn e Jérémie Zimmermann (Serie bianca) (Italian Edition)</title>
+    <id>calibre:book:171</id>
+    <updated>2016-07-17T05:53:48Z</updated>
+    <link href="../../Julian%20Assange/Internet%20e%20il%20nemico_%20Conversazione%20%28171%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Julian%20Assange/Internet%20e%20il%20nemico_%20Conversazione%20%28171%29/Internet%20e%20il%20nemico_%20Conversaz%20-%20Julian%20Assange.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+    <author>
+      <name>Julian Assange</name>
+      <uri>../author_0/author_118_Page_1.xml</uri>
+    </author>
+    <published>2013-06-11T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Feltrinelli Editore</dcterms:publisher>
+    <category term="Computers &amp; Technology" />
+    <category term="Internet &amp; Social Media" />
+    <category term="Networking &amp; Cloud Computing" />
+    <category term="&amp; Telecommunications" />
+    <category term="Internet &amp; Digital Media" />
+    <category term="Computing" />
+    <category term="Groupware" />
+    <category term="Italian" />
+    <category term="Internet" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>"Tanti autori si sono interrogati su quello che significa Internet per la civiltà globale, ma si sbagliano. Si sbagliano perché non hanno la giusta prospettiva frutto dell’esperienza diretta. Si sbagliano perché non hanno mai conosciuto il nemico. Ne...</summary>
+    <link href="../book_0/book_171.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Internet Apocalypse</title>
+    <id>calibre:book:172</id>
+    <updated>2016-07-17T05:53:48Z</updated>
+    <link href="../../Wayne%20Gladstone/Internet%20Apocalypse%20%28172%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Wayne%20Gladstone/Internet%20Apocalypse%20%28172%29/Internet%20Apocalypse%20-%20Wayne%20Gladstone.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="807 KB" />
+    <author>
+      <name>Wayne Gladstone</name>
+      <uri>../author_0/author_119_Page_1.xml</uri>
+    </author>
+    <published>2014-11-10T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Hard Science Fiction" />
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Teen &amp; Young Adult" />
+    <category term="Science Fiction" />
+    <category term="Foreign Language Fiction" />
+    <category term="Post-Apocalyptic" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Italian" />
+    <category term="Lang:it" />
+    <summary>IL VIAGGIO DI UN UOMO IN UN MONDO SENZA INTERNET, UN’APOCALISSE CHE POTREBBE RIVELARSI NECESSARIA PER RICORDARE CHI SIAMO DAVVERO.   
+Il World Wide Web è scomparso. Nessuno - nemmeno il Presidente degli Stati Uniti – è in grado di trovare un segnale ...</summary>
+    <link href="../book_0/book_172.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'informazionista (Rizzoli best) (Italian Edition)</title>
+    <id>calibre:book:173</id>
+    <updated>2016-07-17T05:53:48Z</updated>
+    <link href="../../Taylor%20Stevens/L%27informazionista%20%28Rizzoli%20best%29%20%28I%20%28173%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Taylor%20Stevens/L%27informazionista%20%28Rizzoli%20best%29%20%28I%20%28173%29/L%27informazionista%20%28Rizzoli%20best%20-%20Taylor%20Stevens.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="644 KB" />
+    <author>
+      <name>Taylor Stevens</name>
+      <uri>../author_0/author_120_Page_1.xml</uri>
+    </author>
+    <published>2011-06-21T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Rizzoli</dcterms:publisher>
+    <category term="Crime" />
+    <category term="Foreign Language Fiction" />
+    <category term="Mystery" />
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Thrillers" />
+    <category term="Italian" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>Il suo nome è Vanessa “Michael” Monroe. Ha un fisico asciutto e nervoso e un viso dalla bellezza misteriosa e androgina. Può scegliere se passare per uomo o per donna, a seconda della necessità e delle circostanze. Sa fiutare la paura e la menzogna e...</summary>
+    <link href="../book_0/book_173.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'indice della paura</title>
+    <id>calibre:book:176</id>
+    <updated>2016-07-17T05:53:49Z</updated>
+    <link href="../../Robert%20Harris/L%27indice%20della%20paura%20%28176%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Robert%20Harris/L%27indice%20della%20paura%20%28176%29/L%27indice%20della%20paura%20-%20Robert%20Harris.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="430 KB" />
+    <author>
+      <name>Robert Harris</name>
+      <uri>../author_0/author_123_Page_1.xml</uri>
+    </author>
+    <published>2011-09-05T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Edizioni Mondadori</dcterms:publisher>
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Thrillers" />
+    <category term="Crime" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Mystery" />
+    <category term="Foreign Language Fiction" />
+    <category term="General" />
+    <category term="Foreign Languages" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>È notte fonda quando il dottor Alex Hoffmann viene aggredito da uno sconosciuto che si introduce di nascosto nella sua residenza di Ginevra. A quarantadue anni Hoffmann è una leggenda: scienziato tra i più noti al mondo, è ora un ricco e potente uomo...</summary>
+    <link href="../book_0/book_176.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il Sentiero Della Distruzione</title>
+    <id>calibre:book:180</id>
+    <updated>2016-07-17T05:53:50Z</updated>
+    <link href="../../Drew%20Karpyshyn/Il%20Sentiero%20Della%20Distruzione%20%28180%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Drew%20Karpyshyn/Il%20Sentiero%20Della%20Distruzione%20%28180%29/Il%20Sentiero%20Della%20Distruzione%20-%20Drew%20Karpyshyn.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="619 KB" />
+    <author>
+      <name>Drew Karpyshyn</name>
+      <uri>../author_0/author_33_Page_1.xml</uri>
+    </author>
+    <published>2013-01-30T00:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Foreign Languages" />
+    <category term="Action &amp; Adventure" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Genre Fiction" />
+    <category term="Star Wars" />
+    <category term="Fantasy" />
+    <category term="Lang:it" />
+    <summary>Sin dall’infanzia Dessel non ha conosciuto che i maltrattamenti del suo detestabile padre e il lavoro sfiancante e pericoloso nelle miniere di corto site. Nelle profondità delle gallerie del desolato pianeta Apatros, costretto a estrarre senza fine i...</summary>
+    <link href="../book_0/book_180.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il segno</title>
+    <id>calibre:book:181</id>
+    <updated>2016-07-17T05:53:51Z</updated>
+    <link href="../../Sarah%20Lotz/Il%20segno%20%28181%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sarah%20Lotz/Il%20segno%20%28181%29/Il%20segno%20-%20Sarah%20Lotz.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Sarah Lotz</name>
+      <uri>../author_0/author_125_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Laura Prandino</name>
+      <uri>../author_0/author_126_Page_1.xml</uri>
+    </author>
+    <published>2015-09-09T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Casa Editrice Nord</dcterms:publisher>
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Thrillers" />
+    <category term="ebook" />
+    <category term="Crime" />
+    <category term="Mystery" />
+    <category term="Foreign Language Fiction" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Lang:it" />
+    <summary>«Un thriller coinvolgente e raffinato, una scoperta eccezionale.»The Guardian  «L'autrice trascina il lettore in una storia ambigua e ad altissima tensione. Un romanzo travolgente»The Indipendent  Uno è un casoDue sono una coincidenzaTre sono un segn...</summary>
+    <link href="../book_0/book_181.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Globalia</title>
+    <id>calibre:book:199</id>
+    <updated>2016-07-17T05:53:55Z</updated>
+    <link href="../../Jean-Cristophe%20Rufin/Globalia%20%28199%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jean-Cristophe%20Rufin/Globalia%20%28199%29/Globalia%20-%20Jean-Cristophe%20Rufin.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="891 KB" />
+    <author>
+      <name>Jean-Cristophe Rufin</name>
+      <uri>../author_0/author_132_Page_1.xml</uri>
+    </author>
+    <published>2016-05-18T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Edizioni e/o</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Foreign Language Fiction" />
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Science Fiction" />
+    <category term="Literary Fiction" />
+    <category term="Literary" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Post-Apocalyptic" />
+    <category term="Italian" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>Dall’autore de L’uomo dei sogni, un libro che merita di stare a fianco di Orwell e Huxley sullo scaffale delle grandi distopie del nostro tempo.  
+In un futuro prossimo, così prossimo da apparirci verosimile in maniera preoccupante, il pianeta è un u...</summary>
+    <link href="../book_0/book_199.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Giallo metropoli</title>
+    <id>calibre:book:202</id>
+    <updated>2016-07-17T05:53:56Z</updated>
+    <link href="../../Aa.vv_/Giallo%20metropoli%20%28202%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Aa.vv_/Giallo%20metropoli%20%28202%29/Giallo%20metropoli%20-%20Aa.vv_.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="697 KB" />
+    <author>
+      <name>Aa.vv.</name>
+      <uri>../author_0/author_134_Page_1.xml</uri>
+    </author>
+    <published>2015-04-27T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>EDIZIONI PIEMME</dcterms:publisher>
+    <category term="Biographies &amp; Memoirs" />
+    <category term="Diaries &amp; True Accounts" />
+    <category term="Foreign Languages" />
+    <category term="Italian" />
+    <category term="Biographies" />
+    <category term="Lang:it" />
+    <summary>Un aeroplano si schianta contro un grattacielo, ma non siamo a New York. Il cadavere di una donna rasata ritrovato in una valigia. Un bandito pericoloso e romantico che fa impazzire le donne. Una nube silenziosa e letale si allarga come uno spettro s...</summary>
+    <link href="../book_0/book_202.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Gangsterland</title>
+    <id>calibre:book:206</id>
+    <updated>2016-07-17T05:53:57Z</updated>
+    <link href="../../Tod%20Goldberg/Gangsterland%20%28206%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Tod%20Goldberg/Gangsterland%20%28206%29/Gangsterland%20-%20Tod%20Goldberg.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="655 KB" />
+    <author>
+      <name>Tod Goldberg</name>
+      <uri>../author_0/author_138_Page_1.xml</uri>
+    </author>
+    <published>2016-05-29T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Sperling &amp; Kupfer</dcterms:publisher>
+    <category term="Crime" />
+    <category term="Mystery" />
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Foreign Languages" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Thrillers" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Lang:it" />
+    <summary>Sal Cupertine è un serio professionista di Chicago, marito fedele e padre affettuoso. 
+È famoso per la sua prodigiosa memoria, tanto che nel suo ambiente lo hanno soprannominato Rain Man, niente di personale. 
+Anzi, il datore di lavoro apprezza molti...</summary>
+    <link href="../book_0/book_206.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La giornata di un opričnik (biblioteca del fuoco) (Italian Edition)</title>
+    <id>calibre:book:207</id>
+    <updated>2016-07-17T05:53:58Z</updated>
+    <link href="../../Vladimir%20Sorokin/La%20giornata%20di%20un%20opricnik%20%28bibliot%20%28207%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Vladimir%20Sorokin/La%20giornata%20di%20un%20opricnik%20%28bibliot%20%28207%29/La%20giornata%20di%20un%20opricnik%20%28bib%20-%20Vladimir%20Sorokin.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Vladimir Sorokin</name>
+      <uri>../author_0/author_139_Page_1.xml</uri>
+    </author>
+    <published>2014-03-22T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Atmosphere libri</dcterms:publisher>
+    <category term="Italian" />
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Fantasy" />
+    <category term="Foreign Language Fiction" />
+    <category term="Foreign Languages" />
+    <category term="Paranormal &amp; Urban" />
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Lang:it" />
+    <summary>Russia, 2027. La monarchia è stata restaurata. Una rivoluzione neozarista ha costruito un nuovo Stato repressivo. La fustigazione è tornata, e il Cremlino è stato ridipinto del suo colore bianco originale. Il sublime auto-isolamento nazionale è stato...</summary>
+    <link href="../book_0/book_207.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Epidemia Zombie</title>
+    <id>calibre:book:221</id>
+    <updated>2016-07-17T05:54:01Z</updated>
+    <link href="../../Z.%20A.%20Recht/Epidemia%20Zombie%20%28221%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Z.%20A.%20Recht/Epidemia%20Zombie%20%28221%29/Epidemia%20Zombie%20-%20Z.%20A.%20Recht.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="951 KB" />
+    <author>
+      <name>Z. A. Recht</name>
+      <uri>../author_0/author_145_Page_1.xml</uri>
+    </author>
+    <published>2014-11-26T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Science Fiction" />
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Post-Apocalyptic" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Fantasy" />
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Adventure" />
+    <category term="Lang:it" />
+    <summary>Il tema dell‘apocalisse zombie, un tempo ai margini del panorama horror, ha assunto un ruolo centrale nella moderna cultura pop. Ora, con “Epidemia Zombie“, Z.A. Recht dà vita a un‘opera acuta e appassionante, un thriller che lascerà senza fiato sia ...</summary>
+    <link href="../book_0/book_221.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Embassytown</title>
+    <id>calibre:book:225</id>
+    <updated>2016-07-17T05:54:03Z</updated>
+    <link href="../../China%20Mieville/Embassytown%20%28225%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../China%20Mieville/Embassytown%20%28225%29/Embassytown%20-%20China%20Mieville.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="655 KB" />
+    <author>
+      <name>China Miéville</name>
+      <uri>../author_0/author_147_Page_1.xml</uri>
+    </author>
+    <published>2016-03-16T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Fantasy" />
+    <category term="Foreign Language Fiction" />
+    <category term="Foreign Languages" />
+    <category term="Science Fiction" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Italian" />
+    <category term="Lang:it" />
+    <summary>In un futuro remoto, gli esseri umani si sono spinti ai confini dell’universo, colonizzando il pianeta Areka. Qui, i rapporti tra gli uomini e il misterioso popolo degli Arekei, custode di una lingua misteriosa e inaccessibile, sono possibili solo gr...</summary>
+    <link href="../book_0/book_225.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Confine di Stato: Il primo volume della Trilogia sporca dell'Italia</title>
+    <id>calibre:book:239</id>
+    <updated>2016-07-17T05:54:06Z</updated>
+    <link href="../../Simone%20Sarasso/Confine%20di%20Stato_%20Il%20primo%20volume%20d%20%28239%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Simone%20Sarasso/Confine%20di%20Stato_%20Il%20primo%20volume%20d%20%28239%29/Confine%20di%20Stato_%20Il%20primo%20volu%20-%20Simone%20Sarasso.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Simone Sarasso</name>
+      <uri>../author_0/author_39_Page_1.xml</uri>
+    </author>
+    <published>2010-10-15T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Marsilio</dcterms:publisher>
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Thrillers" />
+    <category term="Crime" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Mystery" />
+    <category term="Contemporary Fiction" />
+    <category term="Foreign Language Fiction" />
+    <category term="Spies &amp; Politics" />
+    <category term="Foreign Languages" />
+    <category term="Espionage" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Lang:it" />
+    <summary>Erano sbirri corrotti, traditori della Repubblica, politici con le mani sporche di sangue, spacciatori irlandesi in affari con Cosa Nostra, ragazzi in nero pronti a tutto. Se solo un istante delle loro esistenze avesse imboccato una strada diversa, l...</summary>
+    <link href="../book_0/book_239.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cronache di Mondo9</title>
+    <id>calibre:book:243</id>
+    <updated>2016-07-17T05:54:08Z</updated>
+    <link href="../../Dario%20Tonani/Cronache%20di%20Mondo9%20%28243%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dario%20Tonani/Cronache%20di%20Mondo9%20%28243%29/Cronache%20di%20Mondo9%20-%20Dario%20Tonani.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+    <author>
+      <name>Dario Tonani</name>
+      <uri>../author_0/author_152_Page_1.xml</uri>
+    </author>
+    <published>2015-08-04T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Foreign Language Fiction" />
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Italian" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>È un pianeta desertico, letale, una sconfinata distesa di sabbie velenose. Nel corso dell'evoluzione i suoi abitanti si sono applicati a una sola arte, la meccanica, rendendolo il regno delle macchine, del metallo e della ruggine. Eppure Mondo9 vive ...</summary>
+    <link href="../book_0/book_243.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il codice Dominus</title>
+    <id>calibre:book:244</id>
+    <updated>2016-07-17T05:54:08Z</updated>
+    <link href="../../Tom%20Fox/Il%20codice%20Dominus%20%28244%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Tom%20Fox/Il%20codice%20Dominus%20%28244%29/Il%20codice%20Dominus%20-%20Tom%20Fox.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="663 KB" />
+    <author>
+      <name>Tom Fox</name>
+      <uri>../author_0/author_153_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Massimo Gardella</name>
+      <uri>../author_0/author_154_Page_1.xml</uri>
+    </author>
+    <published>2016-06-15T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Tre60</dcterms:publisher>
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Thrillers" />
+    <category term="Crime" />
+    <category term="Mystery" />
+    <category term="Foreign Language Fiction" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Lang:it" />
+    <summary>È un papa molto amato, Gregorio XVII, non soltanto per i suoi messaggi di pace e di tolleranza, ma anche perché porta su di sé i segni di una sofferenza indicibile: la grave malattia di cui soffre sin dall’infanzia non gli permette di stare in piedi ...</summary>
+    <link href="../book_0/book_244.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>China Girl: Le indagini di Neal Carey</title>
+    <id>calibre:book:250</id>
+    <updated>2016-07-17T05:54:09Z</updated>
+    <link href="../../Don%20Winslow/China%20Girl_%20Le%20indagini%20di%20Neal%20Car%20%28250%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Don%20Winslow/China%20Girl_%20Le%20indagini%20di%20Neal%20Car%20%28250%29/China%20Girl_%20Le%20indagini%20di%20Neal%20-%20Don%20Winslow.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="572 KB" />
+    <author>
+      <name>Don Winslow</name>
+      <uri>../author_0/author_43_Page_1.xml</uri>
+    </author>
+    <published>2016-06-20T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Einaudi</dcterms:publisher>
+    <category term="Crime" />
+    <category term="Foreign Language Fiction" />
+    <category term="Mystery" />
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Thrillers" />
+    <category term="Italian" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>Robert Pendleton è un genio della chimica e ha appena brevettato un fertilizzante che potrebbe valere una fortuna. Partito per una conferenza a San Francisco, smette di dare notizie di sé e dei frutti delle sue ricerche. Non c'è da stupirsi se gli Am...</summary>
+    <link href="../book_0/book_250.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cannibal: Nelle fauci di Wall Street</title>
+    <id>calibre:book:253</id>
+    <updated>2016-07-17T05:54:10Z</updated>
+    <link href="../../Jared%20Dillian/Cannibal_%20Nelle%20fauci%20di%20Wall%20Stree%20%28253%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jared%20Dillian/Cannibal_%20Nelle%20fauci%20di%20Wall%20Stree%20%28253%29/Cannibal_%20Nelle%20fauci%20di%20Wall%20S%20-%20Jared%20Dillian.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="607 KB" />
+    <author>
+      <name>Jared Dillian</name>
+      <uri>../author_0/author_160_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>B. Porteri</name>
+      <uri>../author_0/author_161_Page_1.xml</uri>
+    </author>
+    <published>2013-03-25T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>EDIZIONI PIEMME</dcterms:publisher>
+    <category term="Biographies &amp; Memoirs" />
+    <category term="Biographies" />
+    <category term="Italian" />
+    <category term="Diaries &amp; True Accounts" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>"A confronto Wall Street di Oliver Stone ci appare come Biancaneve". New York Post Jared Dillian è una delle menti di Lehman Brothers. Un workaholic. Uno squalo. Un cannibale. Uno che ai colloqui si presenta così: "Nessuno può lavorare più duramente ...</summary>
+    <link href="../book_0/book_253.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Un buon presagio</title>
+    <id>calibre:book:254</id>
+    <updated>2016-07-17T05:54:10Z</updated>
+    <link href="../../Gillian%20Flynn/Un%20buon%20presagio%20%28254%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gillian%20Flynn/Un%20buon%20presagio%20%28254%29/Un%20buon%20presagio%20-%20Gillian%20Flynn.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="513 KB" />
+    <author>
+      <name>Gillian Flynn</name>
+      <uri>../author_0/author_162_Page_1.xml</uri>
+    </author>
+    <published>2016-06-15T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Rizzoli</dcterms:publisher>
+    <category term="Contemporary Fiction" />
+    <category term="Fantasy" />
+    <category term="Foreign Language Fiction" />
+    <category term="Horror" />
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Genre Fiction" />
+    <category term="One hour (33-43 pages)" />
+    <category term="Occult" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Italian" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>La incontriamo in un piovoso mattino d’aprile, nel bugigattolo dove legge l’aura a signore fragili di nervi, dispensando loro consigli e previsioni. Di lei non conosciamo il nome, sappiamo solo che è una giovane donna intraprendente, scaltra, cresciu...</summary>
+    <link href="../book_0/book_254.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Atletico Minaccia Football Club</title>
+    <id>calibre:book:265</id>
+    <updated>2016-07-17T05:54:14Z</updated>
+    <link href="../../Marco%20Marsullo/Atletico%20Minaccia%20Football%20Club%20%28265%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Marco%20Marsullo/Atletico%20Minaccia%20Football%20Club%20%28265%29/Atletico%20Minaccia%20Football%20Club%20-%20Marco%20Marsullo.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Marco Marsullo</name>
+      <uri>../author_0/author_167_Page_1.xml</uri>
+    </author>
+    <published>2013-01-21T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Einaudi</dcterms:publisher>
+    <category term="Foreign Languages" />
+    <category term="Contemporary Fiction" />
+    <category term="Foreign Language Fiction" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Italian" />
+    <category term="Lang:it" />
+    <summary>Un esordio inatteso, tra commedia scatenata ed epica stracciona.  
+Ecco a voi Vanni Cascione.
+Un po' arrogante un po' ingenuo, un po' sognatore un po' canaglia.
+È l'allenatore dell'Atletico Minaccia Football Club: l'Armata Brancaleone dei gironi d'Ec...</summary>
+    <link href="../book_0/book_265.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Alif l'invisibile</title>
+    <id>calibre:book:274</id>
+    <updated>2016-07-17T05:54:17Z</updated>
+    <link href="../../Willow%20Wilson/Alif%20l%27invisibile%20%28274%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Willow%20Wilson/Alif%20l%27invisibile%20%28274%29/Alif%20l%27invisibile%20-%20Willow%20Wilson.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="848 KB" />
+    <author>
+      <name>Willow Wilson</name>
+      <uri>../author_0/author_171_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>G.</name>
+      <uri>../author_0/author_172_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>L. Fusari</name>
+      <uri>../author_0/author_173_Page_1.xml</uri>
+    </author>
+    <published>2016-05-31T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Il Saggiatore</dcterms:publisher>
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Technothrillers" />
+    <category term="Paranormal &amp; Urban" />
+    <category term="Mystery" />
+    <category term="Fantasy" />
+    <category term="Foreign Language Fiction" />
+    <category term="Contemporary" />
+    <category term="Thrillers" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Italian" />
+    <category term="Lang:it" />
+    <summary>La Città sorge da tempo immemorabile in un piccolo emirato del Medio Oriente, ricco di petrolio, corruzione e ingiustizie. Il potere dei suoi governanti si regge sulla polizia segreta e sui censori che filtrano tutto ciò che passa su internet, capegg...</summary>
+    <link href="../book_0/book_274.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Absolution Gap</title>
+    <id>calibre:book:280</id>
+    <updated>2016-07-17T05:54:19Z</updated>
+    <link href="../../Alastair%20Reynolds/Absolution%20Gap%20%28280%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alastair%20Reynolds/Absolution%20Gap%20%28280%29/Absolution%20Gap%20-%20Alastair%20Reynolds.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Alastair Reynolds</name>
+      <uri>../author_0/author_47_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Alessandro Vezzoli</name>
+      <uri>../author_0/author_177_Page_1.xml</uri>
+    </author>
+    <published>2015-07-01T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Fantasy" />
+    <category term="Foreign Language Fiction" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Italian" />
+    <category term="Lang:it" />
+    <summary>Esiste ancora un fantascienza "cosmologica"? Alastair Reynolds, connazionale di Olaf Stapledon, ha cercato di ricrearne una, descrivendo un universo ricco di storia e religioni; una tecnologia avanzata che permette di viaggiare tra le stelle senza in...</summary>
+    <link href="../book_0/book_280.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../tag_0/tag_20_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 2)" />
+</feed>

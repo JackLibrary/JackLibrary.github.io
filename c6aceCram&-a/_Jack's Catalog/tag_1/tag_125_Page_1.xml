@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Gli Eliminatori #2</title>
+  <id>Calibre2opds:taglist:G:125</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tag_125_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Gli Eliminatori #2" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with G" />
+  <entry>
+    <title>Firefight</title>
+    <id>calibre:book:218</id>
+    <updated>2016-07-17T05:54:01Z</updated>
+    <link href="../../Brandon%20Sanderson/Firefight%20%28218%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brandon%20Sanderson/Firefight%20%28218%29/Firefight%20-%20Brandon%20Sanderson.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="718 KB" />
+    <author>
+      <name>Brandon Sanderson</name>
+      <uri>../author_0/author_32_Page_1.xml</uri>
+    </author>
+    <published>2015-11-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Gli Eliminatori #2" />
+    <category term="Lang:it" />
+    <summary>Nessuno credeva che un Eliminatore potesse sconfiggere un Epico, eppure l’indomabile Steelheart è morto per mano di David Charleston. Nonostante la vendetta di David sia compiuta e suo padre sia stato vendicato, la scomparsa di Steelheart non ha aiut...</summary>
+    <link href="../book_0/book_218.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

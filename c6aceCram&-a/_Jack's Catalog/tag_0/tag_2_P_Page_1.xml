@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with P</title>
+  <id>Calibre2opds:taglist:F:2:P</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tag_2_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with P" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with F" />
+  <link href="./tag_2_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Fiction" />
+  <entry>
+    <title>Il Paese che amo: Il terzo volume della Trilogia sporca dell’Italia</title>
+    <id>calibre:book:85</id>
+    <updated>2016-07-17T05:53:22Z</updated>
+    <link href="../../Simone%20Sarasso/Il%20Paese%20che%20amo_%20Il%20terzo%20volume%20de%20%2885%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Simone%20Sarasso/Il%20Paese%20che%20amo_%20Il%20terzo%20volume%20de%20%2885%29/Il%20Paese%20che%20amo_%20Il%20terzo%20volu%20-%20Simone%20Sarasso.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="4 MB" />
+    <author>
+      <name>Simone Sarasso</name>
+      <uri>../author_0/author_39_Page_1.xml</uri>
+    </author>
+    <published>2013-09-30T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Marsilio Editori</dcterms:publisher>
+    <category term="Thrillers" />
+    <category term="Espionage" />
+    <category term="Fiction" />
+    <category term="Mystery &amp; Detective" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Dai fasti della Milano da Bere degli anni 80 allo scandalo Tangentopoli, il ritratto spietato e crudele di un Paese senza eroi. Dopo "Confine di Stato" e "Settanta", il terzo e conclusivo volume della Trilogia sporca dell'Italia. Ljuba Marekovna è so...</summary>
+    <link href="../book_0/book_85.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Parole di luce</title>
+    <id>calibre:book:82</id>
+    <updated>2016-07-17T05:53:20Z</updated>
+    <link href="../../Brandon%20Sanderson/Parole%20di%20luce%20%2882%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brandon%20Sanderson/Parole%20di%20luce%20%2882%29/Parole%20di%20luce%20-%20Brandon%20Sanderson.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="3 MB" />
+    <author>
+      <name>Brandon Sanderson</name>
+      <uri>../author_0/author_32_Page_1.xml</uri>
+    </author>
+    <published>2014-10-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Al primo posto nella classifica bestseller di The New York Times e Kobo.  Secondo posto nella classifica bestseller di usa Today e Sunday Times.    “Un must per tutti gli appassionati del genere fantasy.” Library Journal    “Il degno seguito di La Vi...</summary>
+    <link href="../book_0/book_82.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La Paura del Saggio</title>
+    <id>calibre:book:81</id>
+    <updated>2016-07-17T05:53:20Z</updated>
+    <link href="../../Patrick%20Rothfuss/La%20Paura%20del%20Saggio%20%2881%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Patrick%20Rothfuss/La%20Paura%20del%20Saggio%20%2881%29/La%20Paura%20del%20Saggio%20-%20Patrick%20Rothfuss.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+    <author>
+      <name>Patrick Rothfuss</name>
+      <uri>../author_0/author_64_Page_1.xml</uri>
+    </author>
+    <published>2011-07-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Questa è la storia di un uomo che insegue la verità di una leggenda e strada facendo diventa egli stesso una leggenda. Il giovane Kvothe è ancora alle prese con gli studi all'Accademia e con i suoi esperimenti, ma il carattere, focoso e ribelle quant...</summary>
+    <link href="../book_0/book_81.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Piranha Posizione di tiro</title>
+    <id>calibre:book:79</id>
+    <updated>2016-07-17T05:53:20Z</updated>
+    <link href="../../Michael%20Dimercurio/Piranha%20Posizione%20di%20tiro%20%2879%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michael%20Dimercurio/Piranha%20Posizione%20di%20tiro%20%2879%29/Piranha%20Posizione%20di%20tiro%20-%20Michael%20Dimercurio.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="978 KB" />
+    <author>
+      <name>Michael Dimercurio</name>
+      <uri>../author_0/author_63_Page_1.xml</uri>
+    </author>
+    <published>2005-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Longanesi</dcterms:publisher>
+    <category term="Espionage" />
+    <category term="Fiction" />
+    <category term="Thrillers" />
+    <category term="Lang:it" />
+    <summary>L'Oriente è diviso tra la nuova Cina, sempre più prosperosa, e la vecchia Cina Rossa, retta da guerrafondai che sognano il ritorno al passato. Ma per farlo devono scatenare una nuova offensiva. Così, quando sei sottomarini di fabbricazione giapponese...</summary>
+    <link href="../book_0/book_79.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Prima dell'apocalisse</title>
+    <id>calibre:book:76</id>
+    <updated>2016-07-17T05:53:19Z</updated>
+    <link href="../../Chirstopher%20Galt/Prima%20dell%27apocalisse%20%2876%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Chirstopher%20Galt/Prima%20dell%27apocalisse%20%2876%29/Prima%20dell%27apocalisse%20-%20Chirstopher%20Galt.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="937 KB" />
+    <author>
+      <name>Chirstopher Galt</name>
+      <uri>../author_0/author_61_Page_1.xml</uri>
+    </author>
+    <published>2016-01-19T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Editrice Nord</dcterms:publisher>
+    <category term="ebook" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Thrillers" />
+    <category term="Lang:it" />
+    <summary>«Un romanzo eccezionale.»Michael Connelly«Il romanzo che scardinerà tutte le vostre certezze.»Library Journal«Uno dei thriller più originali degli ultimi anni. E il finale vi lascerà a bocca aperta.»Publishers Weekly«Una trama ingegnosa e sorprendent...</summary>
+    <link href="../book_0/book_76.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il potere del cane</title>
+    <id>calibre:book:187</id>
+    <updated>2016-07-17T05:53:52Z</updated>
+    <link href="../../Don%20Winslow/Il%20potere%20del%20cane%20%28187%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Don%20Winslow/Il%20potere%20del%20cane%20%28187%29/Il%20potere%20del%20cane%20-%20Don%20Winslow.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="983 KB" />
+    <author>
+      <name>Don Winslow</name>
+      <uri>../author_0/author_43_Page_1.xml</uri>
+    </author>
+    <published>2014-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Einaudi</dcterms:publisher>
+    <category term="Mystery &amp; Detective" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>Art Keller è un poliziotto ambizioso, con una mentalità da crociato, deciso a combattere in prima fila la guerra che gli Stati Uniti hanno lanciato contro il traffico internazionale di droga. Miguel Angel Barrera è il boss della Federación, il cartel...</summary>
+    <link href="../book_0/book_187.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il programma. Virtnet Runner. The mortality doctrine</title>
+    <id>calibre:book:74</id>
+    <updated>2016-07-17T05:53:18Z</updated>
+    <link href="../../James%20Dashner/Il%20programma.%20Virtnet%20Runner.%20The%20mo%20%2874%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../James%20Dashner/Il%20programma.%20Virtnet%20Runner.%20The%20mo%20%2874%29/Il%20programma.%20Virtnet%20Runner.%20T%20-%20James%20Dashner.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="597 KB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../author_0/author_12_Page_1.xml</uri>
+    </author>
+    <published>2015-02-15T00:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Sopravvissuto alle insidie disseminate lungo il Sentiero, Michael ha finalmente davanti agli occhi la vera faccia della realtà, una presa di coscienza che ha sconvolto quello che credeva di sapere della sua stessa vita e del mondo. È vivo per miracol...</summary>
+    <link href="../book_0/book_74.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il protocollo ombra</title>
+    <id>calibre:book:70</id>
+    <updated>2016-07-17T05:53:17Z</updated>
+    <link href="../../Kazuaki%20Takano/Il%20protocollo%20ombra%20%2870%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Kazuaki%20Takano/Il%20protocollo%20ombra%20%2870%29/Il%20protocollo%20ombra%20-%20Kazuaki%20Takano.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Kazuaki Takano</name>
+      <uri>../author_0/author_59_Page_1.xml</uri>
+    </author>
+    <published>2015-06-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Garzanti Libri</dcterms:publisher>
+    <category term="Thrillers" />
+    <category term="Fiction" />
+    <category term="Suspense" />
+    <category term="Lang:it" />
+    <link href="../book_0/book_70.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

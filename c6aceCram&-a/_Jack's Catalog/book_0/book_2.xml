@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>1Q84 - Libro 1 e 2</title>
+  <id>urn:book:7219506b-8577-4180-88de-d50c60f0a4bc</id>
+  <updated>2016-07-17T05:52:55Z</updated>
+  <link href="./book_2.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="1Q84 - Libro 1 e 2" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="../../Haruki%20Murakami/1Q84%20-%20Libro%201%20e%202%20%282%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Haruki%20Murakami/1Q84%20-%20Libro%201%20e%202%20%282%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Haruki%20Murakami/1Q84%20-%20Libro%201%20e%202%20%282%29/1Q84%20-%20Libro%201%20e%202%20-%20Haruki%20Murakami.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+  <author>
+    <name>Haruki Murakami</name>
+    <uri>../author_0/author_1_Page_1.xml</uri>
+  </author>
+  <published>2011-12-22T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">Aomame è spietata e fragile. È
+    un killer che in minigonna e tacchi a spillo, con una tecnica
+    micidiale e impalpabile, vendica tutte le donne che subiscono
+    una violenza. Tengo è un ghost writer che deve riscrivere
+    un libro inquietante e pericoloso come una profezia.Entrambi si
+    giocano la vita in una storia che sembra destinata a farli
+    incontrare. Ma quando Aomame, sollevando gli occhi al cielo,
+    vede sorgere una seconda luna, capisce che non potranno
+    condividere neppure la stessa realtà. Mai come in 1Q84
+    Murakami ha esplorato le nostre ossessioni per dare vita a un
+    mondo così personale, onirico e malinconico.Accolto in
+    Giappone come il suo capolavoro, 1Q84 è un romanzo che
+    contiene universi.«Avviso ai nuovi lettori di Murakami:
+    crea dipendenza».«San Francisco
+    Chronicle»«I romanzi di Murakami resistono a ogni
+    definizione: sembrano vivere di vita propria».«Daily
+    Telegraph»</p>
+  </content>
+  <link href="../author_0/author_1_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Haruki Murakami" />
+  <link href="http://www.goodreads.com/book/title/1Q84%20-%20Libro%201%20e%202" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/1Q84%20-%20Libro%201%20e%202" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/1Q84%20-%20Libro%201%20e%202%20Haruki%20Murakami" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=1Q84%20-%20Libro%201%20e%202&amp;field-author=Haruki%20Murakami" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Haruki%20Murakami" type="text/html" rel="related" title="Haruki Murakami on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Haruki%20Murakami" type="text/html" rel="related" title="Haruki Murakami on Wikipedia" />
+  <link href="http://www.librarything.com/author/MurakamiHaruki" type="text/html" rel="related" title="Haruki Murakami on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Haruki%20Murakami" type="text/html" rel="related" title="Haruki Murakami on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Haruki%20Murakami" type="text/html" rel="related" title="Haruki Murakami on ISFDB" />
+</entry>

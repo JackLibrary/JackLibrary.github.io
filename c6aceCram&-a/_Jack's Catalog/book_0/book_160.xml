@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>La città sepolta: Un'avventura della Sigma Force</title>
+  <id>urn:book:0ab384c9-fc2b-4f48-b951-abd53ab851a7</id>
+  <updated>2016-07-17T05:53:45Z</updated>
+  <link href="./book_160.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La città sepolta: Un'avventura della Sigma Force" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with R" />
+  <link href="../../James%20Rollins/La%20citta%20sepolta_%20Un%27avventura%20dell%20%28160%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../James%20Rollins/La%20citta%20sepolta_%20Un%27avventura%20dell%20%28160%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../James%20Rollins/La%20citta%20sepolta_%20Un%27avventura%20dell%20%28160%29/La%20citta%20sepolta_%20Un%27avventura%20-%20James%20Rollins.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+  <author>
+    <name>James Rollins</name>
+    <uri>../author_0/author_111_Page_1.xml</uri>
+  </author>
+  <published>2010-10-15T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Casa Editrice Nord</dcterms:publisher>
+  <category term="Crime" />
+  <category term="Foreign Language Fiction" />
+  <category term="Mystery" />
+  <category term="Thrillers &amp; Suspense" />
+  <category term="Thriller" />
+  <category term="Thriller &amp; Suspense" />
+  <category term="Thriller &amp; Mystery" />
+  <category term="Action &amp; Adventure" />
+  <category term="ebook" />
+  <category term="Literature &amp; Fiction" />
+  <category term="Thrillers" />
+  <category term="Italian" />
+  <category term="Suspense" />
+  <category term="Foreign Languages" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Crime, Foreign Language Fiction, Mystery, Thrillers &amp; Suspense, Thriller, Thriller &amp; Suspense, Thriller &amp; Mystery, Action &amp; Adventure, ebook, Literature &amp; Fiction, Thrillers, Italian, Suspense, Foreign Languages, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>
+        L’esplosione che ha distrutto la Galleria Kensington
+      del British Museum sembra non avere spiegazioni. Le ultime
+      immagini delle telecamere di sorveglianza mostrano una sfera
+      di luce che, entrando in contatto con un antico manufatto,
+      innesta una reazione devastante. Nessuno riesce a capire cosa
+      abbia scatenato quel bizzarro fenomeno naturale, eppure Safia
+      al-Maaz, la brillante curatrice della collezione araba,
+      scopre tra le macerie un oggetto sorprendente, rimasto
+      nascosto per millenni, un cuore di ferro con inciso un nome
+      leggendario: Ubar, la città perduta della regina di
+      Saba…
+        <br />
+        Anche Painter Crowe, agente segreto della Sigma,
+      partecipa alle indagini per individuare l’origine
+      dell’esplosione. Ma quella che sembra
+      un’affascinante sfida scientifica diventa
+      improvvisamente una missione mortale quando una misteriosa
+      organizzazione tenta d’impadronirsi del cuore di ferro:
+      perché quell’oggetto è il primo indizio che
+      conduce a un’immensa fonte d’energia, forse
+      proprio la causa della scomparsa di Ubar, l’Atlantide
+      del deserto, che secondo le leggende è stata sepolta da
+      un’imponente tempesta di sabbia…
+        <br />
+        Da Londra al golfo Persico, da Washington al deserto
+      arabo, Painter e Safia dovranno affrontare non solo gli
+      enigmi e i misteri del passato, ma anche un nemico
+      implacabile, in una corsa contro il tempo per scongiurare una
+      catastrofe senza precedenti.
+      </p>
+      <p>**</p>
+    </div>
+  </content>
+  <link href="../author_0/author_111_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by James Rollins" />
+  <link href="http://www.goodreads.com/book/title/La%20citt%C3%A0%20sepolta%3A%20Un%27avventura%20della%20Sigma%20Force" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/La%20citt%C3%A0%20sepolta%3A%20Un%27avventura%20della%20Sigma%20Force" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/La%20citt%C3%A0%20sepolta%3A%20Un%27avventura%20della%20Sigma%20Force%20James%20Rollins" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=La%20citt%C3%A0%20sepolta%3A%20Un%27avventura%20della%20Sigma%20Force&amp;field-author=James%20Rollins" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/James%20Rollins" type="text/html" rel="related" title="James Rollins on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/James%20Rollins" type="text/html" rel="related" title="James Rollins on Wikipedia" />
+  <link href="http://www.librarything.com/author/RollinsJames" type="text/html" rel="related" title="James Rollins on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=James%20Rollins" type="text/html" rel="related" title="James Rollins on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?James%20Rollins" type="text/html" rel="related" title="James Rollins on ISFDB" />
+</entry>

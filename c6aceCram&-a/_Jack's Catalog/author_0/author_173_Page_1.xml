@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>L. Fusari</title>
+  <id>Calibre2opds:author:173</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_173_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="L. Fusari" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with F" />
+  <entry>
+    <title>Alif l'invisibile</title>
+    <id>calibre:book:274</id>
+    <updated>2016-07-17T05:54:17Z</updated>
+    <link href="../../Willow%20Wilson/Alif%20l%27invisibile%20%28274%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Willow%20Wilson/Alif%20l%27invisibile%20%28274%29/Alif%20l%27invisibile%20-%20Willow%20Wilson.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="848 KB" />
+    <author>
+      <name>Willow Wilson</name>
+      <uri>../author_0/author_171_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>G.</name>
+      <uri>../author_0/author_172_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>L. Fusari</name>
+      <uri>../author_0/author_173_Page_1.xml</uri>
+    </author>
+    <published>2016-05-31T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Il Saggiatore</dcterms:publisher>
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Technothrillers" />
+    <category term="Paranormal &amp; Urban" />
+    <category term="Mystery" />
+    <category term="Fantasy" />
+    <category term="Foreign Language Fiction" />
+    <category term="Contemporary" />
+    <category term="Thrillers" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Italian" />
+    <category term="Lang:it" />
+    <summary>La Città sorge da tempo immemorabile in un piccolo emirato del Medio Oriente, ricco di petrolio, corruzione e ingiustizie. Il potere dei suoi governanti si regge sulla polizia segreta e sui censori che filtrano tutto ciò che passa su internet, capegg...</summary>
+    <link href="../book_0/book_274.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Ian McDonald</title>
+  <id>Calibre2opds:author:142</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_142_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Ian McDonald" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <entry>
+    <title>Il fiume degli dei (Urania)</title>
+    <id>calibre:book:217</id>
+    <updated>2016-07-17T05:54:00Z</updated>
+    <link href="../../Ian%20McDonald/Il%20fiume%20degli%20dei%20%28Urania%29%20%28217%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ian%20McDonald/Il%20fiume%20degli%20dei%20%28Urania%29%20%28217%29/Il%20fiume%20degli%20dei%20%28Urania%29%20-%20Ian%20McDonald.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="863 KB" />
+    <author>
+      <name>Ian McDonald</name>
+      <uri>../author_0/author_142_Page_1.xml</uri>
+    </author>
+    <published>2013-07-02T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Edizioni Mondadori</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>IL FIUME DEGLI DEI è il Gange, "che scorre dall'Himalaya al golfo del Bengala attraverso le pianure dell'India settentrionale. Dopo anni di siccità, nell'agosto 2047 la diga costruita illegalmente a Kunda Khadar è diventata il casus belli del conflit...</summary>
+    <link href="../book_0/book_217.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Firefight</title>
+  <id>urn:book:e7a17451-e72c-42d2-9f35-660784c745cd</id>
+  <updated>2016-07-17T05:54:01Z</updated>
+  <link href="./book_218.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Firefight" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../../Brandon%20Sanderson/Firefight%20%28218%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Brandon%20Sanderson/Firefight%20%28218%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Brandon%20Sanderson/Firefight%20%28218%29/Firefight%20-%20Brandon%20Sanderson.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="718 KB" />
+  <author>
+    <name>Brandon Sanderson</name>
+    <uri>../author_0/author_32_Page_1.xml</uri>
+  </author>
+  <published>2015-11-01T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+  <category term="Fantasy" />
+  <category term="Gli Eliminatori #2" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Fantasy, Gli Eliminatori #2, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">Nessuno credeva che un Eliminatore
+    potesse sconfiggere un Epico, eppure l’indomabile
+    Steelheart è morto per mano di David Charleston.
+    Nonostante la vendetta di David sia compiuta e suo padre sia
+    stato vendicato, la scomparsa di Steelheart non ha aiutato la
+    causa di chi, come gli Eliminatori, si batte per sottrarsi alla
+    crudele egemonia degli Epici, esseri che si servono dei loro
+    poteri straordinari per tenere sotto il proprio giogo
+    l’umanità intera. David sa che la battaglia per
+    restituire agli uomini il diritto di uscire dal buio in cui si
+    sono rintanati sarà ancora lunga e sfiancante, e
+    dovrà superare i confini della città di Newcago,
+    ormai libera. Adesso l’obiettivo degli Eliminatori è
+    Regalia, l’Epico despota di Babilonia Rinata, la
+    città che un tempo fu Manhattan. La via che conduce a
+    Firefight, colui che ora tiene le redini del potere, passa da
+    qui, ma l’impresa è rischiosa e lasciarsi guidare
+    dalla sola sete di vendetta può essere molto pericoloso...
+    Dopo Steelheart, il secondo volume di una serie
+    imperdibile.</p>
+  </content>
+  <link href="../author_0/author_32_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Brandon Sanderson" />
+  <link href="http://www.goodreads.com/book/title/Firefight" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Firefight" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Firefight%20Brandon%20Sanderson" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Firefight&amp;field-author=Brandon%20Sanderson" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Brandon%20Sanderson" type="text/html" rel="related" title="Brandon Sanderson on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Brandon%20Sanderson" type="text/html" rel="related" title="Brandon Sanderson on Wikipedia" />
+  <link href="http://www.librarything.com/author/SandersonBrandon" type="text/html" rel="related" title="Brandon Sanderson on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Brandon%20Sanderson" type="text/html" rel="related" title="Brandon Sanderson on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Brandon%20Sanderson" type="text/html" rel="related" title="Brandon Sanderson on ISFDB" />
+</entry>

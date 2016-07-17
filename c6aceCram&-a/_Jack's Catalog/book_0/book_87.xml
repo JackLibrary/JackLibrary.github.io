@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Patient Zero</title>
+  <id>urn:book:4d29ac3e-01b9-4c5d-a132-5b65f1129e84</id>
+  <updated>2016-07-17T05:53:22Z</updated>
+  <link href="./book_87.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Patient Zero" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="../../Jonathan%20Maberry/Patient%20Zero%20%2887%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Jonathan%20Maberry/Patient%20Zero%20%2887%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Jonathan%20Maberry/Patient%20Zero%20%2887%29/Patient%20Zero%20-%20Jonathan%20Maberry.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+  <author>
+    <name>Jonathan Maberry</name>
+    <uri>../author_0/author_69_Page_1.xml</uri>
+  </author>
+  <published>2015-02-16T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Casini Editore</dcterms:publisher>
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">Quando ti trovi a uccidere lo stesso terrorista due volte in
+    una settimana, ci deve essere qualcosa di sbagliato, o in te o
+    nel tuo mondo. E non c’è niente che non vada nelle
+    capacità di Joe Ledger, il detective di Baltimora chiamato
+    a dirigere una nuova taskforce antiterrorismo ultrasegreta.
+    Quel che non va è la nuova strategia dei cattivi, una
+    terribile arma batteriologica in grado di trasformare le
+    persone in zombie... e trasformare un thriller adrenalinico e
+    ipnotizzante in un horror ancora più coinvolgente e
+    scioccante, che incollerà il lettore alla poltrona e
+    farà accelerare il battito del suo cuore, terrorizzando la
+    sua anima.</p>
+  </content>
+  <link href="../author_0/author_69_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Jonathan Maberry" />
+  <link href="http://www.goodreads.com/book/title/Patient%20Zero" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Patient%20Zero" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Patient%20Zero%20Jonathan%20Maberry" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Patient%20Zero&amp;field-author=Jonathan%20Maberry" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Jonathan%20Maberry" type="text/html" rel="related" title="Jonathan Maberry on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Jonathan%20Maberry" type="text/html" rel="related" title="Jonathan Maberry on Wikipedia" />
+  <link href="http://www.librarything.com/author/MaberryJonathan" type="text/html" rel="related" title="Jonathan Maberry on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Jonathan%20Maberry" type="text/html" rel="related" title="Jonathan Maberry on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Jonathan%20Maberry" type="text/html" rel="related" title="Jonathan Maberry on ISFDB" />
+</entry>

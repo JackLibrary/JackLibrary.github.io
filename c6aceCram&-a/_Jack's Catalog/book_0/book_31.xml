@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Il Trono di Spade 2. Il Regno dei Lupi, La Regina dei Draghi.</title>
+  <id>urn:book:68cc75c4-c733-4449-97a6-9bb237a1e0ee</id>
+  <updated>2016-07-17T05:53:05Z</updated>
+  <link href="./book_31.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Il Trono di Spade 2. Il Regno dei Lupi, La Regina dei Draghi." />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="../../George%20R.%20R.%20Martin/Il%20Trono%20di%20Spade%202.%20Il%20Regno%20dei%20Lu%20%2831%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../George%20R.%20R.%20Martin/Il%20Trono%20di%20Spade%202.%20Il%20Regno%20dei%20Lu%20%2831%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../George%20R.%20R.%20Martin/Il%20Trono%20di%20Spade%202.%20Il%20Regno%20dei%20Lu%20%2831%29/Il%20Trono%20di%20Spade%202.%20Il%20Regno%20d%20-%20George%20R.%20R.%20Martin.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+  <author>
+    <name>George R. R. Martin</name>
+    <uri>../author_0/author_26_Page_1.xml</uri>
+  </author>
+  <published>2013-10-30T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Edizioni Mondadori</dcterms:publisher>
+  <category term="General" />
+  <category term="Fantasy" />
+  <category term="Fiction" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      General, Fantasy, Fiction, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">Nel cielo dei Sette Regni, travolti da
+    una guerra devastatrice, compare una cometa dal sinistro colore
+    di sangue. È l'ennesimo segno di immani catastrofi che si
+    stanno preparando? L'estate dell'abbondanza sembra ormai
+    definitivamente passata, e ben quattro condottieri si
+    contendono ferocemente il Trono di Spade. Intanto al di là
+    del mare caldo l'orgogliosa principessa in esilio Daenerys
+    Targaryen è pronta a rischiare tutto per la corona che le
+    appartiene di diritto. Solo per lei, forse, la cometa di sangue
+    non è un presagio di tragedia ma l'araldo della
+    riscossa¿ Mentre lo scontro continua, qualcuno tesse
+    un'inesorabile tela di morte. All'estremo Nord, oltre la
+    Barriera di ghiaccio, forze oscure vanno facendosi sempre
+    più minacciose... In una terra di sinistra magia e
+    violenza, ma anche di eroismo e passione, è ambientato il
+    secondo volume della saga "Le cronache del ghiaccio e del
+    Fuoco", l'attesissimo seguito de Il Trono di Spade e Il Grande
+    Inverno.</p>
+  </content>
+  <link href="../author_0/author_26_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by George R. R. Martin" />
+  <link href="http://www.goodreads.com/book/title/Il%20Trono%20di%20Spade%202.%20Il%20Regno%20dei%20Lupi%2C%20La%20Regina%20dei%20Draghi." type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Il%20Trono%20di%20Spade%202.%20Il%20Regno%20dei%20Lupi%2C%20La%20Regina%20dei%20Draghi." type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Il%20Trono%20di%20Spade%202.%20Il%20Regno%20dei%20Lupi%2C%20La%20Regina%20dei%20Draghi.%20George%20R.%20R.%20Martin" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Il%20Trono%20di%20Spade%202.%20Il%20Regno%20dei%20Lupi%2C%20La%20Regina%20dei%20Draghi.&amp;field-author=George%20R.%20R.%20Martin" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/George%20R.%20R.%20Martin" type="text/html" rel="related" title="George R. R. Martin on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/George%20R.%20R.%20Martin" type="text/html" rel="related" title="George R. R. Martin on Wikipedia" />
+  <link href="http://www.librarything.com/author/MartinGeorgeR.R." type="text/html" rel="related" title="George R. R. Martin on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=George%20R.%20R.%20Martin" type="text/html" rel="related" title="George R. R. Martin on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?George%20R.%20R.%20Martin" type="text/html" rel="related" title="George R. R. Martin on ISFDB" />
+</entry>

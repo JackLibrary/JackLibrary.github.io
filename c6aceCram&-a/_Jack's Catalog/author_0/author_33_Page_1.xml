@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Drew Karpyshyn</title>
+  <id>Calibre2opds:author:33</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_33_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Drew Karpyshyn" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_K_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with K" />
+  <entry>
+    <title>Sterminio</title>
+    <id>calibre:book:39</id>
+    <updated>2016-07-17T05:53:07Z</updated>
+    <link href="../../Drew%20Karpyshyn/Sterminio%20%2839%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Drew%20Karpyshyn/Sterminio%20%2839%29/Sterminio%20-%20Drew%20Karpyshyn.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Drew Karpyshyn</name>
+      <uri>../author_0/author_33_Page_1.xml</uri>
+    </author>
+    <published>2014-03-15T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>L'impero vacilla. L'imperatore è scomparso, forse morto. Malgrado ciò Darth Karrid, comandante del temibile incrociatore imperiale Ascendant Spear, tenta instancabilmente di portare i Sith al dominio totale della galassia. Alla determinazione incroll...</summary>
+    <link href="../book_0/book_39.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Revan</title>
+    <id>calibre:book:59</id>
+    <updated>2016-07-17T05:53:13Z</updated>
+    <link href="../../Drew%20Karpyshyn/Revan%20%2859%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Drew%20Karpyshyn/Revan%20%2859%29/Revan%20-%20Drew%20Karpyshyn.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Drew Karpyshyn</name>
+      <uri>../author_0/author_33_Page_1.xml</uri>
+    </author>
+    <published>2013-01-29T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it</dcterms:publisher>
+    <category term="The Old Republic" />
+    <category term="Star Wars" />
+    <category term="Lang:it" />
+    <summary>Revan: eroe, traditore, conquistatore, salvatore. Uno Jedi che ha lasciato Coruscant per sconfiggere i Mandaloriani ed è tornato come seguace del Lato Oscuro, deciso a distruggere la Repubblica. Il Consiglio Jedi gli ha restituito la vita ma il prezz...</summary>
+    <link href="../book_0/book_59.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La regola dei due</title>
+    <id>calibre:book:149</id>
+    <updated>2016-07-17T05:53:41Z</updated>
+    <link href="../../Drew%20Karpyshyn/La%20regola%20dei%20due%20%28149%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Drew%20Karpyshyn/La%20regola%20dei%20due%20%28149%29/La%20regola%20dei%20due%20-%20Drew%20Karpyshyn.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Drew Karpyshyn</name>
+      <uri>../author_0/author_33_Page_1.xml</uri>
+    </author>
+    <published>2013-06-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="Fantascienza" />
+    <category term="Star Wars" />
+    <category term="Science Fiction" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>"Sempre due: né più, né meno. Uno racchiude il potere, l'altro lo brama." Ora Darth Bane è pronto a mettere in atto la sua Regola, e crede di aver trovato l'elemento chiave che completerà il suo trionfo: un allievo da addestrare al Lato Oscuro. Bench...</summary>
+    <link href="../book_0/book_149.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La dinastia del male</title>
+    <id>calibre:book:155</id>
+    <updated>2016-07-17T05:53:43Z</updated>
+    <link href="../../Drew%20Karpyshyn/La%20dinastia%20del%20male%20%28155%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Drew%20Karpyshyn/La%20dinastia%20del%20male%20%28155%29/La%20dinastia%20del%20male%20-%20Drew%20Karpyshyn.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Drew Karpyshyn</name>
+      <uri>../author_0/author_33_Page_1.xml</uri>
+    </author>
+    <published>2013-06-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Fantascienza" />
+    <category term="Science Fiction" />
+    <category term="Star Wars" />
+    <category term="Lang:it" />
+    <summary>Sono trascorsi vent'anni da quando Darth Bane, Signore Oscuro regnante dei Sith, ha distrutto l'antico ordine e lo ha ricreato composto da due persone: un Maestro che detiene il potere e tramanda il sapere, e un apprendista che impara per sfidare e u...</summary>
+    <link href="../book_0/book_155.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il Sentiero Della Distruzione</title>
+    <id>calibre:book:180</id>
+    <updated>2016-07-17T05:53:50Z</updated>
+    <link href="../../Drew%20Karpyshyn/Il%20Sentiero%20Della%20Distruzione%20%28180%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Drew%20Karpyshyn/Il%20Sentiero%20Della%20Distruzione%20%28180%29/Il%20Sentiero%20Della%20Distruzione%20-%20Drew%20Karpyshyn.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="619 KB" />
+    <author>
+      <name>Drew Karpyshyn</name>
+      <uri>../author_0/author_33_Page_1.xml</uri>
+    </author>
+    <published>2013-01-30T00:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Foreign Languages" />
+    <category term="Action &amp; Adventure" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Genre Fiction" />
+    <category term="Star Wars" />
+    <category term="Fantasy" />
+    <category term="Lang:it" />
+    <summary>Sin dall’infanzia Dessel non ha conosciuto che i maltrattamenti del suo detestabile padre e il lavoro sfiancante e pericoloso nelle miniere di corto site. Nelle profondità delle gallerie del desolato pianeta Apatros, costretto a estrarre senza fine i...</summary>
+    <link href="../book_0/book_180.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>I falsificatori</title>
+  <id>urn:book:61913e03-88e4-442f-bd64-e020e481e3fe</id>
+  <updated>2016-07-17T05:53:54Z</updated>
+  <link href="./book_193.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="I falsificatori" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with B" />
+  <link href="../../Antoine%20Bello/I%20falsificatori%20%28193%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Antoine%20Bello/I%20falsificatori%20%28193%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Antoine%20Bello/I%20falsificatori%20%28193%29/I%20falsificatori%20-%20Antoine%20Bello.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="640 KB" />
+  <author>
+    <name>Antoine Bello</name>
+    <uri>../author_0/author_122_Page_1.xml</uri>
+  </author>
+  <published>2014-07-01T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Fazi Editore</dcterms:publisher>
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">Narrazione paranoica, opera d'avventura,
+    di spionaggio e di attualità insieme, I falsificatori,
+    dietro la riflessione sull'informazione e la rappresentazione
+    del mondo, mostra l'ombra di uno scrittore-demiurgo che ci
+    conduce dove vuole, qualunque sia lo scenario descritto. I
+    falsificatori e il sequel Gli illuminati hanno venduto in
+    Francia oltre 100.000 copie, vincendo il Prix du Livre France
+    Culture Télérama nel 2009. Questa è la storia di
+    un'organizzazione segreta internazionale, il CFR (Consorzio per
+    la Falsificazione della Realtà), che da tempo immemore,
+    senza che nessuno ne abbia mai sospettato l'esistenza,
+    reinventa il reale per fini e moventi ignoti ai suoi stessi
+    membri. Questa è la storia di cosa si nasconde dietro ad
+    alcuni degli eventi che hanno costituito le fondamenta stesse
+    del nostro tempo: di Laika, la cagnetta lanciata nello spazio,
+    che non è mai esistita; di Cristoforo Colombo, che non ha
+    mai scoperto l'America; dei "presunti" archivi della STASI; del
+    crollo delle Torri Gemelle, e di una guerra in Medio Oriente
+    giustificata da una montagna di menzogne. Questa è la
+    storia di un gruppo di infiltrati geniali che, un giorno dopo
+    l'altro, hanno stabilito le coordinate della tua vita, i tuoi
+    punti di riferimento, le tue idiosincrasie, le tue certezze.
+    Perché il tuo tempo, così come il tempo di chi ti ha
+    preceduto, è opera loro. Ed è la storia di un giovane
+    uomo, ingaggiato dal CFR, che tenterà di comprendere per
+    chi o cosa in realtà lavori.</p>
+  </content>
+  <link href="../author_0/author_122_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Antoine Bello" />
+  <link href="http://www.goodreads.com/book/title/I%20falsificatori" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/I%20falsificatori" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/I%20falsificatori%20Antoine%20Bello" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=I%20falsificatori&amp;field-author=Antoine%20Bello" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Antoine%20Bello" type="text/html" rel="related" title="Antoine Bello on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Antoine%20Bello" type="text/html" rel="related" title="Antoine Bello on Wikipedia" />
+  <link href="http://www.librarything.com/author/BelloAntoine" type="text/html" rel="related" title="Antoine Bello on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Antoine%20Bello" type="text/html" rel="related" title="Antoine Bello on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Antoine%20Bello" type="text/html" rel="related" title="Antoine Bello on ISFDB" />
+</entry>

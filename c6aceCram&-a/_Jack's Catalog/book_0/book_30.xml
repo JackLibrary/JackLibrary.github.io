@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Il Trono di Spade 3. Tempesta di Spade, Fiumi della Guerra, Il Portale delle Tenebre.</title>
+  <id>urn:book:8ba6a6b2-3ade-4985-a80f-e8ca4a3706f8</id>
+  <updated>2016-07-17T05:53:04Z</updated>
+  <link href="./book_30.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Il Trono di Spade 3. Tempesta di Spade, Fiumi della Guerra, Il Portale delle Tenebre." />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="../../George%20R.%20R.%20Martin/Il%20Trono%20di%20Spade%203.%20Tempesta%20di%20Spa%20%2830%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../George%20R.%20R.%20Martin/Il%20Trono%20di%20Spade%203.%20Tempesta%20di%20Spa%20%2830%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../George%20R.%20R.%20Martin/Il%20Trono%20di%20Spade%203.%20Tempesta%20di%20Spa%20%2830%29/Il%20Trono%20di%20Spade%203.%20Tempesta%20d%20-%20George%20R.%20R.%20Martin.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="4 MB" />
+  <author>
+    <name>George R. R. Martin</name>
+    <uri>../author_0/author_26_Page_1.xml</uri>
+  </author>
+  <published>2013-10-30T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Edizioni Mondadori</dcterms:publisher>
+  <category term="Fantasy" />
+  <category term="Fiction" />
+  <category term="General" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Fantasy, Fiction, General, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">Dopo la morte di re Renly Baratheon gli
+    avversari che si contendono il Trono di Spade sono ridotti a
+    quattro. Il gioco di alleanze, inganni e tradimenti si fa
+    sempre più spietato, sempre più labirintico, e
+    l'ambizione dei contendenti non ha limite. Sui quattro re e sui
+    paesaggi già devastati dalla guerra incombe la più
+    terribile delle minacce: dall'estremo nord un'immane orda di
+    barbari e giganti, mammut e metamorfi sta lentamente scendendo
+    verso i Sette Regni. E con il "popolo libero" dei bruti, un
+    pericolo ancora più spaventoso si avvicina: gli Estranei,
+    guerrieri soprannaturali che non temono la morte. Perché
+    alla morte già appartengono? Gli indeboliti, dilaniati
+    guardiani della notte sanno che i loro giorni potrebbero essere
+    contati. Spetterà a Jon Snow, il bastardo di Grande
+    Inverno, ergersi per una disperata, eroica, ultima difesa.
+    Forse, la guerra per il potere supremo è ancora tutta da
+    giocare.</p>
+  </content>
+  <link href="../author_0/author_26_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by George R. R. Martin" />
+  <link href="http://www.goodreads.com/book/title/Il%20Trono%20di%20Spade%203.%20Tempesta%20di%20Spade%2C%20Fiumi%20della%20Guerra%2C%20Il%20Portale%20delle%20Tenebre." type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Il%20Trono%20di%20Spade%203.%20Tempesta%20di%20Spade%2C%20Fiumi%20della%20Guerra%2C%20Il%20Portale%20delle%20Tenebre." type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Il%20Trono%20di%20Spade%203.%20Tempesta%20di%20Spade%2C%20Fiumi%20della%20Guerra%2C%20Il%20Portale%20delle%20Tenebre.%20George%20R.%20R.%20Martin" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Il%20Trono%20di%20Spade%203.%20Tempesta%20di%20Spade%2C%20Fiumi%20della%20Guerra%2C%20Il%20Portale%20delle%20Tenebre.&amp;field-author=George%20R.%20R.%20Martin" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/George%20R.%20R.%20Martin" type="text/html" rel="related" title="George R. R. Martin on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/George%20R.%20R.%20Martin" type="text/html" rel="related" title="George R. R. Martin on Wikipedia" />
+  <link href="http://www.librarything.com/author/MartinGeorgeR.R." type="text/html" rel="related" title="George R. R. Martin on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=George%20R.%20R.%20Martin" type="text/html" rel="related" title="George R. R. Martin on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?George%20R.%20R.%20Martin" type="text/html" rel="related" title="George R. R. Martin on ISFDB" />
+</entry>

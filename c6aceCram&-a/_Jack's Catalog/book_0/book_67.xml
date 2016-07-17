@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Il quarto uomo</title>
+  <id>urn:book:ef117445-3c2b-4833-a4de-37c73e7151b9</id>
+  <updated>2016-07-17T05:53:16Z</updated>
+  <link href="./book_67.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Il quarto uomo" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with F" />
+  <link href="../../Frank%20Schatzing/Il%20quarto%20uomo%20%2867%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Frank%20Schatzing/Il%20quarto%20uomo%20%2867%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Frank%20Schatzing/Il%20quarto%20uomo%20%2867%29/Il%20quarto%20uomo%20-%20Frank%20Schatzing.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="850 KB" />
+  <author>
+    <name>Frank Schätzing</name>
+    <uri>../author_0/author_53_Page_1.xml</uri>
+  </author>
+  <author>
+    <name>Lucia Ferrantini</name>
+    <uri>../author_0/author_54_Page_1.xml</uri>
+  </author>
+  <published>2015-10-07T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Casa Editrice Nord</dcterms:publisher>
+  <category term="Crime" />
+  <category term="Mystery" />
+  <category term="Thrillers &amp; Suspense" />
+  <category term="Foreign Language Fiction" />
+  <category term="Italian" />
+  <category term="Thriller &amp; Mystery" />
+  <category term="Foreign Languages" />
+  <category term="Thriller &amp; Suspense" />
+  <category term="Thrillers" />
+  <category term="Literature &amp; Fiction" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Crime, Mystery, Thrillers &amp; Suspense, Foreign Language Fiction, Italian, Thriller &amp; Mystery, Foreign Languages, Thriller &amp; Suspense, Thrillers, Literature &amp; Fiction, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>Kuwait, 1991. Una scatola piena di diamanti tra le macerie
+      di un convoglio saltato in aria. Per uno come lui, che da
+      anni combatte come mercenario, è un sogno diventato
+      realtà. Presto lui e i suoi due compagni potranno farla
+      finita con quella vita. Almeno così crede, finché
+      non rimane ferito in un violento scontro a fuoco e gli altri
+      si danno alla fuga, lasciandolo a morire nel
+      deserto…</p>
+      <p>Colonia, alcuni anni dopo. C'è qualcosa di strano in
+      Simon Bathge, Vera lo ha intuito subito. Non è il solito
+      marito geloso che vuole assumere un detective per provare
+      l'infedeltà della moglie. Bathge ha paura. Ha bisogno di
+      rintracciare un suo vecchio «amico», Andreas
+      Marmann, ed è disposto a pagare qualsiasi cifra
+      perché Vera lo trovi. Prima che sia Marmann a trovare
+      lui…</p>
+      <p>Colonia. In un appartamento poco lontano dal centro viene
+      rinvenuto un cadavere. Da un primo esame, è evidente che
+      l’uomo è stato torturato a lungo da un
+      professionista. Non ci sono impronte né tracce di DNA,
+      niente. L'unico indizio è una vecchia foto della vittima
+      scattata durante la guerra del Golfo, in cui posa davanti a
+      una jeep insieme con altri due commilitoni…</p>
+      <p>**</p>
+    </div>
+  </content>
+  <link href="../author_0/author_53_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Frank Schätzing" />
+  <link href="../author_0/author_54_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Lucia Ferrantini" />
+  <link href="http://www.goodreads.com/book/title/Il%20quarto%20uomo" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Il%20quarto%20uomo" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Il%20quarto%20uomo%20Frank%20Sch%C3%A4tzing" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Il%20quarto%20uomo&amp;field-author=Frank%20Sch%C3%A4tzing" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Frank%20Sch%C3%A4tzing" type="text/html" rel="related" title="Frank Schätzing on Goodreads" />
+  <link href="http://www.goodreads.com/book/author/Lucia%20Ferrantini" type="text/html" rel="related" title="Lucia Ferrantini on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Frank%20Sch%C3%A4tzing" type="text/html" rel="related" title="Frank Schätzing on Wikipedia" />
+  <link href="http://en.wikipedia.org/wiki/Lucia%20Ferrantini" type="text/html" rel="related" title="Lucia Ferrantini on Wikipedia" />
+  <link href="http://www.librarything.com/author/Sch%C3%A4tzingFrank" type="text/html" rel="related" title="Frank Schätzing on LibraryThing" />
+  <link href="http://www.librarything.com/author/FerrantiniLucia" type="text/html" rel="related" title="Lucia Ferrantini on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Frank%20Sch%C3%A4tzing" type="text/html" rel="related" title="Frank Schätzing on Amazon" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Lucia%20Ferrantini" type="text/html" rel="related" title="Lucia Ferrantini on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Frank%20Sch%C3%A4tzing" type="text/html" rel="related" title="Frank Schätzing on ISFDB" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Lucia%20Ferrantini" type="text/html" rel="related" title="Lucia Ferrantini on ISFDB" />
+</entry>

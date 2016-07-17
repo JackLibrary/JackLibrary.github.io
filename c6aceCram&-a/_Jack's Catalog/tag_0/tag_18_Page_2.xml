@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Science Fiction</title>
+  <id>Calibre2opds:taglist:S:18</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tag_18_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Science Fiction" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with S" />
+  <entry>
+    <title>Caliban. La guerra</title>
+    <id>calibre:book:256</id>
+    <updated>2016-07-17T05:54:11Z</updated>
+    <link href="../../James%20s.%20A.%20Corey/Caliban.%20La%20guerra%20%28256%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../James%20s.%20A.%20Corey/Caliban.%20La%20guerra%20%28256%29/Caliban.%20La%20guerra%20-%20James%20s.%20A.%20Corey.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>James s. A. Corey</name>
+      <uri>../author_0/author_2_Page_1.xml</uri>
+    </author>
+    <published>2015-11-10T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Su Ganimede, il pianeta granaio dell’intero sistema gioviano e fonte di approvvigionamento per i pianeti più esterni, un marine dell’esercito di Marte assiste inerme allo sterminio del suo plotone, massacrato da un mostruoso supersoldato. Nel frattem...</summary>
+    <link href="../book_0/book_256.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Abissi d'acciaio</title>
+    <id>calibre:book:278</id>
+    <updated>2016-07-17T05:54:18Z</updated>
+    <link href="../../Isaac%20Asimov/Abissi%20d%27acciaio%20%28278%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Abissi%20d%27acciaio%20%28278%29/Abissi%20d%27acciaio%20-%20Isaac%20Asimov.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="577 KB" />
+    <author>
+      <name>Isaac Asimov</name>
+      <uri>../author_0/author_124_Page_1.xml</uri>
+    </author>
+    <published>1995-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <link href="../book_0/book_278.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../tag_0/tag_18_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 2)" />
+</feed>

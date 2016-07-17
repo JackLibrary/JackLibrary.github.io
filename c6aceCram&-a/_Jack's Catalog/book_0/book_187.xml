@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Il potere del cane</title>
+  <id>urn:book:64036828-b219-4aac-b99c-2f62cad0b6bd</id>
+  <updated>2016-07-17T05:53:52Z</updated>
+  <link href="./book_187.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Il potere del cane" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_W_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with W" />
+  <link href="../../Don%20Winslow/Il%20potere%20del%20cane%20%28187%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Don%20Winslow/Il%20potere%20del%20cane%20%28187%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Don%20Winslow/Il%20potere%20del%20cane%20%28187%29/Il%20potere%20del%20cane%20-%20Don%20Winslow.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="983 KB" />
+  <author>
+    <name>Don Winslow</name>
+    <uri>../author_0/author_43_Page_1.xml</uri>
+  </author>
+  <published>2014-01-01T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Einaudi</dcterms:publisher>
+  <category term="Mystery &amp; Detective" />
+  <category term="General" />
+  <category term="Fiction" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Mystery &amp; Detective, General, Fiction, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">Art Keller è un poliziotto
+    ambizioso, con una mentalità da crociato, deciso a
+    combattere in prima fila la guerra che gli Stati Uniti hanno
+    lanciato contro il traffico internazionale di droga. Miguel
+    Angel Barrera è il boss della Federación, il cartello
+    che riunisce tutti i narcos messicani, e i suoi nipoti,
+    Adàn e Raùl, smaniano all'idea di ereditarne
+    l'impero. Nora Hayden, dopo un'adolescenza complicata, è
+    diventata una prostituta d'alto bordo, sempre in bilico tra il
+    cinismo più spinto e un insolito senso morale. Padre
+    Parada è un sacerdote nato e cresciuto in mezzo al popolo,
+    potente quanto incorruttibile. Sean Callan è un ragazzo
+    irlandese di Hell's Kitchen che si è trasformato quasi per
+    caso in un killer spietato, al soldo della mafia. Sono tutti,
+    in modo diverso, coinvolti nel mondo feroce del narcotraffico
+    messicano: una guerra senza esclusione di colpi, che coinvolge
+    sicari senza scrupoli e politicanti corrotti, i servizi segreti
+    americani e la mafia, tra inganni, tradimenti, vendette
+    spietate. Una guerra dove non esiste innocenza possibile, e
+    dove è sempre in agguato, pronto a esplodere, il male
+    assoluto: quella demoniaca crudeltà di uomini e cose cui
+    una millenaria tradizione ha saputo dare un solo nome,
+    evocativo quanto misterioso. Il potere del cane.</p>
+  </content>
+  <link href="../author_0/author_43_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Don Winslow" />
+  <link href="http://www.goodreads.com/book/title/Il%20potere%20del%20cane" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Il%20potere%20del%20cane" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Il%20potere%20del%20cane%20Don%20Winslow" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Il%20potere%20del%20cane&amp;field-author=Don%20Winslow" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Don%20Winslow" type="text/html" rel="related" title="Don Winslow on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Don%20Winslow" type="text/html" rel="related" title="Don Winslow on Wikipedia" />
+  <link href="http://www.librarything.com/author/WinslowDon" type="text/html" rel="related" title="Don Winslow on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Don%20Winslow" type="text/html" rel="related" title="Don Winslow on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Don%20Winslow" type="text/html" rel="related" title="Don Winslow on ISFDB" />
+</entry>

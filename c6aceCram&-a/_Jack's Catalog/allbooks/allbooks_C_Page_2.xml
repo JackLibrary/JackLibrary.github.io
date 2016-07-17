@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with C</title>
+  <id>Calibre2opds:allbooks:C</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_C_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with C" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>Il codice Dominus</title>
+    <id>calibre:book:244</id>
+    <updated>2016-07-17T05:54:08Z</updated>
+    <link href="../../Tom%20Fox/Il%20codice%20Dominus%20%28244%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Tom%20Fox/Il%20codice%20Dominus%20%28244%29/Il%20codice%20Dominus%20-%20Tom%20Fox.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="663 KB" />
+    <author>
+      <name>Tom Fox</name>
+      <uri>../author_0/author_153_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Massimo Gardella</name>
+      <uri>../author_0/author_154_Page_1.xml</uri>
+    </author>
+    <published>2016-06-15T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Tre60</dcterms:publisher>
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Thrillers" />
+    <category term="Crime" />
+    <category term="Mystery" />
+    <category term="Foreign Language Fiction" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Lang:it" />
+    <summary>È un papa molto amato, Gregorio XVII, non soltanto per i suoi messaggi di pace e di tolleranza, ma anche perché porta su di sé i segni di una sofferenza indicibile: la grave malattia di cui soffre sin dall’infanzia non gli permette di stare in piedi ...</summary>
+    <link href="../book_0/book_244.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il conciliatore</title>
+    <id>calibre:book:240</id>
+    <updated>2016-07-17T05:54:07Z</updated>
+    <link href="../../Brandon%20Sanderson/Il%20conciliatore%20%28240%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brandon%20Sanderson/Il%20conciliatore%20%28240%29/Il%20conciliatore%20-%20Brandon%20Sanderson.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="3 MB" />
+    <author>
+      <name>Brandon Sanderson</name>
+      <uri>../author_0/author_32_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Gabriele Giorgi</name>
+      <uri>../author_0/author_48_Page_1.xml</uri>
+    </author>
+    <published>2013-05-11T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>Il BibliotecarioDa ormai trecento anni il regno di Hallandren è governato dagli dèi Ritornati, uomini morti in modo esemplare e tornati a nuova vita dall’aldilà, e dal loro sovrano assoluto, il Re Dio. La vecchia dinastia reale, fuggita durante la Pl...</summary>
+    <link href="../book_0/book_240.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La crociata dei bambini.</title>
+    <id>calibre:book:154</id>
+    <updated>2016-07-17T05:53:43Z</updated>
+    <link href="../../Tullio%20Avoledo/La%20crociata%20dei%20bambini_%20%28154%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Tullio%20Avoledo/La%20crociata%20dei%20bambini_%20%28154%29/La%20crociata%20dei%20bambini_%20-%20Tullio%20Avoledo.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="632 KB" />
+    <author>
+      <name>Tullio Avoledo</name>
+      <uri>../author_0/author_110_Page_1.xml</uri>
+    </author>
+    <published>2014-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="370" />
+    <category term="Science Fiction" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Tra Iliade metropolitana e Odissea distopica, è un viaggio che dalle gallerie della metro non tarda a scivolare negli abissi della mente. John Daniels, il sacerdote già protagonista de "Le radici del cielo", dovrà cercare, fra le comunità che popolan...</summary>
+    <link href="../book_0/book_154.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../allbooks/allbooks_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 2)" />
+</feed>

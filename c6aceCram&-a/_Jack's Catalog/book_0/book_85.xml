@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Il Paese che amo: Il terzo volume della Trilogia sporca dell’Italia</title>
+  <id>urn:book:7f6c85e7-aee5-456d-807b-e370abb728a4</id>
+  <updated>2016-07-17T05:53:22Z</updated>
+  <link href="./book_85.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Il Paese che amo: Il terzo volume della Trilogia sporca dell’Italia" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../../Simone%20Sarasso/Il%20Paese%20che%20amo_%20Il%20terzo%20volume%20de%20%2885%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Simone%20Sarasso/Il%20Paese%20che%20amo_%20Il%20terzo%20volume%20de%20%2885%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Simone%20Sarasso/Il%20Paese%20che%20amo_%20Il%20terzo%20volume%20de%20%2885%29/Il%20Paese%20che%20amo_%20Il%20terzo%20volu%20-%20Simone%20Sarasso.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="4 MB" />
+  <author>
+    <name>Simone Sarasso</name>
+    <uri>../author_0/author_39_Page_1.xml</uri>
+  </author>
+  <published>2013-09-30T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Marsilio Editori</dcterms:publisher>
+  <category term="Thrillers" />
+  <category term="Espionage" />
+  <category term="Fiction" />
+  <category term="Mystery &amp; Detective" />
+  <category term="General" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Thrillers, Espionage, Fiction, Mystery &amp; Detective, General, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">Dai fasti della Milano da Bere degli
+    anni 80 allo scandalo Tangentopoli, il ritratto spietato e
+    crudele di un Paese senza eroi. Dopo "Confine di Stato" e
+    "Settanta", il terzo e conclusivo volume della Trilogia sporca
+    dell'Italia. Ljuba Marekovna è soltanto una ragazza
+    cresciuta nei bassifondi di Cracovia, ma è destinata a
+    diventare la Regina della tv privata, una spia senza cuore al
+    soldo del partito comunista e molto altro ancora. Tito Cobra
+    è il primo presidente del consiglio socialista della
+    storia e ha il suo bel da fare a tenere in riga lo Stivale.
+    Andrea Sterling, l’Uomo Nero dei servizi segreti, rischia
+    di smarrire il proprio posto nel mondo dopo il crollo del Muro
+    di Berlino. Salvo Riccadonna detto Dracula, il fiore
+    all’occhiello di Cosa Nostra, è pronto per la
+    mattanza che farà crollare la Cupola. Domenico Incatenato,
+    giudice inflessibile e padre amorevole, si prepara a dar fuoco
+    alla miccia che farà deflagrare il sistema dei partiti e
+    raderà al suolo la prima repubblica. Sul palcoscenico
+    d’un Italia corrotta e malandata sventola un tricolore
+    fatto a pezzi, mentre i protagonisti lottano all’ultimo
+    sangue tra le ultime propaggini della Guerra Fredda e
+    l’alba del mondo nuovo. Sullo sfondo, gli anni rampanti
+    dello yuppismo e del malaffare di Stato, delle bombe di mafia e
+    delle mazzette: un Paese sull’orlo del precipizio, con le
+    mani imbrattate di sangue e le tasche piene di soldi sporchi.
+    L’Italia, il Paese che amo.</p>
+  </content>
+  <link href="../author_0/author_39_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Simone Sarasso" />
+  <link href="http://www.goodreads.com/book/title/Il%20Paese%20che%20amo%3A%20Il%20terzo%20volume%20della%20Trilogia%20sporca%20dell%E2%80%99Italia" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Il%20Paese%20che%20amo%3A%20Il%20terzo%20volume%20della%20Trilogia%20sporca%20dell%E2%80%99Italia" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Il%20Paese%20che%20amo%3A%20Il%20terzo%20volume%20della%20Trilogia%20sporca%20dell%E2%80%99Italia%20Simone%20Sarasso" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Il%20Paese%20che%20amo%3A%20Il%20terzo%20volume%20della%20Trilogia%20sporca%20dell%E2%80%99Italia&amp;field-author=Simone%20Sarasso" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Simone%20Sarasso" type="text/html" rel="related" title="Simone Sarasso on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Simone%20Sarasso" type="text/html" rel="related" title="Simone Sarasso on Wikipedia" />
+  <link href="http://www.librarything.com/author/SarassoSimone" type="text/html" rel="related" title="Simone Sarasso on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Simone%20Sarasso" type="text/html" rel="related" title="Simone Sarasso on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Simone%20Sarasso" type="text/html" rel="related" title="Simone Sarasso on ISFDB" />
+</entry>

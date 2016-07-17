@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Marco Marsullo</title>
+  <id>Calibre2opds:author:167</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_167_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Marco Marsullo" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <entry>
+    <title>Atletico Minaccia Football Club</title>
+    <id>calibre:book:265</id>
+    <updated>2016-07-17T05:54:14Z</updated>
+    <link href="../../Marco%20Marsullo/Atletico%20Minaccia%20Football%20Club%20%28265%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Marco%20Marsullo/Atletico%20Minaccia%20Football%20Club%20%28265%29/Atletico%20Minaccia%20Football%20Club%20-%20Marco%20Marsullo.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Marco Marsullo</name>
+      <uri>../author_0/author_167_Page_1.xml</uri>
+    </author>
+    <published>2013-01-21T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Einaudi</dcterms:publisher>
+    <category term="Foreign Languages" />
+    <category term="Contemporary Fiction" />
+    <category term="Foreign Language Fiction" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Italian" />
+    <category term="Lang:it" />
+    <summary>Un esordio inatteso, tra commedia scatenata ed epica stracciona.  
+Ecco a voi Vanni Cascione.
+Un po' arrogante un po' ingenuo, un po' sognatore un po' canaglia.
+È l'allenatore dell'Atletico Minaccia Football Club: l'Armata Brancaleone dei gironi d'Ec...</summary>
+    <link href="../book_0/book_265.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

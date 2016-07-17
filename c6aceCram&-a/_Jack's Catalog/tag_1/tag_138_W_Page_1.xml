@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with W</title>
+  <id>Calibre2opds:taglist:L:138:W</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tag_138_W_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with W" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with L" />
+  <link href="./tag_138_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Lang:it" />
+  <entry>
+    <title>Wanted</title>
+    <id>calibre:book:9</id>
+    <updated>2016-07-17T05:52:58Z</updated>
+    <link href="../../Lavie%20Tidhar/Wanted%20%289%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lavie%20Tidhar/Wanted%20%289%29/Wanted%20-%20Lavie%20Tidhar.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="835 KB" />
+    <author>
+      <name>Lavie Tidhar</name>
+      <uri>../author_0/author_9_Page_1.xml</uri>
+    </author>
+    <published>2013-10-20T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Gargoyle</dcterms:publisher>
+    <category term="Fantascienza" />
+    <category term="Lang:it" />
+    <summary>Joe è un detective privato alla vecchia maniera e vive in un mondo in cui gli attacchi dell’11 settembre non sono mai avvenuti, anzi fanno parte della realtà immaginaria di una famosa serie di romanzi che hanno come protagonista la figura, altrettant...</summary>
+    <link href="../book_0/book_9.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Wool: La trilogia del Silo 1</title>
+    <id>calibre:book:8</id>
+    <updated>2016-07-17T05:52:57Z</updated>
+    <link href="../../Hugh%20Howey/Wool_%20La%20trilogia%20del%20Silo%201%20%288%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Hugh%20Howey/Wool_%20La%20trilogia%20del%20Silo%201%20%288%29/Wool_%20La%20trilogia%20del%20Silo%201%20-%20Hugh%20Howey.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Hugh Howey</name>
+      <uri>../author_0/author_8_Page_1.xml</uri>
+    </author>
+    <published>2013-10-09T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fabbri</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Science Fiction" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>I PRIMI SEI CAPITOLI DI WOOL, IL PRIMO ELETTRIZZANTE CAPITOLO DELLA TRILOGIA SILO CHE HA CONQUISTATO GLI STATI UNITI. Cosa faresti se il mondo fuori fosse letale e l’aria che respiri potesse uccidere? Se vivessi in un luogo dove ogni nascita richiede...</summary>
+    <link href="../book_0/book_8.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Sabato</title>
+  <id>urn:book:3a5dedc1-b31b-48ee-aef4-025fc561d671</id>
+  <updated>2016-07-17T05:53:11Z</updated>
+  <link href="./book_52.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Sabato" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="../../Ian%20McEwan/Sabato%20%2852%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Ian%20McEwan/Sabato%20%2852%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Ian%20McEwan/Sabato%20%2852%29/Sabato%20-%20Ian%20McEwan.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="496 KB" />
+  <author>
+    <name>Ian McEwan</name>
+    <uri>../author_0/author_42_Page_1.xml</uri>
+  </author>
+  <published>2014-10-13T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Einaudi</dcterms:publisher>
+  <category term="Fiction" />
+  <category term="General" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Fiction, General, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">Quello che doveva essere un sabato libero dal lavoro, dopo
+    una settimana massacrante, diventa per Henry una strada in
+    salita, irta di ostacoli. In programma c'era una partita a
+    squash, una visita all'anziana madre, le prove di un concerto
+    di Theo, il figlio chitarrista, e poi la cena a base di zuppa
+    di pesce che è la specialità culinaria di Henry - una
+    cena in cui si doveva celebrare il ritorno a casa di Daisy, la
+    figlia che vive a Parigi, dopo sei mesi di assenza. Ma sulla
+    levigata superficie della giornata da dedicare a tempo libero e
+    famiglia parte un'incrinatura. Un banale incidente d'auto si
+    trasforma nella minaccia che può distruggere tutto
+    ciò che Henry ha di piú caro. </p>
+  </content>
+  <link href="../author_0/author_42_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Ian McEwan" />
+  <link href="http://www.goodreads.com/book/title/Sabato" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Sabato" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Sabato%20Ian%20McEwan" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Sabato&amp;field-author=Ian%20McEwan" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Ian%20McEwan" type="text/html" rel="related" title="Ian McEwan on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Ian%20McEwan" type="text/html" rel="related" title="Ian McEwan on Wikipedia" />
+  <link href="http://www.librarything.com/author/McEwanIan" type="text/html" rel="related" title="Ian McEwan on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Ian%20McEwan" type="text/html" rel="related" title="Ian McEwan on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Ian%20McEwan" type="text/html" rel="related" title="Ian McEwan on ISFDB" />
+</entry>

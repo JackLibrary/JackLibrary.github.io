@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>L'ombra della maledizione</title>
+  <id>urn:book:c49c901a-c26a-4041-8d60-2c1dfe5fde80</id>
+  <updated>2016-07-17T05:53:33Z</updated>
+  <link href="./book_125.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="L'ombra della maledizione" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with B" />
+  <link href="../../Lois%20McMaster%20Bujold/L%27ombra%20della%20maledizione%20%28125%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Lois%20McMaster%20Bujold/L%27ombra%20della%20maledizione%20%28125%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Lois%20McMaster%20Bujold/L%27ombra%20della%20maledizione%20%28125%29/L%27ombra%20della%20maledizione%20-%20Lois%20McMaster%20Bujold.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="943 KB" />
+  <author>
+    <name>Lois McMaster Bujold</name>
+    <uri>../author_0/author_95_Page_1.xml</uri>
+  </author>
+  <published>2003-01-01T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Nord</dcterms:publisher>
+  <category term="General" />
+  <category term="Fantasy" />
+  <category term="Fiction" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      General, Fantasy, Fiction, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">Sopravvissuto a una lunga prigionia, ma
+    distrutto nel corpo e nello spirito, Cazaril ritorna nei domini
+    della nobile casata per cui aveva servito come paggio ed è
+    nominato, a sorpresa, tutore di Royesse, bella e intelligente
+    sorella dell'erede al trono, un giovane quanto mai impetuoso e
+    avventato. Ma quel nuovo ruolo mette in allarme Cazaril,
+    proprio perché lo riporta nel luogo che più lo
+    spaventa: la corte di Cordegoss, dove i pericolosi nemici che
+    lo avevano messo in catene ora occupano posti di grande potere.
+    Ma non sono soltanto gli intrighi di alcuni traditori a
+    preoccupare Cazaril e la principessa Royesse, poiché
+    c'è anche una terribile maledizione, che pende come una
+    spada sull'intera stirpe di Chalion e su coloro che le sono
+    fedeli.</p>
+  </content>
+  <link href="../author_0/author_95_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Lois McMaster Bujold" />
+  <link href="http://www.goodreads.com/book/title/L%27ombra%20della%20maledizione" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/L%27ombra%20della%20maledizione" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/L%27ombra%20della%20maledizione%20Lois%20McMaster%20Bujold" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=L%27ombra%20della%20maledizione&amp;field-author=Lois%20McMaster%20Bujold" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Lois%20McMaster%20Bujold" type="text/html" rel="related" title="Lois McMaster Bujold on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Lois%20McMaster%20Bujold" type="text/html" rel="related" title="Lois McMaster Bujold on Wikipedia" />
+  <link href="http://www.librarything.com/author/BujoldLoisMcMaster" type="text/html" rel="related" title="Lois McMaster Bujold on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Lois%20McMaster%20Bujold" type="text/html" rel="related" title="Lois McMaster Bujold on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Lois%20McMaster%20Bujold" type="text/html" rel="related" title="Lois McMaster Bujold on ISFDB" />
+</entry>

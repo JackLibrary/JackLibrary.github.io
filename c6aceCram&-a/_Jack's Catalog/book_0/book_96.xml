@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Nessuno scompare davvero</title>
+  <id>urn:book:050f2980-b3e6-4aef-8744-fbf0721c741a</id>
+  <updated>2016-07-17T05:53:25Z</updated>
+  <link href="./book_96.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Nessuno scompare davvero" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with L" />
+  <link href="../../Catherine%20Lacey/Nessuno%20scompare%20davvero%20%2896%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Catherine%20Lacey/Nessuno%20scompare%20davvero%20%2896%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Catherine%20Lacey/Nessuno%20scompare%20davvero%20%2896%29/Nessuno%20scompare%20davvero%20-%20Catherine%20Lacey.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="379 KB" />
+  <author>
+    <name>Catherine Lacey</name>
+    <uri>../author_0/author_77_Page_1.xml</uri>
+  </author>
+  <published>2016-02-10T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>SUR</dcterms:publisher>
+  <category term="Contemporary Fiction" />
+  <category term="Foreign Language Fiction" />
+  <category term="Italian" />
+  <category term="Literature &amp; Fiction" />
+  <category term="Foreign Languages" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Contemporary Fiction, Foreign Language Fiction, Italian, Literature &amp; Fiction, Foreign Languages, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>Elyria, 28 anni, ha un lavoro stabile e un marito a New
+      York: ma un giorno, senza dare spiegazioni, molla tutto e
+      parte con un volo di sola andata per la Nuova Zelanda.
+      Passerà mesi a vagare in autostop fra le campagne di
+      quel paese sconosciuto, incrociando le vite di altre persone
+      e tentando di dare un po’ di pace alla sua. Scopriamo
+      che Elyria ha un passato difficile (una madre alcolizzata,
+      una sorella adottiva suicida, allieva del professore che
+      è poi diventato suo marito), ma la fuga non è
+      causata da crimini o violenze: nasce da un malessere
+      esistenziale tanto profondo quanto difficile da definire; e
+      il romanzo è, di fatto, un viaggio nella mente della
+      narratrice, capace di osservazioni acutissime sul mondo, ma
+      anche preda di improvvisi squilibri; dentro di lei, dice, si
+      muove un bufalo riottoso che non riesce a placare. Elogiato
+      dalla critica come uno dei migliori esordi dell’anno,
+      sostenuto da una scrittura incalzante e quasi ipnotica,
+      «Nessuno scompare davvero» è una sorta di road
+      movie introspettivo che spiazza e appassiona il lettore.</p>
+      <p>**</p>
+    </div>
+  </content>
+  <link href="../author_0/author_77_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Catherine Lacey" />
+  <link href="http://www.goodreads.com/book/title/Nessuno%20scompare%20davvero" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Nessuno%20scompare%20davvero" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Nessuno%20scompare%20davvero%20Catherine%20Lacey" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Nessuno%20scompare%20davvero&amp;field-author=Catherine%20Lacey" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Catherine%20Lacey" type="text/html" rel="related" title="Catherine Lacey on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Catherine%20Lacey" type="text/html" rel="related" title="Catherine Lacey on Wikipedia" />
+  <link href="http://www.librarything.com/author/LaceyCatherine" type="text/html" rel="related" title="Catherine Lacey on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Catherine%20Lacey" type="text/html" rel="related" title="Catherine Lacey on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Catherine%20Lacey" type="text/html" rel="related" title="Catherine Lacey on ISFDB" />
+</entry>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Cryptonomicon</title>
+  <id>urn:book:f25bb446-06aa-4a10-9019-55e3c1440f00</id>
+  <updated>2016-07-17T05:54:05Z</updated>
+  <link href="./book_235.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Cryptonomicon" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../../Neal%20Stephenson/Cryptonomicon%20%28235%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Neal%20Stephenson/Cryptonomicon%20%28235%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Neal%20Stephenson/Cryptonomicon%20%28235%29/Cryptonomicon%20-%20Neal%20Stephenson.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+  <author>
+    <name>Neal Stephenson</name>
+    <uri>../author_0/author_38_Page_1.xml</uri>
+  </author>
+  <published>1999-03-10T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Rizzoli</dcterms:publisher>
+  <category term="sistemati" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      sistemati, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">
+      1942. Lawrence Pritchard Waterhouse,
+    genio mate­matico e giovane capitano della Marina
+    americana viene incaricato di una missione segretissima:
+    insieme al sergente dei Marines Bobby Shaftoe dovrà non
+    soltanto lavorare alla decifrazione di un linguaggio in codice
+    elaborato dai nemici, ma soprattutto agire in modo tale da
+    convincere le forze tedesche che gli americani sono ancora
+    lontani dalla possibilità di accedere alle informazioni
+    protette.
+      <br />
+      <br />
+      Ai giorni nostri, Randy, nipote di Waterhouse e
+    abilissimo pirata informatico, si innamora di Amy, a sua volta
+    nipote di Shaftoe, e i due ragazzi si lanciano insieme in
+    un'avventura rischiosa ed entusiasmante: recuperare il relitto
+    di un sottomarino tedesco che contiene il segreto del codice
+    che i nonni avevano cercato di decrittare un cinquantennio
+    prima.
+      <br />
+      <br />
+      I diversi filoni della storia si intrecciano e si
+    alternano con ritmo vorticoso, mentre le due coppie di
+    personaggi vivono pericoli e passioni, e si scoprono
+    protagoniste di intrighi sempre più fitti, dalla partita a
+    scacchi con la morte che Waterhouse e Shaftoe non possono
+    smet­tere di giocare al tremendo complotto che Randy ed
+    Amy svelano con le loro inchieste. La ricerca del
+    sot­tomarino porta infatti i due ragazzi a scoprire i
+    piani di una misteriosa organizzazione che minaccia, con
+    sofisticati strumenti informatici, di precipitare l'intera
+    umanità in un buio regime di totalitarismo.
+      <br />
+      Appassionante thriller a sfondo tecnologico, romanzo
+    d'azione, d'amore e di colpi di scena, storia dove la
+    rappresentazione matematica della creazione e
+    decrit­tazione dei codici segreti si alterna alla
+    ricostruzione di imprese militari, Cryptonomicon è un
+    libro per i moltissimi fan di Stephenson ma soprattutto per i
+    lettori che ancora non ne conoscono la scrittura
+    bril­lante e l'abilità narrativa.
+    </p>
+  </content>
+  <link href="../author_0/author_38_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Neal Stephenson" />
+  <link href="http://www.goodreads.com/book/title/Cryptonomicon" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Cryptonomicon" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Cryptonomicon%20Neal%20Stephenson" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Cryptonomicon&amp;field-author=Neal%20Stephenson" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Neal%20Stephenson" type="text/html" rel="related" title="Neal Stephenson on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Neal%20Stephenson" type="text/html" rel="related" title="Neal Stephenson on Wikipedia" />
+  <link href="http://www.librarything.com/author/StephensonNeal" type="text/html" rel="related" title="Neal Stephenson on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Neal%20Stephenson" type="text/html" rel="related" title="Neal Stephenson on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Neal%20Stephenson" type="text/html" rel="related" title="Neal Stephenson on ISFDB" />
+</entry>

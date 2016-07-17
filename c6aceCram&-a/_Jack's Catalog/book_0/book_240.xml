@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Il conciliatore</title>
+  <id>urn:book:447f214e-1317-4c22-9b7f-9dc700d82bcb</id>
+  <updated>2016-07-17T05:54:07Z</updated>
+  <link href="./book_240.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Il conciliatore" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <link href="../../Brandon%20Sanderson/Il%20conciliatore%20%28240%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Brandon%20Sanderson/Il%20conciliatore%20%28240%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Brandon%20Sanderson/Il%20conciliatore%20%28240%29/Il%20conciliatore%20-%20Brandon%20Sanderson.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="3 MB" />
+  <author>
+    <name>Brandon Sanderson</name>
+    <uri>../author_0/author_32_Page_1.xml</uri>
+  </author>
+  <author>
+    <name>Gabriele Giorgi</name>
+    <uri>../author_0/author_48_Page_1.xml</uri>
+  </author>
+  <published>2013-05-11T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <h3 style="text-align: center;">
+        <span class="Apple-style-span" style="font-size: 12px;">Il
+        Bibliotecario</span>
+      </h3>
+      <h3>
+        <span class="Apple-style-span" style="font-size: 12px; font-weight: normal;">Da ormai
+        trecento anni il regno di Hallandren è governato dagli
+        dèi Ritornati, uomini morti in modo esemplare e
+        tornati a nuova vita dall’aldilà, e dal loro
+        sovrano assoluto, il Re Dio. La vecchia dinastia reale,
+        fuggita durante la Pluriguerra, si è ritirata
+        nell’enclave di Idris, un territorio impervio e
+        montagnoso che però consente loro di controllare i
+        valichi settentrionali. Per ricomporre le differenze e
+        riunificare i due stati, una principessa idrisiana
+        dovrà andare in sposa al Re Dio e generare con lui un
+        erede; ma nella Corte degli Dèi, luogo di intrighi,
+        complotti e sotterfugi, qualcuno sta tramando
+        nell’ombra.</span>
+      </h3>
+      <p>
+        Nella cornice della variopinta città di
+      T’Telir, dove colori e Soffio vitale possono donare
+      vita agli oggetti inanimati, un gruppo composito di
+      personaggi, giovani principesse, mercenari esuberanti,
+      divinità svogliate, altezzosi sacerdoti, soldati
+      Senzavita, loschi figuri e spade parlanti, cercheranno di
+      fomentare una guerra... o di sventarla prima che sia troppo
+      tardi.
+        <br />
+        Brandon Sanderson dimostra ancora una volta di essere
+      un maestro nell’inventare mondi dominati dalla magia e
+      dal mito. Una lettura altamente consigliata a tutti gli
+      appassionati del fantasy epico.
+      </p>
+      <p>
+        <br />
+      </p>
+      <p>Per "La Biblioteca".</p>
+    </div>
+  </content>
+  <link href="../author_0/author_32_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Brandon Sanderson" />
+  <link href="../author_0/author_48_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Gabriele Giorgi" />
+  <link href="http://www.goodreads.com/book/title/Il%20conciliatore" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Il%20conciliatore" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Il%20conciliatore%20Brandon%20Sanderson" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Il%20conciliatore&amp;field-author=Brandon%20Sanderson" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Brandon%20Sanderson" type="text/html" rel="related" title="Brandon Sanderson on Goodreads" />
+  <link href="http://www.goodreads.com/book/author/Gabriele%20Giorgi" type="text/html" rel="related" title="Gabriele Giorgi on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Brandon%20Sanderson" type="text/html" rel="related" title="Brandon Sanderson on Wikipedia" />
+  <link href="http://en.wikipedia.org/wiki/Gabriele%20Giorgi" type="text/html" rel="related" title="Gabriele Giorgi on Wikipedia" />
+  <link href="http://www.librarything.com/author/SandersonBrandon" type="text/html" rel="related" title="Brandon Sanderson on LibraryThing" />
+  <link href="http://www.librarything.com/author/GiorgiGabriele" type="text/html" rel="related" title="Gabriele Giorgi on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Brandon%20Sanderson" type="text/html" rel="related" title="Brandon Sanderson on Amazon" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Gabriele%20Giorgi" type="text/html" rel="related" title="Gabriele Giorgi on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Brandon%20Sanderson" type="text/html" rel="related" title="Brandon Sanderson on ISFDB" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Gabriele%20Giorgi" type="text/html" rel="related" title="Gabriele Giorgi on ISFDB" />
+</entry>

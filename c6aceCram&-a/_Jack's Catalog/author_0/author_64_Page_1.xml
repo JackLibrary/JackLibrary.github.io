@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Patrick Rothfuss</title>
+  <id>Calibre2opds:author:64</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_64_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Patrick Rothfuss" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with R" />
+  <entry>
+    <title>La Paura del Saggio</title>
+    <id>calibre:book:81</id>
+    <updated>2016-07-17T05:53:20Z</updated>
+    <link href="../../Patrick%20Rothfuss/La%20Paura%20del%20Saggio%20%2881%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Patrick%20Rothfuss/La%20Paura%20del%20Saggio%20%2881%29/La%20Paura%20del%20Saggio%20-%20Patrick%20Rothfuss.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+    <author>
+      <name>Patrick Rothfuss</name>
+      <uri>../author_0/author_64_Page_1.xml</uri>
+    </author>
+    <published>2011-07-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Questa è la storia di un uomo che insegue la verità di una leggenda e strada facendo diventa egli stesso una leggenda. Il giovane Kvothe è ancora alle prese con gli studi all'Accademia e con i suoi esperimenti, ma il carattere, focoso e ribelle quant...</summary>
+    <link href="../book_0/book_81.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il nome del vento</title>
+    <id>calibre:book:95</id>
+    <updated>2016-07-17T05:53:25Z</updated>
+    <link href="../../Patrick%20Rothfuss/Il%20nome%20del%20vento%20%2895%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Patrick%20Rothfuss/Il%20nome%20del%20vento%20%2895%29/Il%20nome%20del%20vento%20-%20Patrick%20Rothfuss.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Patrick Rothfuss</name>
+      <uri>../author_0/author_64_Page_1.xml</uri>
+    </author>
+    <published>2011-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>La Pietra Miliare, una locanda come tante, nasconde un incredibile segreto. L'uomo che la gestisce, Kote, non è davvero il mite individuo che i suoi avventori conoscono. Sotto le sue umili spoglie si cela Kvothe, l'eroe che ha fatto nascere centinaia...</summary>
+    <link href="../book_0/book_95.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

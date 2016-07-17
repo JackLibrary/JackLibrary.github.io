@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with D</title>
+  <id>Calibre2opds:allbooks:D</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with D" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>Darth Plagueis. Star Wars</title>
+    <id>calibre:book:236</id>
+    <updated>2016-07-17T05:54:06Z</updated>
+    <link href="../../James%20Luceno/Darth%20Plagueis.%20Star%20Wars%20%28236%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../James%20Luceno/Darth%20Plagueis.%20Star%20Wars%20%28236%29/Darth%20Plagueis.%20Star%20Wars%20-%20James%20Luceno.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="874 KB" />
+    <author>
+      <name>James Luceno</name>
+      <uri>../author_0/author_150_Page_1.xml</uri>
+    </author>
+    <published>2014-01-14T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Darth Plagueis: uno dei più brillanti Signori dei Sith mai vissuti. Tutto quello che desiderava era il potere. L'unica cosa di cui aveva paura era perderlo. Da apprendista, aveva abbracciato le spietate vie dei Sith, e quando era giunto il momento op...</summary>
+    <link href="../book_0/book_236.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Debito d'onore</title>
+    <id>calibre:book:232</id>
+    <updated>2016-07-17T05:54:05Z</updated>
+    <link href="../../Tom%20Clancy/Debito%20d%27onore%20%28232%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Tom%20Clancy/Debito%20d%27onore%20%28232%29/Debito%20d%27onore%20-%20Tom%20Clancy.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Tom Clancy</name>
+      <uri>../author_0/author_60_Page_1.xml</uri>
+    </author>
+    <published>1995-12-31T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Rizzoli</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>Jack Ryan viene richiamato in servizio come consigliere del Presidente mentre la situazione internazionale si fa tesa. L'establishment economico giapponese, che gestisce di fatto anche il potere politico nazionale, pianifica un attacco simultaneo all...</summary>
+    <link href="../book_0/book_232.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il Dio Nudo - Prima Parte</title>
+    <id>calibre:book:189</id>
+    <updated>2016-07-17T05:53:53Z</updated>
+    <link href="../../Peter%20F.%20Hamilton/Il%20Dio%20Nudo%20-%20Prima%20Parte%20%28189%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Peter%20F.%20Hamilton/Il%20Dio%20Nudo%20-%20Prima%20Parte%20%28189%29/Il%20Dio%20Nudo%20-%20Prima%20Parte%20-%20Peter%20F.%20Hamilton.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1012 KB" />
+    <author>
+      <name>Peter F. Hamilton</name>
+      <uri>../author_0/author_103_Page_1.xml</uri>
+    </author>
+    <published>2011-08-17T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <link href="../book_0/book_189.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il Dio Nudo - Seconda Parte</title>
+    <id>calibre:book:191</id>
+    <updated>2016-07-17T05:53:53Z</updated>
+    <link href="../../Peter%20F.%20Hamilton/Il%20Dio%20Nudo%20-%20Seconda%20Parte%20%28191%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Peter%20F.%20Hamilton/Il%20Dio%20Nudo%20-%20Seconda%20Parte%20%28191%29/Il%20Dio%20Nudo%20-%20Seconda%20Parte%20-%20Peter%20F.%20Hamilton.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Peter F. Hamilton</name>
+      <uri>../author_0/author_103_Page_1.xml</uri>
+    </author>
+    <published>2011-08-25T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <link href="../book_0/book_191.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Doctor Who: Nothing O'Clock: Eleventh Doctor: 50th Anniversary</title>
+    <id>calibre:book:233</id>
+    <updated>2016-07-17T05:54:05Z</updated>
+    <link href="../../Neil%20Gaiman/Doctor%20Who_%20Nothing%20O%27Clock_%20Eleven%20%28233%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Neil%20Gaiman/Doctor%20Who_%20Nothing%20O%27Clock_%20Eleven%20%28233%29/Doctor%20Who_%20Nothing%20O%27Clock_%20El%20-%20Neil%20Gaiman.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="303 KB" />
+    <author>
+      <name>Neil Gaiman</name>
+      <uri>../author_0/author_50_Page_1.xml</uri>
+    </author>
+    <published>2013-11-21T00:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin UK</dcterms:publisher>
+    <category term="Juvenile Nonfiction" />
+    <category term="Performing Arts" />
+    <category term="Film" />
+    <category term="Lang:en" />
+    <summary>Eleven Doctors, eleven months, eleven stories: a year-long celebration of Doctor Who! The most exciting names in children's fiction each create their own unique adventure about the time-travelling Time Lord.  Thousands of years ago, Time Lords built ...</summary>
+    <link href="../book_0/book_233.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Drive</title>
+    <id>calibre:book:230</id>
+    <updated>2016-07-17T05:54:04Z</updated>
+    <link href="../../James%20Sallis/Drive%20%28230%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../James%20Sallis/Drive%20%28230%29/Drive%20-%20James%20Sallis.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="228 KB" />
+    <author>
+      <name>James Sallis</name>
+      <uri>../author_0/author_148_Page_1.xml</uri>
+    </author>
+    <published>2011-06-14T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Giano</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Suspense" />
+    <category term="Thrillers" />
+    <category term="Lang:en" />
+    <summary>La stanza di un Motel 6 a nord di Phoenix, la tarda luce dell'alba che preme alla porta e alle finestre, i rumori del traffico dalla vicina autostrada, il lamento di qualcuno che piange nella camera attigua. E una pozza di sangue che avanza, lenta, i...</summary>
+    <link href="../book_0/book_230.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Dune</title>
+    <id>calibre:book:231</id>
+    <updated>2016-07-17T05:54:04Z</updated>
+    <link href="../../Frank%20Herbert/Dune%20%28231%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Frank%20Herbert/Dune%20%28231%29/Dune%20-%20Frank%20Herbert.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Frank Herbert</name>
+      <uri>../author_0/author_100_Page_1.xml</uri>
+    </author>
+    <published>1973-09-30T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Nord (Cosmo Oro. Classici della fantascienza)</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:it" />
+    <summary>Il giovane Paul, figlio del duca Leto, non sa quasi nulla di Arrakis 
+quando gli annunciano che è la sua prossima destinazione. Poi, a poco a 
+poco, frammenti di racconti, ricordi, qualche parola rubata - tutto 
+stranamente pervaso da un che di legge...</summary>
+    <link href="../book_0/book_231.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Dust: La trilogia del Silo 3</title>
+    <id>calibre:book:228</id>
+    <updated>2016-07-17T05:54:03Z</updated>
+    <link href="../../Hugh%20Howey/Dust_%20La%20trilogia%20del%20Silo%203%20%28228%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Hugh%20Howey/Dust_%20La%20trilogia%20del%20Silo%203%20%28228%29/Dust_%20La%20trilogia%20del%20Silo%203%20-%20Hugh%20Howey.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Hugh Howey</name>
+      <uri>../author_0/author_8_Page_1.xml</uri>
+    </author>
+    <published>2014-05-26T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fabbri</dcterms:publisher>
+    <category term="General" />
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="Science Fiction" />
+    <category term="Lang:it" />
+    <summary>Cosa faresti se il destino di tutte le persone che ami fosse nelle tue mani? Se le tue scelte potessero salvare o condannare a morte l’umanità intera? La storia del Silo finisce così, con il ritorno alla polvere. Dust, polvere: quella che cade sugli ...</summary>
+    <link href="../book_0/book_228.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La dinastia del male</title>
+    <id>calibre:book:155</id>
+    <updated>2016-07-17T05:53:43Z</updated>
+    <link href="../../Drew%20Karpyshyn/La%20dinastia%20del%20male%20%28155%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Drew%20Karpyshyn/La%20dinastia%20del%20male%20%28155%29/La%20dinastia%20del%20male%20-%20Drew%20Karpyshyn.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Drew Karpyshyn</name>
+      <uri>../author_0/author_33_Page_1.xml</uri>
+    </author>
+    <published>2013-06-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Fantascienza" />
+    <category term="Science Fiction" />
+    <category term="Star Wars" />
+    <category term="Lang:it" />
+    <summary>Sono trascorsi vent'anni da quando Darth Bane, Signore Oscuro regnante dei Sith, ha distrutto l'antico ordine e lo ha ricreato composto da due persone: un Maestro che detiene il potere e tramanda il sapere, e un apprendista che impara per sfidare e u...</summary>
+    <link href="../book_0/book_155.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

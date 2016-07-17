@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Dust: La trilogia del Silo 3</title>
+  <id>urn:book:77749f45-423e-4ed3-b04c-57a92f31289e</id>
+  <updated>2016-07-17T05:54:03Z</updated>
+  <link href="./book_228.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Dust: La trilogia del Silo 3" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with H" />
+  <link href="../../Hugh%20Howey/Dust_%20La%20trilogia%20del%20Silo%203%20%28228%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Hugh%20Howey/Dust_%20La%20trilogia%20del%20Silo%203%20%28228%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Hugh%20Howey/Dust_%20La%20trilogia%20del%20Silo%203%20%28228%29/Dust_%20La%20trilogia%20del%20Silo%203%20-%20Hugh%20Howey.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+  <author>
+    <name>Hugh Howey</name>
+    <uri>../author_0/author_8_Page_1.xml</uri>
+  </author>
+  <published>2014-05-26T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Fabbri</dcterms:publisher>
+  <category term="General" />
+  <category term="Fantasy" />
+  <category term="Fiction" />
+  <category term="Science Fiction" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      General, Fantasy, Fiction, Science Fiction, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">Cosa faresti se il destino di tutte le
+    persone che ami fosse nelle tue mani? Se le tue scelte
+    potessero salvare o condannare a morte l’umanità
+    intera? La storia del Silo finisce così, con il ritorno
+    alla polvere. Dust, polvere: quella che cade sugli operai del
+    reparto meccanica mentre scavano un passaggio tra un silo e
+    l’altro. Quella che ricopre una misteriosa macchina,
+    abbandonata durante la costruzione dell'intera struttura.
+    Quella che si accumula all’esterno, sotto un cielo reso
+    feroce dall’aria tossica. In un mondo asfittico, basato
+    su segreti e bugie, qualcuno ha scoperto la verità. E ha
+    intenzione di raccontarla. Jules sa cos’hanno fatto i
+    suoi predecessori, conosce il loro inganno. Sa qual è la
+    ragione per cui la vita deve essere vissuta in questo modo. E
+    non lo accetta. Ma Jules non ha più sostenitori. Per lei
+    c’è qualcosa di molto più pericoloso
+    dell’aria tossica del mondo esterno. Un veleno si sta
+    diffondendo all’interno del Silo 18. Un veleno che non
+    può essere fermato. Epico e commovente, l'epilogo della
+    trilogia di Hugh Howey è sofferto e appassionato, capace
+    di sorprendere, stupire, emozionare. Wool ci ha portato
+    all’interno del Silo. Shift ci ha raccontato la storia
+    della sua costruzione. Dust è la cronaca della sua
+    rovina.</p>
+  </content>
+  <link href="../author_0/author_8_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Hugh Howey" />
+  <link href="http://www.goodreads.com/book/title/Dust%3A%20La%20trilogia%20del%20Silo%203" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Dust%3A%20La%20trilogia%20del%20Silo%203" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Dust%3A%20La%20trilogia%20del%20Silo%203%20Hugh%20Howey" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Dust%3A%20La%20trilogia%20del%20Silo%203&amp;field-author=Hugh%20Howey" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Hugh%20Howey" type="text/html" rel="related" title="Hugh Howey on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Hugh%20Howey" type="text/html" rel="related" title="Hugh Howey on Wikipedia" />
+  <link href="http://www.librarything.com/author/HoweyHugh" type="text/html" rel="related" title="Hugh Howey on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Hugh%20Howey" type="text/html" rel="related" title="Hugh Howey on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Hugh%20Howey" type="text/html" rel="related" title="Hugh Howey on ISFDB" />
+</entry>

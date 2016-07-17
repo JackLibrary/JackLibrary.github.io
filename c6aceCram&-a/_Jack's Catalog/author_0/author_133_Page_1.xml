@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Luca Tarenzi</title>
+  <id>Calibre2opds:author:133</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_133_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Luca Tarenzi" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with T" />
+  <entry>
+    <title>God breaker</title>
+    <id>calibre:book:201</id>
+    <updated>2016-07-17T05:53:56Z</updated>
+    <link href="../../Luca%20Tarenzi/God%20breaker%20%28201%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Luca%20Tarenzi/God%20breaker%20%28201%29/God%20breaker%20-%20Luca%20Tarenzi.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+    <author>
+      <name>Luca Tarenzi</name>
+      <uri>../author_0/author_133_Page_1.xml</uri>
+    </author>
+    <published>2013-11-11T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Salani</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>Gli dei esistono. Camminano in mezzo a noi, 
+vivono dentro e fuori la realtà di tutti i giorni, hanno macchine, 
+uffici, soldi... Ma non tutti. Alcuni stanno morendo, travolti dalla 
+perdita di tutti i loro seguaci; altri combattono una lotta spietat...</summary>
+    <link href="../book_0/book_201.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

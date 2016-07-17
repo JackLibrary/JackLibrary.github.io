@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Il Potere della Forza</title>
+  <id>urn:book:afb94513-a676-41a8-a059-bfac038f904f</id>
+  <updated>2016-07-17T05:53:19Z</updated>
+  <link href="./book_77.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Il Potere della Forza" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_W_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with W" />
+  <link href="../../Sean%20Williams/Il%20Potere%20della%20Forza%20%2877%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Sean%20Williams/Il%20Potere%20della%20Forza%20%2877%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Sean%20Williams/Il%20Potere%20della%20Forza%20%2877%29/Il%20Potere%20della%20Forza%20-%20Sean%20Williams.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="987 KB" />
+  <author>
+    <name>Sean Williams</name>
+    <uri>../author_0/author_62_Page_1.xml</uri>
+  </author>
+  <published>2013-01-17T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Multiplayer.it</dcterms:publisher>
+  <category term="Fantascienza" />
+  <category term="Star Wars" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Fantascienza, Star Wars, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <span xmlns="" style="font-family: Verdana, Arial, Helvetica, Geneva, sans-serif, Swiss, SunSans-Regular; font-size: 10.6666669845581px; background-color: rgb(255, 255, 255);">L'universo
+    prodotto da George Lucas è più vivo che mai e
+    continua ad ispirare anche il mondo dei videogiochi e la
+    letteratura che lo accompagna. "Star Wars. Il potere della
+    Forza", scritto da Sean Williams e basato sulla sceneggiatura
+    di Haden Blakman, è il primo dei due romanzi ispirati
+    all'omonima saga videoludica di LucasArts. Il libro sviluppa i
+    fatti successivi a "Star Wars: Episodio III. La Vendetta dei
+    Sith" e dando particolare risalto alla figura dell'oscuro
+    apprendista di Darth Vader.</span>
+  </content>
+  <link href="../author_0/author_62_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Sean Williams" />
+  <link href="http://www.goodreads.com/book/title/Il%20Potere%20della%20Forza" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Il%20Potere%20della%20Forza" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Il%20Potere%20della%20Forza%20Sean%20Williams" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Il%20Potere%20della%20Forza&amp;field-author=Sean%20Williams" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Sean%20Williams" type="text/html" rel="related" title="Sean Williams on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Sean%20Williams" type="text/html" rel="related" title="Sean Williams on Wikipedia" />
+  <link href="http://www.librarything.com/author/WilliamsSean" type="text/html" rel="related" title="Sean Williams on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Sean%20Williams" type="text/html" rel="related" title="Sean Williams on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Sean%20Williams" type="text/html" rel="related" title="Sean Williams on ISFDB" />
+</entry>

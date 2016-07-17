@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with Y</title>
+  <id>Calibre2opds:allbooks:Y</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_Y_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with Y" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>You. Crea il tuo destino</title>
+    <id>calibre:book:6</id>
+    <updated>2016-07-17T05:52:57Z</updated>
+    <link href="../../Austin%20Grossman/You.%20Crea%20il%20tuo%20destino%20%286%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Austin%20Grossman/You.%20Crea%20il%20tuo%20destino%20%286%29/You.%20Crea%20il%20tuo%20destino%20-%20Austin%20Grossman.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="745 KB" />
+    <author>
+      <name>Austin Grossman</name>
+      <uri>../author_0/author_6_Page_1.xml</uri>
+    </author>
+    <published>2014-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="Thrillers" />
+    <category term="Fiction" />
+    <category term="Suspense" />
+    <category term="Lang:it" />
+    <summary>Quando Russell inizia a lavorare alla Black Arts Games, fondata da due designer visionari che un tempo suoi amici, si trova a collaborare con un eccentrico gruppo di nerd che intendono superare le frontiere della tecnologia e dell'intrattenimento. Da...</summary>
+    <link href="../book_0/book_6.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

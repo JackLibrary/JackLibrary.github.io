@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Jonathan Strange &amp; il signor Norrell</title>
+  <id>urn:book:66e89dae-5985-48cb-aa40-27f376cb75b6</id>
+  <updated>2016-07-17T05:53:46Z</updated>
+  <link href="./book_165.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Jonathan Strange &amp; il signor Norrell" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../../Susanna%20Clarke/Jonathan%20Strange%20%26%20il%20signor%20Norrel%20%28165%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Susanna%20Clarke/Jonathan%20Strange%20%26%20il%20signor%20Norrel%20%28165%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Susanna%20Clarke/Jonathan%20Strange%20%26%20il%20signor%20Norrel%20%28165%29/Jonathan%20Strange%20%26%20il%20signor%20No%20-%20Susanna%20Clarke.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+  <author>
+    <name>Susanna Clarke</name>
+    <uri>../author_0/author_114_Page_1.xml</uri>
+  </author>
+  <published>2006-08-01T10:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Tor Books</dcterms:publisher>
+  <category term="Literary" />
+  <category term="Media Tie-In" />
+  <category term="Fiction" />
+  <category term="General" />
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Literary, Media Tie-In, Fiction, General, Lang:en
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>At the dawn of the nineteenth century, two very different
+      magicians emerge to change England's history. In the year
+      1806, with the Napoleonic Wars raging on land and sea, most
+      people believe magic to be long dead in England--until the
+      reclusive Mr Norrell reveals his powers, and becomes a
+      celebrity overnight.</p>
+      <p>Soon, another practicing magician comes forth: the young,
+      handsome, and daring Jonathan Strange. He becomes Norrell's
+      student, and they join forces in the war against France. But
+      Strange is increasingly drawn to the wildest, most perilous
+      forms of magic, straining his partnership with Norrell, and
+      putting at risk everything else he holds dear.</p>
+      <p>
+        <em>Time</em>
+        Magazine #1 Book of the Year « Book Sense
+      Book of the Year «
+        <em>People</em>
+        Top Ten Books of the Year « Winner of
+      the Hugo Award « A
+        <em>New York Times</em>
+        Notable Book of the Year «
+      Salon.com Top Ten of 2004 «Winner of the World Fantasy
+      Award « Nancy Pearl's Top 12 Books of 2004 «
+        <em>Washington Post Book World</em>
+        's Best of 2004 «
+        <em>Christian Science Monitor</em>
+        Best Fiction 2004 «
+        <em>San Francisco Chronicle</em>
+        Best Books of 2004 «
+      Winner of the
+        <em>Locus</em>
+        Award for Best First Novel «
+        <em>Chicago Tribune</em>
+        Best of 2004 «
+        <em>Seattle Times</em>
+        25 Best Books of 2004 «
+        <em>Atlanta Journal-Constitution</em>
+        Top 12 Books of 2004
+      «
+        <em>Village Voice</em>
+        "Top Shelf" «
+        <em>Raleigh News &amp; Observer</em>
+        Best of 2004 «
+        <em>Rocky Mountain News</em>
+        critics' favorites of 2004
+      «
+        <em>Kansas City Star</em>
+        100 Newsworthy Books of 2004 «
+        <em>Fort Worth Star-Telegram</em>
+        10 Best Books of 2004
+      «
+        <em>Hartford Courant</em>
+        Best Books of 2004
+      </p>
+      <p>**</p>
+    </div>
+  </content>
+  <link href="../author_0/author_114_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Susanna Clarke" />
+  <link href="http://www.goodreads.com/book/title/Jonathan%20Strange%20%26%20il%20signor%20Norrell" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Jonathan%20Strange%20%26%20il%20signor%20Norrell" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Jonathan%20Strange%20%26%20il%20signor%20Norrell%20Susanna%20Clarke" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Jonathan%20Strange%20%26%20il%20signor%20Norrell&amp;field-author=Susanna%20Clarke" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Susanna%20Clarke" type="text/html" rel="related" title="Susanna Clarke on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Susanna%20Clarke" type="text/html" rel="related" title="Susanna Clarke on Wikipedia" />
+  <link href="http://www.librarything.com/author/ClarkeSusanna" type="text/html" rel="related" title="Susanna Clarke on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Susanna%20Clarke" type="text/html" rel="related" title="Susanna Clarke on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Susanna%20Clarke" type="text/html" rel="related" title="Susanna Clarke on ISFDB" />
+</entry>

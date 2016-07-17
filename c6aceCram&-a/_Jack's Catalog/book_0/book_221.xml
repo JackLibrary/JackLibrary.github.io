@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Epidemia Zombie</title>
+  <id>urn:book:acd2350d-fb18-4b7d-9a2a-71289d9e2448</id>
+  <updated>2016-07-17T05:54:01Z</updated>
+  <link href="./book_221.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Epidemia Zombie" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with R" />
+  <link href="../../Z.%20A.%20Recht/Epidemia%20Zombie%20%28221%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Z.%20A.%20Recht/Epidemia%20Zombie%20%28221%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Z.%20A.%20Recht/Epidemia%20Zombie%20%28221%29/Epidemia%20Zombie%20-%20Z.%20A.%20Recht.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="951 KB" />
+  <author>
+    <name>Z. A. Recht</name>
+    <uri>../author_0/author_145_Page_1.xml</uri>
+  </author>
+  <published>2014-11-26T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+  <category term="Horror &amp; Science Fiction" />
+  <category term="Science Fiction" />
+  <category term="Foreign Language Fiction" />
+  <category term="Italian" />
+  <category term="Post-Apocalyptic" />
+  <category term="Foreign Languages" />
+  <category term="Literature &amp; Fiction" />
+  <category term="Fantasy" />
+  <category term="Science Fiction &amp; Fantasy" />
+  <category term="Adventure" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Horror &amp; Science Fiction, Science Fiction, Foreign Language Fiction, Italian, Post-Apocalyptic, Foreign Languages, Literature &amp; Fiction, Fantasy, Science Fiction &amp; Fantasy, Adventure, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>Il tema dell‘apocalisse zombie, un tempo ai margini
+      del panorama horror, ha assunto un ruolo centrale nella
+      moderna cultura pop. Ora, con “Epidemia Zombie“,
+      Z.A. Recht dà vita a un‘opera acuta e
+      appassionante, un thriller che lascerà senza fiato sia i
+      novizi del genere, sia i più appassionati conoscitori
+      dell‘universo dei morti viventi.</p>
+      <p>SINOSSI:</p>
+      <p>La fine del mondo ha inizio con un virus,
+      un’epidemia senza precedenti nella storia
+      dell’umanità. Gli infetti cadono in preda alla
+      febbre e al delirio, mostrano una tragica inclinazione ai
+      comportamenti violenti e vanno incontro a un tasso di
+      mortalità del cento per cento. È la morte, ma non
+      la fine. Le vittime risorgono dall’oltretomba e tornano
+      a camminare sulla terra. Per contenere la diffusione dei
+      morti viventi viene allestita una gigantesca operazione
+      militare, ma il piano fallisce e la piaga si espande fino ad
+      assumere le proporzioni di una vera pandemia. Di colpo, la
+      vita torna a concentrarsi sulle necessità primarie.
+      Svaniscono le insignificanti preoccupazioni del quotidiano.
+      Scompaiono i rassicuranti agi di un sistema civilizzato. Non
+      resta che aggrapparsi a una singola legge della natura:
+      vivere o morire. Uccidere o essere uccisi. In un remoto
+      angolo di mondo, un generale temprato da innumerevoli
+      battaglie osserva ciò che resta dei suoi uomini: una
+      giovane dottoressa, un fotografo di lungo corso, un impulsivo
+      soldato semplice e una dozzina di profughi. Tutti sotto la
+      sua responsabilità, a migliaia di chilometri da casa.
+      Intanto, negli Stati Uniti, un colonnello dell’esercito
+      scopre gli oscuri segreti legati al virus Morningstar e
+      chiede aiuto a un noto giornalista per rendere pubbliche le
+      informazioni…</p>
+      <p>“Uno straordinario romanzo di zombie” —
+      David Moody, autore de Il virus dell’odio</p>
+      <p>“Tiene incollati alle pagine, è elettrizzante e
+      una volta finito ne vorrete ancora” — Flames
+      Rising</p>
+      <p>“Questo è intrattenimento di
+      qualità” — Brutal As Hell</p>
+      <p>“Una lettura ipnotica” — R. Thomas
+      Riley, autore di Through the Glass Darkly</p>
+      <p>“Un tripudio zombie carico di azione” —
+      Ryan C. Thomas, autore di The Summer I Died</p>
+    </div>
+  </content>
+  <link href="../author_0/author_145_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Z. A. Recht" />
+  <link href="http://www.goodreads.com/book/title/Epidemia%20Zombie" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Epidemia%20Zombie" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Epidemia%20Zombie%20Z.%20A.%20Recht" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Epidemia%20Zombie&amp;field-author=Z.%20A.%20Recht" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Z.%20A.%20Recht" type="text/html" rel="related" title="Z. A. Recht on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Z.%20A.%20Recht" type="text/html" rel="related" title="Z. A. Recht on Wikipedia" />
+  <link href="http://www.librarything.com/author/RechtZ.A." type="text/html" rel="related" title="Z. A. Recht on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Z.%20A.%20Recht" type="text/html" rel="related" title="Z. A. Recht on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Z.%20A.%20Recht" type="text/html" rel="related" title="Z. A. Recht on ISFDB" />
+</entry>

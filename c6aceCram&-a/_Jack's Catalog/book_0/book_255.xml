@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Business</title>
+  <id>urn:book:d2cd2922-c681-4e6c-982a-cbd9ce25c320</id>
+  <updated>2016-07-17T05:54:11Z</updated>
+  <link href="./book_255.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Business" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="../../Richard%20K.%20Morgan/Business%20%28255%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Richard%20K.%20Morgan/Business%20%28255%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Richard%20K.%20Morgan/Business%20%28255%29/Business%20-%20Richard%20K.%20Morgan.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+  <author>
+    <name>Richard K. Morgan</name>
+    <uri>../author_0/author_128_Page_1.xml</uri>
+  </author>
+  <published>2005-12-31T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">Un colpo di Stato in Cambogia, la lotta
+    armata in Guatemala, un governo fragile in Mozambico: per i
+    manager della City le occasioni per concludere ottimi affari
+    non mancano. Un manipolo di ribelli vuole prendere il potere in
+    uno Stato dilaniato dalla guerra civile? Due nazioni sono ai
+    ferri corti e l’uso della violenza è inevitabile?
+    Nessun problema: le investiment bank come la Shorn Associates
+    sono disponibili a finanziare la parte che, una volta al
+    governo, accetterà di siglare accordi con loro. Però
+    in un mercato globale la concorrenza è durissima, anzi
+    spietata. Ed è per questo che esistono uomini come Chris
+    Faulkner, pronti a sfidarsi per le strade di Londra pur di
+    assicurare alla propria società l’appalto più
+    vantaggioso. Chris è brillante, ambizioso, determinato. Sa
+    di essere il migliore. Una carriera lastricata di successo e
+    soldi sta per spalancarsi davanti a lui, gli basta solo seguire
+    il comandamento fondamentale del mondo del business: non avere
+    nessuna pietà. Tuttavia, una volta diventato ricco e
+    famoso, Chris imparerà che un’umanità senza
+    legge è un’umanità senza valori, e che pure un
+    infimo granello di sabbia può inceppare il perverso
+    ingranaggio delle multinazionali… Con
+    un’eccezionale lucidità narrativa, Morgan mette in
+    scena un futuro molto vicino al nostro presente, in cui il
+    benessere di pochi, nel cuore delle metropoli occidentali, si
+    fonda sull’estrema miseria delle periferie del pianeta,
+    dove la vita umana non ha più alcun valore. Business
+    è un thriller avvincente e inquietante, che mette a nudo
+    le degenerazioni dell’economia globalizzata, perché
+    quando il libero mercato non ha più etica, la legge del
+    più forte è l’unica regola che tutti
+    rispettano.</p>
+  </content>
+  <link href="../author_0/author_128_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Richard K. Morgan" />
+  <link href="http://www.goodreads.com/book/title/Business" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Business" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Business%20Richard%20K.%20Morgan" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Business&amp;field-author=Richard%20K.%20Morgan" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Richard%20K.%20Morgan" type="text/html" rel="related" title="Richard K. Morgan on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Richard%20K.%20Morgan" type="text/html" rel="related" title="Richard K. Morgan on Wikipedia" />
+  <link href="http://www.librarything.com/author/MorganRichardK." type="text/html" rel="related" title="Richard K. Morgan on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Richard%20K.%20Morgan" type="text/html" rel="related" title="Richard K. Morgan on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Richard%20K.%20Morgan" type="text/html" rel="related" title="Richard K. Morgan on ISFDB" />
+</entry>

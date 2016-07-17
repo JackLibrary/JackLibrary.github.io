@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Alla fine John muore</title>
+  <id>urn:book:8591eb60-ae85-47a7-8490-b5f59005e831</id>
+  <updated>2016-07-17T05:54:16Z</updated>
+  <link href="./book_272.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Alla fine John muore" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_W_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with W" />
+  <link href="../../David%20Wong/Alla%20fine%20John%20muore%20%28272%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../David%20Wong/Alla%20fine%20John%20muore%20%28272%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../David%20Wong/Alla%20fine%20John%20muore%20%28272%29/Alla%20fine%20John%20muore%20-%20David%20Wong.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="933 KB" />
+  <author>
+    <name>David Wong</name>
+    <uri>../author_0/author_170_Page_1.xml</uri>
+  </author>
+  <published>2016-03-04T00:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">Fermati. Non avresti dovuto toccare questo libro a mani
+    nude. No, non metterlo giù. È troppo tardi. Ti stanno
+    guardando. Il mio nome è David Wong, e il mio migliore
+    amico si chiama John. Sono nomi falsi. Anche tu potresti voler
+    cambiare il tuo. Potresti non voler sapere quello che stai per
+    leggere sulla salsa di soia, Korrok, l’invasione, il
+    futuro. Ma è tardi. Hai toccato il libro. Ci sei dentro.
+    La tua unica difesa è la conoscenza. Devi leggere questo
+    libro, fino alla fine. Anche la parte sui bratwurst. Non
+    chiederti perché. Ti devi fidare e basta. La cosa più
+    importante da sapere è: il nome della droga è
+    ‘salsa di soia’ e apre una finestra su
+    un’altra dimensione. John e io non abbiamo potuto
+    rifiutarla. Tu puoi ancora farlo. Sfortunatamente per noi, se
+    fai la scelta giusta, impiegheremo ancora di più a
+    spiegarti come affrontare l’invasione aliena che minaccia
+    l’umanità. Mi dispiace averti coinvolto, davvero. Ma
+    se leggi di questi terribili eventi e dell’epoca buia in
+    cui il mondo sta per sprofondare, tieni presente questo: non
+    è stata colpa mia.</p>
+  </content>
+  <link href="../author_0/author_170_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by David Wong" />
+  <link href="http://www.goodreads.com/book/title/Alla%20fine%20John%20muore" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Alla%20fine%20John%20muore" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Alla%20fine%20John%20muore%20David%20Wong" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Alla%20fine%20John%20muore&amp;field-author=David%20Wong" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/David%20Wong" type="text/html" rel="related" title="David Wong on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/David%20Wong" type="text/html" rel="related" title="David Wong on Wikipedia" />
+  <link href="http://www.librarything.com/author/WongDavid" type="text/html" rel="related" title="David Wong on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=David%20Wong" type="text/html" rel="related" title="David Wong on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?David%20Wong" type="text/html" rel="related" title="David Wong on ISFDB" />
+</entry>

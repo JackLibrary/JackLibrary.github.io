@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with E</title>
+  <id>Calibre2opds:rated:NOTRATED:E</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./rated_NOTRATED_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with E" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="./rated.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Rating" />
+  <link href="./rated_NOTRATED_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Not rated" />
+  <entry>
+    <title>Effendi</title>
+    <id>calibre:book:229</id>
+    <updated>2016-07-17T05:54:04Z</updated>
+    <link href="../../Jon%20Courtenay%20Grimwood/Effendi%20%28229%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jon%20Courtenay%20Grimwood/Effendi%20%28229%29/Effendi%20-%20Jon%20Courtenay%20Grimwood.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Jon Courtenay Grimwood</name>
+      <uri>../author_0/author_67_Page_1.xml</uri>
+    </author>
+    <published>2015-09-22T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Zona 42</dcterms:publisher>
+    <category term="Fantascienza" />
+    <category term="Lang:it" />
+    <summary>Nella metropoli nordafricana di El Iskandryia, paralizzata da una serie 
+di esplosioni, le infrastrutture locali si stanno sgretolando e le 
+strade sono nel caos, mentre Ashraf Bey, appena nominato procuratore 
+capo, è alle prese con il suo primo cas...</summary>
+    <link href="../book_0/book_229.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Elantris</title>
+    <id>calibre:book:227</id>
+    <updated>2016-07-17T05:54:03Z</updated>
+    <link href="../../Brandon%20Sanderson/Elantris%20%28227%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brandon%20Sanderson/Elantris%20%28227%29/Elantris%20-%20Brandon%20Sanderson.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Brandon Sanderson</name>
+      <uri>../author_0/author_32_Page_1.xml</uri>
+    </author>
+    <published>2013-11-15T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>Elantris, la città degli dèi. Abitata da creature di una bellezza splendente, è un luogo di fulgore e magia. Un luogo di felicità eterna. Ma all’improvviso quell’eternità ha fine. Elantris diventa un luogo di tetra disperazione: i suoi abitanti, colp...</summary>
+    <link href="../book_0/book_227.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Embassytown</title>
+    <id>calibre:book:225</id>
+    <updated>2016-07-17T05:54:03Z</updated>
+    <link href="../../China%20Mieville/Embassytown%20%28225%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../China%20Mieville/Embassytown%20%28225%29/Embassytown%20-%20China%20Mieville.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="655 KB" />
+    <author>
+      <name>China Miéville</name>
+      <uri>../author_0/author_147_Page_1.xml</uri>
+    </author>
+    <published>2016-03-16T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Fantasy" />
+    <category term="Foreign Language Fiction" />
+    <category term="Foreign Languages" />
+    <category term="Science Fiction" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Italian" />
+    <category term="Lang:it" />
+    <summary>In un futuro remoto, gli esseri umani si sono spinti ai confini dell’universo, colonizzando il pianeta Areka. Qui, i rapporti tra gli uomini e il misterioso popolo degli Arekei, custode di una lingua misteriosa e inaccessibile, sono possibili solo gr...</summary>
+    <link href="../book_0/book_225.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Endymion</title>
+    <id>calibre:book:226</id>
+    <updated>2016-07-17T05:54:03Z</updated>
+    <link href="../../Dan%20Simmons/Endymion%20%28226%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dan%20Simmons/Endymion%20%28226%29/Endymion%20-%20Dan%20Simmons.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Dan Simmons</name>
+      <uri>../author_0/author_112_Page_1.xml</uri>
+    </author>
+    <published>2012-07-04T10:04:26Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>Sul pianeta Hyperion il giovane Raul Endymion è accusato di omicidio
+ e condannato a morte. In realtà la sentenza non viene eseguita e 
+Endymion scopre di essere stato scelto per una missione destinata a 
+cambiare l'universo... Terzo episodio del...</summary>
+    <link href="../book_0/book_226.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Enea</title>
+    <id>calibre:book:224</id>
+    <updated>2016-07-17T05:54:02Z</updated>
+    <link href="../../Simone%20Sarasso/Enea%20%28224%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Simone%20Sarasso/Enea%20%28224%29/Enea%20-%20Simone%20Sarasso.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Simone Sarasso</name>
+      <uri>../author_0/author_39_Page_1.xml</uri>
+    </author>
+    <published>2015-05-28T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Rizzoli</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>CHI ERA ÆNEAS PRIMA DI DIVENTARE LEGGENDA? Per generare quel figlio dagli occhi color del mare, la divina Afrodite non ha disdegnato le grazie di un comune mortale, lo spiantato Anchise. Ma nonostante i natali, la strada del piccolo Æneas inizia in s...</summary>
+    <link href="../book_0/book_224.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Epidemia Zombie</title>
+    <id>calibre:book:221</id>
+    <updated>2016-07-17T05:54:01Z</updated>
+    <link href="../../Z.%20A.%20Recht/Epidemia%20Zombie%20%28221%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Z.%20A.%20Recht/Epidemia%20Zombie%20%28221%29/Epidemia%20Zombie%20-%20Z.%20A.%20Recht.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="951 KB" />
+    <author>
+      <name>Z. A. Recht</name>
+      <uri>../author_0/author_145_Page_1.xml</uri>
+    </author>
+    <published>2014-11-26T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Science Fiction" />
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Post-Apocalyptic" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Fantasy" />
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Adventure" />
+    <category term="Lang:it" />
+    <summary>Il tema dell‘apocalisse zombie, un tempo ai margini del panorama horror, ha assunto un ruolo centrale nella moderna cultura pop. Ora, con “Epidemia Zombie“, Z.A. Recht dà vita a un‘opera acuta e appassionante, un thriller che lascerà senza fiato sia ...</summary>
+    <link href="../book_0/book_221.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Exit</title>
+    <id>calibre:book:222</id>
+    <updated>2016-07-17T05:54:02Z</updated>
+    <link href="../../Olen%20Steinhauer/Exit%20%28222%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Olen%20Steinhauer/Exit%20%28222%29/Exit%20-%20Olen%20Steinhauer.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="679 KB" />
+    <author>
+      <name>Olen Steinhauer</name>
+      <uri>../author_0/author_23_Page_1.xml</uri>
+    </author>
+    <published>2010-12-31T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <summary>«La ragazzina ha quindici anni. Si chiama Adriana Stanescu... Uccidila e sbarazzati del corpo». A ricevere l’agghiacciante incarico, in un hotel di Berlino, è un uomo segnato dal passato, angosciato dal presente e alla ricerca di una via d’uscita per...</summary>
+    <link href="../book_0/book_222.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'erede dell'impero. La trilogia di Thrawn Vol. 1</title>
+    <id>calibre:book:135</id>
+    <updated>2016-07-17T05:53:36Z</updated>
+    <link href="../../Timothy%20Zahn/L%27erede%20dell%27impero.%20La%20trilogia%20di%20%28135%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Timothy%20Zahn/L%27erede%20dell%27impero.%20La%20trilogia%20di%20%28135%29/L%27erede%20dell%27impero.%20La%20trilogi%20-%20Timothy%20Zahn.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="596 KB" />
+    <author>
+      <name>Timothy Zahn</name>
+      <uri>../author_0/author_13_Page_1.xml</uri>
+    </author>
+    <published>2014-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Science Fiction" />
+    <category term="Lang:it" />
+    <summary>L'erede dell'impero segue le avventure di Luke Skywalker, Han Solo e della Principessa Leia dopo che questi hanno condotto l'Alleanza Ribelle alla vittoria in Star Wars Episodio VI: Il ritorno dello Jedi. All'interno potrete trovare l'introduzione e ...</summary>
+    <link href="../book_0/book_135.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Gli eretici di Dune</title>
+    <id>calibre:book:200</id>
+    <updated>2016-07-17T05:53:55Z</updated>
+    <link href="../../Frank%20Herbert/Gli%20eretici%20di%20Dune%20%28200%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Frank%20Herbert/Gli%20eretici%20di%20Dune%20%28200%29/Gli%20eretici%20di%20Dune%20-%20Frank%20Herbert.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Frank Herbert</name>
+      <uri>../author_0/author_100_Page_1.xml</uri>
+    </author>
+    <published>1984-10-02T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Nord</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:it" />
+    <summary>«Un sibilo sotterraneo, trasformato 
+dallo spessore della sabbia si fece più forte con incredibile 
+rapidità... C'era del calore in quel sibilo, e la brezza che si 
+riversava nel sentiero roccioso si riscaldò di colpo. Il sibilo crebbe 
+fino a diveni...</summary>
+    <link href="../book_0/book_200.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

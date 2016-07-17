@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Julian Assange</title>
+  <id>Calibre2opds:author:118</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_118_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Julian Assange" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
+  <entry>
+    <title>Internet è il nemico: Conversazione con Jacob Appelbaum, Andy Müller-Maguhn e Jérémie Zimmermann (Serie bianca) (Italian Edition)</title>
+    <id>calibre:book:171</id>
+    <updated>2016-07-17T05:53:48Z</updated>
+    <link href="../../Julian%20Assange/Internet%20e%20il%20nemico_%20Conversazione%20%28171%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Julian%20Assange/Internet%20e%20il%20nemico_%20Conversazione%20%28171%29/Internet%20e%20il%20nemico_%20Conversaz%20-%20Julian%20Assange.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+    <author>
+      <name>Julian Assange</name>
+      <uri>../author_0/author_118_Page_1.xml</uri>
+    </author>
+    <published>2013-06-11T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Feltrinelli Editore</dcterms:publisher>
+    <category term="Computers &amp; Technology" />
+    <category term="Internet &amp; Social Media" />
+    <category term="Networking &amp; Cloud Computing" />
+    <category term="&amp; Telecommunications" />
+    <category term="Internet &amp; Digital Media" />
+    <category term="Computing" />
+    <category term="Groupware" />
+    <category term="Italian" />
+    <category term="Internet" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>"Tanti autori si sono interrogati su quello che significa Internet per la civiltà globale, ma si sbagliano. Si sbagliano perché non hanno la giusta prospettiva frutto dell’esperienza diretta. Si sbagliano perché non hanno mai conosciuto il nemico. Ne...</summary>
+    <link href="../book_0/book_171.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

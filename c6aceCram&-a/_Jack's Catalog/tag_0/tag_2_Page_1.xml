@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Fiction</title>
+  <id>Calibre2opds:taglist:F:2</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tag_2_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Fiction" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with F" />
+  <entry>
+    <title>Books starting with 2</title>
+    <id>Calibre2opds:taglist:F:2:2</id>
+    <content type="text">22/11/63</content>
+    <link href="../tag_0/tag_2_2_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Books starting with A</title>
+    <id>Calibre2opds:taglist:F:2:A</id>
+    <content type="text">9 books</content>
+    <link href="../tag_0/tag_2_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Books starting with B</title>
+    <id>Calibre2opds:taglist:F:2:B</id>
+    <content type="text">2 books</content>
+    <link href="../tag_0/tag_2_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Books starting with C</title>
+    <id>Calibre2opds:taglist:F:2:C</id>
+    <content type="text">12 books</content>
+    <link href="../tag_0/tag_2_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Books starting with D</title>
+    <id>Calibre2opds:taglist:F:2:D</id>
+    <content type="text">4 books</content>
+    <link href="../tag_0/tag_2_D_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Books starting with E</title>
+    <id>Calibre2opds:taglist:F:2:E</id>
+    <content type="text">1 book</content>
+    <link href="../tag_0/tag_2_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Books starting with F</title>
+    <id>Calibre2opds:taglist:F:2:F</id>
+    <content type="text">4 books</content>
+    <link href="../tag_0/tag_2_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Books starting with G</title>
+    <id>Calibre2opds:taglist:F:2:G</id>
+    <content type="text">Il giorno del cobra</content>
+    <link href="../tag_0/tag_2_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Books starting with I</title>
+    <id>Calibre2opds:taglist:F:2:I</id>
+    <content type="text">3 books</content>
+    <link href="../tag_0/tag_2_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Books starting with J</title>
+    <id>Calibre2opds:taglist:F:2:J</id>
+    <content type="text">3 books</content>
+    <link href="../tag_0/tag_2_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Books starting with L</title>
+    <id>Calibre2opds:taglist:F:2:L</id>
+    <content type="text">I lupi del Calla</content>
+    <link href="../tag_0/tag_2_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Books starting with M</title>
+    <id>Calibre2opds:taglist:F:2:M</id>
+    <content type="text">12 books</content>
+    <link href="../tag_0/tag_2_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Books starting with N</title>
+    <id>Calibre2opds:taglist:F:2:N</id>
+    <content type="text">Nordest, Il nome del vento</content>
+    <link href="../tag_0/tag_2_N_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Books starting with O</title>
+    <id>Calibre2opds:taglist:F:2:O</id>
+    <content type="text">2 books</content>
+    <link href="../tag_0/tag_2_O_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Books starting with P</title>
+    <id>Calibre2opds:taglist:F:2:P</id>
+    <content type="text">8 books</content>
+    <link href="../tag_0/tag_2_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Books starting with R</title>
+    <id>Calibre2opds:taglist:F:2:R</id>
+    <content type="text">4 books</content>
+    <link href="../tag_0/tag_2_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Books starting with S</title>
+    <id>Calibre2opds:taglist:F:2:S</id>
+    <content type="text">6 books</content>
+    <link href="../tag_0/tag_2_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Books starting with T</title>
+    <id>Calibre2opds:taglist:F:2:T</id>
+    <content type="text">8 books</content>
+    <link href="../tag_0/tag_2_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Books starting with U</title>
+    <id>Calibre2opds:taglist:F:2:U</id>
+    <content type="text">3 books</content>
+    <link href="../tag_0/tag_2_U_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Books starting with V</title>
+    <id>Calibre2opds:taglist:F:2:V</id>
+    <content type="text">Vedi di non morire</content>
+    <link href="../tag_0/tag_2_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Books starting with W</title>
+    <id>Calibre2opds:taglist:F:2:W</id>
+    <content type="text">Wool: La trilogia del Silo 1</content>
+    <link href="../tag_0/tag_2_W_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Books starting with Y</title>
+    <id>Calibre2opds:taglist:F:2:Y</id>
+    <content type="text">You. Crea il tuo destino</content>
+    <link href="../tag_0/tag_2_Y_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+</feed>

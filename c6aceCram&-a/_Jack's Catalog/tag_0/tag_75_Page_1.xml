@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Industries</title>
+  <id>Calibre2opds:taglist:I:75</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tag_75_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Industries" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_I_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with I" />
+  <entry>
+    <title>Quei diavoli di derivati (Cultura &amp; Società) (Italian Edition)</title>
+    <id>calibre:book:69</id>
+    <updated>2016-07-17T05:53:17Z</updated>
+    <link href="../../Nicholas%20Dunbar/Quei%20diavoli%20di%20derivati%20%28Cultura%20%26%20%2869%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Nicholas%20Dunbar/Quei%20diavoli%20di%20derivati%20%28Cultura%20%26%20%2869%29/Quei%20diavoli%20di%20derivati%20%28Cultu%20-%20Nicholas%20Dunbar.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="826 KB" />
+    <author>
+      <name>Nicholas Dunbar</name>
+      <uri>../author_0/author_56_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>G. Chizzoli</name>
+      <uri>../author_0/author_57_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>R. Merlini</name>
+      <uri>../author_0/author_58_Page_1.xml</uri>
+    </author>
+    <published>2011-10-26T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Egea</dcterms:publisher>
+    <category term="Banks &amp; Banking" />
+    <category term="Industries" />
+    <category term="Business &amp; Economics" />
+    <category term="Economics" />
+    <category term="Business &amp; Money" />
+    <category term="Investing" />
+    <category term="Italian" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>La storia segreta delle innovazioni finanziarie e di come le banche dŐinvestimento abbiano inventato nuovi prodotti, di come gli investitori siano stati corteggiati e blanditi perch acquistassero questi nuovi prodotti; di come le autorit che avrebber...</summary>
+    <link href="../book_0/book_69.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

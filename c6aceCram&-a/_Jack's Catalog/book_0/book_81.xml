@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>La Paura del Saggio</title>
+  <id>urn:book:3dcb14df-d00d-464c-bf35-19880008d12e</id>
+  <updated>2016-07-17T05:53:20Z</updated>
+  <link href="./book_81.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La Paura del Saggio" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with R" />
+  <link href="../../Patrick%20Rothfuss/La%20Paura%20del%20Saggio%20%2881%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Patrick%20Rothfuss/La%20Paura%20del%20Saggio%20%2881%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Patrick%20Rothfuss/La%20Paura%20del%20Saggio%20%2881%29/La%20Paura%20del%20Saggio%20-%20Patrick%20Rothfuss.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+  <author>
+    <name>Patrick Rothfuss</name>
+    <uri>../author_0/author_64_Page_1.xml</uri>
+  </author>
+  <published>2011-07-14T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Fanucci</dcterms:publisher>
+  <category term="Fantasy" />
+  <category term="Fiction" />
+  <category term="General" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Fantasy, Fiction, General, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">Questa è la storia di un uomo che
+    insegue la verità di una leggenda e strada facendo diventa
+    egli stesso una leggenda. Il giovane Kvothe è ancora alle
+    prese con gli studi all'Accademia e con i suoi esperimenti, ma
+    il carattere, focoso e ribelle quanto la sua chioma, e una
+    lingua tagliente, affilata come una spada, gli hanno procurato
+    diversi nemici. La rivalità crescente con un influente
+    membro della nobiltà lo costringe a lasciare l'Accademia e
+    a cercare fortuna altrove. Solo, alla deriva e senza un soldo,
+    si reca nel regno di Vìntas, dove si lascia coinvolgere
+    dagli intrighi di corte, scopre il fallito tentativo di un
+    assassinio e, a capo di una truppa di mercenari, indaga il
+    mistero di chi - o cosa - minacci i viaggiatori della King's
+    Road. Nel frattempo, prosegue la sua incessante ricerca su Amyr
+    e Chandrian. E mentre Kvothe muove i primi passi come eroe,
+    scopre quanto sia diffìcile la vita per un uomo che, dopo
+    aver acquisito poteri strabilianti grazie alle esperienze
+    rischiose e straordinarie che ha vissuto, sta diventando una
+    leggenda del suo tempo. Dopo il successo di "Il nome del
+    vento", il secondo capitolo della trilogia" Le cronache
+    dell'assassino del re"</p>
+  </content>
+  <link href="../author_0/author_64_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Patrick Rothfuss" />
+  <link href="http://www.goodreads.com/book/title/La%20Paura%20del%20Saggio" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/La%20Paura%20del%20Saggio" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/La%20Paura%20del%20Saggio%20Patrick%20Rothfuss" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=La%20Paura%20del%20Saggio&amp;field-author=Patrick%20Rothfuss" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Patrick%20Rothfuss" type="text/html" rel="related" title="Patrick Rothfuss on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Patrick%20Rothfuss" type="text/html" rel="related" title="Patrick Rothfuss on Wikipedia" />
+  <link href="http://www.librarything.com/author/RothfussPatrick" type="text/html" rel="related" title="Patrick Rothfuss on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Patrick%20Rothfuss" type="text/html" rel="related" title="Patrick Rothfuss on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Patrick%20Rothfuss" type="text/html" rel="related" title="Patrick Rothfuss on ISFDB" />
+</entry>

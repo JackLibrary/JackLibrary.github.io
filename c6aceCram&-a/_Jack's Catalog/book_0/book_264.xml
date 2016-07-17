@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Area di contagio</title>
+  <id>urn:book:a9d824aa-1a80-4a0e-930a-a8474fc7b26b</id>
+  <updated>2016-07-17T05:54:14Z</updated>
+  <link href="./book_264.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Area di contagio" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with P" />
+  <link href="../../Richard%20Preston/Area%20di%20contagio%20%28264%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Richard%20Preston/Area%20di%20contagio%20%28264%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Richard%20Preston/Area%20di%20contagio%20%28264%29/Area%20di%20contagio%20-%20Richard%20Preston.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="920 KB" />
+  <author>
+    <name>Richard Preston</name>
+    <uri>../author_0/author_137_Page_1.xml</uri>
+  </author>
+  <published>1996-08-14T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Rizzoli</dcterms:publisher>
+  <category term="Fiction" />
+  <category term="General" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Fiction, General, Lang:it
+    </p>
+  </content>
+  <link href="../author_0/author_137_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Richard Preston" />
+  <link href="http://www.goodreads.com/book/title/Area%20di%20contagio" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Area%20di%20contagio" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Area%20di%20contagio%20Richard%20Preston" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Area%20di%20contagio&amp;field-author=Richard%20Preston" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Richard%20Preston" type="text/html" rel="related" title="Richard Preston on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Richard%20Preston" type="text/html" rel="related" title="Richard Preston on Wikipedia" />
+  <link href="http://www.librarything.com/author/PrestonRichard" type="text/html" rel="related" title="Richard Preston on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Richard%20Preston" type="text/html" rel="related" title="Richard Preston on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Richard%20Preston" type="text/html" rel="related" title="Richard Preston on ISFDB" />
+</entry>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Angeli spezzati</title>
+  <id>urn:book:affc07ed-8c57-45c7-812f-d5d55d2369a1</id>
+  <updated>2016-07-17T05:54:15Z</updated>
+  <link href="./book_269.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Angeli spezzati" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="../../Richard%20K.%20Morgan/Angeli%20spezzati%20%28269%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Richard%20K.%20Morgan/Angeli%20spezzati%20%28269%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Richard%20K.%20Morgan/Angeli%20spezzati%20%28269%29/Angeli%20spezzati%20-%20Richard%20K.%20Morgan.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="972 KB" />
+  <author>
+    <name>Richard K. Morgan</name>
+    <uri>../author_0/author_128_Page_1.xml</uri>
+  </author>
+  <published>2004-12-31T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">Cinquant'anni dopo le indagini a Bay
+    City, il cinico Takeshi Kovacs ha cambiato custodia e lavoro:
+    adesso è un mercenario al soldo del governo di Sanzione
+    IV, pagato per soffocare una rivolta. Ma la fedeltà a una
+    causa non è mai stato il suo forte, così, quando gli
+    viene offerta una bella somma per partecipare a una spedizione
+    "archeologica", Kovacs si dimostra più che disponibile a
+    lasciare il vecchio lavoro per gettarsi in questa nuova
+    missione. Lo scopo della spedizione è il ritrovamento e il
+    recupero di una nave marziana, la civiltà più antica
+    e più evoluta dell'universo.</p>
+  </content>
+  <link href="../author_0/author_128_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Richard K. Morgan" />
+  <link href="http://www.goodreads.com/book/title/Angeli%20spezzati" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Angeli%20spezzati" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Angeli%20spezzati%20Richard%20K.%20Morgan" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Angeli%20spezzati&amp;field-author=Richard%20K.%20Morgan" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Richard%20K.%20Morgan" type="text/html" rel="related" title="Richard K. Morgan on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Richard%20K.%20Morgan" type="text/html" rel="related" title="Richard K. Morgan on Wikipedia" />
+  <link href="http://www.librarything.com/author/MorganRichardK." type="text/html" rel="related" title="Richard K. Morgan on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Richard%20K.%20Morgan" type="text/html" rel="related" title="Richard K. Morgan on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Richard%20K.%20Morgan" type="text/html" rel="related" title="Richard K. Morgan on ISFDB" />
+</entry>

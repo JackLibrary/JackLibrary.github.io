@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>(Expanse 01) Leviathan. Il risveglio</title>
+  <id>urn:book:73d40f2a-4f9b-4c89-94f8-b698b811d618</id>
+  <updated>2016-07-17T05:52:56Z</updated>
+  <link href="./book_3.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="(Expanse 01) Leviathan. Il risveglio" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../../James%20s.%20A.%20Corey/%28Expanse%2001%29%20Leviathan.%20Il%20risveglio%20%283%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../James%20s.%20A.%20Corey/%28Expanse%2001%29%20Leviathan.%20Il%20risveglio%20%283%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../James%20s.%20A.%20Corey/%28Expanse%2001%29%20Leviathan.%20Il%20risveglio%20%283%29/%28Expanse%2001%29%20Leviathan.%20Il%20risv%20-%20James%20s.%20A.%20Corey.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="917 KB" />
+  <author>
+    <name>James s. A. Corey</name>
+    <uri>../author_0/author_2_Page_1.xml</uri>
+  </author>
+  <published>0101-01-01T00:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <category term="Fantascienza" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Fantascienza, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">L’umanità ha colonizzato l’intero sistema
+    solare, spingendosi fino all’orbita di Nettuno grazie
+    alla scoperta di un avveniristico motore a fusione. Jim Holden
+    presta servizio sulla Canterbury, un cargo che trasporta
+    ghiaccio attraverso gli infiniti spazi tra gli anelli di
+    Saturno e la Fascia, l’arcipelago di asteroidi che si
+    estende tra Marte e Giove. Incaricato di ispezionare il relitto
+    di una nave spaziale, la Scopuli, sopravvivrà alla
+    distruzione della Canterbury in seguito a un proditorio attacco
+    nemico. Un fatto inaudito che porta la Terra, Marte e la Fascia
+    sull’orlo della catastrofe planetaria. Nel frattempo,
+    sull’asteroide Ceres, il detective Miller è
+    impegnato nelle ricerche di Julie Mao, una giovane ribelle che
+    ha rinnegato la sua famiglia sulla Terra e si è rifugiata
+    nella Fascia. La ragazza sembra scomparsa nel nulla, ma le sue
+    tracce portano dritto al relitto della Scopuli e a una vicenda
+    di orribili esperimenti che qualcuno sta tentando di
+    insabbiare, anche a costo di scatenare una guerra senza
+    precedenti.</p>
+  </content>
+  <link href="../author_0/author_2_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by James s. A. Corey" />
+  <link href="http://www.goodreads.com/book/title/%28Expanse%2001%29%20Leviathan.%20Il%20risveglio" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/%28Expanse%2001%29%20Leviathan.%20Il%20risveglio" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/%28Expanse%2001%29%20Leviathan.%20Il%20risveglio%20James%20s.%20A.%20Corey" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=%28Expanse%2001%29%20Leviathan.%20Il%20risveglio&amp;field-author=James%20s.%20A.%20Corey" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/James%20s.%20A.%20Corey" type="text/html" rel="related" title="James s. A. Corey on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/James%20s.%20A.%20Corey" type="text/html" rel="related" title="James s. A. Corey on Wikipedia" />
+  <link href="http://www.librarything.com/author/CoreyJamess.A." type="text/html" rel="related" title="James s. A. Corey on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=James%20s.%20A.%20Corey" type="text/html" rel="related" title="James s. A. Corey on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?James%20s.%20A.%20Corey" type="text/html" rel="related" title="James s. A. Corey on ISFDB" />
+</entry>

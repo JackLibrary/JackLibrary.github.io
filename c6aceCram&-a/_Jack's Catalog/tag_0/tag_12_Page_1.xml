@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Ebola</title>
+  <id>Calibre2opds:taglist:E:12</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tag_12_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Ebola" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_E_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with E" />
+  <entry>
+    <title>Zona rossa</title>
+    <id>calibre:book:5</id>
+    <updated>2016-07-17T05:52:56Z</updated>
+    <link href="../../Roberto%20Satolli/Zona%20rossa%20%285%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Roberto%20Satolli/Zona%20rossa%20%285%29/Zona%20rossa%20-%20Roberto%20Satolli.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="376 KB" />
+    <author>
+      <name>Roberto Satolli</name>
+      <uri>../author_0/author_4_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Gino Strada</name>
+      <uri>../author_0/author_5_Page_1.xml</uri>
+    </author>
+    <published>2015-06-15T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Feltrinelli Editore</dcterms:publisher>
+    <category term="Human Rights" />
+    <category term="Technology &amp; Engineering" />
+    <category term="Emergency Medicine" />
+    <category term="Medical" />
+    <category term="Health Policy" />
+    <category term="Political Science" />
+    <category term="Healing" />
+    <category term="Ebola" />
+    <category term="Emergency Management" />
+    <category term="Epidemiology" />
+    <category term="General" />
+    <category term="Hospital Administration &amp; Care" />
+    <category term="Lang:it" />
+    <summary>Per qualche mese, nel 2014, tutto il mondo ha tremato di fronte a un minuscolo virus. Ebola è uscito dalle foreste dell’Africa equatoriale e ha conquistato tre paesi – minacciando di spostarsi a bordo di navi e aerei, arrivando a lambire le nazioni c...</summary>
+    <link href="../book_0/book_5.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Windfall: The Booming Business of Global Warming</title>
+  <id>urn:book:3529fa02-206c-4e46-b826-e5f416df571f</id>
+  <updated>2016-07-17T05:52:58Z</updated>
+  <link href="./book_10.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Windfall: The Booming Business of Global Warming" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with F" />
+  <link href="../../Mckenzie%20Funk/Windfall_%20The%20Booming%20Business%20of%20Gl%20%2810%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Mckenzie%20Funk/Windfall_%20The%20Booming%20Business%20of%20Gl%20%2810%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Mckenzie%20Funk/Windfall_%20The%20Booming%20Business%20of%20Gl%20%2810%29/Windfall_%20The%20Booming%20Business%20-%20Mckenzie%20Funk.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="5 MB" />
+  <author>
+    <name>Mckenzie Funk</name>
+    <uri>../author_0/author_10_Page_1.xml</uri>
+  </author>
+  <published>2015-01-26T11:00:00Z</published>
+  <dcterms:language>en</dcterms:language>
+  <dcterms:publisher>Penguin Books</dcterms:publisher>
+  <category term="Lang:en" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:en
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>
+        <strong>A fascinating investigation into how people around
+        the globe are cashing in on a warming world</strong>
+      </p>
+      <p>McKenzie Funk has spent the last six years reporting
+      around the world on how we are preparing for a warmer planet.
+      Funk shows us that the best way to understand the catastrophe
+      of global warming is to see it through the eyes of those who
+      see it most clearly—as a market opportunity.</p>
+      <p>Global warming’s physical impacts can be separated
+      into three broad categories: melt, drought, and deluge. Funk
+      travels to two dozen countries to profile entrepreneurial
+      people who see in each of these forces a potential
+      windfall.</p>
+      <p>The melt is a boon for newly arable, mineral-rich regions
+      of the Arctic, such as Greenland—and for the surprising
+      kings of the manmade snow trade, the Israelis. The process of
+      desalination, vital to Israel’s survival, can produce a
+      snowlike by-product that alpine countries use to prolong
+      their ski season.</p>
+      <p>Drought creates opportunities for private firefighters
+      working for insurance companies in California as well as for
+      fund managers backing south Sudanese warlords who control
+      local farmland. As droughts raise food prices globally, there
+      is no more precious asset.</p>
+      <p>The deluge—the rising seas, surging rivers, and
+      superstorms that will threaten island nations and coastal
+      cities—has been our most distant concern, but after
+      Hurricane Sandy and failure after failure to cut global
+      carbon emissions, it is not so distant. For Dutch architects
+      designing floating cities and American scientists patenting
+      hurricane defenses, the race is on. For low-lying countries
+      like Bangladesh, the coming deluge presents an existential
+      threat.</p>
+      <p>Funk visits the front lines of the melt, the drought, and
+      the deluge to make a human accounting of the booming business
+      of global warming. By letting climate change continue
+      unchecked, we are choosing to adapt to a warming world.
+      Containing the resulting surge will be big business; some
+      will benefit, but much of the planet will suffer. McKenzie
+      Funk has investigated both sides, and what he has found will
+      shock us all. </p>
+      <p>
+        To understand how the world is preparing to warm, 
+        <em>Windfall</em>
+         follows the money.
+      </p>
+      <p>**</p>
+    </div>
+  </content>
+  <link href="../author_0/author_10_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Mckenzie Funk" />
+  <link href="http://www.goodreads.com/book/title/Windfall%3A%20The%20Booming%20Business%20of%20Global%20Warming" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Windfall%3A%20The%20Booming%20Business%20of%20Global%20Warming" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Windfall%3A%20The%20Booming%20Business%20of%20Global%20Warming%20Mckenzie%20Funk" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Windfall%3A%20The%20Booming%20Business%20of%20Global%20Warming&amp;field-author=Mckenzie%20Funk" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Mckenzie%20Funk" type="text/html" rel="related" title="Mckenzie Funk on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Mckenzie%20Funk" type="text/html" rel="related" title="Mckenzie Funk on Wikipedia" />
+  <link href="http://www.librarything.com/author/FunkMckenzie" type="text/html" rel="related" title="Mckenzie Funk on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Mckenzie%20Funk" type="text/html" rel="related" title="Mckenzie Funk on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Mckenzie%20Funk" type="text/html" rel="related" title="Mckenzie Funk on ISFDB" />
+</entry>

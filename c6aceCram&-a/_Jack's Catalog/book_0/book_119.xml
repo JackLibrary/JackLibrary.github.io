@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Il manuale dello stagista killer. L'avversario più letale</title>
+  <id>urn:book:18d47b3c-6e2a-4045-8dd7-2a7faf577e41</id>
+  <updated>2016-07-17T05:53:31Z</updated>
+  <link href="./book_119.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Il manuale dello stagista killer. L'avversario più letale" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_K_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with K" />
+  <link href="../../Shane%20Kuhn/Il%20manuale%20dello%20stagista%20killer.%20L%20%28119%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Shane%20Kuhn/Il%20manuale%20dello%20stagista%20killer.%20L%20%28119%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Shane%20Kuhn/Il%20manuale%20dello%20stagista%20killer.%20L%20%28119%29/Il%20manuale%20dello%20stagista%20kille%20-%20Shane%20Kuhn.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="440 KB" />
+  <author>
+    <name>Shane Kuhn</name>
+    <uri>../author_0/author_90_Page_1.xml</uri>
+  </author>
+  <author>
+    <name>Valentina Rossini</name>
+    <uri>../author_0/author_91_Page_1.xml</uri>
+  </author>
+  <published>2016-06-01T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Timecrime</dcterms:publisher>
+  <category term="Crime" />
+  <category term="Foreign Language Fiction" />
+  <category term="Mystery" />
+  <category term="Thrillers &amp; Suspense" />
+  <category term="Thriller &amp; Suspense" />
+  <category term="Literature &amp; Fiction" />
+  <category term="Thrillers" />
+  <category term="Italian" />
+  <category term="Foreign Languages" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Crime, Foreign Language Fiction, Mystery, Thrillers &amp; Suspense, Thriller &amp; Suspense, Literature &amp; Fiction, Thrillers, Italian, Foreign Languages, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>La Risorse Umane s.r.l. è un’agenzia di
+      collocamento che, sotto copertura, addestra giovani sicari a
+      infiltrarsi nelle multinazionali in veste di stagisti. Il
+      loro scopo è eliminare bersagli di alto profilo, e John
+      Lago, uno dei killer più letali al soldo
+      dell’agenzia, ha appena fatto fuori il manager per cui
+      lavorava. Ma il lavoro sporco non è ancora finito: per
+      portare a termine la missione, John dovrà sbarazzarsi
+      del suo avversario più letale, il suo equivalente
+      femminile, la spietata Alice. Peccato che, quando finalmente
+      la scova, anziché ficcarle due pallottole in testa
+      preferisce metterle un anello al dito. Da marito e moglie, i
+      due decidono di prendere il controllo della Risorse Umane ed
+      eliminare i capi dell’organizzazione, ma nonostante un
+      inizio promettente, il loro matrimonio improbabile e i loro
+      affari prendono presto una brutta piega. La soffiata di un
+      misterioso cliente manda all’aria i loro piani: a
+      quanto pare l’fbi ha infiltrato un agente
+      all’interno della ru, e il gioco che John e Alice
+      avevano deciso di iniziare rischia di diventare più
+      pericoloso di quanto loro stessi potessero immaginare.</p>
+      <p>Il secondo capitolo di una serie destinata a diventare un
+      cult. Un thriller originale, divertente, con un protagonista
+      che resterà a lungo nell’immaginario degli amanti
+      del genere.</p>
+      <p>**</p>
+    </div>
+  </content>
+  <link href="../author_0/author_90_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Shane Kuhn" />
+  <link href="../author_0/author_91_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Valentina Rossini" />
+  <link href="http://www.goodreads.com/book/title/Il%20manuale%20dello%20stagista%20killer.%20L%27avversario%20pi%C3%B9%20letale" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Il%20manuale%20dello%20stagista%20killer.%20L%27avversario%20pi%C3%B9%20letale" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Il%20manuale%20dello%20stagista%20killer.%20L%27avversario%20pi%C3%B9%20letale%20Shane%20Kuhn" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Il%20manuale%20dello%20stagista%20killer.%20L%27avversario%20pi%C3%B9%20letale&amp;field-author=Shane%20Kuhn" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Shane%20Kuhn" type="text/html" rel="related" title="Shane Kuhn on Goodreads" />
+  <link href="http://www.goodreads.com/book/author/Valentina%20Rossini" type="text/html" rel="related" title="Valentina Rossini on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Shane%20Kuhn" type="text/html" rel="related" title="Shane Kuhn on Wikipedia" />
+  <link href="http://en.wikipedia.org/wiki/Valentina%20Rossini" type="text/html" rel="related" title="Valentina Rossini on Wikipedia" />
+  <link href="http://www.librarything.com/author/KuhnShane" type="text/html" rel="related" title="Shane Kuhn on LibraryThing" />
+  <link href="http://www.librarything.com/author/RossiniValentina" type="text/html" rel="related" title="Valentina Rossini on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Shane%20Kuhn" type="text/html" rel="related" title="Shane Kuhn on Amazon" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Valentina%20Rossini" type="text/html" rel="related" title="Valentina Rossini on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Shane%20Kuhn" type="text/html" rel="related" title="Shane Kuhn on ISFDB" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Valentina%20Rossini" type="text/html" rel="related" title="Valentina Rossini on ISFDB" />
+</entry>

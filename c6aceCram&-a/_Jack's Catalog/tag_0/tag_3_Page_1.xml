@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Suspense</title>
+  <id>Calibre2opds:taglist:S:3</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tag_3_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Suspense" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with S" />
+  <entry>
+    <title>22/11/63</title>
+    <id>calibre:book:4</id>
+    <updated>2016-07-17T05:52:56Z</updated>
+    <link href="../../Stephen%20King/22_11_63%20%284%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/22_11_63%20%284%29/22_11_63%20-%20Stephen%20King.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2014-05-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Sperling &amp; Kupfer</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Suspense" />
+    <category term="Thrillers" />
+    <category term="Lang:it" />
+    <summary>Jake Epping ha trentacinque anni, è professore di inglese al liceo di Lisbon Falls, nel Maine, e arrotonda lo stipendio insegnando anche alla scuola serale. Vive solo, ma ha parecchi amici sui quali contare, e il migliore è Al, che gestisce la tavola...</summary>
+    <link href="../book_0/book_4.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>You. Crea il tuo destino</title>
+    <id>calibre:book:6</id>
+    <updated>2016-07-17T05:52:57Z</updated>
+    <link href="../../Austin%20Grossman/You.%20Crea%20il%20tuo%20destino%20%286%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Austin%20Grossman/You.%20Crea%20il%20tuo%20destino%20%286%29/You.%20Crea%20il%20tuo%20destino%20-%20Austin%20Grossman.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="745 KB" />
+    <author>
+      <name>Austin Grossman</name>
+      <uri>../author_0/author_6_Page_1.xml</uri>
+    </author>
+    <published>2014-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="Thrillers" />
+    <category term="Fiction" />
+    <category term="Suspense" />
+    <category term="Lang:it" />
+    <summary>Quando Russell inizia a lavorare alla Black Arts Games, fondata da due designer visionari che un tempo suoi amici, si trova a collaborare con un eccentrico gruppo di nerd che intendono superare le frontiere della tecnologia e dell'intrattenimento. Da...</summary>
+    <link href="../book_0/book_6.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Vedi di non morire</title>
+    <id>calibre:book:14</id>
+    <updated>2016-07-17T05:52:59Z</updated>
+    <link href="../../Josh%20Bazell/Vedi%20di%20non%20morire%20%2814%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Josh%20Bazell/Vedi%20di%20non%20morire%20%2814%29/Vedi%20di%20non%20morire%20-%20Josh%20Bazell.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="456 KB" />
+    <author>
+      <name>Josh Bazell</name>
+      <uri>../author_0/author_14_Page_1.xml</uri>
+    </author>
+    <published>2009-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Einaudi</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Suspense" />
+    <category term="Thrillers" />
+    <category term="Lang:it" />
+    <summary>Grazie a Peter Brown, ex killer entrato in un programma di protezione governativo, la mafia fa il suo ingresso tra le corsie di un famigerato ospedale di Manhattan. Quando Peter va come ogni mattina al lavoro in ospedale, non sa che la Grande Mietitr...</summary>
+    <link href="../book_0/book_14.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il turista</title>
+    <id>calibre:book:26</id>
+    <updated>2016-07-17T05:53:03Z</updated>
+    <link href="../../Olen%20Steinhauer/Il%20turista%20%2826%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Olen%20Steinhauer/Il%20turista%20%2826%29/Il%20turista%20-%20Olen%20Steinhauer.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="641 KB" />
+    <author>
+      <name>Olen Steinhauer</name>
+      <uri>../author_0/author_23_Page_1.xml</uri>
+    </author>
+    <published>2009-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Giano</dcterms:publisher>
+    <category term="Thrillers" />
+    <category term="Fiction" />
+    <category term="Suspense" />
+    <category term="Lang:it" />
+    <summary>Milo Weaver ha trascorso anni a guardarsi intorno sospettoso, anni a ingollare anfetamine e a osservare il tremito continuo delle sue mani, e a sentire Grainger, il suo ex capo, declamare incipit di capolavori letterari per comunicare in codice il co...</summary>
+    <link href="../book_0/book_26.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La regina dei castelli di carta</title>
+    <id>calibre:book:60</id>
+    <updated>2016-07-17T05:53:14Z</updated>
+    <link href="../../Stieg%20Larsson/La%20regina%20dei%20castelli%20di%20carta%20%2860%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stieg%20Larsson/La%20regina%20dei%20castelli%20di%20carta%20%2860%29/La%20regina%20dei%20castelli%20di%20carta%20-%20Stieg%20Larsson.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Stieg Larsson</name>
+      <uri>../author_0/author_19_Page_1.xml</uri>
+    </author>
+    <published>2010-10-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Marsilio Editori</dcterms:publisher>
+    <category term="Thrillers" />
+    <category term="Fiction" />
+    <category term="Suspense" />
+    <category term="Lang:it" />
+    <summary>La giovane hacker Lisbeth Salander è di nuovo immobilizzata in un letto d'ospedale, anche se questa volta non sono le cinghie di cuoio a trattenerla, ma una pallottola in testa. È diventata una minaccia: se qualcuno scava nella sua vita e ascolta que...</summary>
+    <link href="../book_0/book_60.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il protocollo ombra</title>
+    <id>calibre:book:70</id>
+    <updated>2016-07-17T05:53:17Z</updated>
+    <link href="../../Kazuaki%20Takano/Il%20protocollo%20ombra%20%2870%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Kazuaki%20Takano/Il%20protocollo%20ombra%20%2870%29/Il%20protocollo%20ombra%20-%20Kazuaki%20Takano.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Kazuaki Takano</name>
+      <uri>../author_0/author_59_Page_1.xml</uri>
+    </author>
+    <published>2015-06-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Garzanti Libri</dcterms:publisher>
+    <category term="Thrillers" />
+    <category term="Fiction" />
+    <category term="Suspense" />
+    <category term="Lang:it" />
+    <link href="../book_0/book_70.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Missione d'onore</title>
+    <id>calibre:book:106</id>
+    <updated>2016-07-17T05:53:28Z</updated>
+    <link href="../../Brian%20Haig/Missione%20d%27onore%20%28106%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brian%20Haig/Missione%20d%27onore%20%28106%29/Missione%20d%27onore%20-%20Brian%20Haig.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="554 KB" />
+    <author>
+      <name>Brian Haig</name>
+      <uri>../author_0/author_82_Page_1.xml</uri>
+    </author>
+    <published>2001-07-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Rizzoli</dcterms:publisher>
+    <category term="Thrillers" />
+    <category term="Fiction" />
+    <category term="Suspense" />
+    <category term="Lang:it" />
+    <summary>Kosovo 1999: durante le operazioni militari della Nato, 35 soldati serbi vengono trovati uccisi a sangue freddo. I sospetti si appuntano su una squadra dei Reparti Speciali dell'esercito americano. Mentre il massacro occupa le prime pagine dei giorna...</summary>
+    <link href="../book_0/book_106.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La città sepolta: Un'avventura della Sigma Force</title>
+    <id>calibre:book:160</id>
+    <updated>2016-07-17T05:53:45Z</updated>
+    <link href="../../James%20Rollins/La%20citta%20sepolta_%20Un%27avventura%20dell%20%28160%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../James%20Rollins/La%20citta%20sepolta_%20Un%27avventura%20dell%20%28160%29/La%20citta%20sepolta_%20Un%27avventura%20-%20James%20Rollins.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>James Rollins</name>
+      <uri>../author_0/author_111_Page_1.xml</uri>
+    </author>
+    <published>2010-10-15T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Casa Editrice Nord</dcterms:publisher>
+    <category term="Crime" />
+    <category term="Foreign Language Fiction" />
+    <category term="Mystery" />
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Thriller" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Action &amp; Adventure" />
+    <category term="ebook" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Thrillers" />
+    <category term="Italian" />
+    <category term="Suspense" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>L’esplosione che ha distrutto la Galleria Kensington del British Museum sembra non avere spiegazioni. Le ultime immagini delle telecamere di sorveglianza mostrano una sfera di luce che, entrando in contatto con un antico manufatto, innesta una reazio...</summary>
+    <link href="../book_0/book_160.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il giorno del cobra</title>
+    <id>calibre:book:205</id>
+    <updated>2016-07-17T05:53:57Z</updated>
+    <link href="../../Richard%20Preston/Il%20giorno%20del%20cobra%20%28205%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Richard%20Preston/Il%20giorno%20del%20cobra%20%28205%29/Il%20giorno%20del%20cobra%20-%20Richard%20Preston.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="958 KB" />
+    <author>
+      <name>Richard Preston</name>
+      <uri>../author_0/author_137_Page_1.xml</uri>
+    </author>
+    <published>2000-06-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Rizzoli</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Suspense" />
+    <category term="Thrillers" />
+    <category term="Lang:it" />
+    <summary>Una ragazza di diciassette anni, Kate Moran, si presenta una mattina a scuola leggermente raffreddata. Una semplice seccatura, ma solo in apparenza... Nel giro di pochi minuti la ragazza muore sotto gli occhi di compagni ed insegnanti. Sarà una giova...</summary>
+    <link href="../book_0/book_205.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Drive</title>
+    <id>calibre:book:230</id>
+    <updated>2016-07-17T05:54:04Z</updated>
+    <link href="../../James%20Sallis/Drive%20%28230%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../James%20Sallis/Drive%20%28230%29/Drive%20-%20James%20Sallis.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="228 KB" />
+    <author>
+      <name>James Sallis</name>
+      <uri>../author_0/author_148_Page_1.xml</uri>
+    </author>
+    <published>2011-06-14T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Giano</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Suspense" />
+    <category term="Thrillers" />
+    <category term="Lang:en" />
+    <summary>La stanza di un Motel 6 a nord di Phoenix, la tarda luce dell'alba che preme alla porta e alle finestre, i rumori del traffico dalla vicina autostrada, il lamento di qualcuno che piange nella camera attigua. E una pozza di sangue che avanza, lenta, i...</summary>
+    <link href="../book_0/book_230.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cyberstorm</title>
+    <id>calibre:book:234</id>
+    <updated>2016-07-17T05:54:05Z</updated>
+    <link href="../../Matthew%20Mather/Cyberstorm%20%28234%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Matthew%20Mather/Cyberstorm%20%28234%29/Cyberstorm%20-%20Matthew%20Mather.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="562 KB" />
+    <author>
+      <name>Matthew Mather</name>
+      <uri>../author_0/author_149_Page_1.xml</uri>
+    </author>
+    <published>2014-08-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Suspense" />
+    <category term="Thrillers" />
+    <category term="Lang:it" />
+    <summary>A Mike Mitchell sembrava già difficile tenere unite la propria famiglia, ma non pensava che si sarebbe ritrovato a lottare per tenerla in vita, quando una serie di inspiegabili catastrofi inizia a dominare i telegiornali di tutto il mondo. Mentre il ...</summary>
+    <link href="../book_0/book_234.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Brilliance. La formula del potere</title>
+    <id>calibre:book:258</id>
+    <updated>2016-07-17T05:54:12Z</updated>
+    <link href="../../Marcus%20Sakey/Brilliance.%20La%20formula%20del%20potere%20%28258%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Marcus%20Sakey/Brilliance.%20La%20formula%20del%20potere%20%28258%29/Brilliance.%20La%20formula%20del%20pote%20-%20Marcus%20Sakey.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="795 KB" />
+    <author>
+      <name>Marcus Sakey</name>
+      <uri>../author_0/author_164_Page_1.xml</uri>
+    </author>
+    <published>2015-07-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Nord</dcterms:publisher>
+    <category term="ebook" />
+    <category term="Fiction" />
+    <category term="Suspense" />
+    <category term="Thrillers" />
+    <category term="Lang:it" />
+    <summary>Nessuno ne conosce la causa, ma una cosa è certa: dal 1980 l'1% dei nuovi nati è un genio. Una percentuale altissima, che in un primo momento aveva dato speranza al mondo intero. Si pensava che quei "bambini speciali" avrebbero aiutato l'umanità a pr...</summary>
+    <link href="../book_0/book_258.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

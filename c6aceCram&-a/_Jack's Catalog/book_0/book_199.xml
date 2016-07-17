@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Globalia</title>
+  <id>urn:book:e4378756-fc11-4be7-9135-d584ce040353</id>
+  <updated>2016-07-17T05:53:55Z</updated>
+  <link href="./book_199.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Globalia" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with R" />
+  <link href="../../Jean-Cristophe%20Rufin/Globalia%20%28199%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Jean-Cristophe%20Rufin/Globalia%20%28199%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Jean-Cristophe%20Rufin/Globalia%20%28199%29/Globalia%20-%20Jean-Cristophe%20Rufin.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="891 KB" />
+  <author>
+    <name>Jean-Cristophe Rufin</name>
+    <uri>../author_0/author_132_Page_1.xml</uri>
+  </author>
+  <published>2016-05-18T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Edizioni e/o</dcterms:publisher>
+  <category term="Fantasy" />
+  <category term="Foreign Language Fiction" />
+  <category term="Horror &amp; Science Fiction" />
+  <category term="Science Fiction &amp; Fantasy" />
+  <category term="Science Fiction" />
+  <category term="Literary Fiction" />
+  <category term="Literary" />
+  <category term="Literature &amp; Fiction" />
+  <category term="Post-Apocalyptic" />
+  <category term="Italian" />
+  <category term="Foreign Languages" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Fantasy, Foreign Language Fiction, Horror &amp; Science Fiction, Science Fiction &amp; Fantasy, Science Fiction, Literary Fiction, Literary, Literature &amp; Fiction, Post-Apocalyptic, Italian, Foreign Languages, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>Dall’autore de L’uomo dei sogni, un libro che
+      merita di stare a fianco di Orwell e Huxley sullo scaffale
+      delle grandi distopie del nostro tempo.</p>
+      <p>In un futuro prossimo, così prossimo da apparirci
+      verosimile in maniera preoccupante, il pianeta è un
+      unico grande stato in cui vige la democrazia perfetta. A
+      Globalia non c’è più povertà, non ci
+      sono guerre, c’è totale libertà di opinione.
+      La medicina ha fatto tali progressi che la vita umana sfida i
+      secoli e la tecnologia è talmente progredita che non
+      c’è più nemmeno il brutto tempo. È come
+      se Globalia si fosse isolata dai problemi che affliggono il
+      mondo ordinario. E l’isolamento è concreto, oltre
+      che metaforico, perché i suoi territori sono protetti da
+      gigantesche cupole di vetro che la separano da tutto il
+      resto. Il resto sono le non-zone, i territori che Globalia
+      non ha ritenuto opportuno inglobare e che, lasciati a se
+      stessi e precipitati nel degrado, sono abitati da
+      un’umanità regredita alla barbarie,
+      un’umanità violenta, diffidente, brutale. Nelle
+      non-zone si vive in uno stato di libertà sfrenata. A
+      Globalia tutto è regolamentato, anche la libertà, e
+      tutto secondo quella che è l’ideologia massima: le
+      leggi di mercato. A tenere le fila di un sistema che
+      apparentemente tutela l’individuo, ma in realtà lo
+      controlla in maniera ossessiva, è un ristretto pull di
+      magnati ultracentenari guidati da Ron Altman, da cui
+      dipendono tutte le fonti di energia. A sfidare quella finta
+      perfezione e a cercare di barattare la sicurezza con la
+      responsabilità, l’anestesia etica con il rischio,
+      e il conformismo con la passione, penseranno Baikal e Kate,
+      due fra i pochissimi giovani rimasti in quel mondo popolato
+      da vegliardi, con un avventuroso tentativo di evasione che li
+      porterà a confrontarsi direttamente con Ron Altman in
+      una rocambolesca successione di colpi di scena.</p>
+      <p>**</p>
+    </div>
+  </content>
+  <link href="../author_0/author_132_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Jean-Cristophe Rufin" />
+  <link href="http://www.goodreads.com/book/title/Globalia" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Globalia" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Globalia%20Jean-Cristophe%20Rufin" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Globalia&amp;field-author=Jean-Cristophe%20Rufin" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Jean-Cristophe%20Rufin" type="text/html" rel="related" title="Jean-Cristophe Rufin on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Jean-Cristophe%20Rufin" type="text/html" rel="related" title="Jean-Cristophe Rufin on Wikipedia" />
+  <link href="http://www.librarything.com/author/RufinJean-Cristophe" type="text/html" rel="related" title="Jean-Cristophe Rufin on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Jean-Cristophe%20Rufin" type="text/html" rel="related" title="Jean-Cristophe Rufin on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Jean-Cristophe%20Rufin" type="text/html" rel="related" title="Jean-Cristophe Rufin on ISFDB" />
+</entry>

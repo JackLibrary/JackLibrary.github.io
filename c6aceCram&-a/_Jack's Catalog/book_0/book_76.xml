@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Prima dell'apocalisse</title>
+  <id>urn:book:ae351217-8290-4ffa-901b-737338c4c736</id>
+  <updated>2016-07-17T05:53:19Z</updated>
+  <link href="./book_76.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Prima dell'apocalisse" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <link href="../../Chirstopher%20Galt/Prima%20dell%27apocalisse%20%2876%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Chirstopher%20Galt/Prima%20dell%27apocalisse%20%2876%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Chirstopher%20Galt/Prima%20dell%27apocalisse%20%2876%29/Prima%20dell%27apocalisse%20-%20Chirstopher%20Galt.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="937 KB" />
+  <author>
+    <name>Chirstopher Galt</name>
+    <uri>../author_0/author_61_Page_1.xml</uri>
+  </author>
+  <published>2016-01-19T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Editrice Nord</dcterms:publisher>
+  <category term="ebook" />
+  <category term="General" />
+  <category term="Fiction" />
+  <category term="Thrillers" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      ebook, General, Fiction, Thrillers, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">«Un romanzo
+    eccezionale.»Michael Connelly«Il romanzo che
+    scardinerà tutte le vostre certezze.»Library
+    Journal«Uno dei thriller più originali degli ultimi
+    anni. E il finale vi lascerà a bocca
+    aperta.»Publishers Weekly«Una trama ingegnosa e
+    sorprendente che vi terrà col fiato sospeso fino alla
+    fine. Da non perdere.»Kirkus ReviewsUna scritta enigmatica
+    apparsa all’improvviso in tutto il mondoUna seri di
+    fenomeni inspiegabiliUna catena di morti misterioseIl conto
+    alla rovescia è iniziato...All'inizio erano pochi casi
+    isolati. Poi, però, il fenomeno si è sparso a macchia
+    d'olio e adesso sempre più persone soffrono di
+    allucinazioni improvvise e così vivide da sembrare reali.
+    In Francia, una giovane giura di aver assistito al rogo di
+    Giovanna d'Arco, mentre a Boston l’intera popolazione ha
+    avvertito le scosse di un terremoto che non si è mai
+    verificato. In seguito sono cominciati i suicidi. Uomini e
+    donne che abitavano in luoghi lontani tra loro si sono tolti la
+    vita dopo aver avuto la stessa visione. E infine è
+    comparsa una frase enigmatica, scritta sui muri ovunque nel
+    mondo: Stiamo diventando. Per far fronte a quella che è
+    ormai diventata un'emergenza internazionale, viene istituita
+    una squadra di agenti e scienziati, di cui fa parte anche John
+    Macbeth, esperto psichiatra cognitivo. Ed è proprio lui il
+    primo a intuire che esiste un collegamento tra quegli
+    avvenimenti e John Astor, il misterioso autore di un libro che
+    profetizza la fine del mondo. Possibile che sia lui la causa di
+    tutto? O l’apocalisse è davvero alle porte? Per
+    scoprirlo, Macbeth deve trovare John Astor prima che sia troppo
+    tardi... Originale e dal ritmo serratissimo, Prima
+    dell'apocalisse unisce profondità psicologica ed azione
+    mozzafiato, teorie scientifiche inquietanti e imprevedibili
+    colpi di scena, trascinandoci in un'avventura che
+    scardinerà ogni nostra certezza.</p>
+  </content>
+  <link href="../author_0/author_61_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Chirstopher Galt" />
+  <link href="http://www.goodreads.com/book/title/Prima%20dell%27apocalisse" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Prima%20dell%27apocalisse" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Prima%20dell%27apocalisse%20Chirstopher%20Galt" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Prima%20dell%27apocalisse&amp;field-author=Chirstopher%20Galt" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Chirstopher%20Galt" type="text/html" rel="related" title="Chirstopher Galt on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Chirstopher%20Galt" type="text/html" rel="related" title="Chirstopher Galt on Wikipedia" />
+  <link href="http://www.librarything.com/author/GaltChirstopher" type="text/html" rel="related" title="Chirstopher Galt on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Chirstopher%20Galt" type="text/html" rel="related" title="Chirstopher Galt on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Chirstopher%20Galt" type="text/html" rel="related" title="Chirstopher Galt on ISFDB" />
+</entry>

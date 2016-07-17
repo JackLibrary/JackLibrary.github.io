@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Il Potere della Forza II</title>
+  <id>urn:book:bc0a88dc-9675-46c6-8e6c-887852ed46e4</id>
+  <updated>2016-07-17T05:53:19Z</updated>
+  <link href="./book_78.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Il Potere della Forza II" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_W_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with W" />
+  <link href="../../Sean%20Williams/Il%20Potere%20della%20Forza%20II%20%2878%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Sean%20Williams/Il%20Potere%20della%20Forza%20II%20%2878%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Sean%20Williams/Il%20Potere%20della%20Forza%20II%20%2878%29/Il%20Potere%20della%20Forza%20II%20-%20Sean%20Williams.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+  <author>
+    <name>Sean Williams</name>
+    <uri>../author_0/author_62_Page_1.xml</uri>
+  </author>
+  <published>2013-01-20T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Multiplayer.it</dcterms:publisher>
+  <category term="Fantascienza" />
+  <category term="Star Wars" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Fantascienza, Star Wars, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <span xmlns="" style="font-family: Verdana, Arial, Helvetica, Geneva, sans-serif, Swiss, SunSans-Regular; font-size: 10.6666669845581px; background-color: rgb(255, 255, 255);">Spietato
+    apprendista di Darth Vader, Starkiller è stato addestrato
+    secondo i canoni ferrei e implacabili del Lato Oscuro,
+    incaricato di sterminare gli ultimi membri dell'Ordine dei Jedi
+    sopravvissuti alla Purga e istruito in vista dell'atto
+    conclusivo che coronerà l'ascesa del potere dei Sith:
+    l'assassinio dell'Imperatore. Ha servito senza sollevare
+    obiezioni, ha ucciso senza provare rimorso, si è
+    innamorato perdutamente e inaspettatamente della splendida Juno
+    Eclipse, pilota dell'Impero, senza mai sospettare di essere un
+    semplice strumento nelle trame dei suoi maestri, finché
+    è stato troppo tardi per sottrarsi al loro letale
+    tradimento. Juno piange la morte di Starkiller. ma ora lui
+    è tornato, privato dei suoi ricordi e programmato per
+    uccidere. E mentre il destino si appresta a riunirli, Darth
+    Vader è deciso a non perdere per la seconda volta il suo
+    sicario: starà a loro decidere da quale parte schierarsi.
+    La posta in gioco è la libertà, la punizione per un
+    momento di debolezza sarà l'eterno asservimento al Lato
+    Oscuro della Forza.</span>
+  </content>
+  <link href="../author_0/author_62_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Sean Williams" />
+  <link href="http://www.goodreads.com/book/title/Il%20Potere%20della%20Forza%20II" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Il%20Potere%20della%20Forza%20II" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Il%20Potere%20della%20Forza%20II%20Sean%20Williams" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Il%20Potere%20della%20Forza%20II&amp;field-author=Sean%20Williams" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Sean%20Williams" type="text/html" rel="related" title="Sean Williams on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Sean%20Williams" type="text/html" rel="related" title="Sean Williams on Wikipedia" />
+  <link href="http://www.librarything.com/author/WilliamsSean" type="text/html" rel="related" title="Sean Williams on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Sean%20Williams" type="text/html" rel="related" title="Sean Williams on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Sean%20Williams" type="text/html" rel="related" title="Sean Williams on ISFDB" />
+</entry>

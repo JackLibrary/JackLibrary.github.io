@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Il segno</title>
+  <id>urn:book:28616997-8c8d-4078-a9d9-d4b98002707f</id>
+  <updated>2016-07-17T05:53:51Z</updated>
+  <link href="./book_181.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Il segno" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with L" />
+  <link href="../../Sarah%20Lotz/Il%20segno%20%28181%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Sarah%20Lotz/Il%20segno%20%28181%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Sarah%20Lotz/Il%20segno%20%28181%29/Il%20segno%20-%20Sarah%20Lotz.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+  <author>
+    <name>Sarah Lotz</name>
+    <uri>../author_0/author_125_Page_1.xml</uri>
+  </author>
+  <author>
+    <name>Laura Prandino</name>
+    <uri>../author_0/author_126_Page_1.xml</uri>
+  </author>
+  <published>2015-09-09T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Casa Editrice Nord</dcterms:publisher>
+  <category term="Thrillers &amp; Suspense" />
+  <category term="Italian" />
+  <category term="Thriller &amp; Mystery" />
+  <category term="Thrillers" />
+  <category term="ebook" />
+  <category term="Crime" />
+  <category term="Mystery" />
+  <category term="Foreign Language Fiction" />
+  <category term="Foreign Languages" />
+  <category term="Literature &amp; Fiction" />
+  <category term="Thriller &amp; Suspense" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Thrillers &amp; Suspense, Italian, Thriller &amp; Mystery, Thrillers, ebook, Crime, Mystery, Foreign Language Fiction, Foreign Languages, Literature &amp; Fiction, Thriller &amp; Suspense, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>
+        «
+        <em>Un thriller coinvolgente e raffinato, una scoperta
+      eccezionale.</em>
+        »
+        <br />
+        <strong>The Guardian</strong>
+      </p>
+      <p>
+        «
+        <em>L'autrice trascina il lettore in una storia ambigua e ad
+      altissima tensione. Un romanzo travolgente</em>
+        »
+        <br />
+        <strong>The Indipendent</strong>
+      </p>
+      <p>
+        <strong>
+          Uno è un caso
+          <br />
+          Due sono una coincidenza
+          <br />
+          Tre sono un segno
+        </strong>
+      </p>
+      <p>
+        12 gennaio 2012, il giorno che ha cambiato la Storia. Il
+      giorno in cui quattro aerei di linea si sono schiantati al
+      suolo: in quattro continenti diversi e quasi nello stesso
+      istante. Nessun atto di terrorismo, solo un’assurda,
+      tragica fatalità. O forse no. Perché, contro ogni
+      logica, in tre casi ci sono stati dei superstiti. Tre
+      bambini, usciti senza nemmeno un graffio dai rottami. E ben
+      presto quei bambini sono diventati prima un mistero
+      inspiegabile, poi un enigma inquietante. Nel disastro aereo
+      in Giappone, infatti, un altro passeggero è
+      sopravvissuto all’impatto, sebbene solo per pochi
+      istanti, riuscendo a registrare un messaggio vocale sul
+      cellulare: «Eccoli… Il bambino guarda i morti
+      ossignore quanti sono... Adesso vengono a cercarmi. Presto ce
+      ne andremo tutti… Il bambino, lui non deve…»
+        <br />
+        Sono passati mesi da quel maledetto giorno, eppure i
+      Tre – come sono stati chiamati i bambini superstiti
+      – sono ancora al centro del dibattito mondiale. Per
+      fare luce sul mistero, alla giornalista Elspeth Martins non
+      rimane che raccogliere tutte le informazioni disponibili,
+      comprese le interviste rilasciate nel corso del tempo da chi
+      si è preso cura di loro dopo gli incidenti aerei. E una
+      cosa ben presto risulta chiara. I Tre hanno una forte
+      influenza su chi sta loro vicino. A volte è
+      un’influenza positiva, a volte invece è come se
+      emanassero una forza malefica. E più Elspeth indaga
+      sulla storia dei Tre, più gli interrogativi si
+      accavallano. Chi sono – o cosa sono − davvero
+      quei bambini? Una semplice anomalia statistica? Messaggeri di
+      Dio, inviati sulla terra per uno scopo ancora oscuro? O il
+      Segno premonitore della fine dei tempi?
+      </p>
+      <p>
+        <strong>Molte domande, una sola risposta: questo
+        romanzo.</strong>
+      </p>
+      <p>**</p>
+    </div>
+  </content>
+  <link href="../author_0/author_125_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Sarah Lotz" />
+  <link href="../author_0/author_126_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Laura Prandino" />
+  <link href="http://www.goodreads.com/book/title/Il%20segno" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Il%20segno" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Il%20segno%20Sarah%20Lotz" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Il%20segno&amp;field-author=Sarah%20Lotz" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Sarah%20Lotz" type="text/html" rel="related" title="Sarah Lotz on Goodreads" />
+  <link href="http://www.goodreads.com/book/author/Laura%20Prandino" type="text/html" rel="related" title="Laura Prandino on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Sarah%20Lotz" type="text/html" rel="related" title="Sarah Lotz on Wikipedia" />
+  <link href="http://en.wikipedia.org/wiki/Laura%20Prandino" type="text/html" rel="related" title="Laura Prandino on Wikipedia" />
+  <link href="http://www.librarything.com/author/LotzSarah" type="text/html" rel="related" title="Sarah Lotz on LibraryThing" />
+  <link href="http://www.librarything.com/author/PrandinoLaura" type="text/html" rel="related" title="Laura Prandino on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Sarah%20Lotz" type="text/html" rel="related" title="Sarah Lotz on Amazon" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Laura%20Prandino" type="text/html" rel="related" title="Laura Prandino on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Sarah%20Lotz" type="text/html" rel="related" title="Sarah Lotz on ISFDB" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Laura%20Prandino" type="text/html" rel="related" title="Laura Prandino on ISFDB" />
+</entry>

@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with P</title>
+  <id>Calibre2opds:allbooks:P</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with P" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>Il Paese che amo: Il terzo volume della Trilogia sporca dell’Italia</title>
+    <id>calibre:book:85</id>
+    <updated>2016-07-17T05:53:22Z</updated>
+    <link href="../../Simone%20Sarasso/Il%20Paese%20che%20amo_%20Il%20terzo%20volume%20de%20%2885%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Simone%20Sarasso/Il%20Paese%20che%20amo_%20Il%20terzo%20volume%20de%20%2885%29/Il%20Paese%20che%20amo_%20Il%20terzo%20volu%20-%20Simone%20Sarasso.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="4 MB" />
+    <author>
+      <name>Simone Sarasso</name>
+      <uri>../author_0/author_39_Page_1.xml</uri>
+    </author>
+    <published>2013-09-30T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Marsilio Editori</dcterms:publisher>
+    <category term="Thrillers" />
+    <category term="Espionage" />
+    <category term="Fiction" />
+    <category term="Mystery &amp; Detective" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Dai fasti della Milano da Bere degli anni 80 allo scandalo Tangentopoli, il ritratto spietato e crudele di un Paese senza eroi. Dopo "Confine di Stato" e "Settanta", il terzo e conclusivo volume della Trilogia sporca dell'Italia. Ljuba Marekovna è so...</summary>
+    <link href="../book_0/book_85.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Paradisi perduti</title>
+    <id>calibre:book:83</id>
+    <updated>2016-07-17T05:53:21Z</updated>
+    <link href="../../Ursula%20K.%20le%20Guin/Paradisi%20perduti%20%2883%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ursula%20K.%20le%20Guin/Paradisi%20perduti%20%2883%29/Paradisi%20perduti%20-%20Ursula%20K.%20le%20Guin.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+    <author>
+      <name>Ursula K. le Guin</name>
+      <uri>../author_0/author_65_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>S. Proietti</name>
+      <uri>../author_0/author_66_Page_1.xml</uri>
+    </author>
+    <published>2013-04-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Delos Books</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>Sono passati centoventi anni dalla partenza dalla Terra, e ne mancano ancora più di quaranta all'arrivo a Nuova Terra, il pianeta che, si spera, potrà ospitare la prima colonia umana fuori dal sistema solare. L'astronave è gigantesca. La vita a bordo...</summary>
+    <link href="../book_0/book_83.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Parole di luce</title>
+    <id>calibre:book:82</id>
+    <updated>2016-07-17T05:53:20Z</updated>
+    <link href="../../Brandon%20Sanderson/Parole%20di%20luce%20%2882%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brandon%20Sanderson/Parole%20di%20luce%20%2882%29/Parole%20di%20luce%20-%20Brandon%20Sanderson.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="3 MB" />
+    <author>
+      <name>Brandon Sanderson</name>
+      <uri>../author_0/author_32_Page_1.xml</uri>
+    </author>
+    <published>2014-10-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Al primo posto nella classifica bestseller di The New York Times e Kobo.  Secondo posto nella classifica bestseller di usa Today e Sunday Times.    “Un must per tutti gli appassionati del genere fantasy.” Library Journal    “Il degno seguito di La Vi...</summary>
+    <link href="../book_0/book_82.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Pashazade</title>
+    <id>calibre:book:84</id>
+    <updated>2016-07-17T05:53:21Z</updated>
+    <link href="../../Jon%20Courtenay%20Grimwood/Pashazade%20%2884%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jon%20Courtenay%20Grimwood/Pashazade%20%2884%29/Pashazade%20-%20Jon%20Courtenay%20Grimwood.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Jon Courtenay Grimwood</name>
+      <uri>../author_0/author_67_Page_1.xml</uri>
+    </author>
+    <published>2015-09-22T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Zona 42</dcterms:publisher>
+    <category term="Fantascienza" />
+    <category term="Lang:it" />
+    <summary>Al confine tra oriente ed occidente, El Iskandryia, l'antica Alessandria
+ d'Egitto, è un crocevia di culture e ambizioni: libera città 
+dell'impero ottomano, luogo di intrighi e potere, dove i soldi si 
+mescolano alla tradizione e il valore di un uom...</summary>
+    <link href="../book_0/book_84.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Patient Zero</title>
+    <id>calibre:book:87</id>
+    <updated>2016-07-17T05:53:22Z</updated>
+    <link href="../../Jonathan%20Maberry/Patient%20Zero%20%2887%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jonathan%20Maberry/Patient%20Zero%20%2887%29/Patient%20Zero%20-%20Jonathan%20Maberry.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Jonathan Maberry</name>
+      <uri>../author_0/author_69_Page_1.xml</uri>
+    </author>
+    <published>2015-02-16T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Casini Editore</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>Quando ti trovi a uccidere lo stesso terrorista due volte in una settimana, ci deve essere qualcosa di sbagliato, o in te o nel tuo mondo. E non c’è niente che non vada nelle capacità di Joe Ledger, il detective di Baltimora chiamato a dirigere una n...</summary>
+    <link href="../book_0/book_87.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La Paura del Saggio</title>
+    <id>calibre:book:81</id>
+    <updated>2016-07-17T05:53:20Z</updated>
+    <link href="../../Patrick%20Rothfuss/La%20Paura%20del%20Saggio%20%2881%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Patrick%20Rothfuss/La%20Paura%20del%20Saggio%20%2881%29/La%20Paura%20del%20Saggio%20-%20Patrick%20Rothfuss.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+    <author>
+      <name>Patrick Rothfuss</name>
+      <uri>../author_0/author_64_Page_1.xml</uri>
+    </author>
+    <published>2011-07-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Questa è la storia di un uomo che insegue la verità di una leggenda e strada facendo diventa egli stesso una leggenda. Il giovane Kvothe è ancora alle prese con gli studi all'Accademia e con i suoi esperimenti, ma il carattere, focoso e ribelle quant...</summary>
+    <link href="../book_0/book_81.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Per sempre</title>
+    <id>calibre:book:80</id>
+    <updated>2016-07-17T05:53:20Z</updated>
+    <link href="../../Piergiorgio%20Pulixi/Per%20sempre%20%2880%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Piergiorgio%20Pulixi/Per%20sempre%20%2880%29/Per%20sempre%20-%20Piergiorgio%20Pulixi.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Piergiorgio Pulixi</name>
+      <uri>../author_0/author_20_Page_1.xml</uri>
+    </author>
+    <published>2015-10-21T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Edizioni e/o</dcterms:publisher>
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Mystery" />
+    <category term="Foreign Language Fiction" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Crime" />
+    <category term="Lang:it" />
+    <summary>La paura è più forte dell’amore e l’ispettore Mazzeo l’ha vissuto sulla sua pelle.Per la prima volta il poliziotto è tentato di lasciarsi tutto alle spalle e ricominciare da zero con Nicky, la ragazzina che gli è stata affidata. I suoi nemici non son...</summary>
+    <link href="../book_0/book_80.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Piranha Posizione di tiro</title>
+    <id>calibre:book:79</id>
+    <updated>2016-07-17T05:53:20Z</updated>
+    <link href="../../Michael%20Dimercurio/Piranha%20Posizione%20di%20tiro%20%2879%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michael%20Dimercurio/Piranha%20Posizione%20di%20tiro%20%2879%29/Piranha%20Posizione%20di%20tiro%20-%20Michael%20Dimercurio.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="978 KB" />
+    <author>
+      <name>Michael Dimercurio</name>
+      <uri>../author_0/author_63_Page_1.xml</uri>
+    </author>
+    <published>2005-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Longanesi</dcterms:publisher>
+    <category term="Espionage" />
+    <category term="Fiction" />
+    <category term="Thrillers" />
+    <category term="Lang:it" />
+    <summary>L'Oriente è diviso tra la nuova Cina, sempre più prosperosa, e la vecchia Cina Rossa, retta da guerrafondai che sognano il ritorno al passato. Ma per farlo devono scatenare una nuova offensiva. Così, quando sei sottomarini di fabbricazione giapponese...</summary>
+    <link href="../book_0/book_79.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il Potere della Forza II</title>
+    <id>calibre:book:78</id>
+    <updated>2016-07-17T05:53:19Z</updated>
+    <link href="../../Sean%20Williams/Il%20Potere%20della%20Forza%20II%20%2878%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sean%20Williams/Il%20Potere%20della%20Forza%20II%20%2878%29/Il%20Potere%20della%20Forza%20II%20-%20Sean%20Williams.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Sean Williams</name>
+      <uri>../author_0/author_62_Page_1.xml</uri>
+    </author>
+    <published>2013-01-20T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it</dcterms:publisher>
+    <category term="Fantascienza" />
+    <category term="Star Wars" />
+    <category term="Lang:it" />
+    <summary>Spietato apprendista di Darth Vader, Starkiller è stato addestrato secondo i canoni ferrei e implacabili del Lato Oscuro, incaricato di sterminare gli ultimi membri dell'Ordine dei Jedi sopravvissuti alla Purga e istruito in vista dell'atto conclusiv...</summary>
+    <link href="../book_0/book_78.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il Potere della Forza</title>
+    <id>calibre:book:77</id>
+    <updated>2016-07-17T05:53:19Z</updated>
+    <link href="../../Sean%20Williams/Il%20Potere%20della%20Forza%20%2877%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sean%20Williams/Il%20Potere%20della%20Forza%20%2877%29/Il%20Potere%20della%20Forza%20-%20Sean%20Williams.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="987 KB" />
+    <author>
+      <name>Sean Williams</name>
+      <uri>../author_0/author_62_Page_1.xml</uri>
+    </author>
+    <published>2013-01-17T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it</dcterms:publisher>
+    <category term="Fantascienza" />
+    <category term="Star Wars" />
+    <category term="Lang:it" />
+    <summary>L'universo prodotto da George Lucas è più vivo che mai e continua ad ispirare anche il mondo dei videogiochi e la letteratura che lo accompagna. "Star Wars. Il potere della Forza", scritto da Sean Williams e basato sulla sceneggiatura di Haden Blakma...</summary>
+    <link href="../book_0/book_77.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Potere esecutivo</title>
+    <id>calibre:book:75</id>
+    <updated>2016-07-17T05:53:18Z</updated>
+    <link href="../../Tom%20Clancy/Potere%20esecutivo%20%2875%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Tom%20Clancy/Potere%20esecutivo%20%2875%29/Potere%20esecutivo%20-%20Tom%20Clancy.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+    <author>
+      <name>Tom Clancy</name>
+      <uri>../author_0/author_60_Page_1.xml</uri>
+    </author>
+    <published>2012-08-17T09:54:53Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>bandinotto</dcterms:publisher>
+    <category term="narrativa" />
+    <category term="Thriller" />
+    <category term="Lang:it" />
+    <summary>Un jumbo jet giapponese kamikaze ha appena distrutto il Campidoglio a Washingtonuccidendo il Presidente degli Stati Uniti d'America, ministri e deputati del Congresso, i membri della Corte Suprema, i capi dell'esercito, dell'aviazione e della marina....</summary>
+    <link href="../book_0/book_75.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Prima dell'apocalisse</title>
+    <id>calibre:book:76</id>
+    <updated>2016-07-17T05:53:19Z</updated>
+    <link href="../../Chirstopher%20Galt/Prima%20dell%27apocalisse%20%2876%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Chirstopher%20Galt/Prima%20dell%27apocalisse%20%2876%29/Prima%20dell%27apocalisse%20-%20Chirstopher%20Galt.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="937 KB" />
+    <author>
+      <name>Chirstopher Galt</name>
+      <uri>../author_0/author_61_Page_1.xml</uri>
+    </author>
+    <published>2016-01-19T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Editrice Nord</dcterms:publisher>
+    <category term="ebook" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Thrillers" />
+    <category term="Lang:it" />
+    <summary>«Un romanzo eccezionale.»Michael Connelly«Il romanzo che scardinerà tutte le vostre certezze.»Library Journal«Uno dei thriller più originali degli ultimi anni. E il finale vi lascerà a bocca aperta.»Publishers Weekly«Una trama ingegnosa e sorprendent...</summary>
+    <link href="../book_0/book_76.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Prima di dirti addio</title>
+    <id>calibre:book:72</id>
+    <updated>2016-07-17T05:53:17Z</updated>
+    <link href="../../Piergiorgio%20Pulixi/Prima%20di%20dirti%20addio%20%2872%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Piergiorgio%20Pulixi/Prima%20di%20dirti%20addio%20%2872%29/Prima%20di%20dirti%20addio%20-%20Piergiorgio%20Pulixi.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Piergiorgio Pulixi</name>
+      <uri>../author_0/author_20_Page_1.xml</uri>
+    </author>
+    <published>2016-05-18T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Edizioni e/o</dcterms:publisher>
+    <category term="Crime" />
+    <category term="Foreign Language Fiction" />
+    <category term="Mystery" />
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Hard-Boiled" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Foreign Languages" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Crime Fiction" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Lang:it" />
+    <summary>Nulla è per sempre. A parte il rimpianto e la vendetta. Mazzeo è stato trascinato all’inferno dai suoi errori e dai suoi nemici e ora è rimasto solo. Anche i suoi uomini l’hanno abbandonato. Ma prima dell’addio c’è un conto che deve saldare. Vatslava...</summary>
+    <link href="../book_0/book_72.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il potere del cane</title>
+    <id>calibre:book:187</id>
+    <updated>2016-07-17T05:53:52Z</updated>
+    <link href="../../Don%20Winslow/Il%20potere%20del%20cane%20%28187%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Don%20Winslow/Il%20potere%20del%20cane%20%28187%29/Il%20potere%20del%20cane%20-%20Don%20Winslow.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="983 KB" />
+    <author>
+      <name>Don Winslow</name>
+      <uri>../author_0/author_43_Page_1.xml</uri>
+    </author>
+    <published>2014-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Einaudi</dcterms:publisher>
+    <category term="Mystery &amp; Detective" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>Art Keller è un poliziotto ambizioso, con una mentalità da crociato, deciso a combattere in prima fila la guerra che gli Stati Uniti hanno lanciato contro il traffico internazionale di droga. Miguel Angel Barrera è il boss della Federación, il cartel...</summary>
+    <link href="../book_0/book_187.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il prefetto</title>
+    <id>calibre:book:73</id>
+    <updated>2016-07-17T05:53:18Z</updated>
+    <link href="../../Alastair%20Reynolds/Il%20prefetto%20%2873%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alastair%20Reynolds/Il%20prefetto%20%2873%29/Il%20prefetto%20-%20Alastair%20Reynolds.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Alastair Reynolds</name>
+      <uri>../author_0/author_47_Page_1.xml</uri>
+    </author>
+    <published>2013-07-24T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Science Fiction" />
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Fantasy" />
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Lang:it" />
+    <summary>Tom Dreyfus è un prefetto, uno dei migliori. La sua forza è Panoply, il corpo di polizia per cui lavora, e il suo battito è la vita complessa e pulsante della Fascia splendente, un anello di asteroidi spaziali di diecimila habitat umani che orbitano ...</summary>
+    <link href="../book_0/book_73.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La principessa e la regina. E altre storie di donne pericolose</title>
+    <id>calibre:book:71</id>
+    <updated>2016-07-17T05:53:17Z</updated>
+    <link href="../../George%20R.%20R.%20Martin/La%20principessa%20e%20la%20regina.%20E%20altre%20%2871%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../George%20R.%20R.%20Martin/La%20principessa%20e%20la%20regina.%20E%20altre%20%2871%29/La%20principessa%20e%20la%20regina.%20E%20a%20-%20George%20R.%20R.%20Martin.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="658 KB" />
+    <author>
+      <name>George R. R. Martin</name>
+      <uri>../author_0/author_26_Page_1.xml</uri>
+    </author>
+    <published>2015-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="Lang:it" />
+    <link href="../book_0/book_71.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il programma. Virtnet Runner. The mortality doctrine</title>
+    <id>calibre:book:74</id>
+    <updated>2016-07-17T05:53:18Z</updated>
+    <link href="../../James%20Dashner/Il%20programma.%20Virtnet%20Runner.%20The%20mo%20%2874%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../James%20Dashner/Il%20programma.%20Virtnet%20Runner.%20The%20mo%20%2874%29/Il%20programma.%20Virtnet%20Runner.%20T%20-%20James%20Dashner.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="597 KB" />
+    <author>
+      <name>James Dashner</name>
+      <uri>../author_0/author_12_Page_1.xml</uri>
+    </author>
+    <published>2015-02-15T00:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Sopravvissuto alle insidie disseminate lungo il Sentiero, Michael ha finalmente davanti agli occhi la vera faccia della realtà, una presa di coscienza che ha sconvolto quello che credeva di sapere della sua stessa vita e del mondo. È vivo per miracol...</summary>
+    <link href="../book_0/book_74.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il protocollo ombra</title>
+    <id>calibre:book:70</id>
+    <updated>2016-07-17T05:53:17Z</updated>
+    <link href="../../Kazuaki%20Takano/Il%20protocollo%20ombra%20%2870%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Kazuaki%20Takano/Il%20protocollo%20ombra%20%2870%29/Il%20protocollo%20ombra%20-%20Kazuaki%20Takano.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Kazuaki Takano</name>
+      <uri>../author_0/author_59_Page_1.xml</uri>
+    </author>
+    <published>2015-06-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Garzanti Libri</dcterms:publisher>
+    <category term="Thrillers" />
+    <category term="Fiction" />
+    <category term="Suspense" />
+    <category term="Lang:it" />
+    <link href="../book_0/book_70.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

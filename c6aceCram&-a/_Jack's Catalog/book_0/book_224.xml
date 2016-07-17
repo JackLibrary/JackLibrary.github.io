@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Enea</title>
+  <id>urn:book:8d7da195-6b2f-4b89-9230-0c6fe584cc4f</id>
+  <updated>2016-07-17T05:54:02Z</updated>
+  <link href="./book_224.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Enea" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../../Simone%20Sarasso/Enea%20%28224%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Simone%20Sarasso/Enea%20%28224%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Simone%20Sarasso/Enea%20%28224%29/Enea%20-%20Simone%20Sarasso.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+  <author>
+    <name>Simone Sarasso</name>
+    <uri>../author_0/author_39_Page_1.xml</uri>
+  </author>
+  <published>2015-05-28T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Rizzoli</dcterms:publisher>
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">CHI ERA ÆNEAS PRIMA DI DIVENTARE LEGGENDA? Per generare
+    quel figlio dagli occhi color del mare, la divina Afrodite non
+    ha disdegnato le grazie di un comune mortale, lo spiantato
+    Anchise. Ma nonostante i natali, la strada del piccolo
+    Æneas inizia in salita. Abbandonato dalla madre e allevato
+    dalle ninfe, si fa uomo con il duro addestramento di un
+    centauro: non sa che nelle sue vene scorre il sangue di una dea
+    e del fondatore di Troia. E, prima di essere riconosciuto come
+    nipote da re Priamo, è la ferocia selvaggia del misterioso
+    Alessandro a insegnargli la violenza. L’amore, quello
+    arriva dopo, a corte, e ha le lentiggini dorate della dolce
+    Creusa. Ma sull’Olimpo qualcuno ha già scelto per
+    lui: Æneas non è destinato a una vita umile da
+    pastore. È un principe guerriero, e il suo futuro
+    sarà luminoso, così è scritto nelle stelle. E se
+    a Sparta non riesce a evitare che Paride compia il maledetto
+    ratto della bellissima Elena e scoppi la guerra tra le guerre,
+    quando a Troia divampano le fiamme, Æneas scopre sulla sua
+    pelle che al Fato non si può che obbedire. Simone Sarasso
+    ci guida in uno straordinario viaggio attraverso il mito,
+    svelandoci per la prima volta il dietro le quinte del
+    capolavoro virgiliano: un romanzo unico, la storia che ha fatto
+    di un uomo un eroe.</p>
+  </content>
+  <link href="../author_0/author_39_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Simone Sarasso" />
+  <link href="http://www.goodreads.com/book/title/Enea" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Enea" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Enea%20Simone%20Sarasso" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Enea&amp;field-author=Simone%20Sarasso" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Simone%20Sarasso" type="text/html" rel="related" title="Simone Sarasso on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Simone%20Sarasso" type="text/html" rel="related" title="Simone Sarasso on Wikipedia" />
+  <link href="http://www.librarything.com/author/SarassoSimone" type="text/html" rel="related" title="Simone Sarasso on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Simone%20Sarasso" type="text/html" rel="related" title="Simone Sarasso on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Simone%20Sarasso" type="text/html" rel="related" title="Simone Sarasso on ISFDB" />
+</entry>

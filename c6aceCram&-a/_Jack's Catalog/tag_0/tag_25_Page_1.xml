@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Foreign Languages</title>
+  <id>Calibre2opds:taglist:F:25</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tag_25_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Foreign Languages" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with F" />
+  <link href="../tag_0/tag_25_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 2)" />
+  <entry>
+    <title>I 500</title>
+    <id>calibre:book:11</id>
+    <updated>2016-07-17T05:52:58Z</updated>
+    <link href="../../Matthew%20Quirk/i%20500%20%2811%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Matthew%20Quirk/i%20500%20%2811%29/i%20500%20-%20Matthew%20Quirk.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Matthew Quirk</name>
+      <uri>../author_0/author_11_Page_1.xml</uri>
+    </author>
+    <published>2012-10-15T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Sperling &amp; Kupfer</dcterms:publisher>
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Thrillers" />
+    <category term="Crime" />
+    <category term="Mystery" />
+    <category term="Foreign Language Fiction" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Lang:it" />
+    <summary>Un anno fa, fresco di laurea in legge a Harvard, Mike Ford ha ottenuto il posto di lavoro che ha sempre sognato: è stato assunto al Davies Group, lo studio di consulenza più influente di Washington. Oggi si ritrova al centro di un gioco mortale, inse...</summary>
+    <link href="../book_0/book_11.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Target America</title>
+    <id>calibre:book:36</id>
+    <updated>2016-07-17T05:53:06Z</updated>
+    <link href="../../Scott%20McEwen/Target%20America%20%2836%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Scott%20McEwen/Target%20America%20%2836%29/Target%20America%20-%20Scott%20McEwen.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="628 KB" />
+    <author>
+      <name>Scott McEwen</name>
+      <uri>../author_0/author_29_Page_1.xml</uri>
+    </author>
+    <published>2016-06-27T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Genre Fiction" />
+    <category term="War" />
+    <category term="Lang:it" />
+    <summary>Non è propriamente uno scherzo da ragazzi costruire un tunnel fra lo Stato di Chihuahua, in Messico, e il Nuovo Messico, negli Stati Uniti. Soprattutto se il passaggio corre trenta metri sottoterra, misura più di 900 metri, con luci a incandescenza, ...</summary>
+    <link href="../book_0/book_36.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>SNIPER ELITE</title>
+    <id>calibre:book:47</id>
+    <updated>2016-07-17T05:53:10Z</updated>
+    <link href="../../Scott%20McEwen/SNIPER%20ELITE%20%2847%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Scott%20McEwen/SNIPER%20ELITE%20%2847%29/SNIPER%20ELITE%20-%20Scott%20McEwen.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="555 KB" />
+    <author>
+      <name>Scott McEwen</name>
+      <uri>../author_0/author_29_Page_1.xml</uri>
+    </author>
+    <published>2015-09-28T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Genre Fiction" />
+    <category term="War" />
+    <category term="Lang:it" />
+    <summary>Sandra Brux è la prima donna a far parte dei Night Stalkers, il gruppo di piloti d'élite del SOAR, Reggimento Speciale per le Operazioni Aeree.
+È alla guida di un elicottero durante una missione nei cieli afghani quando lei e i suoi commilitoni cadon...</summary>
+    <link href="../book_0/book_47.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il rosso di Marte</title>
+    <id>calibre:book:54</id>
+    <updated>2016-07-17T05:53:12Z</updated>
+    <link href="../../Kim%20Stanley%20Robinson/Il%20rosso%20di%20Marte%20%2854%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Kim%20Stanley%20Robinson/Il%20rosso%20di%20Marte%20%2854%29/Il%20rosso%20di%20Marte%20-%20Kim%20Stanley%20Robinson.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="985 KB" />
+    <author>
+      <name>Kim Stanley Robinson</name>
+      <uri>../author_0/author_44_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Maurizio Carità</name>
+      <uri>../author_0/author_45_Page_1.xml</uri>
+    </author>
+    <published>2016-05-04T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Hard Science Fiction" />
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Science Fiction" />
+    <category term="Foreign Language Fiction" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Space Opera" />
+    <category term="Italian" />
+    <category term="Lang:it" />
+    <summary>Per secoli, le aride e desolate lande del pianeta rosso, sferzate da tempeste di sterile sabbia, hanno rappresentato per il genere umano la nuova frontiera della conquista interplanetaria. Ora, nell’anno 2026, un gruppo di cento coloni è pronto a com...</summary>
+    <link href="../book_0/book_54.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sbirritudine: Un poliziotto dentro la mafia più feroce. Una storia vera.</title>
+    <id>calibre:book:55</id>
+    <updated>2016-07-17T05:53:12Z</updated>
+    <link href="../../Giorgio%20Glaviano/Sbirritudine_%20Un%20poliziotto%20dentro%20l%20%2855%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Giorgio%20Glaviano/Sbirritudine_%20Un%20poliziotto%20dentro%20l%20%2855%29/Sbirritudine_%20Un%20poliziotto%20den%20-%20Giorgio%20Glaviano.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="790 KB" />
+    <author>
+      <name>Giorgio Glaviano</name>
+      <uri>../author_0/author_46_Page_1.xml</uri>
+    </author>
+    <published>2015-05-20T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Rizzoli</dcterms:publisher>
+    <category term="Crime" />
+    <category term="Mystery" />
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Foreign Languages" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Thrillers" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Lang:it" />
+    <summary>UN UOMO CHE HA SCELTO DI RISCHIARE TUTTO IN NOME DELLA GIUSTIZIA. UN THRILLER ISPIRATO A FATTI REALMENTE ACCADUTI.  Conosce le loro regole, ma non è uno di loro. Sopporta notti insonni e lunghi appostamenti, inseguendo segreti antichi come l’Italia. ...</summary>
+    <link href="../book_0/book_55.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il Ritmatista</title>
+    <id>calibre:book:58</id>
+    <updated>2016-07-17T05:53:13Z</updated>
+    <link href="../../Brandon%20Sanderson/Il%20Ritmatista%20%2858%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brandon%20Sanderson/Il%20Ritmatista%20%2858%29/Il%20Ritmatista%20-%20Brandon%20Sanderson.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Brandon Sanderson</name>
+      <uri>../author_0/author_32_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Gabriele Giorgi</name>
+      <uri>../author_0/author_48_Page_1.xml</uri>
+    </author>
+    <published>2016-05-11T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Paranormal &amp; Urban" />
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Fantasy" />
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Lang:it" />
+    <summary>Joel ha da sempre una passione per la Ritmatica, la disciplina che consente di infondere vita in entità bidimensionali, semplici linee tracciate con il gesso, e creare creature indipendenti e autonome, i gesseri, in grado di interagire con ciò che li...</summary>
+    <link href="../book_0/book_58.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il quarto uomo</title>
+    <id>calibre:book:67</id>
+    <updated>2016-07-17T05:53:16Z</updated>
+    <link href="../../Frank%20Schatzing/Il%20quarto%20uomo%20%2867%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Frank%20Schatzing/Il%20quarto%20uomo%20%2867%29/Il%20quarto%20uomo%20-%20Frank%20Schatzing.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="850 KB" />
+    <author>
+      <name>Frank Schätzing</name>
+      <uri>../author_0/author_53_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Lucia Ferrantini</name>
+      <uri>../author_0/author_54_Page_1.xml</uri>
+    </author>
+    <published>2015-10-07T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Casa Editrice Nord</dcterms:publisher>
+    <category term="Crime" />
+    <category term="Mystery" />
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Foreign Languages" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Thrillers" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Lang:it" />
+    <summary>Kuwait, 1991. Una scatola piena di diamanti tra le macerie di un convoglio saltato in aria. Per uno come lui, che da anni combatte come mercenario, è un sogno diventato realtà. Presto lui e i suoi due compagni potranno farla finita con quella vita. A...</summary>
+    <link href="../book_0/book_67.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La ragazza che sapeva troppo</title>
+    <id>calibre:book:68</id>
+    <updated>2016-07-17T05:53:16Z</updated>
+    <link href="../../M.%20R.%20Carey/La%20ragazza%20che%20sapeva%20troppo%20%2868%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../M.%20R.%20Carey/La%20ragazza%20che%20sapeva%20troppo%20%2868%29/La%20ragazza%20che%20sapeva%20troppo%20-%20M.%20R.%20Carey.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="811 KB" />
+    <author>
+      <name>M. R. Carey</name>
+      <uri>../author_0/author_55_Page_1.xml</uri>
+    </author>
+    <published>2015-03-26T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Newton Compton Editori</dcterms:publisher>
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Thrillers" />
+    <category term="Crime" />
+    <category term="Mystery" />
+    <category term="Foreign Language Fiction" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Lang:it" />
+    <summary>«Un capolavoro.»The Sun   «Originale, avvincente, potente.»The Guardian«Accattivante, travolgente, commovente.»VogueMelanie, dieci anni e un quoziente intellettivo altissimo, ogni mattina aspetta paziente nella stanza dove vive chiusa a chiave che la...</summary>
+    <link href="../book_0/book_68.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Quei diavoli di derivati (Cultura &amp; Società) (Italian Edition)</title>
+    <id>calibre:book:69</id>
+    <updated>2016-07-17T05:53:17Z</updated>
+    <link href="../../Nicholas%20Dunbar/Quei%20diavoli%20di%20derivati%20%28Cultura%20%26%20%2869%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Nicholas%20Dunbar/Quei%20diavoli%20di%20derivati%20%28Cultura%20%26%20%2869%29/Quei%20diavoli%20di%20derivati%20%28Cultu%20-%20Nicholas%20Dunbar.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="826 KB" />
+    <author>
+      <name>Nicholas Dunbar</name>
+      <uri>../author_0/author_56_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>G. Chizzoli</name>
+      <uri>../author_0/author_57_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>R. Merlini</name>
+      <uri>../author_0/author_58_Page_1.xml</uri>
+    </author>
+    <published>2011-10-26T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Egea</dcterms:publisher>
+    <category term="Banks &amp; Banking" />
+    <category term="Industries" />
+    <category term="Business &amp; Economics" />
+    <category term="Economics" />
+    <category term="Business &amp; Money" />
+    <category term="Investing" />
+    <category term="Italian" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>La storia segreta delle innovazioni finanziarie e di come le banche dŐinvestimento abbiano inventato nuovi prodotti, di come gli investitori siano stati corteggiati e blanditi perch acquistassero questi nuovi prodotti; di come le autorit che avrebber...</summary>
+    <link href="../book_0/book_69.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Prima di dirti addio</title>
+    <id>calibre:book:72</id>
+    <updated>2016-07-17T05:53:17Z</updated>
+    <link href="../../Piergiorgio%20Pulixi/Prima%20di%20dirti%20addio%20%2872%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Piergiorgio%20Pulixi/Prima%20di%20dirti%20addio%20%2872%29/Prima%20di%20dirti%20addio%20-%20Piergiorgio%20Pulixi.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Piergiorgio Pulixi</name>
+      <uri>../author_0/author_20_Page_1.xml</uri>
+    </author>
+    <published>2016-05-18T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Edizioni e/o</dcterms:publisher>
+    <category term="Crime" />
+    <category term="Foreign Language Fiction" />
+    <category term="Mystery" />
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Hard-Boiled" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Foreign Languages" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Crime Fiction" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Lang:it" />
+    <summary>Nulla è per sempre. A parte il rimpianto e la vendetta. Mazzeo è stato trascinato all’inferno dai suoi errori e dai suoi nemici e ora è rimasto solo. Anche i suoi uomini l’hanno abbandonato. Ma prima dell’addio c’è un conto che deve saldare. Vatslava...</summary>
+    <link href="../book_0/book_72.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il prefetto</title>
+    <id>calibre:book:73</id>
+    <updated>2016-07-17T05:53:18Z</updated>
+    <link href="../../Alastair%20Reynolds/Il%20prefetto%20%2873%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alastair%20Reynolds/Il%20prefetto%20%2873%29/Il%20prefetto%20-%20Alastair%20Reynolds.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Alastair Reynolds</name>
+      <uri>../author_0/author_47_Page_1.xml</uri>
+    </author>
+    <published>2013-07-24T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Science Fiction" />
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Fantasy" />
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Lang:it" />
+    <summary>Tom Dreyfus è un prefetto, uno dei migliori. La sua forza è Panoply, il corpo di polizia per cui lavora, e il suo battito è la vita complessa e pulsante della Fascia splendente, un anello di asteroidi spaziali di diecimila habitat umani che orbitano ...</summary>
+    <link href="../book_0/book_73.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Per sempre</title>
+    <id>calibre:book:80</id>
+    <updated>2016-07-17T05:53:20Z</updated>
+    <link href="../../Piergiorgio%20Pulixi/Per%20sempre%20%2880%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Piergiorgio%20Pulixi/Per%20sempre%20%2880%29/Per%20sempre%20-%20Piergiorgio%20Pulixi.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Piergiorgio Pulixi</name>
+      <uri>../author_0/author_20_Page_1.xml</uri>
+    </author>
+    <published>2015-10-21T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Edizioni e/o</dcterms:publisher>
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Mystery" />
+    <category term="Foreign Language Fiction" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Crime" />
+    <category term="Lang:it" />
+    <summary>La paura è più forte dell’amore e l’ispettore Mazzeo l’ha vissuto sulla sua pelle.Per la prima volta il poliziotto è tentato di lasciarsi tutto alle spalle e ricominciare da zero con Nicky, la ragazzina che gli è stata affidata. I suoi nemici non son...</summary>
+    <link href="../book_0/book_80.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Omega Days</title>
+    <id>calibre:book:89</id>
+    <updated>2016-07-17T05:53:23Z</updated>
+    <link href="../../John%20L.%20Campbell/Omega%20Days%20%2889%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../John%20L.%20Campbell/Omega%20Days%20%2889%29/Omega%20Days%20-%20John%20L.%20Campbell.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="563 KB" />
+    <author>
+      <name>John L. Campbell</name>
+      <uri>../author_0/author_71_Page_1.xml</uri>
+    </author>
+    <published>2016-04-04T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Horror" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Genre Fiction" />
+    <category term="Fantasy" />
+    <category term="Lang:it" />
+    <summary>San Francisco. Padre Xavier Church ha passato la vita tra i diseredati della città, e ne ha viste di ogni sorta. Ma nulla di ciò che ha incontrato è paragonabile all'orrore cui si trova davanti: l'immondo pasto di una suora zombie che azzanna il volt...</summary>
+    <link href="../book_0/book_89.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'Occhio di Dio</title>
+    <id>calibre:book:90</id>
+    <updated>2016-07-17T05:53:23Z</updated>
+    <link href="../../Barry%20Eisler/L%27Occhio%20di%20Dio%20%2890%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Barry%20Eisler/L%27Occhio%20di%20Dio%20%2890%29/L%27Occhio%20di%20Dio%20-%20Barry%20Eisler.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="584 KB" />
+    <author>
+      <name>Barry Eisler</name>
+      <uri>../author_0/author_72_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Francesca Cosi</name>
+      <uri>../author_0/author_73_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Alessandra Reposi</name>
+      <uri>../author_0/author_74_Page_1.xml</uri>
+    </author>
+    <published>2016-05-12T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Spies &amp; Politics" />
+    <category term="Crime" />
+    <category term="Foreign Language Fiction" />
+    <category term="Mystery" />
+    <category term="Espionage" />
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Thriller" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Action &amp; Adventure" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Thrillers" />
+    <category term="Italian" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>Il direttore dell’NSA Theodore Anders ha un solo obiettivo: intercettare ogni telefonata, email e messaggio diffuso tramite Internet. Sa che la sorveglianza totale è l’unico modo per proteggere l’America.   A Evelyn Gallagher non importa granché. Vuo...</summary>
+    <link href="../book_0/book_90.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Nessuno scompare davvero</title>
+    <id>calibre:book:96</id>
+    <updated>2016-07-17T05:53:25Z</updated>
+    <link href="../../Catherine%20Lacey/Nessuno%20scompare%20davvero%20%2896%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Catherine%20Lacey/Nessuno%20scompare%20davvero%20%2896%29/Nessuno%20scompare%20davvero%20-%20Catherine%20Lacey.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="379 KB" />
+    <author>
+      <name>Catherine Lacey</name>
+      <uri>../author_0/author_77_Page_1.xml</uri>
+    </author>
+    <published>2016-02-10T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>SUR</dcterms:publisher>
+    <category term="Contemporary Fiction" />
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>Elyria, 28 anni, ha un lavoro stabile e un marito a New York: ma un giorno, senza dare spiegazioni, molla tutto e parte con un volo di sola andata per la Nuova Zelanda. Passerà mesi a vagare in autostop fra le campagne di quel paese sconosciuto, incr...</summary>
+    <link href="../book_0/book_96.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>NOS4A2: Ritorno a Christmasland</title>
+    <id>calibre:book:97</id>
+    <updated>2016-07-17T05:53:25Z</updated>
+    <link href="../../Joe%20Hill/NOS4A2_%20Ritorno%20a%20Christmasland%20%2897%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Joe%20Hill/NOS4A2_%20Ritorno%20a%20Christmasland%20%2897%29/NOS4A2_%20Ritorno%20a%20Christmasland%20-%20Joe%20Hill.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Joe Hill</name>
+      <uri>../author_0/author_78_Page_1.xml</uri>
+    </author>
+    <published>2014-10-24T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Sperling &amp; Kupfer</dcterms:publisher>
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Horror" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Genre Fiction" />
+    <category term="Fantasy" />
+    <category term="Lang:it" />
+    <summary>Victoria McQueen ha la stupefacente capacità di trovare le cose: un braccialetto smarrito, una foto persa, risposte a interrogativi che non hanno soluzione. Quando passa con la sua bicicletta sul vecchio e traballante ponte coperto nei boschi dietro ...</summary>
+    <link href="../book_0/book_97.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Mistborn. Il pozzo dell'ascensione</title>
+    <id>calibre:book:103</id>
+    <updated>2016-07-17T05:53:27Z</updated>
+    <link href="../../Brandon%20Sanderson/Mistborn.%20Il%20pozzo%20dell%27ascensione%20%28103%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brandon%20Sanderson/Mistborn.%20Il%20pozzo%20dell%27ascensione%20%28103%29/Mistborn.%20Il%20pozzo%20dell%27ascensi%20-%20Brandon%20Sanderson.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Brandon Sanderson</name>
+      <uri>../author_0/author_32_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Gabriele Giorgi</name>
+      <uri>../author_0/author_48_Page_1.xml</uri>
+    </author>
+    <published>2013-04-03T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+    <category term="Italian" />
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Epic" />
+    <category term="Fantasy" />
+    <category term="Foreign Language Fiction" />
+    <category term="Mistborn-Il Pozzo dell'Ascensione" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Lang:it" />
+    <summary>È passato un anno da quando il lord Reggente è stato ucciso. L’Ultimo Impero è andato in frantumi, e le Dominazioni sono ora reclamate da tiranni. Luthadel, che un tempo era stata la capitale, è governata da Elend Venture, che ha posto nei ruoli chia...</summary>
+    <link href="../book_0/book_103.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>I mercanti dell'Apocalisse</title>
+    <id>calibre:book:114</id>
+    <updated>2016-07-17T05:53:30Z</updated>
+    <link href="../../L.%20K.%20Brass/I%20mercanti%20dell%27Apocalisse%20%28114%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../L.%20K.%20Brass/I%20mercanti%20dell%27Apocalisse%20%28114%29/I%20mercanti%20dell%27Apocalisse%20-%20L.%20K.%20Brass.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="561 KB" />
+    <author>
+      <name>L. K. Brass</name>
+      <uri>../author_0/author_87_Page_1.xml</uri>
+    </author>
+    <published>2016-03-15T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Giunti</dcterms:publisher>
+    <category term="Literature &amp; Fiction" />
+    <category term="Crime" />
+    <category term="International Mystery &amp; Crime" />
+    <category term="Mystery" />
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Foreign Languages" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Thrillers" />
+    <category term="Political" />
+    <category term="Spies &amp; Politics" />
+    <category term="Lang:it" />
+    <summary>Daniel, geniale matematico, ha raggiunto il successo e tutto ciò che un uomo può desiderare, ma una breve telefonata cambierà la sua vita per sempre. Una terribile sciagura aerea e un attentato da cui si salva quasi per miracolo gli fanno capire di e...</summary>
+    <link href="../book_0/book_114.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il manuale dello stagista killer. L'avversario più letale</title>
+    <id>calibre:book:119</id>
+    <updated>2016-07-17T05:53:31Z</updated>
+    <link href="../../Shane%20Kuhn/Il%20manuale%20dello%20stagista%20killer.%20L%20%28119%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Shane%20Kuhn/Il%20manuale%20dello%20stagista%20killer.%20L%20%28119%29/Il%20manuale%20dello%20stagista%20kille%20-%20Shane%20Kuhn.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="440 KB" />
+    <author>
+      <name>Shane Kuhn</name>
+      <uri>../author_0/author_90_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Valentina Rossini</name>
+      <uri>../author_0/author_91_Page_1.xml</uri>
+    </author>
+    <published>2016-06-01T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Timecrime</dcterms:publisher>
+    <category term="Crime" />
+    <category term="Foreign Language Fiction" />
+    <category term="Mystery" />
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Thrillers" />
+    <category term="Italian" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>La Risorse Umane s.r.l. è un’agenzia di collocamento che, sotto copertura, addestra giovani sicari a infiltrarsi nelle multinazionali in veste di stagisti. Il loro scopo è eliminare bersagli di alto profilo, e John Lago, uno dei killer più letali al ...</summary>
+    <link href="../book_0/book_119.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>London Underground: Le indagini di Neal Carey (Einaudi. Stile libero big) (Italian Edition)</title>
+    <id>calibre:book:128</id>
+    <updated>2016-07-17T05:53:34Z</updated>
+    <link href="../../Don%20Winslow/London%20Underground_%20Le%20indagini%20di%20%28128%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Don%20Winslow/London%20Underground_%20Le%20indagini%20di%20%28128%29/London%20Underground_%20Le%20indagini%20-%20Don%20Winslow.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="652 KB" />
+    <author>
+      <name>Don Winslow</name>
+      <uri>../author_0/author_43_Page_1.xml</uri>
+    </author>
+    <published>2016-04-25T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Einaudi</dcterms:publisher>
+    <category term="Crime" />
+    <category term="Mystery" />
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Foreign Languages" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Thrillers" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Lang:it" />
+    <summary>Neal Carey era un ragazzino che viveva di espedienti nel West Side di New York quando Joe Graham lo ha scoperto e lo ha affiliato a una misteriosa agenzia del New England, gli Amici di Famiglia, che per i suoi facoltosi clienti è disposta a fare di t...</summary>
+    <link href="../book_0/book_128.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il libro che i servizi segreti italiani non ti farebbero mai leggere</title>
+    <id>calibre:book:136</id>
+    <updated>2016-07-17T05:53:37Z</updated>
+    <link href="../../Gianni%20Flamini/Il%20libro%20che%20i%20servizi%20segreti%20ital%20%28136%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gianni%20Flamini/Il%20libro%20che%20i%20servizi%20segreti%20ital%20%28136%29/Il%20libro%20che%20i%20servizi%20segreti%20-%20Gianni%20Flamini.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Gianni Flamini</name>
+      <uri>../author_0/author_102_Page_1.xml</uri>
+    </author>
+    <published>2013-05-29T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Newton Compton Editori</dcterms:publisher>
+    <category term="Europe" />
+    <category term="Italian" />
+    <category term="Italy" />
+    <category term="Diaries &amp; True Accounts" />
+    <category term="History" />
+    <category term="Biographies" />
+    <category term="Saggistica" />
+    <category term="Biographies &amp; Memoirs" />
+    <category term="True Crime" />
+    <category term="Espionage" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>Spie, misteri irrisolti e spari nel buio  
+Equivoci e oscuri accordi tra politica, economia e ambienti religiosi, ambigui compromessi, schedature illegali: i servizi segreti italiani sono stati anche questo, dal dopoguerra fino ai giorni nostri. Fosc...</summary>
+    <link href="../book_0/book_136.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La Torre Nera</title>
+    <id>calibre:book:148</id>
+    <updated>2016-07-17T05:53:40Z</updated>
+    <link href="../../Stephen%20King/La%20Torre%20Nera%20%28148%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/La%20Torre%20Nera%20%28148%29/La%20Torre%20Nera%20-%20Stephen%20King.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2015-05-11T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Sperling &amp; Kupfer</dcterms:publisher>
+    <category term="Foreign Languages" />
+    <category term="Contemporary Fiction" />
+    <category term="Foreign Language Fiction" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Italian" />
+    <category term="Lang:it" />
+    <summary>Si conclude con questo volume la saga de *La Torre Nera*: Roland di Gilead, il pistolero, con i compagni che ha raccolto attorno a sé durante il viaggio, è di fronte al suo destino. Il gruppetto è sano e salvo, sebbene sparso per ogni dove (e ogni qu...</summary>
+    <link href="../book_0/book_148.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La sfera del buio</title>
+    <id>calibre:book:150</id>
+    <updated>2016-07-17T05:53:41Z</updated>
+    <link href="../../Stephen%20King/La%20sfera%20del%20buio%20%28150%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/La%20sfera%20del%20buio%20%28150%29/La%20sfera%20del%20buio%20-%20Stephen%20King.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2015-05-11T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Sperling &amp; Kupfer</dcterms:publisher>
+    <category term="Contemporary Fiction" />
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>Nel quarto romanzo del ciclo de La Torre Nera ritroviamo Roland di Gilead, Eddie, Susannah e Jake intrappolati in una carrozza di Blaine il Mono, il treno teleguidato dalla stessa intelligenza malefica che ha sterminato la cittadina di Lud.L'ultimo c...</summary>
+    <link href="../book_0/book_150.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La Mezza Guerra</title>
+    <id>calibre:book:152</id>
+    <updated>2016-07-17T05:53:42Z</updated>
+    <link href="../../Joe%20Abercrombie/La%20Mezza%20Guerra%20%28152%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Joe%20Abercrombie/La%20Mezza%20Guerra%20%28152%29/La%20Mezza%20Guerra%20-%20Joe%20Abercrombie.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Joe Abercrombie</name>
+      <uri>../author_0/author_51_Page_1.xml</uri>
+    </author>
+    <published>2015-09-07T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Fantasy" />
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Lang:it" />
+    <summary>L'ora dello scontro finale è arrivata. Il Gran Re e Gran Madre Wexen hanno giurato vendetta, più feroci che mai. Sono stati traditi dal possente Grom-gil-Gorm, lo Spezza-spade, il Creatore di Orfani, il re che non può essere ucciso da nessun uomo, ch...</summary>
+    <link href="../book_0/book_152.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La quinta onda</title>
+    <id>calibre:book:153</id>
+    <updated>2016-07-17T05:53:43Z</updated>
+    <link href="../../Rick%20Yancey/La%20quinta%20onda%20%28153%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Rick%20Yancey/La%20quinta%20onda%20%28153%29/La%20quinta%20onda%20-%20Rick%20Yancey.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Rick Yancey</name>
+      <uri>../author_0/author_108_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Elisabetta Spediacci</name>
+      <uri>../author_0/author_109_Page_1.xml</uri>
+    </author>
+    <published>2014-03-17T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Fantasy" />
+    <category term="Foreign Language Fiction" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Italian" />
+    <category term="Lang:it" />
+    <summary>Di notte, Cassie non può più guardare il cielo stellato con gli stessi occhi di prima; ora sa che loro arrivano da lì, da quegli astri luminosi e distanti, e arrivano per distruggere il suo mondo. Cassie è tra gli ultimi superstiti, sola, in fuga da ...</summary>
+    <link href="../book_0/book_153.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

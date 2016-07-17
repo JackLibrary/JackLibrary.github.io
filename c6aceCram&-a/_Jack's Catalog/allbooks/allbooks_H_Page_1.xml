@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with H</title>
+  <id>Calibre2opds:allbooks:H</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with H" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>Hyperion</title>
+    <id>calibre:book:196</id>
+    <updated>2016-07-17T05:53:54Z</updated>
+    <link href="../../Dan%20Simmons/Hyperion%20%28196%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dan%20Simmons/Hyperion%20%28196%29/Hyperion%20-%20Dan%20Simmons.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Dan Simmons</name>
+      <uri>../author_0/author_112_Page_1.xml</uri>
+    </author>
+    <published>2012-07-04T10:42:30Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>Nel 2700 gli esseri umani, grazie allo 
+sviluppo della tecnologia dei teleporter, si spostano istantaneamente 
+nella galassia, ma un terribile esperimento, il Grande Errore, ha 
+causato la distruzione della Terra e la diaspora dell’uomo nello spazio,...</summary>
+    <link href="../book_0/book_196.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

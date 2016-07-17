@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Cose fragili</title>
+  <id>urn:book:d976bb7e-542b-46ca-b13a-51276439cb9b</id>
+  <updated>2016-07-17T05:54:06Z</updated>
+  <link href="./book_237.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Cose fragili" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <link href="../../Neil%20Gaiman/Cose%20fragili%20%28237%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Neil%20Gaiman/Cose%20fragili%20%28237%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Neil%20Gaiman/Cose%20fragili%20%28237%29/Cose%20fragili%20-%20Neil%20Gaiman.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="545 KB" />
+  <author>
+    <name>Neil Gaiman</name>
+    <uri>../author_0/author_50_Page_1.xml</uri>
+  </author>
+  <published>2014-01-01T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Mondadori</dcterms:publisher>
+  <category term="Fiction" />
+  <category term="General" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Fiction, General, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">Un circo misterioso terrorizza il
+    pubblico con una performance straordinaria prima di svanire
+    nella notte, portando con sé uno spettatore… Due
+    anni dopo American Gods, Shadow va a visitare una vecchia villa
+    scozzese e si trova intrappolato in un gioco pericoloso di
+    mostri e omicidi… In un'Inghilterra vittoriana appena un
+    po' alterata, Sherlock Holmes si trova alle prese con il
+    più inquietante delitto della corona mai registrato dalla
+    storia… Due ragazzini si intrufolano in una festa e
+    incontrano le ragazze dei loro sogni – e dei loro
+    incubi… I membri di un esclusivo club epicureo si
+    lamentano perché hanno ingerito qualsiasi cosa gli fosse
+    possibile ingerire, tranne il leggendario, rarissimo ed
+    eccezionalmente pericoloso uccello d'Egitto… Un
+    incalzante succedersi di invenzioni – compresa
+    un'avventura ambientata nel mondo di Matrix – affolla
+    questa raccolta che contiene esattamente il tipo di storie che
+    ci si aspetta da Neil Gaiman: brillanti, originali, fantasiose,
+    capaci di fare un salto dall'horror al gotico, di mettere un
+    piede tra i fantasmi e le paure dell'infanzia. Mescolando
+    mitologia e filosofia antica con l'umorismo più pop,
+    queste storie raccontano mondi dove niente è come sembra e
+    c'è sempre il rischio di inciampare in qualche imprevisto,
+    di imbattersi in una vecchia conoscenza, per poi ritrovarsi a
+    casa, confortati dal riconoscere il più puro Gaiman in
+    ogni pagina.</p>
+  </content>
+  <link href="../author_0/author_50_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Neil Gaiman" />
+  <link href="http://www.goodreads.com/book/title/Cose%20fragili" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Cose%20fragili" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Cose%20fragili%20Neil%20Gaiman" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Cose%20fragili&amp;field-author=Neil%20Gaiman" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Neil%20Gaiman" type="text/html" rel="related" title="Neil Gaiman on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Neil%20Gaiman" type="text/html" rel="related" title="Neil Gaiman on Wikipedia" />
+  <link href="http://www.librarything.com/author/GaimanNeil" type="text/html" rel="related" title="Neil Gaiman on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Neil%20Gaiman" type="text/html" rel="related" title="Neil Gaiman on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Neil%20Gaiman" type="text/html" rel="related" title="Neil Gaiman on ISFDB" />
+</entry>

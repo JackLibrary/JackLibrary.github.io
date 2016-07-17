@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Bay City</title>
+  <id>urn:book:c0b2f007-a92c-4e00-916f-13632eee1b68</id>
+  <updated>2016-07-17T05:54:13Z</updated>
+  <link href="./book_262.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Bay City" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <link href="../../Richard%20K.%20Morgan/Bay%20City%20%28262%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Richard%20K.%20Morgan/Bay%20City%20%28262%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Richard%20K.%20Morgan/Bay%20City%20%28262%29/Bay%20City%20-%20Richard%20K.%20Morgan.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="992 KB" />
+  <author>
+    <name>Richard K. Morgan</name>
+    <uri>../author_0/author_128_Page_1.xml</uri>
+  </author>
+  <published>2003-12-31T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">"Ispirato da tutti i romanzi hard-boiled
+    che ho letto, arricchito da tutti i film francesi e giapponesi
+    che ho visto, dalle opere di William Gibson e, ovviamente,
+    dall'influenza di Blade runner, ecco la mia visione del futuro.
+    Un futuro noir." Così Richard Morgan presenta il suo
+    esordio narrativo. Bay City è un romanzo che ci proietta
+    nel buco nero del nostro futuro, tecnologicamente avanzato ma
+    moralmente corrotto, e assai simile al nostro presente, dato
+    che le pulsioni degli esseri umani attraversano, immutate,
+    anche i cambiamenti più radicali. Quale, per esempio, la
+    possibilità di digitalizzare la propria coscienza e
+    trasferirla in un altro corpo, come avviene per Takeshi Kovacs,
+    un ex soldato che si ritrova suo malgrado in un corpo "nuovo" a
+    Bay City, una metropoli in piena decadenza, in mano a politici
+    arroganti e spacciatori di droghe sintetiche, per far luce su
+    un omicidio. Le indagini lo trascinano nei meccanismi perversi
+    di una società che ha snaturato il senso della vita e
+    della morte, una società per cui gli individui sono solo
+    pedine in un gioco condotto da chi si può permettere
+    l'immortalità...</p>
+  </content>
+  <link href="../author_0/author_128_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Richard K. Morgan" />
+  <link href="http://www.goodreads.com/book/title/Bay%20City" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Bay%20City" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Bay%20City%20Richard%20K.%20Morgan" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Bay%20City&amp;field-author=Richard%20K.%20Morgan" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Richard%20K.%20Morgan" type="text/html" rel="related" title="Richard K. Morgan on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Richard%20K.%20Morgan" type="text/html" rel="related" title="Richard K. Morgan on Wikipedia" />
+  <link href="http://www.librarything.com/author/MorganRichardK." type="text/html" rel="related" title="Richard K. Morgan on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Richard%20K.%20Morgan" type="text/html" rel="related" title="Richard K. Morgan on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Richard%20K.%20Morgan" type="text/html" rel="related" title="Richard K. Morgan on ISFDB" />
+</entry>

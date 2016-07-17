@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>George R. R. Martin</title>
+  <id>Calibre2opds:author:26</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_26_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="George R. R. Martin" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_M_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with M" />
+  <entry>
+    <title>Il Trono di Spade 4. Il dominio della regina, L'ombra della profezia</title>
+    <id>calibre:book:29</id>
+    <updated>2016-07-17T05:53:04Z</updated>
+    <link href="../../George%20R.%20R.%20Martin/Il%20Trono%20di%20Spade%204.%20Il%20dominio%20dell%20%2829%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../George%20R.%20R.%20Martin/Il%20Trono%20di%20Spade%204.%20Il%20dominio%20dell%20%2829%29/Il%20Trono%20di%20Spade%204.%20Il%20dominio%20-%20George%20R.%20R.%20Martin.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+    <author>
+      <name>George R. R. Martin</name>
+      <uri>../author_0/author_26_Page_1.xml</uri>
+    </author>
+    <published>2014-04-07T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Edizioni Mondadori</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>In spettrali campi di battaglia e tetre fortezze in rovina, fra città tramutate in cimiteri e terre ridotte a ossari, la spaventosa guerra dei cinque re volge ormai al termine. La Casa Lannister e i suoi alleati appaiono vincitori. Eppure, nei Sette ...</summary>
+    <link href="../book_0/book_29.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il Trono di Spade 3. Tempesta di Spade, Fiumi della Guerra, Il Portale delle Tenebre.</title>
+    <id>calibre:book:30</id>
+    <updated>2016-07-17T05:53:04Z</updated>
+    <link href="../../George%20R.%20R.%20Martin/Il%20Trono%20di%20Spade%203.%20Tempesta%20di%20Spa%20%2830%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../George%20R.%20R.%20Martin/Il%20Trono%20di%20Spade%203.%20Tempesta%20di%20Spa%20%2830%29/Il%20Trono%20di%20Spade%203.%20Tempesta%20d%20-%20George%20R.%20R.%20Martin.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="4 MB" />
+    <author>
+      <name>George R. R. Martin</name>
+      <uri>../author_0/author_26_Page_1.xml</uri>
+    </author>
+    <published>2013-10-30T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Edizioni Mondadori</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Dopo la morte di re Renly Baratheon gli avversari che si contendono il Trono di Spade sono ridotti a quattro. Il gioco di alleanze, inganni e tradimenti si fa sempre più spietato, sempre più labirintico, e l'ambizione dei contendenti non ha limite. S...</summary>
+    <link href="../book_0/book_30.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il Trono di Spade 2. Il Regno dei Lupi, La Regina dei Draghi.</title>
+    <id>calibre:book:31</id>
+    <updated>2016-07-17T05:53:05Z</updated>
+    <link href="../../George%20R.%20R.%20Martin/Il%20Trono%20di%20Spade%202.%20Il%20Regno%20dei%20Lu%20%2831%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../George%20R.%20R.%20Martin/Il%20Trono%20di%20Spade%202.%20Il%20Regno%20dei%20Lu%20%2831%29/Il%20Trono%20di%20Spade%202.%20Il%20Regno%20d%20-%20George%20R.%20R.%20Martin.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+    <author>
+      <name>George R. R. Martin</name>
+      <uri>../author_0/author_26_Page_1.xml</uri>
+    </author>
+    <published>2013-10-30T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Edizioni Mondadori</dcterms:publisher>
+    <category term="General" />
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>Nel cielo dei Sette Regni, travolti da una guerra devastatrice, compare una cometa dal sinistro colore di sangue. È l'ennesimo segno di immani catastrofi che si stanno preparando? L'estate dell'abbondanza sembra ormai definitivamente passata, e ben q...</summary>
+    <link href="../book_0/book_31.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La principessa e la regina. E altre storie di donne pericolose</title>
+    <id>calibre:book:71</id>
+    <updated>2016-07-17T05:53:17Z</updated>
+    <link href="../../George%20R.%20R.%20Martin/La%20principessa%20e%20la%20regina.%20E%20altre%20%2871%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../George%20R.%20R.%20Martin/La%20principessa%20e%20la%20regina.%20E%20altre%20%2871%29/La%20principessa%20e%20la%20regina.%20E%20a%20-%20George%20R.%20R.%20Martin.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="658 KB" />
+    <author>
+      <name>George R. R. Martin</name>
+      <uri>../author_0/author_26_Page_1.xml</uri>
+    </author>
+    <published>2015-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="Lang:it" />
+    <link href="../book_0/book_71.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il Trono di Spade 5. I guerrieri del ghiaccio, I fuochi di Valyria, La Danza dei Draghi</title>
+    <id>calibre:book:177</id>
+    <updated>2016-07-17T05:53:49Z</updated>
+    <link href="../../George%20R.%20R.%20Martin/Il%20Trono%20di%20Spade%205.%20I%20guerrieri%20de%20%28177%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../George%20R.%20R.%20Martin/Il%20Trono%20di%20Spade%205.%20I%20guerrieri%20de%20%28177%29/Il%20Trono%20di%20Spade%205.%20I%20guerrier%20-%20George%20R.%20R.%20Martin.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="3 MB" />
+    <author>
+      <name>George R. R. Martin</name>
+      <uri>../author_0/author_26_Page_1.xml</uri>
+    </author>
+    <published>2015-04-06T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Edizioni Mondadori</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>La "vittoria" del leone dei Lannister ha lasciato un'interminabile scia di sangue: sepolto l'infame lord Tywin, assassinato dal proprio figlio nano, finita in catene la regina Cersei, seduto il piccolo re Tommen su un trono di lame pronte a ucciderlo...</summary>
+    <link href="../book_0/book_177.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il Trono di Spade 1. Il Trono di Spade, Il Grande Inverno.</title>
+    <id>calibre:book:179</id>
+    <updated>2016-07-17T05:53:50Z</updated>
+    <link href="../../George%20R.%20R.%20Martin/Il%20Trono%20di%20Spade%201.%20Il%20Trono%20di%20Sp%20%28179%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../George%20R.%20R.%20Martin/Il%20Trono%20di%20Spade%201.%20Il%20Trono%20di%20Sp%20%28179%29/Il%20Trono%20di%20Spade%201.%20Il%20Trono%20d%20-%20George%20R.%20R.%20Martin.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+    <author>
+      <name>George R. R. Martin</name>
+      <uri>../author_0/author_26_Page_1.xml</uri>
+    </author>
+    <published>2013-10-30T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Edizioni Mondadori</dcterms:publisher>
+    <category term="General" />
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>In una terra fuori dal mondo, dove le estati e gli inverni possono durare intere generazioni, sta per esplodere un immane conflitto. Sul Trono di Spade, nel Sud caldo e opulento, siede Robert Baratheon. L'ha conquistato dopo una guerra sanguinosa, to...</summary>
+    <link href="../book_0/book_179.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

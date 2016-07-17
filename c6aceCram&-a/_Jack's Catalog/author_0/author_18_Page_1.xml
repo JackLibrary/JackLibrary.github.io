@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>John Scalzi</title>
+  <id>Calibre2opds:author:18</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_18_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="John Scalzi" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <entry>
+    <title>Uomini in rosso</title>
+    <id>calibre:book:18</id>
+    <updated>2016-07-17T05:53:00Z</updated>
+    <link href="../../John%20Scalzi/Uomini%20in%20rosso%20%2818%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../John%20Scalzi/Uomini%20in%20rosso%20%2818%29/Uomini%20in%20rosso%20-%20John%20Scalzi.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="471 KB" />
+    <author>
+      <name>John Scalzi</name>
+      <uri>../author_0/author_18_Page_1.xml</uri>
+    </author>
+    <published>2014-09-02T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="Lang:it" />
+    <link href="../book_0/book_18.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Morire per vivere</title>
+    <id>calibre:book:104</id>
+    <updated>2016-07-17T05:53:27Z</updated>
+    <link href="../../John%20Scalzi/Morire%20per%20vivere%20%28104%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../John%20Scalzi/Morire%20per%20vivere%20%28104%29/Morire%20per%20vivere%20-%20John%20Scalzi.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="595 KB" />
+    <author>
+      <name>John Scalzi</name>
+      <uri>../author_0/author_18_Page_1.xml</uri>
+    </author>
+    <published>2010-12-31T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <summary>A 75 anni John Perry, vedovo da alcuni mesi, si arruola nelle Forze di Difesa Coloniale (FDC). Perry si imbarca, insieme ad altri volontari, sull'astronave Henry Hudson dove, grazie a una tecnologia avanzata, la loro coscienza sarà trasferita in nuov...</summary>
+    <link href="../book_0/book_104.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'ultima colonia</title>
+    <id>calibre:book:126</id>
+    <updated>2016-07-17T05:53:33Z</updated>
+    <link href="../../John%20Scalzi/L%27ultima%20colonia%20%28126%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../John%20Scalzi/L%27ultima%20colonia%20%28126%29/L%27ultima%20colonia%20-%20John%20Scalzi.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>John Scalzi</name>
+      <uri>../author_0/author_18_Page_1.xml</uri>
+    </author>
+    <published>2014-09-10T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Gargoyle</dcterms:publisher>
+    <category term="Fantascienza" />
+    <category term="Lang:it" />
+    <summary>Dopo anni passati a combattere per le Forze di Difesa Coloniale come soldato artificialmente potenziato, John Perry ha infine trovato un’oasi di pace in un universo violento. Un piccolo pianeta periferico dove vive con moglie e figlia servendo l’Unio...</summary>
+    <link href="../book_0/book_126.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le brigate fantasma</title>
+    <id>calibre:book:139</id>
+    <updated>2016-07-17T05:53:38Z</updated>
+    <link href="../../John%20Scalzi/Le%20brigate%20fantasma%20%28139%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../John%20Scalzi/Le%20brigate%20fantasma%20%28139%29/Le%20brigate%20fantasma%20-%20John%20Scalzi.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="739 KB" />
+    <author>
+      <name>John Scalzi</name>
+      <uri>../author_0/author_18_Page_1.xml</uri>
+    </author>
+    <published>2012-06-10T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Gargoyle</dcterms:publisher>
+    <category term="Fantascienza" />
+    <category term="Lang:it" />
+    <summary>Le Brigate Fantasma: un gruppo di soldati superumani, forti, agili e amorali. Tre razze aliene alleatesi per annientare l’umanità. Charles Boutin: uno scienziato che collabora col nemico per tradire la sua stessa specie. Quando le Brigate Fantasma ap...</summary>
+    <link href="../book_0/book_139.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

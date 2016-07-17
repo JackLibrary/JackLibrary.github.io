@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Il salmone del dubbio</title>
+  <id>urn:book:f03a5c52-ff5b-4c16-b7b7-b10d9b6cac80</id>
+  <updated>2016-07-17T05:53:51Z</updated>
+  <link href="./book_183.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Il salmone del dubbio" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
+  <link href="../../Douglas%20Adams/Il%20salmone%20del%20dubbio%20%28183%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Douglas%20Adams/Il%20salmone%20del%20dubbio%20%28183%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Douglas%20Adams/Il%20salmone%20del%20dubbio%20%28183%29/Il%20salmone%20del%20dubbio%20-%20Douglas%20Adams.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="536 KB" />
+  <author>
+    <name>Douglas Adams</name>
+    <uri>../author_0/author_101_Page_1.xml</uri>
+  </author>
+  <published>2003-12-31T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">"State per entrare nel mondo
+    provocatorio, divertentissimo e ipnotico di Douglas Adams.
+    È valsa la pena riaprire i file più nascosti del suo
+    disco fisso: il suo talento naturale nel mettere in fila una
+    parola dopo l'altra si rivela infallibile" (Stephen Fry). L'11
+    maggio 2001 è scomparso Adams, stroncato da un infarto a
+    soli 49 anni. Fortunatamente, l'autore della Guida galattica ci
+    ha lasciato ancora qualcosa da leggere: il materiale
+    affascinante che compone questo libro è stato recuperato
+    dai suoi quattro computer e comprende un surreale
+    pellegrinaggio in Africa, divagazioni sulle nuove tecnologie,
+    racconti umoristici e i dieci capitoli del romanzo che aveva
+    quasi completato, Il salmone del dubbio. L'ultimo, inatteso
+    vagabondaggio in giro per una galassia più che mai piena
+    di meraviglie e follie.</p>
+  </content>
+  <link href="../author_0/author_101_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Douglas Adams" />
+  <link href="http://www.goodreads.com/book/title/Il%20salmone%20del%20dubbio" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Il%20salmone%20del%20dubbio" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Il%20salmone%20del%20dubbio%20Douglas%20Adams" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Il%20salmone%20del%20dubbio&amp;field-author=Douglas%20Adams" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Douglas%20Adams" type="text/html" rel="related" title="Douglas Adams on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Douglas%20Adams" type="text/html" rel="related" title="Douglas Adams on Wikipedia" />
+  <link href="http://www.librarything.com/author/AdamsDouglas" type="text/html" rel="related" title="Douglas Adams on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Douglas%20Adams" type="text/html" rel="related" title="Douglas Adams on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Douglas%20Adams" type="text/html" rel="related" title="Douglas Adams on ISFDB" />
+</entry>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>L'occhio del tempo</title>
+  <id>urn:book:75ed6367-cd45-4a2b-8121-b615656e888d</id>
+  <updated>2016-07-17T05:53:34Z</updated>
+  <link href="./book_127.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="L'occhio del tempo" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with B" />
+  <link href="../../Arthur%20C.%20Clarke/L%27occhio%20del%20tempo%20%28127%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Arthur%20C.%20Clarke/L%27occhio%20del%20tempo%20%28127%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Arthur%20C.%20Clarke/L%27occhio%20del%20tempo%20%28127%29/L%27occhio%20del%20tempo%20-%20Arthur%20C.%20Clarke.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="594 KB" />
+  <author>
+    <name>Arthur C. Clarke</name>
+    <uri>../author_0/author_96_Page_1.xml</uri>
+  </author>
+  <author>
+    <name>Stephen Baxter</name>
+    <uri>../author_0/author_97_Page_1.xml</uri>
+  </author>
+  <published>2005-05-07T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">
+      Arthur C. Clarke è una leggenda della fantascienza,
+    capace come nessun altro di trasmettere ai lettori
+    un&amp;apos;incrollabile fiducia nelle potenzialità
+    dell&amp;apos;essere umano e della scienza. Stephen Baxter
+    è uno scrittore dotato di un&amp;apos;immaginazione che
+    non conosce confini e di un vigore narrativo unico, grazie al
+    quale riesce a «raccontare» anche le più
+    complesse teorie scientifiche. L&amp;apos;occhio del tempo
+    è il risultato dell&amp;apos;incontro di queste due menti
+    eccezionali. Ma è soprattutto il romanzo che segna
+    l&amp;apos;inizio di una nuova Odissea...
+      <br />
+      <br />
+    </p>
+    <p xmlns="">La Terra è sempre stata osservata, studiata e, forse,
+    sorvegliata da una razza aliena imperscrutabile che, nel corso
+    della storia umana, ha lasciato traccia di sé soltanto una
+    volta, con un enigmatico e inviolabile monolito nero. Ma adesso
+    questa forza sembra decisa a intervenire sul destino
+    dell&amp;apos;umanità, in particolare in una zona del
+    pianeta che, nel corso dei secoli, è stata crocevia e
+    scenario di avvenimenti epocali: la frontiera tra il
+    subcontinente indiano e l&amp;apos;Asia centrale. E proprio in
+    queste terre aspre, contemporaneamente all&amp;apos;improvvisa
+    comparsa di alcune misteriose sfere argentee, si genera un
+    collasso temporale che scardina e riorganizza le tessere della
+    Storia senza alcun disegno apparente. E così,
+    incomprensibilmente, un gruppo di soldati inglesi fedeli alla
+    regina Vittoria prima cattura un primate preistorico e poi
+    incontra l&amp;apos;equipaggio di un elicottero ONU in missione
+    nell&amp;apos;Afghanistan del 2037... Quale forza misteriosa
+    è la causa di un avvenimento così straordinario?
+    Quelle sfere immobili celano la chiave del mistero? Sono queste
+    le domande che assillano i «naufraghi del tempo», i
+    quali a poco a poco si convincono che la soluzione
+    dell&amp;apos;enigma è custodita in un tempio nella vicina
+    Babilonia, dove però stanno convergendo anche le poderose
+    armate condotte da Alessandro Magno e le orde spietate
+    capeggiate da Gengis Khan...</p>
+  </content>
+  <link href="../author_0/author_96_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Arthur C. Clarke" />
+  <link href="../author_0/author_97_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Stephen Baxter" />
+  <link href="http://www.goodreads.com/book/title/L%27occhio%20del%20tempo" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/L%27occhio%20del%20tempo" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/L%27occhio%20del%20tempo%20Arthur%20C.%20Clarke" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=L%27occhio%20del%20tempo&amp;field-author=Arthur%20C.%20Clarke" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Arthur%20C.%20Clarke" type="text/html" rel="related" title="Arthur C. Clarke on Goodreads" />
+  <link href="http://www.goodreads.com/book/author/Stephen%20Baxter" type="text/html" rel="related" title="Stephen Baxter on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Arthur%20C.%20Clarke" type="text/html" rel="related" title="Arthur C. Clarke on Wikipedia" />
+  <link href="http://en.wikipedia.org/wiki/Stephen%20Baxter" type="text/html" rel="related" title="Stephen Baxter on Wikipedia" />
+  <link href="http://www.librarything.com/author/ClarkeArthurC." type="text/html" rel="related" title="Arthur C. Clarke on LibraryThing" />
+  <link href="http://www.librarything.com/author/BaxterStephen" type="text/html" rel="related" title="Stephen Baxter on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Arthur%20C.%20Clarke" type="text/html" rel="related" title="Arthur C. Clarke on Amazon" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Stephen%20Baxter" type="text/html" rel="related" title="Stephen Baxter on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Arthur%20C.%20Clarke" type="text/html" rel="related" title="Arthur C. Clarke on ISFDB" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Stephen%20Baxter" type="text/html" rel="related" title="Stephen Baxter on ISFDB" />
+</entry>

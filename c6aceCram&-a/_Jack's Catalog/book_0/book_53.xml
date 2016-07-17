@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Satori</title>
+  <id>urn:book:718ee05e-3ebc-4981-83c0-c06fee45e463</id>
+  <updated>2016-07-17T05:53:11Z</updated>
+  <link href="./book_53.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Satori" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_W_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with W" />
+  <link href="../../Don%20Winslow/Satori%20%2853%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Don%20Winslow/Satori%20%2853%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Don%20Winslow/Satori%20%2853%29/Satori%20-%20Don%20Winslow.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="634 KB" />
+  <author>
+    <name>Don Winslow</name>
+    <uri>../author_0/author_43_Page_1.xml</uri>
+  </author>
+  <published>2000-12-31T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">È l'autunno del 1951 e la Guerra di Corea è in
+    pieno svolgimento. Nikolaj Hel, ventiseienne, ha trascorso gli
+    ultimi tre anni della sua vita in una cella di isolamento nelle
+    mani dei soldati americani. Hel è un maestro di hoda
+    korosu, uno stile di combattimento che permette di uccidere
+    l'avversario a mani nude, parla sei lingue e ha affinato uno
+    straordinario "sesto senso", una sorta di acuta percezione di
+    pericolo imminente. Ha insomma tutte le carte in regola per
+    diventare il più inarrestabile assassino del mondo, e la
+    CIA ha bisogno di lui. Gli americani offrono a Hel la
+    libertà in cambio di un semplice lavoro: andare a Pechino
+    e uccidere l'Alto Commissario sovietico di stanza in Cina.
+    Quasi certamente sarà una missione suicida, ma Hel
+    accetta. Ad addestrarlo per questa missione mortale è la
+    bellissima Solange, una ex prostituta francese che, però,
+    finisce con l'innamorarsi di Hel. Insieme, Hel e Solange si
+    troveranno ad affrontare caos, violenza, sospetti e tradimenti,
+    fino all'ultima fatale e inevitabile decisione. Torna Don
+    Winslow con una magistrale spy story, ispirata a un libro di
+    culto, Shibumi. Il ritorno delle gru di Trevanian di cui Satori
+    costituisce una sorta di prequel. E state certi che, dopo aver
+    letto l'ultima riga del romanzo di Don Winslow, avvertirete il
+    desiderio di leggere cosa ancora rimane della vicenda di Hel
+    nel romanzo di Trevanian.</p>
+  </content>
+  <link href="../author_0/author_43_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Don Winslow" />
+  <link href="http://www.goodreads.com/book/title/Satori" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Satori" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Satori%20Don%20Winslow" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Satori&amp;field-author=Don%20Winslow" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Don%20Winslow" type="text/html" rel="related" title="Don Winslow on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Don%20Winslow" type="text/html" rel="related" title="Don Winslow on Wikipedia" />
+  <link href="http://www.librarything.com/author/WinslowDon" type="text/html" rel="related" title="Don Winslow on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Don%20Winslow" type="text/html" rel="related" title="Don Winslow on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Don%20Winslow" type="text/html" rel="related" title="Don Winslow on ISFDB" />
+</entry>

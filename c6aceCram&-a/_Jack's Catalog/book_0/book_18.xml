@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Uomini in rosso</title>
+  <id>urn:book:62754812-0999-408d-83d8-d2b6d2b9e7fa</id>
+  <updated>2016-07-17T05:53:00Z</updated>
+  <link href="./book_18.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Uomini in rosso" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../../John%20Scalzi/Uomini%20in%20rosso%20%2818%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../John%20Scalzi/Uomini%20in%20rosso%20%2818%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../John%20Scalzi/Uomini%20in%20rosso%20%2818%29/Uomini%20in%20rosso%20-%20John%20Scalzi.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="471 KB" />
+  <author>
+    <name>John Scalzi</name>
+    <uri>../author_0/author_18_Page_1.xml</uri>
+  </author>
+  <published>2014-09-02T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Mondadori</dcterms:publisher>
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:it
+    </p>
+  </content>
+  <link href="../author_0/author_18_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by John Scalzi" />
+  <link href="http://www.goodreads.com/book/title/Uomini%20in%20rosso" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Uomini%20in%20rosso" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Uomini%20in%20rosso%20John%20Scalzi" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Uomini%20in%20rosso&amp;field-author=John%20Scalzi" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/John%20Scalzi" type="text/html" rel="related" title="John Scalzi on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/John%20Scalzi" type="text/html" rel="related" title="John Scalzi on Wikipedia" />
+  <link href="http://www.librarything.com/author/ScalziJohn" type="text/html" rel="related" title="John Scalzi on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=John%20Scalzi" type="text/html" rel="related" title="John Scalzi on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?John%20Scalzi" type="text/html" rel="related" title="John Scalzi on ISFDB" />
+</entry>

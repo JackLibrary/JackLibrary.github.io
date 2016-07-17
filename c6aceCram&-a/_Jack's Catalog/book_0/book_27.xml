@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Un altro mondo</title>
+  <id>urn:book:9362a039-b759-4018-af50-79ddf6dbcf5c</id>
+  <updated>2016-07-17T05:53:04Z</updated>
+  <link href="./book_27.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Un altro mondo" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_W_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with W" />
+  <link href="../../Jo%20Walton/Un%20altro%20mondo%20%2827%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Jo%20Walton/Un%20altro%20mondo%20%2827%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Jo%20Walton/Un%20altro%20mondo%20%2827%29/Un%20altro%20mondo%20-%20Jo%20Walton.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="700 KB" />
+  <author>
+    <name>Jo Walton</name>
+    <uri>../author_0/author_24_Page_1.xml</uri>
+  </author>
+  <published>2013-10-13T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Gargoyle</dcterms:publisher>
+  <category term="Fantasy" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Fantasy, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">Allevata da una madre instabile che si diletta di magia,
+    Morwenna Phelps trova rifugio in due mondi: tra gli spiriti che
+    dimorano nei siti industriali abbandonati, nella sua città
+    natale in Galles, e nei romanzi di fantascienza, suoi fedeli
+    compagni, grazie ai quali la sua mente viaggia libera.</p>
+    <p xmlns="">Quando sua madre proverà a corrompere quegli spiriti
+    per fini oscuri, la ragazza sarà costretta a confrontarsi
+    con lei in una battaglia magica.</p>
+    <p xmlns="">Fuggita in Inghilterra dal padre che conosce appena,
+    Morwenna finisce in un collegio, dove, emarginata e sola,
+    comincerà a dedicarsi alla magia a sua volta, in cerca di
+    amici a lei più affini. Ma la sua magia attirerà
+    anche l’attenzione della madre, trascinandola verso una
+    resa dei conti che non potrà più essere
+    rimandata…</p>
+    <p xmlns="">Sorprendente, insolito e irresistibile, Un altro mondo
+    è allo stesso tempo la storia di una ragazza che lotta per
+    fuggire da un’infanzia difficile, un eccezionale diario
+    dei primi incontri con i grandi romanzi del fantasy e della
+    fantascienza moderni, e infine l’avvincente cronaca della
+    fuga da un antico incantesimo.</p>
+  </content>
+  <link href="../author_0/author_24_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Jo Walton" />
+  <link href="http://www.goodreads.com/book/title/Un%20altro%20mondo" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Un%20altro%20mondo" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Un%20altro%20mondo%20Jo%20Walton" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Un%20altro%20mondo&amp;field-author=Jo%20Walton" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Jo%20Walton" type="text/html" rel="related" title="Jo Walton on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Jo%20Walton" type="text/html" rel="related" title="Jo Walton on Wikipedia" />
+  <link href="http://www.librarything.com/author/WaltonJo" type="text/html" rel="related" title="Jo Walton on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Jo%20Walton" type="text/html" rel="related" title="Jo Walton on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Jo%20Walton" type="text/html" rel="related" title="Jo Walton on ISFDB" />
+</entry>

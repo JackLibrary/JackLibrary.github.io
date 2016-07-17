@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with S</title>
+  <id>Calibre2opds:taglist:L:138:S</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tag_138_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with S" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with L" />
+  <link href="./tag_138_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Lang:it" />
+  <entry>
+    <title>SNIPER ELITE</title>
+    <id>calibre:book:47</id>
+    <updated>2016-07-17T05:53:10Z</updated>
+    <link href="../../Scott%20McEwen/SNIPER%20ELITE%20%2847%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Scott%20McEwen/SNIPER%20ELITE%20%2847%29/SNIPER%20ELITE%20-%20Scott%20McEwen.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="555 KB" />
+    <author>
+      <name>Scott McEwen</name>
+      <uri>../author_0/author_29_Page_1.xml</uri>
+    </author>
+    <published>2015-09-28T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Genre Fiction" />
+    <category term="War" />
+    <category term="Lang:it" />
+    <summary>Sandra Brux è la prima donna a far parte dei Night Stalkers, il gruppo di piloti d'élite del SOAR, Reggimento Speciale per le Operazioni Aeree.
+È alla guida di un elicottero durante una missione nei cieli afghani quando lei e i suoi commilitoni cadon...</summary>
+    <link href="../book_0/book_47.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sabato</title>
+    <id>calibre:book:52</id>
+    <updated>2016-07-17T05:53:11Z</updated>
+    <link href="../../Ian%20McEwan/Sabato%20%2852%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ian%20McEwan/Sabato%20%2852%29/Sabato%20-%20Ian%20McEwan.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="496 KB" />
+    <author>
+      <name>Ian McEwan</name>
+      <uri>../author_0/author_42_Page_1.xml</uri>
+    </author>
+    <published>2014-10-13T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Einaudi</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Quello che doveva essere un sabato libero dal lavoro, dopo una settimana massacrante, diventa per Henry una strada in salita, irta di ostacoli. In programma c'era una partita a squash, una visita all'anziana madre, le prove di un concerto di Theo, il...</summary>
+    <link href="../book_0/book_52.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Satori</title>
+    <id>calibre:book:53</id>
+    <updated>2016-07-17T05:53:11Z</updated>
+    <link href="../../Don%20Winslow/Satori%20%2853%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Don%20Winslow/Satori%20%2853%29/Satori%20-%20Don%20Winslow.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="634 KB" />
+    <author>
+      <name>Don Winslow</name>
+      <uri>../author_0/author_43_Page_1.xml</uri>
+    </author>
+    <published>2000-12-31T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <summary>È l'autunno del 1951 e la Guerra di Corea è in pieno svolgimento. Nikolaj Hel, ventiseienne, ha trascorso gli ultimi tre anni della sua vita in una cella di isolamento nelle mani dei soldati americani. Hel è un maestro di hoda korosu, uno stile di co...</summary>
+    <link href="../book_0/book_53.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sbirritudine: Un poliziotto dentro la mafia più feroce. Una storia vera.</title>
+    <id>calibre:book:55</id>
+    <updated>2016-07-17T05:53:12Z</updated>
+    <link href="../../Giorgio%20Glaviano/Sbirritudine_%20Un%20poliziotto%20dentro%20l%20%2855%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Giorgio%20Glaviano/Sbirritudine_%20Un%20poliziotto%20dentro%20l%20%2855%29/Sbirritudine_%20Un%20poliziotto%20den%20-%20Giorgio%20Glaviano.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="790 KB" />
+    <author>
+      <name>Giorgio Glaviano</name>
+      <uri>../author_0/author_46_Page_1.xml</uri>
+    </author>
+    <published>2015-05-20T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Rizzoli</dcterms:publisher>
+    <category term="Crime" />
+    <category term="Mystery" />
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Foreign Languages" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Thrillers" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Lang:it" />
+    <summary>UN UOMO CHE HA SCELTO DI RISCHIARE TUTTO IN NOME DELLA GIUSTIZIA. UN THRILLER ISPIRATO A FATTI REALMENTE ACCADUTI.  Conosce le loro regole, ma non è uno di loro. Sopporta notti insonni e lunghi appostamenti, inseguendo segreti antichi come l’Italia. ...</summary>
+    <link href="../book_0/book_55.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il Sentiero Della Distruzione</title>
+    <id>calibre:book:180</id>
+    <updated>2016-07-17T05:53:50Z</updated>
+    <link href="../../Drew%20Karpyshyn/Il%20Sentiero%20Della%20Distruzione%20%28180%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Drew%20Karpyshyn/Il%20Sentiero%20Della%20Distruzione%20%28180%29/Il%20Sentiero%20Della%20Distruzione%20-%20Drew%20Karpyshyn.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="619 KB" />
+    <author>
+      <name>Drew Karpyshyn</name>
+      <uri>../author_0/author_33_Page_1.xml</uri>
+    </author>
+    <published>2013-01-30T00:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Foreign Languages" />
+    <category term="Action &amp; Adventure" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Genre Fiction" />
+    <category term="Star Wars" />
+    <category term="Fantasy" />
+    <category term="Lang:it" />
+    <summary>Sin dall’infanzia Dessel non ha conosciuto che i maltrattamenti del suo detestabile padre e il lavoro sfiancante e pericoloso nelle miniere di corto site. Nelle profondità delle gallerie del desolato pianeta Apatros, costretto a estrarre senza fine i...</summary>
+    <link href="../book_0/book_180.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Settanta: Il secondo volume della Trilogia sporca dell’Italia</title>
+    <id>calibre:book:51</id>
+    <updated>2016-07-17T05:53:11Z</updated>
+    <link href="../../Simone%20Sarasso/Settanta_%20Il%20secondo%20volume%20della%20Tr%20%2851%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Simone%20Sarasso/Settanta_%20Il%20secondo%20volume%20della%20Tr%20%2851%29/Settanta_%20Il%20secondo%20volume%20del%20-%20Simone%20Sarasso.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Simone Sarasso</name>
+      <uri>../author_0/author_39_Page_1.xml</uri>
+    </author>
+    <published>2011-04-05T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Marsilio</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>Italia, anni settanta: il decennio più buio e violento della storia repubblicana raccontato attraverso le voci di uno stragista, di un ladro, di un magistrato e di un attore di successo. Andrea Sterling, il fiore all’occhiello dei Servizi deviati, ha...</summary>
+    <link href="../book_0/book_51.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sfida alla nuova repubblica. La trilogia di Thrawn Vol. 2</title>
+    <id>calibre:book:49</id>
+    <updated>2016-07-17T05:53:10Z</updated>
+    <link href="../../Timothy%20Zahn/Sfida%20alla%20nuova%20repubblica.%20La%20tril%20%2849%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Timothy%20Zahn/Sfida%20alla%20nuova%20repubblica.%20La%20tril%20%2849%29/Sfida%20alla%20nuova%20repubblica.%20La%20-%20Timothy%20Zahn.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="905 KB" />
+    <author>
+      <name>Timothy Zahn</name>
+      <uri>../author_0/author_13_Page_1.xml</uri>
+    </author>
+    <published>2013-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Il condottiero più astuto e spietato dell'Impero morente, il Grande Ammiraglio Thrawn, ha assunto il comando di ciò che rimane della flotta Imperiale e ha lanciato un'imponente campagna tesa alla distruzione della Nuova Repubblica. Intanto, Han e Lan...</summary>
+    <link href="../book_0/book_49.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Shift: La trilogia del Silo 2</title>
+    <id>calibre:book:50</id>
+    <updated>2016-07-17T05:53:11Z</updated>
+    <link href="../../Hugh%20Howey/Shift_%20La%20trilogia%20del%20Silo%202%20%2850%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Hugh%20Howey/Shift_%20La%20trilogia%20del%20Silo%202%20%2850%29/Shift_%20La%20trilogia%20del%20Silo%202%20-%20Hugh%20Howey.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+    <author>
+      <name>Hugh Howey</name>
+      <uri>../author_0/author_8_Page_1.xml</uri>
+    </author>
+    <published>2015-05-26T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Bur</dcterms:publisher>
+    <category term="General" />
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="Science Fiction" />
+    <category term="Lang:it" />
+    <summary>Prima di Wool, il mondo è ancora come lo conosciamo oggi. Solo alcuni potenti della Terra sanno cosa accadrà di lì a poco, mentre nell’ombra orchestrano un futuro terribile per l’umanità. Due invenzioni fondamentali cambiano il corso della storia: un...</summary>
+    <link href="../book_0/book_50.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Shock economy. L'ascesa del capitalismo dei disastri</title>
+    <id>calibre:book:46</id>
+    <updated>2016-07-17T05:53:10Z</updated>
+    <link href="../../Naomi%20Klein/Shock%20economy.%20L%27ascesa%20del%20capitali%20%2846%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Naomi%20Klein/Shock%20economy.%20L%27ascesa%20del%20capitali%20%2846%29/Shock%20economy.%20L%27ascesa%20del%20cap%20-%20Naomi%20Klein.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="900 KB" />
+    <author>
+      <name>Naomi Klein</name>
+      <uri>../author_0/author_40_Page_1.xml</uri>
+    </author>
+    <published>2008-08-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Bureau Biblioteca Univ. Rizzoli</dcterms:publisher>
+    <category term="Social Classes" />
+    <category term="Business &amp; Economics" />
+    <category term="Social science" />
+    <category term="Political Science" />
+    <category term="International Relations" />
+    <category term="International" />
+    <category term="Public Policy" />
+    <category term="Non-Fiction" />
+    <category term="Economic Policy" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Che cos'hanno in comune l'Iraq dopo l'invasione americana, lo Sri-Lanka post-tsunami, New Orleans dopo l'uragano Katrina, le dottrine ultraliberiste della Scuola di Chicago e alcuni esperimenti a base di elettroshock finanziati negli anni Cinquanta d...</summary>
+    <link href="../book_0/book_46.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Siamo in guerra. Per una nuova politica</title>
+    <id>calibre:book:48</id>
+    <updated>2016-07-17T05:53:10Z</updated>
+    <link href="../../Gianroberto%20Casaleggio%20Beppe%20Grillo/Siamo%20in%20guerra.%20Per%20una%20nuova%20polit%20%2848%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gianroberto%20Casaleggio%20Beppe%20Grillo/Siamo%20in%20guerra.%20Per%20una%20nuova%20polit%20%2848%29/Siamo%20in%20guerra.%20Per%20una%20nuova%20-%20Gianroberto%20Casaleggio%20Beppe%20Gr.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="425 KB" />
+    <author>
+      <name>Gianroberto Casaleggio Beppe Grillo</name>
+      <uri>../author_0/author_41_Page_1.xml</uri>
+    </author>
+    <published>2011-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Chiarelettere</dcterms:publisher>
+    <category term="Lang:it" />
+    <link href="../book_0/book_48.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sorridi, Bellezza!: You Crime</title>
+    <id>calibre:book:45</id>
+    <updated>2016-07-17T05:53:09Z</updated>
+    <link href="../../Simone%20Sarasso/Sorridi%2C%20Bellezza%21_%20You%20Crime%20%2845%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Simone%20Sarasso/Sorridi%2C%20Bellezza%21_%20You%20Crime%20%2845%29/Sorridi%2C%20Bellezza%21_%20You%20Crime%20-%20Simone%20Sarasso.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+    <author>
+      <name>Simone Sarasso</name>
+      <uri>../author_0/author_39_Page_1.xml</uri>
+    </author>
+    <published>2013-07-16T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Rizzoli LAB</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>SORRIDI, BELLEZZA! di Simone SarassoDallas, anni Trenta. Lui è uno spilungone con le orecchie a sventola, gli occhi azzurri e il sorriso più dolce del mondo; fa il ladro d’auto. Lei è un’avvenente cameriera coi riccioli d’oro e la passione per la poe...</summary>
+    <link href="../book_0/book_45.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Spettro del Passato</title>
+    <id>calibre:book:41</id>
+    <updated>2016-07-17T05:53:08Z</updated>
+    <link href="../../Timothy%20Zahn/Spettro%20del%20Passato%20%2841%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Timothy%20Zahn/Spettro%20del%20Passato%20%2841%29/Spettro%20del%20Passato%20-%20Timothy%20Zahn.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Timothy Zahn</name>
+      <uri>../author_0/author_13_Page_1.xml</uri>
+    </author>
+    <published>2013-07-29T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it</dcterms:publisher>
+    <category term="Fantascienza" />
+    <category term="Star Wars" />
+    <category term="Lang:it" />
+    <summary>Timothy Zahn fa il suo trionfale ritorno nell'Universo di Star Wars in questa prima parte di una serie in due volumi dove la Nuova Repubblica dovrà affrontare il nemico più pericoloso incontrato finora: un defunto condottiero imperiale.</summary>
+    <link href="../book_0/book_41.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Spiriti</title>
+    <id>calibre:book:43</id>
+    <updated>2016-07-17T05:53:09Z</updated>
+    <link href="../../Stefano%20Benni/Spiriti%20%2843%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stefano%20Benni/Spiriti%20%2843%29/Spiriti%20-%20Stefano%20Benni.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="626 KB" />
+    <author>
+      <name>Stefano Benni</name>
+      <uri>../author_0/author_37_Page_1.xml</uri>
+    </author>
+    <published>2013-03-15T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <summary>C&amp;apos;è un cane presidenziale e, ovviamente, il Presidente dell&amp;apos;Impero, i primi generali, i re degli affari, le guardie del corpo, tanti divi fasulli, le segretarie di stato e molti, molti spiriti. Sono spiriti attori, spiriti cacciatori, di ca...</summary>
+    <link href="../book_0/book_43.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Star Wars - Aftermath</title>
+    <id>calibre:book:42</id>
+    <updated>2016-07-17T05:53:08Z</updated>
+    <link href="../../Chuck%20Wendig/Star%20Wars%20-%20Aftermath%20%2842%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Chuck%20Wendig/Star%20Wars%20-%20Aftermath%20%2842%29/Star%20Wars%20-%20Aftermath%20-%20Chuck%20Wendig.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="701 KB" />
+    <author>
+      <name>Chuck Wendig</name>
+      <uri>../author_0/author_36_Page_1.xml</uri>
+    </author>
+    <published>2016-04-07T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer Edizioni</dcterms:publisher>
+    <category term="Sci Fi &amp; Fantasy" />
+    <category term="Fantasy" />
+    <category term="Lang:it" />
+    <summary>La seconda Morte Nera è stata distrutta, l’Imperatore è morto e Darth Vader è stato sconfitto: questi devastanti colpi inferti all’Impero sono stati le più grandi vittorie dell’Alleanza Ribelle. La battaglia per la libertà, però, non è ancora finita....</summary>
+    <link href="../book_0/book_42.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Steelheart</title>
+    <id>calibre:book:38</id>
+    <updated>2016-07-17T05:53:07Z</updated>
+    <link href="../../Brandon%20Sanderson/Steelheart%20%2838%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brandon%20Sanderson/Steelheart%20%2838%29/Steelheart%20-%20Brandon%20Sanderson.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="904 KB" />
+    <author>
+      <name>Brandon Sanderson</name>
+      <uri>../author_0/author_32_Page_1.xml</uri>
+    </author>
+    <published>2014-05-28T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+    <category term="Epic" />
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>David è solo un bambino quando l’oscuritàperpetua cala sulla Terra e in cielo compare Calamity, una misteriosa stellache dona a uomini e donne, prima di allora intrappolati nelle loro ordinarieesistenze, poteri fuori dal comune. Questi esseri straord...</summary>
+    <link href="../book_0/book_38.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Sterminio</title>
+    <id>calibre:book:39</id>
+    <updated>2016-07-17T05:53:07Z</updated>
+    <link href="../../Drew%20Karpyshyn/Sterminio%20%2839%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Drew%20Karpyshyn/Sterminio%20%2839%29/Sterminio%20-%20Drew%20Karpyshyn.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Drew Karpyshyn</name>
+      <uri>../author_0/author_33_Page_1.xml</uri>
+    </author>
+    <published>2014-03-15T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>L'impero vacilla. L'imperatore è scomparso, forse morto. Malgrado ciò Darth Karrid, comandante del temibile incrociatore imperiale Ascendant Spear, tenta instancabilmente di portare i Sith al dominio totale della galassia. Alla determinazione incroll...</summary>
+    <link href="../book_0/book_39.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Suburra</title>
+    <id>calibre:book:40</id>
+    <updated>2016-07-17T05:53:08Z</updated>
+    <link href="../../Carlo%20Bonini/Suburra%20%2840%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Carlo%20Bonini/Suburra%20%2840%29/Suburra%20-%20Carlo%20Bonini.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Carlo Bonini</name>
+      <uri>../author_0/author_34_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Giancarlo de Cataldo</name>
+      <uri>../author_0/author_35_Page_1.xml</uri>
+    </author>
+    <published>2013-09-16T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Giulio Einaudi Editore</dcterms:publisher>
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Thrillers" />
+    <category term="Lang:it" />
+    <summary>Leggi un estratto *** «Suburra racconta una criminalità che si è spogliata del suo già modesto quadro culturale di riferimento. Una criminalità allo sbando che riflette un paese allo sbando e, infatti, il quadro di connivenza col mondo del potere uff...</summary>
+    <link href="../book_0/book_40.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Suk Ovest. Banditi a Roma</title>
+    <id>calibre:book:35</id>
+    <updated>2016-07-17T05:53:06Z</updated>
+    <link href="../../Massimilaino%20Smeriglio/Suk%20Ovest.%20Banditi%20a%20Roma%20%2835%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Massimilaino%20Smeriglio/Suk%20Ovest.%20Banditi%20a%20Roma%20%2835%29/Suk%20Ovest.%20Banditi%20a%20Roma%20-%20Massimilaino%20Smeriglio.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="337 KB" />
+    <author>
+      <name>Massimilaino Smeriglio</name>
+      <uri>../author_0/author_28_Page_1.xml</uri>
+    </author>
+    <published>2015-05-01T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fazi Editore</dcterms:publisher>
+    <category term="banda" />
+    <category term="Roma sud" />
+    <category term="gatto" />
+    <category term="karate" />
+    <category term="quartiere" />
+    <category term="memoria" />
+    <category term="writers" />
+    <category term="garbatella" />
+    <category term="Resistenza" />
+    <category term="Roma nord" />
+    <category term="graffiti" />
+    <category term="fontana di Carlotta" />
+    <category term="escort" />
+    <category term="destino" />
+    <category term="nonno" />
+    <category term="partigiano" />
+    <category term="Valerio Natali" />
+    <category term="discarica" />
+    <category term="vendetta" />
+    <category term="banda Koch" />
+    <category term="batteria" />
+    <category term="Lang:it" />
+    <summary>Il Gatto è morto, l’hanno assassinato. Sono proiettili, queste parole, che accolgono Valerio Natali al suo rientro dal Messico dove ha trascorso una lunga latitanza. Massimo Giunti, alias il Gatto, amico fraterno, anche lui della Garbatella, non c’è ...</summary>
+    <link href="../book_0/book_35.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Supernotes</title>
+    <id>calibre:book:37</id>
+    <updated>2016-07-17T05:53:07Z</updated>
+    <link href="../../Agente%20Kasper/Supernotes%20%2837%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Agente%20Kasper/Supernotes%20%2837%29/Supernotes%20-%20Agente%20Kasper.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Agente Kasper</name>
+      <uri>../author_0/author_30_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Luigi Carletti</name>
+      <uri>../author_0/author_31_Page_1.xml</uri>
+    </author>
+    <published>2014-03-21T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="Political Science" />
+    <category term="General" />
+    <category term="International Relations" />
+    <category term="Lang:it" />
+    <summary>«L'inferno esiste e io ci sono stato.» Sono queste le parole con cui l'Agente Kasper, un ex carabiniere divenuto agente dei sevizi segreti e poi del ROS, comincia a raccontare la sua vicenda a Luigi Carletti. Il caso dell'Agente Kasper è stato copert...</summary>
+    <link href="../book_0/book_37.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il salmone del dubbio</title>
+    <id>calibre:book:183</id>
+    <updated>2016-07-17T05:53:51Z</updated>
+    <link href="../../Douglas%20Adams/Il%20salmone%20del%20dubbio%20%28183%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Douglas%20Adams/Il%20salmone%20del%20dubbio%20%28183%29/Il%20salmone%20del%20dubbio%20-%20Douglas%20Adams.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="536 KB" />
+    <author>
+      <name>Douglas Adams</name>
+      <uri>../author_0/author_101_Page_1.xml</uri>
+    </author>
+    <published>2003-12-31T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <summary>"State per entrare nel mondo provocatorio, divertentissimo e ipnotico di Douglas Adams. È valsa la pena riaprire i file più nascosti del suo disco fisso: il suo talento naturale nel mettere in fila una parola dopo l'altra si rivela infallibile" (Step...</summary>
+    <link href="../book_0/book_183.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il segno</title>
+    <id>calibre:book:181</id>
+    <updated>2016-07-17T05:53:51Z</updated>
+    <link href="../../Sarah%20Lotz/Il%20segno%20%28181%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sarah%20Lotz/Il%20segno%20%28181%29/Il%20segno%20-%20Sarah%20Lotz.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Sarah Lotz</name>
+      <uri>../author_0/author_125_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Laura Prandino</name>
+      <uri>../author_0/author_126_Page_1.xml</uri>
+    </author>
+    <published>2015-09-09T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Casa Editrice Nord</dcterms:publisher>
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Thrillers" />
+    <category term="ebook" />
+    <category term="Crime" />
+    <category term="Mystery" />
+    <category term="Foreign Language Fiction" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Lang:it" />
+    <summary>«Un thriller coinvolgente e raffinato, una scoperta eccezionale.»The Guardian  «L'autrice trascina il lettore in una storia ambigua e ad altissima tensione. Un romanzo travolgente»The Indipendent  Uno è un casoDue sono una coincidenzaTre sono un segn...</summary>
+    <link href="../book_0/book_181.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La sfera del buio</title>
+    <id>calibre:book:150</id>
+    <updated>2016-07-17T05:53:41Z</updated>
+    <link href="../../Stephen%20King/La%20sfera%20del%20buio%20%28150%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/La%20sfera%20del%20buio%20%28150%29/La%20sfera%20del%20buio%20-%20Stephen%20King.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2015-05-11T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Sperling &amp; Kupfer</dcterms:publisher>
+    <category term="Contemporary Fiction" />
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>Nel quarto romanzo del ciclo de La Torre Nera ritroviamo Roland di Gilead, Eddie, Susannah e Jake intrappolati in una carrozza di Blaine il Mono, il treno teleguidato dalla stessa intelligenza malefica che ha sterminato la cittadina di Lud.L'ultimo c...</summary>
+    <link href="../book_0/book_150.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il sole nudo</title>
+    <id>calibre:book:178</id>
+    <updated>2016-07-17T05:53:50Z</updated>
+    <link href="../../Isaac%20Asimov/Il%20sole%20nudo%20%28178%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Il%20sole%20nudo%20%28178%29/Il%20sole%20nudo%20-%20Isaac%20Asimov.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="902 KB" />
+    <author>
+      <name>Isaac Asimov</name>
+      <uri>../author_0/author_124_Page_1.xml</uri>
+    </author>
+    <published>2012-05-09T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori Oscar fantascienza</dcterms:publisher>
+    <category term="Secondo romanzo del ciclo dei Robot." />
+    <category term="Lang:it" />
+    <summary>Come il libro che lo precede nel ciclo, è una detective story e chiarisce un'idea di Asimov: la fantascienza è un ingrediente che può essere applicato ad ogni genere letterario. Il libro venne pubblicato nel 1957, dopo essere apparso a puntate nella ...</summary>
+    <link href="../book_0/book_178.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Lo specchio di Dio</title>
+    <id>calibre:book:131</id>
+    <updated>2016-07-17T05:53:35Z</updated>
+    <link href="../../Andreas%20Eschbach/Lo%20specchio%20di%20Dio%20%28131%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Andreas%20Eschbach/Lo%20specchio%20di%20Dio%20%28131%29/Lo%20specchio%20di%20Dio%20-%20Andreas%20Eschbach.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Andreas Eschbach</name>
+      <uri>../author_0/author_99_Page_1.xml</uri>
+    </author>
+    <published>2001-12-31T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <summary>Nella necropoli di Bet Hamesh, non lontano da Gerusalemme, l’archeologo Stephen Foxx scopre lo scheletro di un uomo morto duemila anni prima… con accanto il manuale di utilizzo di una videocamera. Lo stupore del ritrovamento si trasforma subito in in...</summary>
+    <link href="../book_0/book_131.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

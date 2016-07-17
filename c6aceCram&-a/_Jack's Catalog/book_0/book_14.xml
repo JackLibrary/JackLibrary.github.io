@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Vedi di non morire</title>
+  <id>urn:book:77d91938-6699-434c-8ed2-f8c43ef2b8b6</id>
+  <updated>2016-07-17T05:52:59Z</updated>
+  <link href="./book_14.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Vedi di non morire" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with B" />
+  <link href="../../Josh%20Bazell/Vedi%20di%20non%20morire%20%2814%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Josh%20Bazell/Vedi%20di%20non%20morire%20%2814%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Josh%20Bazell/Vedi%20di%20non%20morire%20%2814%29/Vedi%20di%20non%20morire%20-%20Josh%20Bazell.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="456 KB" />
+  <author>
+    <name>Josh Bazell</name>
+    <uri>../author_0/author_14_Page_1.xml</uri>
+  </author>
+  <published>2009-01-01T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Einaudi</dcterms:publisher>
+  <category term="Fiction" />
+  <category term="Suspense" />
+  <category term="Thrillers" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Fiction, Suspense, Thrillers, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">Grazie a Peter Brown, ex killer entrato
+    in un programma di protezione governativo, la mafia fa il suo
+    ingresso tra le corsie di un famigerato ospedale di Manhattan.
+    Quando Peter va come ogni mattina al lavoro in ospedale, non sa
+    che la Grande Mietitrice lo aspetta, sotto le vesti di un
+    paziente moribondo che è un suo vecchio conoscente di
+    mafia. Se il paziente muore, il passato di Peter tornerà a
+    galla. E questo non può accadere. Perché Peter è
+    anche Pietro Brwna detto Orso, ex affiliato (ma per bontà
+    d'animo) alla famiglia Locano. In questi anni in ospedale Peter
+    è diventato il medico-eroe che abbiamo sempre sognato:
+    cinico iconoclasta dal cuore d'oro che infrange ogni regola pur
+    di salvare una vita... La sua lotta all'ultimo sangue con la
+    Grande Mietitrice sta per cominciare, e diventa tutt'uno col
+    desiderio irresistibile di saldare una volta per tutte i conti
+    con la famiglia Locano.</p>
+  </content>
+  <link href="../author_0/author_14_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Josh Bazell" />
+  <link href="http://www.goodreads.com/book/title/Vedi%20di%20non%20morire" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Vedi%20di%20non%20morire" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Vedi%20di%20non%20morire%20Josh%20Bazell" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Vedi%20di%20non%20morire&amp;field-author=Josh%20Bazell" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Josh%20Bazell" type="text/html" rel="related" title="Josh Bazell on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Josh%20Bazell" type="text/html" rel="related" title="Josh Bazell on Wikipedia" />
+  <link href="http://www.librarything.com/author/BazellJosh" type="text/html" rel="related" title="Josh Bazell on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Josh%20Bazell" type="text/html" rel="related" title="Josh Bazell on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Josh%20Bazell" type="text/html" rel="related" title="Josh Bazell on ISFDB" />
+</entry>

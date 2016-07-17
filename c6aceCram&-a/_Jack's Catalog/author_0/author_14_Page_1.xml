@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Josh Bazell</title>
+  <id>Calibre2opds:author:14</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_14_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Josh Bazell" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with B" />
+  <entry>
+    <title>Vedi di non morire</title>
+    <id>calibre:book:14</id>
+    <updated>2016-07-17T05:52:59Z</updated>
+    <link href="../../Josh%20Bazell/Vedi%20di%20non%20morire%20%2814%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Josh%20Bazell/Vedi%20di%20non%20morire%20%2814%29/Vedi%20di%20non%20morire%20-%20Josh%20Bazell.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="456 KB" />
+    <author>
+      <name>Josh Bazell</name>
+      <uri>../author_0/author_14_Page_1.xml</uri>
+    </author>
+    <published>2009-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Einaudi</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Suspense" />
+    <category term="Thrillers" />
+    <category term="Lang:it" />
+    <summary>Grazie a Peter Brown, ex killer entrato in un programma di protezione governativo, la mafia fa il suo ingresso tra le corsie di un famigerato ospedale di Manhattan. Quando Peter va come ogni mattina al lavoro in ospedale, non sa che la Grande Mietitr...</summary>
+    <link href="../book_0/book_14.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A tuo rischio e pericolo</title>
+    <id>calibre:book:25</id>
+    <updated>2016-07-17T05:53:03Z</updated>
+    <link href="../../Josh%20Bazell/A%20tuo%20rischio%20e%20pericolo%20%2825%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Josh%20Bazell/A%20tuo%20rischio%20e%20pericolo%20%2825%29/A%20tuo%20rischio%20e%20pericolo%20-%20Josh%20Bazell.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Josh Bazell</name>
+      <uri>../author_0/author_14_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Einaudi</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>Il dottor Peter Brown è tornato. Il comico e 
+spiazzante medico-killer affronta di nuovo pazienti e criminali ma, 
+questa volta, soprattutto uno strano mostro omicida che si nasconde 
+nelle acque di un lago. È lí che viene spedito insieme alla paleon...</summary>
+    <link href="../book_0/book_25.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

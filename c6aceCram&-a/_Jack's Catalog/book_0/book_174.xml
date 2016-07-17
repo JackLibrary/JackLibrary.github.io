@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Inganno</title>
+  <id>urn:book:4141d58b-598d-41a2-9777-af19cfd2521c</id>
+  <updated>2016-07-17T05:53:49Z</updated>
+  <link href="./book_174.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Inganno" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_K_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with K" />
+  <link href="../../Paul%20S.%20Kemp/Inganno%20%28174%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Paul%20S.%20Kemp/Inganno%20%28174%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Paul%20S.%20Kemp/Inganno%20%28174%29/Inganno%20-%20Paul%20S.%20Kemp.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="978 KB" />
+  <author>
+    <name>Paul S. Kemp</name>
+    <uri>../author_0/author_121_Page_1.xml</uri>
+  </author>
+  <published>2012-01-01T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+  <category term="The Old Republic" />
+  <category term="Fantascienza" />
+  <category term="Star Wars" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      The Old Republic, Fantascienza, Star Wars, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <span xmlns="" style="font-family: Verdana, Arial, Helvetica, Geneva, sans-serif, Swiss, SunSans-Regular; font-size: 10.6666669845581px; background-color: rgb(255, 255, 255);">In
+    questo romanzo si intensifica il ritmo dell'azione e per la
+    prima volta vengono messi i lettori faccia a faccia con un
+    guerriero Sith in grado di competere con il più sinistro
+    dei Signori Oscuri dell'Ordine: Darth Malgus, il misterioso
+    Sith mascherato, apparso nei popolarissimi trailer dei
+    videogiochi "Deceived" e "Hope". Malgus ha fatto cadere il
+    Tempio Jedi di Coruscant durante un brutale assalto che ha
+    sconvolto l'intera galassia - ma se la guerra l'ha incoronato
+    come il più oscuro degli eroi Sith, la pace potrebbe
+    trasformarlo in qualcosa di molto più atroce: qualcosa che
+    Malgus non avrebbe mai voluto diventare, ma che non può
+    evitare... non più di quanto possa impedire il rapido
+    approssimarsi di una pericolosa Jedi. Il suo nome è Aryn
+    Leneer, ed il Cavaliere solitario che Malgus ha annientato
+    durante la feroce battaglia al Tempio era il suo Maestro. Ora
+    lei intende scoprire cosa gli sia successo, anche se ciò
+    volesse dire infrangere ogni regola...</span>
+  </content>
+  <link href="../author_0/author_121_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Paul S. Kemp" />
+  <link href="http://www.goodreads.com/book/title/Inganno" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Inganno" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Inganno%20Paul%20S.%20Kemp" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Inganno&amp;field-author=Paul%20S.%20Kemp" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Paul%20S.%20Kemp" type="text/html" rel="related" title="Paul S. Kemp on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Paul%20S.%20Kemp" type="text/html" rel="related" title="Paul S. Kemp on Wikipedia" />
+  <link href="http://www.librarything.com/author/KempPaulS." type="text/html" rel="related" title="Paul S. Kemp on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Paul%20S.%20Kemp" type="text/html" rel="related" title="Paul S. Kemp on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Paul%20S.%20Kemp" type="text/html" rel="related" title="Paul S. Kemp on ISFDB" />
+</entry>

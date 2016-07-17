@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Catrame</title>
+  <id>urn:book:74122184-a55b-48ca-8500-e99e266c3a71</id>
+  <updated>2016-07-17T05:54:09Z</updated>
+  <link href="./book_249.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Catrame" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <link href="../../Giuseppe%20Genna/Catrame%20%28249%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Giuseppe%20Genna/Catrame%20%28249%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Giuseppe%20Genna/Catrame%20%28249%29/Catrame%20-%20Giuseppe%20Genna.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="217 KB" />
+  <author>
+    <name>Giuseppe Genna</name>
+    <uri>../author_0/author_158_Page_1.xml</uri>
+  </author>
+  <published>2008-05-14T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Mondadori</dcterms:publisher>
+  <category term="Thrillers" />
+  <category term="Fiction" />
+  <category term="General" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Thrillers, Fiction, General, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">Fumo di asfalto colloso nella spossante
+    Milano estiva delle periferie. Tra le case popolari di
+    Calvairate, il quartiere dormitorio di Quarto Oggiaro e il
+    carcere di Opera emergono, come strani zombie dal sottosuolo,
+    un suicidio sospetto, un giro di pedofili e un ex terrorista
+    nero evaso. E tra servizi segreti impegnati in grossolani
+    depistaggi, inconfessabili ed esplosive verità e
+    inquietanti parole d'ordine come "indulto", a vent'anni dal
+    delitto Moro l'ispettore Guido Lopez non potrà fare a meno
+    di avvertire l'aria pesante e sporca di un complotto. Un noir
+    dirompente, un groviglio di fili elettrici che affondano nel
+    terreno della nostra storia recente. Un romanzo d'esordio che
+    "con una scrittura adrenalinica" per usare le parole di
+    Fruttero e Lucentini "strappa dal già visto cortili,
+    sotterranei, scali ferroviari, ex macelli.¿",
+    restituendoci una città intensa, ambigua, torbidamente
+    poetica. Vera.</p>
+  </content>
+  <link href="../author_0/author_158_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Giuseppe Genna" />
+  <link href="http://www.goodreads.com/book/title/Catrame" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Catrame" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Catrame%20Giuseppe%20Genna" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Catrame&amp;field-author=Giuseppe%20Genna" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Giuseppe%20Genna" type="text/html" rel="related" title="Giuseppe Genna on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Giuseppe%20Genna" type="text/html" rel="related" title="Giuseppe Genna on Wikipedia" />
+  <link href="http://www.librarything.com/author/GennaGiuseppe" type="text/html" rel="related" title="Giuseppe Genna on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Giuseppe%20Genna" type="text/html" rel="related" title="Giuseppe Genna on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Giuseppe%20Genna" type="text/html" rel="related" title="Giuseppe Genna on ISFDB" />
+</entry>

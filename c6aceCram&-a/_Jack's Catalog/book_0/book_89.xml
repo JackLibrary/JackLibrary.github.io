@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Omega Days</title>
+  <id>urn:book:37209533-9808-441c-8bb4-d07177357c9b</id>
+  <updated>2016-07-17T05:53:23Z</updated>
+  <link href="./book_89.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Omega Days" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <link href="../../John%20L.%20Campbell/Omega%20Days%20%2889%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../John%20L.%20Campbell/Omega%20Days%20%2889%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../John%20L.%20Campbell/Omega%20Days%20%2889%29/Omega%20Days%20-%20John%20L.%20Campbell.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="563 KB" />
+  <author>
+    <name>John L. Campbell</name>
+    <uri>../author_0/author_71_Page_1.xml</uri>
+  </author>
+  <published>2016-04-04T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Mondadori</dcterms:publisher>
+  <category term="Horror &amp; Science Fiction" />
+  <category term="Foreign Language Fiction" />
+  <category term="Italian" />
+  <category term="Horror" />
+  <category term="Foreign Languages" />
+  <category term="Literature &amp; Fiction" />
+  <category term="Genre Fiction" />
+  <category term="Fantasy" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Horror &amp; Science Fiction, Foreign Language Fiction, Italian, Horror, Foreign Languages, Literature &amp; Fiction, Genre Fiction, Fantasy, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>San Francisco. Padre Xavier Church ha passato la vita tra
+      i diseredati della città, e ne ha viste di ogni sorta.
+      Ma nulla di ciò che ha incontrato è paragonabile
+      all'orrore cui si trova davanti: l'immondo pasto di una suora
+      zombie che azzanna il volto di un suo confratello… La
+      stessa scena cui assiste Skye Dennison, una giovane
+      studentessa che vede divorare i genitori sotto i suoi occhi.
+      E non è che l'inizio… Nessuno sa da dove sia
+      giunto il Virus Omega, ma presto si diffonde dovunque e la
+      baia di San Francisco si popola di otto milioni di morti
+      viventi. Solo i più veloci, i più forti, i più
+      astuti e spregiudicati sopravvivono. Almeno per un
+      po'…</p>
+      <p>**</p>
+    </div>
+  </content>
+  <link href="../author_0/author_71_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by John L. Campbell" />
+  <link href="http://www.goodreads.com/book/title/Omega%20Days" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Omega%20Days" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Omega%20Days%20John%20L.%20Campbell" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Omega%20Days&amp;field-author=John%20L.%20Campbell" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/John%20L.%20Campbell" type="text/html" rel="related" title="John L. Campbell on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/John%20L.%20Campbell" type="text/html" rel="related" title="John L. Campbell on Wikipedia" />
+  <link href="http://www.librarything.com/author/CampbellJohnL." type="text/html" rel="related" title="John L. Campbell on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=John%20L.%20Campbell" type="text/html" rel="related" title="John L. Campbell on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?John%20L.%20Campbell" type="text/html" rel="related" title="John L. Campbell on ISFDB" />
+</entry>

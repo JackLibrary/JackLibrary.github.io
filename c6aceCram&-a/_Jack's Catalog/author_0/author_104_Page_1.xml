@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Douglas Preston</title>
+  <id>Calibre2opds:author:104</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_104_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Douglas Preston" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_P_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with P" />
+  <entry>
+    <title>Labirinto blu</title>
+    <id>calibre:book:143</id>
+    <updated>2016-07-17T05:53:39Z</updated>
+    <link href="../../Douglas%20Preston/Labirinto%20blu%20%28143%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Douglas%20Preston/Labirinto%20blu%20%28143%29/Labirinto%20blu%20-%20Douglas%20Preston.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Douglas Preston</name>
+      <uri>../author_0/author_104_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Lincoln Child</name>
+      <uri>../author_0/author_105_Page_1.xml</uri>
+    </author>
+    <published>2015-04-30T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Rizzoli</dcterms:publisher>
+    <category term="Thriller" />
+    <category term="Lang:it" />
+    <summary>La sera in cui trova il cadavere del figlio sulla soglia di casa, l’agente dell’FBI Aloysius Pendergast non ha idea di chi possa celarsi dietro quell’omicidio. Sa soltanto che il messaggio è diretto senza dubbio a lui. Per cercare il suo nemico, Pend...</summary>
+    <link href="../book_0/book_143.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

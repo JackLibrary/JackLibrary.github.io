@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>L'investigatore olistico Dirk Gently</title>
+  <id>urn:book:2c987d1d-2415-42f8-b4b4-c11d272d1163</id>
+  <updated>2016-07-17T05:53:36Z</updated>
+  <link href="./book_134.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="L'investigatore olistico Dirk Gently" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
+  <link href="../../Douglas%20Adams/L%27investigatore%20olistico%20Dirk%20Gentl%20%28134%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Douglas%20Adams/L%27investigatore%20olistico%20Dirk%20Gentl%20%28134%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Douglas%20Adams/L%27investigatore%20olistico%20Dirk%20Gentl%20%28134%29/L%27investigatore%20olistico%20Dirk%20G%20-%20Douglas%20Adams.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="400 KB" />
+  <author>
+    <name>Douglas Adams</name>
+    <uri>../author_0/author_101_Page_1.xml</uri>
+  </author>
+  <published>1995-12-31T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Feltrinelli</dcterms:publisher>
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">Dirk Gently è il titolare, perennemente al verde,
+    dell'agenzia di investigazione olistica che dà il titolo
+    al romanzo. Fermamente convinto dell'esistenza di una
+    "fondamentale interconnessione di tutte le cose", è
+    specializzato in casi di gatti scomparsi. Sta proprio
+    inseguendo le tracce di un felino quando incontra un vecchio
+    amico del college, Richard MacDuff, sospettato dell'omicidio
+    del fratello della sua fidanzata, nonché suo capo. Dirk
+    decide di aiutarlo a dimostrare la sua innocenza, e finisce
+    così per essere trascinato in un'avventura surreale e
+    divertente, i cui protagonisti sono un divano irrimediabilmente
+    incastrato sulle scale, un Monaco Elettrico difettoso, il poeta
+    Samuel Taylor Coleridge, una razza aliena estinta e una
+    macchina del tempo. </p>
+  </content>
+  <link href="../author_0/author_101_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Douglas Adams" />
+  <link href="http://www.goodreads.com/book/title/L%27investigatore%20olistico%20Dirk%20Gently" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/L%27investigatore%20olistico%20Dirk%20Gently" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/L%27investigatore%20olistico%20Dirk%20Gently%20Douglas%20Adams" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=L%27investigatore%20olistico%20Dirk%20Gently&amp;field-author=Douglas%20Adams" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Douglas%20Adams" type="text/html" rel="related" title="Douglas Adams on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Douglas%20Adams" type="text/html" rel="related" title="Douglas Adams on Wikipedia" />
+  <link href="http://www.librarything.com/author/AdamsDouglas" type="text/html" rel="related" title="Douglas Adams on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Douglas%20Adams" type="text/html" rel="related" title="Douglas Adams on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Douglas%20Adams" type="text/html" rel="related" title="Douglas Adams on ISFDB" />
+</entry>

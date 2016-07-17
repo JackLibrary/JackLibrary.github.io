@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>L'erede dell'impero. La trilogia di Thrawn Vol. 1</title>
+  <id>urn:book:c7a131ed-6514-42b6-b341-9948af4e789e</id>
+  <updated>2016-07-17T05:53:36Z</updated>
+  <link href="./book_135.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="L'erede dell'impero. La trilogia di Thrawn Vol. 1" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_Z_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with Z" />
+  <link href="../../Timothy%20Zahn/L%27erede%20dell%27impero.%20La%20trilogia%20di%20%28135%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Timothy%20Zahn/L%27erede%20dell%27impero.%20La%20trilogia%20di%20%28135%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Timothy%20Zahn/L%27erede%20dell%27impero.%20La%20trilogia%20di%20%28135%29/L%27erede%20dell%27impero.%20La%20trilogi%20-%20Timothy%20Zahn.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="596 KB" />
+  <author>
+    <name>Timothy Zahn</name>
+    <uri>../author_0/author_13_Page_1.xml</uri>
+  </author>
+  <published>2014-01-01T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+  <category term="General" />
+  <category term="Fiction" />
+  <category term="Science Fiction" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      General, Fiction, Science Fiction, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">L'erede dell'impero segue le avventure
+    di Luke Skywalker, Han Solo e della Principessa Leia dopo che
+    questi hanno condotto l'Alleanza Ribelle alla vittoria in Star
+    Wars Episodio VI: Il ritorno dello Jedi. All'interno potrete
+    trovare l'introduzione e le note dell'autore Timothy Zahn, i
+    commenti di LucasFilm e un nuovissimo racconto con protagonista
+    il popolare Grand'ammiraglio Thrawn. Cinque anni dopo la
+    distruzione della Morte Nera e la sconfitta di Darth Vader e
+    dell'Imperatore, la galassia lotta per guarire dalle ferite
+    della guerra. La Principessa Leia e Han Solo sono sposati e
+    aspettano due gemelli, mentre Luke Skywalker è diventato
+    il primo di una nuova, attesa, discendenza di Cavalieri Jedi. A
+    migliaia di anni luce di distanza, l'ultimo condottiero
+    dell'Imperatore - il geniale e letale Grand'ammiraglio Thrawn -
+    ha assunto il comando di ciò che resta della flotta
+    imperiale, l'ha preparata alla guerra e l'ha puntata verso il
+    fragile cuore della Nuova Repubblica. Questo guerriero oscuro
+    ha fatto due scoperte vitali che potrebbero distruggere tutto
+    ciò che gli uomini e le donne dell'Alleanza Ribelle hanno
+    costruito combattendo duramente...</p>
+  </content>
+  <link href="../author_0/author_13_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Timothy Zahn" />
+  <link href="http://www.goodreads.com/book/title/L%27erede%20dell%27impero.%20La%20trilogia%20di%20Thrawn%20Vol.%201" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/L%27erede%20dell%27impero.%20La%20trilogia%20di%20Thrawn%20Vol.%201" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/L%27erede%20dell%27impero.%20La%20trilogia%20di%20Thrawn%20Vol.%201%20Timothy%20Zahn" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=L%27erede%20dell%27impero.%20La%20trilogia%20di%20Thrawn%20Vol.%201&amp;field-author=Timothy%20Zahn" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Timothy%20Zahn" type="text/html" rel="related" title="Timothy Zahn on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Timothy%20Zahn" type="text/html" rel="related" title="Timothy Zahn on Wikipedia" />
+  <link href="http://www.librarything.com/author/ZahnTimothy" type="text/html" rel="related" title="Timothy Zahn on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Timothy%20Zahn" type="text/html" rel="related" title="Timothy Zahn on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Timothy%20Zahn" type="text/html" rel="related" title="Timothy Zahn on ISFDB" />
+</entry>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Sbirritudine: Un poliziotto dentro la mafia più feroce. Una storia vera.</title>
+  <id>urn:book:c295fe72-3c62-4346-bc8f-e04894a4ec1d</id>
+  <updated>2016-07-17T05:53:12Z</updated>
+  <link href="./book_55.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Sbirritudine: Un poliziotto dentro la mafia più feroce. Una storia vera." />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <link href="../../Giorgio%20Glaviano/Sbirritudine_%20Un%20poliziotto%20dentro%20l%20%2855%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Giorgio%20Glaviano/Sbirritudine_%20Un%20poliziotto%20dentro%20l%20%2855%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Giorgio%20Glaviano/Sbirritudine_%20Un%20poliziotto%20dentro%20l%20%2855%29/Sbirritudine_%20Un%20poliziotto%20den%20-%20Giorgio%20Glaviano.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="790 KB" />
+  <author>
+    <name>Giorgio Glaviano</name>
+    <uri>../author_0/author_46_Page_1.xml</uri>
+  </author>
+  <published>2015-05-20T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Rizzoli</dcterms:publisher>
+  <category term="Crime" />
+  <category term="Mystery" />
+  <category term="Thrillers &amp; Suspense" />
+  <category term="Foreign Language Fiction" />
+  <category term="Italian" />
+  <category term="Thriller &amp; Mystery" />
+  <category term="Foreign Languages" />
+  <category term="Thriller &amp; Suspense" />
+  <category term="Thrillers" />
+  <category term="Literature &amp; Fiction" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Crime, Mystery, Thrillers &amp; Suspense, Foreign Language Fiction, Italian, Thriller &amp; Mystery, Foreign Languages, Thriller &amp; Suspense, Thrillers, Literature &amp; Fiction, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>UN UOMO CHE HA SCELTO DI RISCHIARE TUTTO IN NOME DELLA
+      GIUSTIZIA. UN THRILLER ISPIRATO A FATTI REALMENTE
+      ACCADUTI.</p>
+      <p>Conosce le loro regole, ma non è uno di loro.
+      Sopporta notti insonni e lunghi appostamenti, inseguendo
+      segreti antichi come l’Italia. La gente lo guarda da
+      lontano, con sospetto. Perché un poliziotto siciliano,
+      in Sicilia, è quasi un controsenso: è un traditore,
+      un terrorista, un matto che si ostina a credere nella
+      giustizia quando nessuno ci crede più. È un uomo
+      destinato a restare solo. Forse per questo ha qualcosa che
+      gli altri poliziotti non hanno: un vero e proprio sesto senso
+      per la mafia. Gli uomini d’onore la chiamano
+      “sbirritudine”, e lui ce l’ha
+      all’ennesima potenza: a capo di una squadra
+      investigativa speciale, da anni cerca di scardinare il clan
+      di Fifi Bellingeri, che sta insanguinando le strade di
+      Prezia. Inchiesta dopo inchiesta si avvicina al suo
+      obiettivo, ma ogni volta la cattura sfuma
+      all’improvviso. Interessi personali, collusione, falsi
+      incidenti, truffe: gli ostacoli sono sempre nuovi e arrivano
+      anche dall’alto, perché nel sistema sono tutti
+      d’accordo, come ai tempi del Gattopardo. Ma per lui
+      lottare contro Cosa Nostra non è una scelta, è la
+      vita. Per arrivare fino in fondo dovrà sfidare la legge,
+      i superiori, i mafiosi stessi, disobbedendo agli ordini e
+      vivendo nell’attesa, nascosto e braccato come un
+      predatore. O come un latitante. Perché in una terra di
+      nessuno, in cui Stato e mafia si confondono, assomigliare ai
+      propri nemici è molto più facile di quanto non si
+      pensi.</p>
+      <p>**</p>
+    </div>
+  </content>
+  <link href="../author_0/author_46_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Giorgio Glaviano" />
+  <link href="http://www.goodreads.com/book/title/Sbirritudine%3A%20Un%20poliziotto%20dentro%20la%20mafia%20pi%C3%B9%20feroce.%20Una%20storia%20vera." type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Sbirritudine%3A%20Un%20poliziotto%20dentro%20la%20mafia%20pi%C3%B9%20feroce.%20Una%20storia%20vera." type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Sbirritudine%3A%20Un%20poliziotto%20dentro%20la%20mafia%20pi%C3%B9%20feroce.%20Una%20storia%20vera.%20Giorgio%20Glaviano" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Sbirritudine%3A%20Un%20poliziotto%20dentro%20la%20mafia%20pi%C3%B9%20feroce.%20Una%20storia%20vera.&amp;field-author=Giorgio%20Glaviano" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Giorgio%20Glaviano" type="text/html" rel="related" title="Giorgio Glaviano on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Giorgio%20Glaviano" type="text/html" rel="related" title="Giorgio Glaviano on Wikipedia" />
+  <link href="http://www.librarything.com/author/GlavianoGiorgio" type="text/html" rel="related" title="Giorgio Glaviano on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Giorgio%20Glaviano" type="text/html" rel="related" title="Giorgio Glaviano on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Giorgio%20Glaviano" type="text/html" rel="related" title="Giorgio Glaviano on ISFDB" />
+</entry>

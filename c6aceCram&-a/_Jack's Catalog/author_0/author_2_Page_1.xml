@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>James s. A. Corey</title>
+  <id>Calibre2opds:author:2</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_2_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="James s. A. Corey" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with C" />
+  <entry>
+    <title>(Expanse 01) Leviathan. Il risveglio</title>
+    <id>calibre:book:3</id>
+    <updated>2016-07-17T05:52:56Z</updated>
+    <link href="../../James%20s.%20A.%20Corey/%28Expanse%2001%29%20Leviathan.%20Il%20risveglio%20%283%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../James%20s.%20A.%20Corey/%28Expanse%2001%29%20Leviathan.%20Il%20risveglio%20%283%29/%28Expanse%2001%29%20Leviathan.%20Il%20risv%20-%20James%20s.%20A.%20Corey.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="917 KB" />
+    <author>
+      <name>James s. A. Corey</name>
+      <uri>../author_0/author_2_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Fantascienza" />
+    <category term="Lang:it" />
+    <summary>L’umanità ha colonizzato l’intero sistema solare, spingendosi fino all’orbita di Nettuno grazie alla scoperta di un avveniristico motore a fusione. Jim Holden presta servizio sulla Canterbury, un cargo che trasporta ghiaccio attraverso gli infiniti s...</summary>
+    <link href="../book_0/book_3.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Caliban. La guerra</title>
+    <id>calibre:book:256</id>
+    <updated>2016-07-17T05:54:11Z</updated>
+    <link href="../../James%20s.%20A.%20Corey/Caliban.%20La%20guerra%20%28256%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../James%20s.%20A.%20Corey/Caliban.%20La%20guerra%20%28256%29/Caliban.%20La%20guerra%20-%20James%20s.%20A.%20Corey.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>James s. A. Corey</name>
+      <uri>../author_0/author_2_Page_1.xml</uri>
+    </author>
+    <published>2015-11-10T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Su Ganimede, il pianeta granaio dell’intero sistema gioviano e fonte di approvvigionamento per i pianeti più esterni, un marine dell’esercito di Marte assiste inerme allo sterminio del suo plotone, massacrato da un mostruoso supersoldato. Nel frattem...</summary>
+    <link href="../book_0/book_256.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

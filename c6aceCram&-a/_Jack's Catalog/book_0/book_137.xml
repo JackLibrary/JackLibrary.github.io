@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Le mie due vite</title>
+  <id>urn:book:20cbce02-2488-401a-b316-b1a747d48b1f</id>
+  <updated>2016-07-17T05:53:37Z</updated>
+  <link href="./book_137.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Le mie due vite" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_W_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with W" />
+  <link href="../../Jo%20Walton/Le%20mie%20due%20vite%20%28137%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Jo%20Walton/Le%20mie%20due%20vite%20%28137%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Jo%20Walton/Le%20mie%20due%20vite%20%28137%29/Le%20mie%20due%20vite%20-%20Jo%20Walton.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="744 KB" />
+  <author>
+    <name>Jo Walton</name>
+    <uri>../author_0/author_24_Page_1.xml</uri>
+  </author>
+  <published>2014-10-01T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Gargoyle</dcterms:publisher>
+  <category term="Fantasy" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Fantasy, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">Patricia ha dei ricordi molto confusi del suo passato. Le
+    immagini dell’adolescenza sono nitide e intatte, ma dopo
+    cosa è successo?</p>
+    <p xmlns="">Ha sposato Mark ed è stata moglie e madre come le sue
+    coetanee, oppure ha scelto di amare liberamente la sua compagna
+    Bee sfidando tutti i pregiudizi? Davvero le sue scelte hanno
+    influenzato il destino del mondo al punto di farlo diventare
+    contemporaneamente un posto meraviglioso in cui vivere e il
+    palcoscenico di atti terribili?</p>
+    <p xmlns="">Patricia non lo sa. Non sa come sia possibile ricordare di
+    essere stata sia Trish sia Pat. Le sfugge qualcosa, è
+    “molto confusa” come annotano i medici sulla sua
+    cartella clinica. E tuttavia deve tentare di rimettere insieme
+    i frammenti per capire chi è stata in
+    realtà…</p>
+    <p xmlns="">Due incredibili versioni della storia del XX secolo diverse
+    dalla nostra, due possibilità di vita vissute dalla
+    medesima donna, in cui, come nell’effetto farfalla, le
+    conquiste personali hanno il potere di cambiare i destini di
+    molti altri allo stesso modo in cui il battito d’ali di
+    una farfalla può provocare un uragano dall’altra
+    parte del mondo.</p>
+  </content>
+  <link href="../author_0/author_24_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Jo Walton" />
+  <link href="http://www.goodreads.com/book/title/Le%20mie%20due%20vite" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Le%20mie%20due%20vite" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Le%20mie%20due%20vite%20Jo%20Walton" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Le%20mie%20due%20vite&amp;field-author=Jo%20Walton" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Jo%20Walton" type="text/html" rel="related" title="Jo Walton on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Jo%20Walton" type="text/html" rel="related" title="Jo Walton on Wikipedia" />
+  <link href="http://www.librarything.com/author/WaltonJo" type="text/html" rel="related" title="Jo Walton on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Jo%20Walton" type="text/html" rel="related" title="Jo Walton on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Jo%20Walton" type="text/html" rel="related" title="Jo Walton on ISFDB" />
+</entry>

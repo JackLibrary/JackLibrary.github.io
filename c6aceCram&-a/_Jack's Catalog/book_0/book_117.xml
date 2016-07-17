@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Manuale per sopravvivere agli zombi</title>
+  <id>urn:book:b572b503-da4d-4cfc-9428-29502b0f54b3</id>
+  <updated>2016-07-17T05:53:31Z</updated>
+  <link href="./book_117.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Manuale per sopravvivere agli zombi" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with B" />
+  <link href="../../Max%20Brooks/Manuale%20per%20sopravvivere%20agli%20zombi%20%28117%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Max%20Brooks/Manuale%20per%20sopravvivere%20agli%20zombi%20%28117%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Max%20Brooks/Manuale%20per%20sopravvivere%20agli%20zombi%20%28117%29/Manuale%20per%20sopravvivere%20agli%20z%20-%20Max%20Brooks.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="3 MB" />
+  <author>
+    <name>Max Brooks</name>
+    <uri>../author_0/author_7_Page_1.xml</uri>
+  </author>
+  <published>2011-12-31T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Einaudi</dcterms:publisher>
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">
+      Il mondo è infestato dai morti
+    viventi? Niente paura: affidatevi con tranquillità al
+    Manuale per sopravvivere agli zombi. C'è tutto quello di
+    cui oggi avete veramente bisogno. Armi, tecniche e terreni di
+    combattimento, una descrizione attenta di usi, costumi e miti
+    degli zombi, risultato di una penetrante osservazione
+    scientifica; e soprattutto, una panoramica completa e
+    dettagliata dei metodi di difesa, di attacco, di fuga. Senza
+    trascurare i consigli su «come si vive nel mondo ormai
+    dominato dai non-morti». Con un bonus: Attacchi
+    documentati. Data per data, troverete la vera storia del mondo
+    dal primo attacco zombi a Katanga, Africa centrale, 60000
+    avanti Cristo, a oggi.
+      <br />
+      Coraggio, non tutto è perduto.
+    </p>
+  </content>
+  <link href="../author_0/author_7_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Max Brooks" />
+  <link href="http://www.goodreads.com/book/title/Manuale%20per%20sopravvivere%20agli%20zombi" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Manuale%20per%20sopravvivere%20agli%20zombi" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Manuale%20per%20sopravvivere%20agli%20zombi%20Max%20Brooks" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Manuale%20per%20sopravvivere%20agli%20zombi&amp;field-author=Max%20Brooks" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Max%20Brooks" type="text/html" rel="related" title="Max Brooks on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Max%20Brooks" type="text/html" rel="related" title="Max Brooks on Wikipedia" />
+  <link href="http://www.librarything.com/author/BrooksMax" type="text/html" rel="related" title="Max Brooks on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Max%20Brooks" type="text/html" rel="related" title="Max Brooks on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Max%20Brooks" type="text/html" rel="related" title="Max Brooks on ISFDB" />
+</entry>

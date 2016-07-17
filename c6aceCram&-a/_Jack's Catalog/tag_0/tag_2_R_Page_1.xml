@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with R</title>
+  <id>Calibre2opds:taglist:F:2:R</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tag_2_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with R" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with F" />
+  <link href="./tag_2_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Fiction" />
+  <entry>
+    <title>La ragazza che giocava con il fuoco: Millennium 2</title>
+    <id>calibre:book:64</id>
+    <updated>2016-07-17T05:53:15Z</updated>
+    <link href="../../Stieg%20Larsson/La%20ragazza%20che%20giocava%20con%20il%20fuoco_%20%2864%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stieg%20Larsson/La%20ragazza%20che%20giocava%20con%20il%20fuoco_%20%2864%29/La%20ragazza%20che%20giocava%20con%20il%20f%20-%20Stieg%20Larsson.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Stieg Larsson</name>
+      <uri>../author_0/author_19_Page_1.xml</uri>
+    </author>
+    <published>2010-10-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Marsilio Editori</dcterms:publisher>
+    <category term="Thrillers" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Mikael Blomkvist ha una nuova storia tra le mani. Due giornalisti, Dag e Mia, intendono pubblicare un libro che svela nomi e retroscena di un losco e vasto traffico di prostituzione tra Svezia e paesi dell’Est. Sono coinvolti personaggi di rilievo, p...</summary>
+    <link href="../book_0/book_64.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>I ragazzi di Anansi</title>
+    <id>calibre:book:63</id>
+    <updated>2016-07-17T05:53:15Z</updated>
+    <link href="../../Neil%20Gaiman/I%20ragazzi%20di%20Anansi%20%2863%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Neil%20Gaiman/I%20ragazzi%20di%20Anansi%20%2863%29/I%20ragazzi%20di%20Anansi%20-%20Neil%20Gaiman.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="665 KB" />
+    <author>
+      <name>Neil Gaiman</name>
+      <uri>../author_0/author_50_Page_1.xml</uri>
+    </author>
+    <published>2007-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Charlie Nancy, remissivo, imbranato, grigissimo e noioso impiegatuccio inglese, non riesce a scuotersi di dosso il maledetto nomignolo di "Ciccio Charlie", datogli dal padre quand'era bambino. È solo uno dei tanti imbarazzanti lasciti del genitore, m...</summary>
+    <link href="../book_0/book_63.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La regina dei castelli di carta</title>
+    <id>calibre:book:60</id>
+    <updated>2016-07-17T05:53:14Z</updated>
+    <link href="../../Stieg%20Larsson/La%20regina%20dei%20castelli%20di%20carta%20%2860%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stieg%20Larsson/La%20regina%20dei%20castelli%20di%20carta%20%2860%29/La%20regina%20dei%20castelli%20di%20carta%20-%20Stieg%20Larsson.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Stieg Larsson</name>
+      <uri>../author_0/author_19_Page_1.xml</uri>
+    </author>
+    <published>2010-10-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Marsilio Editori</dcterms:publisher>
+    <category term="Thrillers" />
+    <category term="Fiction" />
+    <category term="Suspense" />
+    <category term="Lang:it" />
+    <summary>La giovane hacker Lisbeth Salander è di nuovo immobilizzata in un letto d'ospedale, anche se questa volta non sono le cinghie di cuoio a trattenerla, ma una pallottola in testa. È diventata una minaccia: se qualcuno scava nella sua vita e ascolta que...</summary>
+    <link href="../book_0/book_60.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La regola dei due</title>
+    <id>calibre:book:149</id>
+    <updated>2016-07-17T05:53:41Z</updated>
+    <link href="../../Drew%20Karpyshyn/La%20regola%20dei%20due%20%28149%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Drew%20Karpyshyn/La%20regola%20dei%20due%20%28149%29/La%20regola%20dei%20due%20-%20Drew%20Karpyshyn.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Drew Karpyshyn</name>
+      <uri>../author_0/author_33_Page_1.xml</uri>
+    </author>
+    <published>2013-06-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="Fantascienza" />
+    <category term="Star Wars" />
+    <category term="Science Fiction" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>"Sempre due: né più, né meno. Uno racchiude il potere, l'altro lo brama." Ora Darth Bane è pronto a mettere in atto la sua Regola, e crede di aver trovato l'elemento chiave che completerà il suo trionfo: un allievo da addestrare al Lato Oscuro. Bench...</summary>
+    <link href="../book_0/book_149.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

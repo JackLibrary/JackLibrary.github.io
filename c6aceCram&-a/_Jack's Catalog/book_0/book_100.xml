@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Il mondo in un tappeto</title>
+  <id>urn:book:b5a9b699-2532-4273-bedb-71e6527fad41</id>
+  <updated>2016-07-17T05:53:26Z</updated>
+  <link href="./book_100.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Il mondo in un tappeto" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_B_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with B" />
+  <link href="../../Clive%20Barker/Il%20mondo%20in%20un%20tappeto%20%28100%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Clive%20Barker/Il%20mondo%20in%20un%20tappeto%20%28100%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Clive%20Barker/Il%20mondo%20in%20un%20tappeto%20%28100%29/Il%20mondo%20in%20un%20tappeto%20-%20Clive%20Barker.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+  <author>
+    <name>Clive Barker</name>
+    <uri>../author_0/author_80_Page_1.xml</uri>
+  </author>
+  <published>1994-05-14T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>TEA</dcterms:publisher>
+  <category term="Fiction" />
+  <category term="Horror" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Fiction, Horror, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">E' un'opera fantastica che prende
+    l'avvio dall'immagine di un vecchio tappeto: questo semplice
+    oggetto nasconde un mondo di incantesimi e di inebriante
+    beatitudine, un mondo che ritorna in vita per sfidare le forze
+    del male e preservare le ultime tracce di magia cui
+    l'umanità ha ancora accesso. In un anno qualsiasi, in un
+    paese incantato, un telaio fatato entra in funzione, trasforma
+    i luoghi e le immagini del desiderio personale e collettivo in
+    simboli e li addormenta in un tappeto. Anni, secoli o millenni
+    più tardi, Cal e Susanne si imbatteranno in quel tappeto
+    perché loro e il mondo reale in cui vivranno avranno
+    bisogno di magia, e il tappeto dipanerà le sue storie.</p>
+  </content>
+  <link href="../author_0/author_80_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Clive Barker" />
+  <link href="http://www.goodreads.com/book/title/Il%20mondo%20in%20un%20tappeto" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Il%20mondo%20in%20un%20tappeto" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Il%20mondo%20in%20un%20tappeto%20Clive%20Barker" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Il%20mondo%20in%20un%20tappeto&amp;field-author=Clive%20Barker" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Clive%20Barker" type="text/html" rel="related" title="Clive Barker on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Clive%20Barker" type="text/html" rel="related" title="Clive Barker on Wikipedia" />
+  <link href="http://www.librarything.com/author/BarkerClive" type="text/html" rel="related" title="Clive Barker on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Clive%20Barker" type="text/html" rel="related" title="Clive Barker on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Clive%20Barker" type="text/html" rel="related" title="Clive Barker on ISFDB" />
+</entry>

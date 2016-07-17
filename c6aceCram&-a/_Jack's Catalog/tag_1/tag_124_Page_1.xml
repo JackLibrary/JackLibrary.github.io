@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Romance</title>
+  <id>Calibre2opds:taglist:R:124</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tag_124_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Romance" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_R_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with R" />
+  <entry>
+    <title>Futuro Ignoto</title>
+    <id>calibre:book:208</id>
+    <updated>2016-07-17T05:53:58Z</updated>
+    <link href="../../Francesco%20Cotti/Futuro%20Ignoto%20%28208%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Francesco%20Cotti/Futuro%20Ignoto%20%28208%29/Futuro%20Ignoto%20-%20Francesco%20Cotti.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Francesco Cotti</name>
+      <uri>../author_0/author_140_Page_1.xml</uri>
+    </author>
+    <published>2015-06-15T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>lulu.com</dcterms:publisher>
+    <category term="General" />
+    <category term="Romance" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>Sono trascorsi due anni dagli eventi de "La giusta decisione". Saverio Mora, l'analista dei Servizi Segreti italiani, e Matteo Giuliani, ex ufficiale del Col Moschin, oggi vivono le loro vite a centinaia di chilometri uno dall'altro, ignari delle cir...</summary>
+    <link href="../book_0/book_208.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

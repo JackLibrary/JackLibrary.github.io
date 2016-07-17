@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Neal Stephenson</title>
+  <id>Calibre2opds:author:38</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_38_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Neal Stephenson" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <entry>
+    <title>Snow Crash</title>
+    <id>calibre:book:44</id>
+    <updated>2016-07-17T05:53:09Z</updated>
+    <link href="../../Neal%20Stephenson/Snow%20Crash%20%2844%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Neal%20Stephenson/Snow%20Crash%20%2844%29/Snow%20Crash%20-%20Neal%20Stephenson.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="877 KB" />
+    <author>
+      <name>Neal Stephenson</name>
+      <uri>../author_0/author_38_Page_1.xml</uri>
+    </author>
+    <published>2000-05-01T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Spectra</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>One of Time magazine's 100 all-time best English-language novels.  Only once in a great while does a writer come along who defies comparison—a writer so original he redefines the way we look at the world. Neal Stephenson is such a writer and Snow Cra...</summary>
+    <link href="../book_0/book_44.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cryptonomicon</title>
+    <id>calibre:book:235</id>
+    <updated>2016-07-17T05:54:05Z</updated>
+    <link href="../../Neal%20Stephenson/Cryptonomicon%20%28235%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Neal%20Stephenson/Cryptonomicon%20%28235%29/Cryptonomicon%20-%20Neal%20Stephenson.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+    <author>
+      <name>Neal Stephenson</name>
+      <uri>../author_0/author_38_Page_1.xml</uri>
+    </author>
+    <published>1999-03-10T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Rizzoli</dcterms:publisher>
+    <category term="sistemati" />
+    <category term="Lang:it" />
+    <summary>1942. Lawrence Pritchard Waterhouse, genio mate­matico e giovane capitano della Marina americana viene incaricato di una missione segretissima: insieme al sergente dei Marines Bobby Shaftoe dovrà non soltanto lavorare alla decifrazione di un linguagg...</summary>
+    <link href="../book_0/book_235.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

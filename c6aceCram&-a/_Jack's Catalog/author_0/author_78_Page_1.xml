@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Joe Hill</title>
+  <id>Calibre2opds:author:78</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_78_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Joe Hill" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_H_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with H" />
+  <entry>
+    <title>NOS4A2: Ritorno a Christmasland</title>
+    <id>calibre:book:97</id>
+    <updated>2016-07-17T05:53:25Z</updated>
+    <link href="../../Joe%20Hill/NOS4A2_%20Ritorno%20a%20Christmasland%20%2897%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Joe%20Hill/NOS4A2_%20Ritorno%20a%20Christmasland%20%2897%29/NOS4A2_%20Ritorno%20a%20Christmasland%20-%20Joe%20Hill.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Joe Hill</name>
+      <uri>../author_0/author_78_Page_1.xml</uri>
+    </author>
+    <published>2014-10-24T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Sperling &amp; Kupfer</dcterms:publisher>
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Horror" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Genre Fiction" />
+    <category term="Fantasy" />
+    <category term="Lang:it" />
+    <summary>Victoria McQueen ha la stupefacente capacità di trovare le cose: un braccialetto smarrito, una foto persa, risposte a interrogativi che non hanno soluzione. Quando passa con la sua bicicletta sul vecchio e traballante ponte coperto nei boschi dietro ...</summary>
+    <link href="../book_0/book_97.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

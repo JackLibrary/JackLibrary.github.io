@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with G</title>
+  <id>Calibre2opds:taglist:L:138:G</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tag_138_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with G" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_L_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with L" />
+  <link href="./tag_138_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Lang:it" />
+  <entry>
+    <title>Gangsterland</title>
+    <id>calibre:book:206</id>
+    <updated>2016-07-17T05:53:57Z</updated>
+    <link href="../../Tod%20Goldberg/Gangsterland%20%28206%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Tod%20Goldberg/Gangsterland%20%28206%29/Gangsterland%20-%20Tod%20Goldberg.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="655 KB" />
+    <author>
+      <name>Tod Goldberg</name>
+      <uri>../author_0/author_138_Page_1.xml</uri>
+    </author>
+    <published>2016-05-29T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Sperling &amp; Kupfer</dcterms:publisher>
+    <category term="Crime" />
+    <category term="Mystery" />
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Foreign Languages" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Thrillers" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Lang:it" />
+    <summary>Sal Cupertine è un serio professionista di Chicago, marito fedele e padre affettuoso. 
+È famoso per la sua prodigiosa memoria, tanto che nel suo ambiente lo hanno soprannominato Rain Man, niente di personale. 
+Anzi, il datore di lavoro apprezza molti...</summary>
+    <link href="../book_0/book_206.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Genio in 21 giorni</title>
+    <id>calibre:book:204</id>
+    <updated>2016-07-17T05:53:57Z</updated>
+    <link href="../../Giacomo%20Navone/Genio%20in%2021%20giorni%20%28204%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Giacomo%20Navone/Genio%20in%2021%20giorni%20%28204%29/Genio%20in%2021%20giorni%20-%20Giacomo%20Navone.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="787 KB" />
+    <author>
+      <name>Giacomo Navone</name>
+      <uri>../author_0/author_136_Page_1.xml</uri>
+    </author>
+    <published>2014-07-07T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Sperling &amp; Kupfer</dcterms:publisher>
+    <category term="Lang:it" />
+    <link href="../book_0/book_204.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Genova sembrava d'oro e d'argento</title>
+    <id>calibre:book:203</id>
+    <updated>2016-07-17T05:53:56Z</updated>
+    <link href="../../Gensini%20Giacomo/Genova%20sembrava%20d%27oro%20e%20d%27argento%20%28203%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gensini%20Giacomo/Genova%20sembrava%20d%27oro%20e%20d%27argento%20%28203%29/Genova%20sembrava%20d%27oro%20e%20d%27argen%20-%20Gensini%20Giacomo.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="318 KB" />
+    <author>
+      <name>Gensini Giacomo</name>
+      <uri>../author_0/author_135_Page_1.xml</uri>
+    </author>
+    <published>2012-12-11T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <summary>Dario ha trent&amp;apos;anni, è un celerino, e stare nella polizia per lui è una via di fuga dal dolore, da un lutto troppo forte di cui non vede la fine. Lui e i suoi compagni, Orso, Gundam e tutti gli altri, spendono la domenica in servizio negli stadi...</summary>
+    <link href="../book_0/book_203.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Giallo metropoli</title>
+    <id>calibre:book:202</id>
+    <updated>2016-07-17T05:53:56Z</updated>
+    <link href="../../Aa.vv_/Giallo%20metropoli%20%28202%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Aa.vv_/Giallo%20metropoli%20%28202%29/Giallo%20metropoli%20-%20Aa.vv_.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="697 KB" />
+    <author>
+      <name>Aa.vv.</name>
+      <uri>../author_0/author_134_Page_1.xml</uri>
+    </author>
+    <published>2015-04-27T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>EDIZIONI PIEMME</dcterms:publisher>
+    <category term="Biographies &amp; Memoirs" />
+    <category term="Diaries &amp; True Accounts" />
+    <category term="Foreign Languages" />
+    <category term="Italian" />
+    <category term="Biographies" />
+    <category term="Lang:it" />
+    <summary>Un aeroplano si schianta contro un grattacielo, ma non siamo a New York. Il cadavere di una donna rasata ritrovato in una valigia. Un bandito pericoloso e romantico che fa impazzire le donne. Una nube silenziosa e letale si allarga come uno spettro s...</summary>
+    <link href="../book_0/book_202.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il Gioco di Ender</title>
+    <id>calibre:book:188</id>
+    <updated>2016-07-17T05:53:52Z</updated>
+    <link href="../../Orson%20Scott%20Card/Il%20Gioco%20di%20Ender%20%28188%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Orson%20Scott%20Card/Il%20Gioco%20di%20Ender%20%28188%29/Il%20Gioco%20di%20Ender%20-%20Orson%20Scott%20Card.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="725 KB" />
+    <author>
+      <name>Orson Scott Card</name>
+      <uri>../author_0/author_129_Page_1.xml</uri>
+    </author>
+    <published>1987-11-04T00:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Nord</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:it" />
+    <summary>Gli alieni, minacciosi esseri dall'aspetto insettoide, hanno attaccato 
+due volte la Terra e hanno quasi distrutto la specie umana. Per 
+assicurarsi la vittoria nel successivo scontro di questa guerra il 
+governo del mondo ha deciso di creare una raz...</summary>
+    <link href="../book_0/book_188.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Globalia</title>
+    <id>calibre:book:199</id>
+    <updated>2016-07-17T05:53:55Z</updated>
+    <link href="../../Jean-Cristophe%20Rufin/Globalia%20%28199%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jean-Cristophe%20Rufin/Globalia%20%28199%29/Globalia%20-%20Jean-Cristophe%20Rufin.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="891 KB" />
+    <author>
+      <name>Jean-Cristophe Rufin</name>
+      <uri>../author_0/author_132_Page_1.xml</uri>
+    </author>
+    <published>2016-05-18T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Edizioni e/o</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Foreign Language Fiction" />
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Science Fiction" />
+    <category term="Literary Fiction" />
+    <category term="Literary" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Post-Apocalyptic" />
+    <category term="Italian" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>Dall’autore de L’uomo dei sogni, un libro che merita di stare a fianco di Orwell e Huxley sullo scaffale delle grandi distopie del nostro tempo.  
+In un futuro prossimo, così prossimo da apparirci verosimile in maniera preoccupante, il pianeta è un u...</summary>
+    <link href="../book_0/book_199.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>God breaker</title>
+    <id>calibre:book:201</id>
+    <updated>2016-07-17T05:53:56Z</updated>
+    <link href="../../Luca%20Tarenzi/God%20breaker%20%28201%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Luca%20Tarenzi/God%20breaker%20%28201%29/God%20breaker%20-%20Luca%20Tarenzi.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+    <author>
+      <name>Luca Tarenzi</name>
+      <uri>../author_0/author_133_Page_1.xml</uri>
+    </author>
+    <published>2013-11-11T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Salani</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>Gli dei esistono. Camminano in mezzo a noi, 
+vivono dentro e fuori la realtà di tutti i giorni, hanno macchine, 
+uffici, soldi... Ma non tutti. Alcuni stanno morendo, travolti dalla 
+perdita di tutti i loro seguaci; altri combattono una lotta spietat...</summary>
+    <link href="../book_0/book_201.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Grazie Mr Snowden</title>
+    <id>calibre:book:197</id>
+    <updated>2016-07-17T05:53:55Z</updated>
+    <link href="../../Fabio%20Chiusi/Grazie%20Mr%20Snowden%20%28197%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Fabio%20Chiusi/Grazie%20Mr%20Snowden%20%28197%29/Grazie%20Mr%20Snowden%20-%20Fabio%20Chiusi.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="579 KB" />
+    <author>
+      <name>Fabio Chiusi</name>
+      <uri>../author_0/author_131_Page_1.xml</uri>
+    </author>
+    <published>2014-01-17T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Messaggero Veneto</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>Cos’è il Datagate, perché riguarda l’Italia e perché ci rende liberi</summary>
+    <link href="../book_0/book_197.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Guerra senza limiti. L'arte della guerra asimmetrica fra terrorismo e globalizzazione</title>
+    <id>calibre:book:195</id>
+    <updated>2016-07-17T05:53:54Z</updated>
+    <link href="../../Xiangsui%20Wang%20Liang%20Qiao/Guerra%20senza%20limiti.%20L%27arte%20della%20g%20%28195%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Xiangsui%20Wang%20Liang%20Qiao/Guerra%20senza%20limiti.%20L%27arte%20della%20g%20%28195%29/Guerra%20senza%20limiti.%20L%27arte%20del%20-%20Xiangsui%20Wang%20Liang%20Qiao.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="333 KB" />
+    <author>
+      <name>Xiangsui Wang Liang Qiao</name>
+      <uri>../author_0/author_130_Page_1.xml</uri>
+    </author>
+    <published>2001-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Editrice Goriziana</dcterms:publisher>
+    <category term="Geopolitica" />
+    <category term="Lang:it" />
+    <summary>Sono stati due militari cinesi, i colonnelli Qiao Liang e Wang Xiangsui, a definire Osama Bin Laden l'interprete più efficace di un nuovo tipo di guerra, prima degli attacchi agli Usa. I due commissari politici dell'esercito cinese hanno pubblicato q...</summary>
+    <link href="../book_0/book_195.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La giornata di un opričnik (biblioteca del fuoco) (Italian Edition)</title>
+    <id>calibre:book:207</id>
+    <updated>2016-07-17T05:53:58Z</updated>
+    <link href="../../Vladimir%20Sorokin/La%20giornata%20di%20un%20opricnik%20%28bibliot%20%28207%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Vladimir%20Sorokin/La%20giornata%20di%20un%20opricnik%20%28bibliot%20%28207%29/La%20giornata%20di%20un%20opricnik%20%28bib%20-%20Vladimir%20Sorokin.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Vladimir Sorokin</name>
+      <uri>../author_0/author_139_Page_1.xml</uri>
+    </author>
+    <published>2014-03-22T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Atmosphere libri</dcterms:publisher>
+    <category term="Italian" />
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Fantasy" />
+    <category term="Foreign Language Fiction" />
+    <category term="Foreign Languages" />
+    <category term="Paranormal &amp; Urban" />
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Lang:it" />
+    <summary>Russia, 2027. La monarchia è stata restaurata. Una rivoluzione neozarista ha costruito un nuovo Stato repressivo. La fustigazione è tornata, e il Cremlino è stato ridipinto del suo colore bianco originale. Il sublime auto-isolamento nazionale è stato...</summary>
+    <link href="../book_0/book_207.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il giorno del cobra</title>
+    <id>calibre:book:205</id>
+    <updated>2016-07-17T05:53:57Z</updated>
+    <link href="../../Richard%20Preston/Il%20giorno%20del%20cobra%20%28205%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Richard%20Preston/Il%20giorno%20del%20cobra%20%28205%29/Il%20giorno%20del%20cobra%20-%20Richard%20Preston.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="958 KB" />
+    <author>
+      <name>Richard Preston</name>
+      <uri>../author_0/author_137_Page_1.xml</uri>
+    </author>
+    <published>2000-06-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Rizzoli</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Suspense" />
+    <category term="Thrillers" />
+    <category term="Lang:it" />
+    <summary>Una ragazza di diciassette anni, Kate Moran, si presenta una mattina a scuola leggermente raffreddata. Una semplice seccatura, ma solo in apparenza... Nel giro di pochi minuti la ragazza muore sotto gli occhi di compagni ed insegnanti. Sarà una giova...</summary>
+    <link href="../book_0/book_205.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

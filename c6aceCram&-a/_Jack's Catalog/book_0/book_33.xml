@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Torno a prenderti</title>
+  <id>urn:book:0d372348-557a-48e3-a50d-461cbdb6da52</id>
+  <updated>2016-07-17T05:53:05Z</updated>
+  <link href="./book_33.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Torno a prenderti" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_K_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with K" />
+  <link href="../../Stephen%20King/Torno%20a%20prenderti%20%2833%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Stephen%20King/Torno%20a%20prenderti%20%2833%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Stephen%20King/Torno%20a%20prenderti%20%2833%29/Torno%20a%20prenderti%20-%20Stephen%20King.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="186 KB" />
+  <author>
+    <name>Stephen King</name>
+    <uri>../author_0/author_3_Page_1.xml</uri>
+  </author>
+  <published>2008-05-31T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Sperling &amp; Kupfer</dcterms:publisher>
+  <category term="Horror" />
+  <category term="Thriller" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Horror, Thriller, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">Emily si è rifugiata in un disabitato luogo di
+    villeggiatura. Un giorno mentre fa jogging lancia uno sguardo
+    incauto al bagagliaio dell'auto del vicino... e si risveglia
+    saldamente legata nella cucina di lui, in procinto di essere
+    torturata e fatta a pezzi come la vittima che aveva casualmente
+    adocchiato. Immobilizzata e indifesa, senza nessuno che possa
+    sentirla nel raggio di chilometri, Emily tenta disperatamente
+    di escogitare un piano prima che il mostro torni a
+    prenderla…</p>
+  </content>
+  <link href="../author_0/author_3_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Stephen King" />
+  <link href="http://www.goodreads.com/book/title/Torno%20a%20prenderti" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Torno%20a%20prenderti" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Torno%20a%20prenderti%20Stephen%20King" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Torno%20a%20prenderti&amp;field-author=Stephen%20King" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Stephen%20King" type="text/html" rel="related" title="Stephen King on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Stephen%20King" type="text/html" rel="related" title="Stephen King on Wikipedia" />
+  <link href="http://www.librarything.com/author/KingStephen" type="text/html" rel="related" title="Stephen King on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Stephen%20King" type="text/html" rel="related" title="Stephen King on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Stephen%20King" type="text/html" rel="related" title="Stephen King on ISFDB" />
+</entry>

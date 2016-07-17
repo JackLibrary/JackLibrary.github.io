@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Mckenzie Funk</title>
+  <id>Calibre2opds:author:10</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_10_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Mckenzie Funk" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with F" />
+  <entry>
+    <title>Windfall: The Booming Business of Global Warming</title>
+    <id>calibre:book:10</id>
+    <updated>2016-07-17T05:52:58Z</updated>
+    <link href="../../Mckenzie%20Funk/Windfall_%20The%20Booming%20Business%20of%20Gl%20%2810%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Mckenzie%20Funk/Windfall_%20The%20Booming%20Business%20of%20Gl%20%2810%29/Windfall_%20The%20Booming%20Business%20-%20Mckenzie%20Funk.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="5 MB" />
+    <author>
+      <name>Mckenzie Funk</name>
+      <uri>../author_0/author_10_Page_1.xml</uri>
+    </author>
+    <published>2015-01-26T11:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Penguin Books</dcterms:publisher>
+    <category term="Lang:en" />
+    <summary>A fascinating investigation into how people around the globe are cashing in on a warming world  McKenzie Funk has spent the last six years reporting around the world on how we are preparing for a warmer planet. Funk shows us that the best way to unde...</summary>
+    <link href="../book_0/book_10.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

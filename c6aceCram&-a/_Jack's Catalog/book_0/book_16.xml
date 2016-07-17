@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Vajont - Oltre il muro (Italian Edition)</title>
+  <id>urn:book:ac991ec1-f65d-4afd-b78e-aa7dfa2540e0</id>
+  <updated>2016-07-17T05:53:00Z</updated>
+  <link href="./book_16.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Vajont - Oltre il muro (Italian Edition)" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_G_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with G" />
+  <link href="../../Paolo%20Guarnieri/Vajont%20-%20Oltre%20il%20muro%20%28Italian%20Edit%20%2816%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Paolo%20Guarnieri/Vajont%20-%20Oltre%20il%20muro%20%28Italian%20Edit%20%2816%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Paolo%20Guarnieri/Vajont%20-%20Oltre%20il%20muro%20%28Italian%20Edit%20%2816%29/Vajont%20-%20Oltre%20il%20muro%20%28Italian%20-%20Paolo%20Guarnieri.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+  <author>
+    <name>Paolo Guarnieri</name>
+    <uri>../author_0/author_16_Page_1.xml</uri>
+  </author>
+  <published>2016-05-24T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Panda Edizioni</dcterms:publisher>
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="">L&amp;apos;autore di questo libro, all&amp;apos;epoca dei
+    fatti, era un giovane pompiere. Assieme ai suoi compagni,
+    all&amp;apos;alba del 10 ottobre del 1963, si è trovato
+    improvvisamente catapultato sul luogo del disastro, una delle
+    più grandi catastrofi degli anni sessanta. A distanza di
+    quasi cinquant&amp;apos;anni ha voluto raccontare la sua
+    esperienza mettendo a nudo tutta la drammaticità di quei
+    momenti. Paolo Guarnieri non è un giornalista e il libro
+    che ha scritto non è la cronaca di una tragedia. Lui
+    è uno dei tanti uomini che hanno operato in
+    quell&amp;apos;inferno ed hanno visto il vero volto della
+    morte. Il suo libro parla, facendo raccontare la tragedia,
+    questa volta, da coloro che possono averla vissuta in prima
+    persona. Racconti di storia vissuta, situazioni di una vita
+    normale, ammesso che la parola “normale” abbia un
+    senso nella tragedia del Vajont.</p>
+  </content>
+  <link href="../author_0/author_16_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Paolo Guarnieri" />
+  <link href="http://www.goodreads.com/book/title/Vajont%20-%20Oltre%20il%20muro%20%28Italian%20Edition%29" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Vajont%20-%20Oltre%20il%20muro%20%28Italian%20Edition%29" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Vajont%20-%20Oltre%20il%20muro%20%28Italian%20Edition%29%20Paolo%20Guarnieri" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Vajont%20-%20Oltre%20il%20muro%20%28Italian%20Edition%29&amp;field-author=Paolo%20Guarnieri" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Paolo%20Guarnieri" type="text/html" rel="related" title="Paolo Guarnieri on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Paolo%20Guarnieri" type="text/html" rel="related" title="Paolo Guarnieri on Wikipedia" />
+  <link href="http://www.librarything.com/author/GuarnieriPaolo" type="text/html" rel="related" title="Paolo Guarnieri on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Paolo%20Guarnieri" type="text/html" rel="related" title="Paolo Guarnieri on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Paolo%20Guarnieri" type="text/html" rel="related" title="Paolo Guarnieri on ISFDB" />
+</entry>

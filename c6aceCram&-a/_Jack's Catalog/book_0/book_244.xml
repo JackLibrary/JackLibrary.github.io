@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Il codice Dominus</title>
+  <id>urn:book:037c4d15-1d06-4e24-84c4-f70609c28ab9</id>
+  <updated>2016-07-17T05:54:08Z</updated>
+  <link href="./book_244.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Il codice Dominus" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with F" />
+  <link href="../../Tom%20Fox/Il%20codice%20Dominus%20%28244%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Tom%20Fox/Il%20codice%20Dominus%20%28244%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Tom%20Fox/Il%20codice%20Dominus%20%28244%29/Il%20codice%20Dominus%20-%20Tom%20Fox.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="663 KB" />
+  <author>
+    <name>Tom Fox</name>
+    <uri>../author_0/author_153_Page_1.xml</uri>
+  </author>
+  <author>
+    <name>Massimo Gardella</name>
+    <uri>../author_0/author_154_Page_1.xml</uri>
+  </author>
+  <published>2016-06-15T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Tre60</dcterms:publisher>
+  <category term="Thrillers &amp; Suspense" />
+  <category term="Italian" />
+  <category term="Thriller &amp; Mystery" />
+  <category term="Thrillers" />
+  <category term="Crime" />
+  <category term="Mystery" />
+  <category term="Foreign Language Fiction" />
+  <category term="Foreign Languages" />
+  <category term="Literature &amp; Fiction" />
+  <category term="Thriller &amp; Suspense" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Thrillers &amp; Suspense, Italian, Thriller &amp; Mystery, Thrillers, Crime, Mystery, Foreign Language Fiction, Foreign Languages, Literature &amp; Fiction, Thriller &amp; Suspense, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <div xmlns="">
+      <p>
+        È un papa molto amato, Gregorio XVII, non soltanto
+      per i suoi messaggi di pace e di tolleranza, ma anche
+      perché porta su di sé i segni di una sofferenza
+      indicibile: la grave malattia di cui soffre sin
+      dall’infanzia non gli permette di stare in piedi da
+      solo. Eppure non si è mai arreso e anche adesso, mentre
+      celebra la messa, le sue parole riempiono la basilica di San
+      Pietro e raggiungono il cuore di tutti i presenti, colmandoli
+      di speranza.
+        <br />
+        Durante la benedizione, nessuno sembra accorgersi del
+      giovane che percorre la navata principale, diretto
+      all’altare. L’uomo raggiunge il pontefice, si
+      china su di lui e gli dice: «Alzati, Pietro. Chi era
+      storpio tornerà sano». E Gregorio XVII si alza.
+      Rimane in piedi, saldo sulle gambe.
+      </p>
+      <p>Ma chi è quell’uomo? E cosa significa la sua
+      comparsa? La verità è ancora più sconcertante
+      di quello che sembra, e ci vorranno un giornalista che ha
+      perduto la fede e una poliziotta che invece l’ha
+      ritrovata per dare una spiegazione a quello che sembra
+      l’inizio della fine…</p>
+      <p>**</p>
+    </div>
+  </content>
+  <link href="../author_0/author_153_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Tom Fox" />
+  <link href="../author_0/author_154_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Massimo Gardella" />
+  <link href="http://www.goodreads.com/book/title/Il%20codice%20Dominus" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Il%20codice%20Dominus" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Il%20codice%20Dominus%20Tom%20Fox" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Il%20codice%20Dominus&amp;field-author=Tom%20Fox" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Tom%20Fox" type="text/html" rel="related" title="Tom Fox on Goodreads" />
+  <link href="http://www.goodreads.com/book/author/Massimo%20Gardella" type="text/html" rel="related" title="Massimo Gardella on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Tom%20Fox" type="text/html" rel="related" title="Tom Fox on Wikipedia" />
+  <link href="http://en.wikipedia.org/wiki/Massimo%20Gardella" type="text/html" rel="related" title="Massimo Gardella on Wikipedia" />
+  <link href="http://www.librarything.com/author/FoxTom" type="text/html" rel="related" title="Tom Fox on LibraryThing" />
+  <link href="http://www.librarything.com/author/GardellaMassimo" type="text/html" rel="related" title="Massimo Gardella on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Tom%20Fox" type="text/html" rel="related" title="Tom Fox on Amazon" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Massimo%20Gardella" type="text/html" rel="related" title="Massimo Gardella on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Tom%20Fox" type="text/html" rel="related" title="Tom Fox on ISFDB" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Massimo%20Gardella" type="text/html" rel="related" title="Massimo Gardella on ISFDB" />
+</entry>

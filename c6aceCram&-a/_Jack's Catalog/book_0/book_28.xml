@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Il trono ombra</title>
+  <id>urn:book:e5eedfbc-0d0c-464a-8ddb-6403aa1eda4d</id>
+  <updated>2016-07-17T05:53:04Z</updated>
+  <link href="./book_28.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Il trono ombra" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_W_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with W" />
+  <link href="../../Django%20Wexler/Il%20trono%20ombra%20%2828%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Django%20Wexler/Il%20trono%20ombra%20%2828%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Django%20Wexler/Il%20trono%20ombra%20%2828%29/Il%20trono%20ombra%20-%20Django%20Wexler.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+  <author>
+    <name>Django Wexler</name>
+    <uri>../author_0/author_25_Page_1.xml</uri>
+  </author>
+  <published>2015-01-14T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+  <category term="General" />
+  <category term="Fantasy" />
+  <category term="Fiction" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      General, Fantasy, Fiction, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">Il re di Vordan giace sul letto di
+    morte. Presto sua figlia Raesinia Orboan gli succederà al
+    trono, ma il regno è minacciato da uomini ambiziosi, e
+    povertà e speculazione stanno spingendo la popolazione
+    allo stremo. È questo lo scenario che si presenta agli
+    occhi di Janus, Winter e Marcus quando giungono nella capitale
+    dopo essersi separati dal reggimento dei Coloniali. In un
+    ultimo atto volto a proteggere il regno, il re nomina Janus
+    ministro della Giustizia, nella speranza di contrastare
+    l’influenza del duca Orlanko, un uomo pericoloso in grado
+    di tenere sotto scacco la futura regina. Marcus viene nominato
+    capo del corpo di pubblica sicurezza, mentre il compito di
+    Winter sarà di infiltrarsi in un quartiere popolare in
+    fermento, per disporre le proprie pedine nella partita contro
+    Orlanko.La situazione in città è tesa, e dopo la
+    morte del padre, il primo atto regio di Raesinia è
+    l’istituzione di un comitato di rappresentanza popolare
+    al quale cedere temporaneamente le prerogative politiche. Anche
+    Janus, Marcus e Winter lottano insieme al popolo per quella
+    terra che avevano creduto di non vedere più. Ad attenderli
+    c’è la battaglia più difficile: il duca Orlanko
+    sta marciando verso la capitale, alla guida di un reggimento
+    incaricato di sedare la rivolta. Ma non sarà l’unica
+    minaccia che dovranno affrontare, perché le grandi potenze
+    del continente sono allarmate dal nuovo assetto
+    politico-sociale di Vordan...</p>
+  </content>
+  <link href="../author_0/author_25_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Django Wexler" />
+  <link href="http://www.goodreads.com/book/title/Il%20trono%20ombra" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Il%20trono%20ombra" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Il%20trono%20ombra%20Django%20Wexler" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Il%20trono%20ombra&amp;field-author=Django%20Wexler" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Django%20Wexler" type="text/html" rel="related" title="Django Wexler on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Django%20Wexler" type="text/html" rel="related" title="Django Wexler on Wikipedia" />
+  <link href="http://www.librarything.com/author/WexlerDjango" type="text/html" rel="related" title="Django Wexler on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Django%20Wexler" type="text/html" rel="related" title="Django Wexler on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Django%20Wexler" type="text/html" rel="related" title="Django Wexler on ISFDB" />
+</entry>

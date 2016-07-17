@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Jul 17, 2016</title>
+  <id>Calibre2opds:recent:ONEDAY</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./recent_ONEDAY_Page_4.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Jul 17, 2016" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="./recent_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Recent additions" />
+  <link href="../recent/recent_ONEDAY_Page_5.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (5 of 12)" />
+  <entry>
+    <title>Il giorno del cobra [July 17, 2016]</title>
+    <id>calibre:book:205</id>
+    <updated>2016-07-17T05:53:57Z</updated>
+    <link href="../../Richard%20Preston/Il%20giorno%20del%20cobra%20%28205%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Richard%20Preston/Il%20giorno%20del%20cobra%20%28205%29/Il%20giorno%20del%20cobra%20-%20Richard%20Preston.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="958 KB" />
+    <author>
+      <name>Richard Preston</name>
+      <uri>../author_0/author_137_Page_1.xml</uri>
+    </author>
+    <published>2000-06-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Rizzoli</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Suspense" />
+    <category term="Thrillers" />
+    <category term="Lang:it" />
+    <summary>Una ragazza di diciassette anni, Kate Moran, si presenta una mattina a scuola leggermente raffreddata. Una semplice seccatura, ma solo in apparenza... Nel giro di pochi minuti la ragazza muore sotto gli occhi di compagni ed insegnanti. Sarà una giova...</summary>
+    <link href="../book_0/book_205.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Gangsterland [July 17, 2016]</title>
+    <id>calibre:book:206</id>
+    <updated>2016-07-17T05:53:57Z</updated>
+    <link href="../../Tod%20Goldberg/Gangsterland%20%28206%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Tod%20Goldberg/Gangsterland%20%28206%29/Gangsterland%20-%20Tod%20Goldberg.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="655 KB" />
+    <author>
+      <name>Tod Goldberg</name>
+      <uri>../author_0/author_138_Page_1.xml</uri>
+    </author>
+    <published>2016-05-29T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Sperling &amp; Kupfer</dcterms:publisher>
+    <category term="Crime" />
+    <category term="Mystery" />
+    <category term="Thrillers &amp; Suspense" />
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Thriller &amp; Mystery" />
+    <category term="Foreign Languages" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Thrillers" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Lang:it" />
+    <summary>Sal Cupertine è un serio professionista di Chicago, marito fedele e padre affettuoso. 
+È famoso per la sua prodigiosa memoria, tanto che nel suo ambiente lo hanno soprannominato Rain Man, niente di personale. 
+Anzi, il datore di lavoro apprezza molti...</summary>
+    <link href="../book_0/book_206.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>God breaker [July 17, 2016]</title>
+    <id>calibre:book:201</id>
+    <updated>2016-07-17T05:53:56Z</updated>
+    <link href="../../Luca%20Tarenzi/God%20breaker%20%28201%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Luca%20Tarenzi/God%20breaker%20%28201%29/God%20breaker%20-%20Luca%20Tarenzi.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+    <author>
+      <name>Luca Tarenzi</name>
+      <uri>../author_0/author_133_Page_1.xml</uri>
+    </author>
+    <published>2013-11-11T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Salani</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>Gli dei esistono. Camminano in mezzo a noi, 
+vivono dentro e fuori la realtà di tutti i giorni, hanno macchine, 
+uffici, soldi... Ma non tutti. Alcuni stanno morendo, travolti dalla 
+perdita di tutti i loro seguaci; altri combattono una lotta spietat...</summary>
+    <link href="../book_0/book_201.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Giallo metropoli [July 17, 2016]</title>
+    <id>calibre:book:202</id>
+    <updated>2016-07-17T05:53:56Z</updated>
+    <link href="../../Aa.vv_/Giallo%20metropoli%20%28202%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Aa.vv_/Giallo%20metropoli%20%28202%29/Giallo%20metropoli%20-%20Aa.vv_.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="697 KB" />
+    <author>
+      <name>Aa.vv.</name>
+      <uri>../author_0/author_134_Page_1.xml</uri>
+    </author>
+    <published>2015-04-27T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>EDIZIONI PIEMME</dcterms:publisher>
+    <category term="Biographies &amp; Memoirs" />
+    <category term="Diaries &amp; True Accounts" />
+    <category term="Foreign Languages" />
+    <category term="Italian" />
+    <category term="Biographies" />
+    <category term="Lang:it" />
+    <summary>Un aeroplano si schianta contro un grattacielo, ma non siamo a New York. Il cadavere di una donna rasata ritrovato in una valigia. Un bandito pericoloso e romantico che fa impazzire le donne. Una nube silenziosa e letale si allarga come uno spettro s...</summary>
+    <link href="../book_0/book_202.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Genova sembrava d'oro e d'argento [July 17, 2016]</title>
+    <id>calibre:book:203</id>
+    <updated>2016-07-17T05:53:56Z</updated>
+    <link href="../../Gensini%20Giacomo/Genova%20sembrava%20d%27oro%20e%20d%27argento%20%28203%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Gensini%20Giacomo/Genova%20sembrava%20d%27oro%20e%20d%27argento%20%28203%29/Genova%20sembrava%20d%27oro%20e%20d%27argen%20-%20Gensini%20Giacomo.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="318 KB" />
+    <author>
+      <name>Gensini Giacomo</name>
+      <uri>../author_0/author_135_Page_1.xml</uri>
+    </author>
+    <published>2012-12-11T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <summary>Dario ha trent&amp;apos;anni, è un celerino, e stare nella polizia per lui è una via di fuga dal dolore, da un lutto troppo forte di cui non vede la fine. Lui e i suoi compagni, Orso, Gundam e tutti gli altri, spendono la domenica in servizio negli stadi...</summary>
+    <link href="../book_0/book_203.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Genio in 21 giorni [July 17, 2016]</title>
+    <id>calibre:book:204</id>
+    <updated>2016-07-17T05:53:57Z</updated>
+    <link href="../../Giacomo%20Navone/Genio%20in%2021%20giorni%20%28204%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Giacomo%20Navone/Genio%20in%2021%20giorni%20%28204%29/Genio%20in%2021%20giorni%20-%20Giacomo%20Navone.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="787 KB" />
+    <author>
+      <name>Giacomo Navone</name>
+      <uri>../author_0/author_136_Page_1.xml</uri>
+    </author>
+    <published>2014-07-07T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Sperling &amp; Kupfer</dcterms:publisher>
+    <category term="Lang:it" />
+    <link href="../book_0/book_204.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Heroes [July 17, 2016]</title>
+    <id>calibre:book:198</id>
+    <updated>2016-07-17T05:53:55Z</updated>
+    <link href="../../Joe%20Abercrombie/The%20Heroes%20%28198%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Joe%20Abercrombie/The%20Heroes%20%28198%29/The%20Heroes%20-%20Joe%20Abercrombie.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="3 MB" />
+    <author>
+      <name>Joe Abercrombie</name>
+      <uri>../author_0/author_51_Page_1.xml</uri>
+    </author>
+    <published>2012-10-07T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Gargoyle</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Lang:it" />
+    <summary>Bremer dan Gorst, maestro di spade caduto in disgrazia, ha giurato di reclamare sul campo di battaglia l'onore perduto. È ossessionato dalla redenzione e assetato di violenza, dunque non gli importa molto di quanto sangue scorrerà, anche se si tratta...</summary>
+    <link href="../book_0/book_198.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Globalia [July 17, 2016]</title>
+    <id>calibre:book:199</id>
+    <updated>2016-07-17T05:53:55Z</updated>
+    <link href="../../Jean-Cristophe%20Rufin/Globalia%20%28199%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jean-Cristophe%20Rufin/Globalia%20%28199%29/Globalia%20-%20Jean-Cristophe%20Rufin.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="891 KB" />
+    <author>
+      <name>Jean-Cristophe Rufin</name>
+      <uri>../author_0/author_132_Page_1.xml</uri>
+    </author>
+    <published>2016-05-18T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Edizioni e/o</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Foreign Language Fiction" />
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Science Fiction" />
+    <category term="Literary Fiction" />
+    <category term="Literary" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Post-Apocalyptic" />
+    <category term="Italian" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>Dall’autore de L’uomo dei sogni, un libro che merita di stare a fianco di Orwell e Huxley sullo scaffale delle grandi distopie del nostro tempo.  
+In un futuro prossimo, così prossimo da apparirci verosimile in maniera preoccupante, il pianeta è un u...</summary>
+    <link href="../book_0/book_199.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Gli eretici di Dune [July 17, 2016]</title>
+    <id>calibre:book:200</id>
+    <updated>2016-07-17T05:53:55Z</updated>
+    <link href="../../Frank%20Herbert/Gli%20eretici%20di%20Dune%20%28200%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Frank%20Herbert/Gli%20eretici%20di%20Dune%20%28200%29/Gli%20eretici%20di%20Dune%20-%20Frank%20Herbert.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Frank Herbert</name>
+      <uri>../author_0/author_100_Page_1.xml</uri>
+    </author>
+    <published>1984-10-02T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Nord</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:it" />
+    <summary>«Un sibilo sotterraneo, trasformato 
+dallo spessore della sabbia si fece più forte con incredibile 
+rapidità... C'era del calore in quel sibilo, e la brezza che si 
+riversava nel sentiero roccioso si riscaldò di colpo. Il sibilo crebbe 
+fino a diveni...</summary>
+    <link href="../book_0/book_200.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>I Robot dell'Alba [July 17, 2016]</title>
+    <id>calibre:book:194</id>
+    <updated>2016-07-17T05:53:54Z</updated>
+    <link href="../../Isaac%20Asimov/I%20Robot%20dell%27Alba%20%28194%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/I%20Robot%20dell%27Alba%20%28194%29/I%20Robot%20dell%27Alba%20-%20Isaac%20Asimov.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Isaac Asimov</name>
+      <uri>../author_0/author_124_Page_1.xml</uri>
+    </author>
+    <published>2011-03-08T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <summary>Con I robot dell'alba, torna la memorabile coppia di protagonisti, quei Lije Baley e R. Olivaw che sono diventati tra i più famosi personaggi della fantascienza americana". Baley, questa volta, sul pianeta Aurora, conosciuto anche come il Mondo dell'...</summary>
+    <link href="../book_0/book_194.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Guerra senza limiti. L'arte della guerra asimmetrica fra terrorismo e globalizzazione [July 17, 2016]</title>
+    <id>calibre:book:195</id>
+    <updated>2016-07-17T05:53:54Z</updated>
+    <link href="../../Xiangsui%20Wang%20Liang%20Qiao/Guerra%20senza%20limiti.%20L%27arte%20della%20g%20%28195%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Xiangsui%20Wang%20Liang%20Qiao/Guerra%20senza%20limiti.%20L%27arte%20della%20g%20%28195%29/Guerra%20senza%20limiti.%20L%27arte%20del%20-%20Xiangsui%20Wang%20Liang%20Qiao.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="333 KB" />
+    <author>
+      <name>Xiangsui Wang Liang Qiao</name>
+      <uri>../author_0/author_130_Page_1.xml</uri>
+    </author>
+    <published>2001-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Editrice Goriziana</dcterms:publisher>
+    <category term="Geopolitica" />
+    <category term="Lang:it" />
+    <summary>Sono stati due militari cinesi, i colonnelli Qiao Liang e Wang Xiangsui, a definire Osama Bin Laden l'interprete più efficace di un nuovo tipo di guerra, prima degli attacchi agli Usa. I due commissari politici dell'esercito cinese hanno pubblicato q...</summary>
+    <link href="../book_0/book_195.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Hyperion [July 17, 2016]</title>
+    <id>calibre:book:196</id>
+    <updated>2016-07-17T05:53:54Z</updated>
+    <link href="../../Dan%20Simmons/Hyperion%20%28196%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dan%20Simmons/Hyperion%20%28196%29/Hyperion%20-%20Dan%20Simmons.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Dan Simmons</name>
+      <uri>../author_0/author_112_Page_1.xml</uri>
+    </author>
+    <published>2012-07-04T10:42:30Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>Nel 2700 gli esseri umani, grazie allo 
+sviluppo della tecnologia dei teleporter, si spostano istantaneamente 
+nella galassia, ma un terribile esperimento, il Grande Errore, ha 
+causato la distruzione della Terra e la diaspora dell’uomo nello spazio,...</summary>
+    <link href="../book_0/book_196.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Grazie Mr Snowden [July 17, 2016]</title>
+    <id>calibre:book:197</id>
+    <updated>2016-07-17T05:53:55Z</updated>
+    <link href="../../Fabio%20Chiusi/Grazie%20Mr%20Snowden%20%28197%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Fabio%20Chiusi/Grazie%20Mr%20Snowden%20%28197%29/Grazie%20Mr%20Snowden%20-%20Fabio%20Chiusi.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="579 KB" />
+    <author>
+      <name>Fabio Chiusi</name>
+      <uri>../author_0/author_131_Page_1.xml</uri>
+    </author>
+    <published>2014-01-17T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Messaggero Veneto</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>Cos’è il Datagate, perché riguarda l’Italia e perché ci rende liberi</summary>
+    <link href="../book_0/book_197.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il Dio Nudo - Prima Parte [July 17, 2016]</title>
+    <id>calibre:book:189</id>
+    <updated>2016-07-17T05:53:53Z</updated>
+    <link href="../../Peter%20F.%20Hamilton/Il%20Dio%20Nudo%20-%20Prima%20Parte%20%28189%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Peter%20F.%20Hamilton/Il%20Dio%20Nudo%20-%20Prima%20Parte%20%28189%29/Il%20Dio%20Nudo%20-%20Prima%20Parte%20-%20Peter%20F.%20Hamilton.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1012 KB" />
+    <author>
+      <name>Peter F. Hamilton</name>
+      <uri>../author_0/author_103_Page_1.xml</uri>
+    </author>
+    <published>2011-08-17T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <link href="../book_0/book_189.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ice Station [July 17, 2016]</title>
+    <id>calibre:book:190</id>
+    <updated>2016-07-17T05:53:53Z</updated>
+    <link href="../../Matthew%20Reilly/Ice%20Station%20%28190%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Matthew%20Reilly/Ice%20Station%20%28190%29/Ice%20Station%20-%20Matthew%20Reilly.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="830 KB" />
+    <author>
+      <name>Matthew Reilly</name>
+      <uri>../author_0/author_83_Page_1.xml</uri>
+    </author>
+    <published>2003-06-09T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Dalai editore</dcterms:publisher>
+    <category term="Fantascienza" />
+    <category term="Lang:it" />
+    <summary>In una remota stazione di ricerca glaciologica americana, un&amp;apos;équipe di scienziati ha scoperto, sepolto in una caverna sottomarina e intrappolato in uno strato di ghiaccio risalente a quattrocento milioni di anni prima, uno strano aereo nero, una...</summary>
+    <link href="../book_0/book_190.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il Dio Nudo - Seconda Parte [July 17, 2016]</title>
+    <id>calibre:book:191</id>
+    <updated>2016-07-17T05:53:53Z</updated>
+    <link href="../../Peter%20F.%20Hamilton/Il%20Dio%20Nudo%20-%20Seconda%20Parte%20%28191%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Peter%20F.%20Hamilton/Il%20Dio%20Nudo%20-%20Seconda%20Parte%20%28191%29/Il%20Dio%20Nudo%20-%20Seconda%20Parte%20-%20Peter%20F.%20Hamilton.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Peter F. Hamilton</name>
+      <uri>../author_0/author_103_Page_1.xml</uri>
+    </author>
+    <published>2011-08-25T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <link href="../book_0/book_191.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>I figli di Dune [July 17, 2016]</title>
+    <id>calibre:book:192</id>
+    <updated>2016-07-17T05:53:53Z</updated>
+    <link href="../../Frank%20Herbert/I%20figli%20di%20Dune%20%28192%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Frank%20Herbert/I%20figli%20di%20Dune%20%28192%29/I%20figli%20di%20Dune%20-%20Frank%20Herbert.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Frank Herbert</name>
+      <uri>../author_0/author_100_Page_1.xml</uri>
+    </author>
+    <published>1977-08-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Nord</dcterms:publisher>
+    <category term="Fantascienza" />
+    <category term="Science Fiction" />
+    <category term="Horror E Fantasy" />
+    <category term="Lang:it" />
+    <link href="../book_0/book_192.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>I falsificatori [July 17, 2016]</title>
+    <id>calibre:book:193</id>
+    <updated>2016-07-17T05:53:54Z</updated>
+    <link href="../../Antoine%20Bello/I%20falsificatori%20%28193%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Antoine%20Bello/I%20falsificatori%20%28193%29/I%20falsificatori%20-%20Antoine%20Bello.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="640 KB" />
+    <author>
+      <name>Antoine Bello</name>
+      <uri>../author_0/author_122_Page_1.xml</uri>
+    </author>
+    <published>2014-07-01T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fazi Editore</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>Narrazione paranoica, opera d'avventura, di spionaggio e di attualità insieme, I falsificatori, dietro la riflessione sull'informazione e la rappresentazione del mondo, mostra l'ombra di uno scrittore-demiurgo che ci conduce dove vuole, qualunque sia...</summary>
+    <link href="../book_0/book_193.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il Richiamo delle Spade [July 17, 2016]</title>
+    <id>calibre:book:186</id>
+    <updated>2016-07-17T05:53:52Z</updated>
+    <link href="../../Joe%20Abercrombie/Il%20Richiamo%20delle%20Spade%20%28186%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Joe%20Abercrombie/Il%20Richiamo%20delle%20Spade%20%28186%29/Il%20Richiamo%20delle%20Spade%20-%20Joe%20Abercrombie.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Joe Abercrombie</name>
+      <uri>../author_0/author_51_Page_1.xml</uri>
+    </author>
+    <published>2013-02-28T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Gargoyle</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Lang:it" />
+    <summary>Logen Novedita, il famigerato guerriero, ha infine esaurito la sua fortuna. Si è fatto un nemico di troppo e ora ha davanti a sé un futuro solitario e cupo, in cui da un momento all'altro potrebbe ritrovarsi a guardare la morte in faccia per l'ultima...</summary>
+    <link href="../book_0/book_186.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il potere del cane [July 17, 2016]</title>
+    <id>calibre:book:187</id>
+    <updated>2016-07-17T05:53:52Z</updated>
+    <link href="../../Don%20Winslow/Il%20potere%20del%20cane%20%28187%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Don%20Winslow/Il%20potere%20del%20cane%20%28187%29/Il%20potere%20del%20cane%20-%20Don%20Winslow.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="983 KB" />
+    <author>
+      <name>Don Winslow</name>
+      <uri>../author_0/author_43_Page_1.xml</uri>
+    </author>
+    <published>2014-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Einaudi</dcterms:publisher>
+    <category term="Mystery &amp; Detective" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>Art Keller è un poliziotto ambizioso, con una mentalità da crociato, deciso a combattere in prima fila la guerra che gli Stati Uniti hanno lanciato contro il traffico internazionale di droga. Miguel Angel Barrera è il boss della Federación, il cartel...</summary>
+    <link href="../book_0/book_187.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il Gioco di Ender [July 17, 2016]</title>
+    <id>calibre:book:188</id>
+    <updated>2016-07-17T05:53:52Z</updated>
+    <link href="../../Orson%20Scott%20Card/Il%20Gioco%20di%20Ender%20%28188%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Orson%20Scott%20Card/Il%20Gioco%20di%20Ender%20%28188%29/Il%20Gioco%20di%20Ender%20-%20Orson%20Scott%20Card.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="725 KB" />
+    <author>
+      <name>Orson Scott Card</name>
+      <uri>../author_0/author_129_Page_1.xml</uri>
+    </author>
+    <published>1987-11-04T00:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Nord</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Lang:it" />
+    <summary>Gli alieni, minacciosi esseri dall'aspetto insettoide, hanno attaccato 
+due volte la Terra e hanno quasi distrutto la specie umana. Per 
+assicurarsi la vittoria nel successivo scontro di questa guerra il 
+governo del mondo ha deciso di creare una raz...</summary>
+    <link href="../book_0/book_188.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il risveglio di Endymion [July 17, 2016]</title>
+    <id>calibre:book:182</id>
+    <updated>2016-07-17T05:53:51Z</updated>
+    <link href="../../Dan%20Simmons/Il%20risveglio%20di%20Endymion%20%28182%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dan%20Simmons/Il%20risveglio%20di%20Endymion%20%28182%29/Il%20risveglio%20di%20Endymion%20-%20Dan%20Simmons.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Dan Simmons</name>
+      <uri>../author_0/author_112_Page_1.xml</uri>
+    </author>
+    <published>2012-07-04T10:04:26Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>L'inquisizione è tornata a colpire. Nell'anno del Signore 3131, la 
+Chiesa, garante dell'immortalità fisica a tutti i suoi fedeli, ingaggia 
+una crociata contro gli Ouster, indomiti mutanti di origine umana. E 
+lancia nello spazio una spietat...</summary>
+    <link href="../book_0/book_182.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il salmone del dubbio [July 17, 2016]</title>
+    <id>calibre:book:183</id>
+    <updated>2016-07-17T05:53:51Z</updated>
+    <link href="../../Douglas%20Adams/Il%20salmone%20del%20dubbio%20%28183%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Douglas%20Adams/Il%20salmone%20del%20dubbio%20%28183%29/Il%20salmone%20del%20dubbio%20-%20Douglas%20Adams.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="536 KB" />
+    <author>
+      <name>Douglas Adams</name>
+      <uri>../author_0/author_101_Page_1.xml</uri>
+    </author>
+    <published>2003-12-31T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <summary>"State per entrare nel mondo provocatorio, divertentissimo e ipnotico di Douglas Adams. È valsa la pena riaprire i file più nascosti del suo disco fisso: il suo talento naturale nel mettere in fila una parola dopo l'altra si rivela infallibile" (Step...</summary>
+    <link href="../book_0/book_183.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il ricercato [July 17, 2016]</title>
+    <id>calibre:book:184</id>
+    <updated>2016-07-17T05:53:51Z</updated>
+    <link href="../../Lee%20Child/Il%20ricercato%20%28184%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lee%20Child/Il%20ricercato%20%28184%29/Il%20ricercato%20-%20Lee%20Child.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="567 KB" />
+    <author>
+      <name>Lee Child</name>
+      <uri>../author_0/author_127_Page_1.xml</uri>
+    </author>
+    <published>2015-04-08T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Longanesi</dcterms:publisher>
+    <category term="Gialli" />
+    <category term="Thriller" />
+    <category term="Lang:it" />
+    <summary>In una desolata contea del Nebraska, un uomo fa l&amp;apos;autostop nella notte. Ha il naso rotto e le poche auto che passano non lo guardano nemmeno. È Jack Reacher, ex poliziotto militare, che vive ormai alla giornata ed è diretto in Virginia. Finalmen...</summary>
+    <link href="../book_0/book_184.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il ritorno delle furie [July 17, 2016]</title>
+    <id>calibre:book:185</id>
+    <updated>2016-07-17T05:53:52Z</updated>
+    <link href="../../Richard%20K.%20Morgan/Il%20ritorno%20delle%20furie%20%28185%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Richard%20K.%20Morgan/Il%20ritorno%20delle%20furie%20%28185%29/Il%20ritorno%20delle%20furie%20-%20Richard%20K.%20Morgan.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Richard K. Morgan</name>
+      <uri>../author_0/author_128_Page_1.xml</uri>
+    </author>
+    <published>2007-12-31T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <summary>Da tempo immemorabile, Harlan's World - un pianeta ricoperto dagli oceani e con soltanto il cinque per cento di terra abitabile - è dominato da un'oligarchia guidata da un'unica famiglia: gli Harlan, appunto. È questo il luogo in cui è nato Takeshi K...</summary>
+    <link href="../book_0/book_185.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../recent/recent_ONEDAY_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (3 of 12)" />
+  <link href="../recent/recent_ONEDAY_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="first" title="first page (1 of 12)" />
+  <link href="../recent/recent_ONEDAY_Page_12.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="last" title="last page (12 of 12)" />
+</feed>

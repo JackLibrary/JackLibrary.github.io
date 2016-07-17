@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Isaac Asimov</title>
+  <id>Calibre2opds:author:124</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./author_124_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Isaac Asimov" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
+  <entry>
+    <title>Il sole nudo</title>
+    <id>calibre:book:178</id>
+    <updated>2016-07-17T05:53:50Z</updated>
+    <link href="../../Isaac%20Asimov/Il%20sole%20nudo%20%28178%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Il%20sole%20nudo%20%28178%29/Il%20sole%20nudo%20-%20Isaac%20Asimov.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="902 KB" />
+    <author>
+      <name>Isaac Asimov</name>
+      <uri>../author_0/author_124_Page_1.xml</uri>
+    </author>
+    <published>2012-05-09T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori Oscar fantascienza</dcterms:publisher>
+    <category term="Secondo romanzo del ciclo dei Robot." />
+    <category term="Lang:it" />
+    <summary>Come il libro che lo precede nel ciclo, è una detective story e chiarisce un'idea di Asimov: la fantascienza è un ingrediente che può essere applicato ad ogni genere letterario. Il libro venne pubblicato nel 1957, dopo essere apparso a puntate nella ...</summary>
+    <link href="../book_0/book_178.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>I Robot dell'Alba</title>
+    <id>calibre:book:194</id>
+    <updated>2016-07-17T05:53:54Z</updated>
+    <link href="../../Isaac%20Asimov/I%20Robot%20dell%27Alba%20%28194%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/I%20Robot%20dell%27Alba%20%28194%29/I%20Robot%20dell%27Alba%20-%20Isaac%20Asimov.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Isaac Asimov</name>
+      <uri>../author_0/author_124_Page_1.xml</uri>
+    </author>
+    <published>2011-03-08T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <summary>Con I robot dell'alba, torna la memorabile coppia di protagonisti, quei Lije Baley e R. Olivaw che sono diventati tra i più famosi personaggi della fantascienza americana". Baley, questa volta, sul pianeta Aurora, conosciuto anche come il Mondo dell'...</summary>
+    <link href="../book_0/book_194.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Fondazione 7 - Fondazione e Terra</title>
+    <id>calibre:book:209</id>
+    <updated>2016-07-17T05:53:58Z</updated>
+    <link href="../../Isaac%20Asimov/Fondazione%207%20-%20Fondazione%20e%20Terra%20%28209%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Fondazione%207%20-%20Fondazione%20e%20Terra%20%28209%29/Fondazione%207%20-%20Fondazione%20e%20Ter%20-%20Isaac%20Asimov.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="728 KB" />
+    <author>
+      <name>Isaac Asimov</name>
+      <uri>../author_0/author_124_Page_1.xml</uri>
+    </author>
+    <published>2012-05-08T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <summary>Le vicende iniziano nel preciso istante in cui termina il precedente romanzo L'orlo della Fondazione. Il piano Seldon è a circa metà strada, 498 anni sono infatti passati dalla sua nascita; il consigliere della Fondazione su Terminus Golan Trevize ha...</summary>
+    <link href="../book_0/book_209.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Fondazione 5 - L’altra faccia della spirale</title>
+    <id>calibre:book:210</id>
+    <updated>2016-07-17T05:53:59Z</updated>
+    <link href="../../Isaac%20Asimov/Fondazione%205%20-%20L%27altra%20faccia%20della%20%28210%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Fondazione%205%20-%20L%27altra%20faccia%20della%20%28210%29/Fondazione%205%20-%20L%27altra%20faccia%20d%20-%20Isaac%20Asimov.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="561 KB" />
+    <author>
+      <name>Isaac Asimov</name>
+      <uri>../author_0/author_124_Page_1.xml</uri>
+    </author>
+    <published>1977-05-31T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Oscar Fantascienza - Mondadori Editore</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>Il Mulo (mutante dotato di poter mentali che gli permettono di percepire e modificare le emozioni delle persone) sta cercando la Seconda Fondazione creata da Seldon ed invia Han Pritcher, uno dei condizionati al suo servizio, insieme ad un giovane, n...</summary>
+    <link href="../book_0/book_210.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Fondazione 6 - L'Orlo della Fondazione</title>
+    <id>calibre:book:211</id>
+    <updated>2016-07-17T05:53:59Z</updated>
+    <link href="../../Isaac%20Asimov/Fondazione%206%20-%20L%27Orlo%20della%20Fondazi%20%28211%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Fondazione%206%20-%20L%27Orlo%20della%20Fondazi%20%28211%29/Fondazione%206%20-%20L%27Orlo%20della%20Fon%20-%20Isaac%20Asimov.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="680 KB" />
+    <author>
+      <name>Isaac Asimov</name>
+      <uri>../author_0/author_124_Page_1.xml</uri>
+    </author>
+    <published>2012-05-03T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Arnoldo Mondadori Editore</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>La Fondazione sta recuperando il controllo di tutta la Galassia, ma nascosta nell'ombra, una seconda misteriosa Fondazione sta tramando per imporre un nuovo sconvolgente progetto. E' il quarto libro del ciclo ad essere stato scritto, nel 1982, trent'...</summary>
+    <link href="../book_0/book_211.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Fondazione 4 - Il crollo della Galassia centrale</title>
+    <id>calibre:book:212</id>
+    <updated>2016-07-17T05:53:59Z</updated>
+    <link href="../../Isaac%20Asimov/Fondazione%204%20-%20Il%20crollo%20della%20Gala%20%28212%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Fondazione%204%20-%20Il%20crollo%20della%20Gala%20%28212%29/Fondazione%204%20-%20Il%20crollo%20della%20-%20Isaac%20Asimov.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="596 KB" />
+    <author>
+      <name>Isaac Asimov</name>
+      <uri>../author_0/author_124_Page_1.xml</uri>
+    </author>
+    <published>1977-05-31T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Oscar Fantascienza - Mondadori Editore</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>Il Mulo (mutante dotato di poter mentali che gli permettono di percepire e modificare le emozioni delle persone) sta cercando la Seconda Fondazione creata da Seldon ed invia Han Pritcher, uno dei condizionati al suo servizio, insieme ad un giovane, n...</summary>
+    <link href="../book_0/book_212.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Fondazione 3 - Cronache della Galassia</title>
+    <id>calibre:book:213</id>
+    <updated>2016-07-17T05:53:59Z</updated>
+    <link href="../../Isaac%20Asimov/Fondazione%203%20-%20Cronache%20della%20Galas%20%28213%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Fondazione%203%20-%20Cronache%20della%20Galas%20%28213%29/Fondazione%203%20-%20Cronache%20della%20G%20-%20Isaac%20Asimov.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="531 KB" />
+    <author>
+      <name>Isaac Asimov</name>
+      <uri>../author_0/author_124_Page_1.xml</uri>
+    </author>
+    <published>1976-06-30T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Oscar Fantascienza - Mondadori Editore</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>Hari Seldon, primo e più grande psicostoriografo dell'Impero Galattico, utilizzando complesse funzioni matematiche da lui inventate e raccolte in una scienza definita "psicostoriografia" (o "psicostoria" a seconda della traduzione), arriva alla concl...</summary>
+    <link href="../book_0/book_213.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Fondazione 1 - Preludio alla Fondazione</title>
+    <id>calibre:book:214</id>
+    <updated>2016-07-17T05:54:00Z</updated>
+    <link href="../../Isaac%20Asimov/Fondazione%201%20-%20Preludio%20alla%20Fondaz%20%28214%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Fondazione%201%20-%20Preludio%20alla%20Fondaz%20%28214%29/Fondazione%201%20-%20Preludio%20alla%20Fo%20-%20Isaac%20Asimov.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="665 KB" />
+    <author>
+      <name>Isaac Asimov</name>
+      <uri>../author_0/author_124_Page_1.xml</uri>
+    </author>
+    <published>2012-05-30T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Preludio alla Fondazione</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>Preludio alla Fondazione è il libro che racconta l'origine della straordinaria epopea della Fondazione, il più celebre ciclo narrativo della fantascienza moderna. Nell'anno 12020 dell'Era Galattica Hari Seldon, un oscuro matematico originario di Heli...</summary>
+    <link href="../book_0/book_214.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Fondazione 2 - Fondazione Anno Zero</title>
+    <id>calibre:book:215</id>
+    <updated>2016-07-17T05:54:00Z</updated>
+    <link href="../../Isaac%20Asimov/Fondazione%202%20-%20Fondazione%20Anno%20Zero%20%28215%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Fondazione%202%20-%20Fondazione%20Anno%20Zero%20%28215%29/Fondazione%202%20-%20Fondazione%20Anno%20-%20Isaac%20Asimov.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="671 KB" />
+    <author>
+      <name>Isaac Asimov</name>
+      <uri>../author_0/author_124_Page_1.xml</uri>
+    </author>
+    <published>1992-12-31T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <summary>Il racconto si svolge su Trantor, e inizia otto anni dopo gli eventi raccontati nel precedente Preludio alla Fondazione. Viene mostrato come Hari Seldon sviluppò la sua teoria della psicostoria fino all'applicazione pratica negli eventi galattici. Og...</summary>
+    <link href="../book_0/book_215.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Abissi d'acciaio</title>
+    <id>calibre:book:278</id>
+    <updated>2016-07-17T05:54:18Z</updated>
+    <link href="../../Isaac%20Asimov/Abissi%20d%27acciaio%20%28278%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Abissi%20d%27acciaio%20%28278%29/Abissi%20d%27acciaio%20-%20Isaac%20Asimov.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="577 KB" />
+    <author>
+      <name>Isaac Asimov</name>
+      <uri>../author_0/author_124_Page_1.xml</uri>
+    </author>
+    <published>1995-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <link href="../book_0/book_278.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

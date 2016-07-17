@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Zona rossa</title>
+  <id>urn:book:4be94756-de4f-4604-8ac5-d22bd5836b24</id>
+  <updated>2016-07-17T05:52:56Z</updated>
+  <link href="./book_5.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Zona rossa" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_S_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with S" />
+  <link href="../../Roberto%20Satolli/Zona%20rossa%20%285%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Roberto%20Satolli/Zona%20rossa%20%285%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Roberto%20Satolli/Zona%20rossa%20%285%29/Zona%20rossa%20-%20Roberto%20Satolli.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="376 KB" />
+  <author>
+    <name>Roberto Satolli</name>
+    <uri>../author_0/author_4_Page_1.xml</uri>
+  </author>
+  <author>
+    <name>Gino Strada</name>
+    <uri>../author_0/author_5_Page_1.xml</uri>
+  </author>
+  <published>2015-06-15T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Feltrinelli Editore</dcterms:publisher>
+  <category term="Human Rights" />
+  <category term="Technology &amp; Engineering" />
+  <category term="Emergency Medicine" />
+  <category term="Medical" />
+  <category term="Health Policy" />
+  <category term="Political Science" />
+  <category term="Healing" />
+  <category term="Ebola" />
+  <category term="Emergency Management" />
+  <category term="Epidemiology" />
+  <category term="General" />
+  <category term="Hospital Administration &amp; Care" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Human Rights, Technology &amp; Engineering, Emergency Medicine, Medical, Health Policy, Political Science, Healing, Ebola, Emergency Management, Epidemiology, General, Hospital Administration &amp; Care, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">Per qualche mese, nel 2014, tutto il
+    mondo ha tremato di fronte a un minuscolo virus. Ebola è
+    uscito dalle foreste dell’Africa equatoriale e ha
+    conquistato tre paesi – minacciando di spostarsi a bordo
+    di navi e aerei, arrivando a lambire le nazioni cosiddette
+    sviluppate, infettando alcuni cittadini americani, spagnoli,
+    inglesi. La catastrofe umanitaria è stata per la prima
+    volta vista dagli occidentali con gli occhi di chi teme che
+    possa colpire anche casa propria. E abbiamo avuto paura.
+    Emergency era arrivata in Sierra Leone durante la terribile
+    guerra civile che aveva insanguinato il paese per tutti gli
+    anni novanta. Lavorava con le vittime delle mutilazioni, delle
+    mine antiuomo, degli stupri – come sempre contro la
+    guerra, contro la violenza dell’uomo sull’uomo.
+    Improvvisamente, si è ritrovata in prima fila in una
+    guerra diversa: una guerra scatenata da un virus,una guerra che
+    valeva finalmente la pena di combattere, con le armi della
+    medicina, della scienza e dell’umanità. E Gino
+    Strada è volato in Africa, insieme a Roberto Satolli
+    (medico e giornalista, amico di Gino dai banchi del liceo), a
+    Fabrizio Pulvirenti e a decine di volontari le cui voci e
+    racconti affollano questo libro. E ha scoperto che neanche
+    questa guerra è una guerra “giusta”: anche qui
+    c’è chi racconta bugie, chi si è arricchito
+    mentre metteva in pericolo i civili, chi si riempie la bocca di
+    alti principi ma non pensa affatto di metterli in pratica.
+    Ancora una volta, la possibilità di salvare vite umane
+    è messa su un piatto della bilancia, mentre
+    sull’altro si affastellano considerazioni economiche,
+    politiche, burocratiche e cercare di offrire agli umili e
+    indifesi le stesse cure a disposizione dei ricchi e degli
+    occidentali diventa un gesto rivoluzionario. In questo libro ci
+    sono le storie di moltissimi africani, vittime della malattia,
+    scampati, guariti, ma anche quelle dei medici, degli infermieri
+    e degli operatori di Emergency, compresa l’esclusiva
+    testimonianza in prima persona di Fabrizio Pulvirenti, il
+    medico italiano che si è ammalato, è stato curato in
+    Italia ed è riuscito a guarire – e che mentre si
+    organizzava il suo trasporto in patria, guardando i pazienti
+    del campo di Lakka, diceva: “C’è una cosa che
+    mi dispiace più di tutte: che per nessuno di loro è
+    stato fatto tutto questo”. In questo libro si mettono a
+    fuoco le conoscenze scientifiche che abbiamo su Ebola, gli
+    ultimi sviluppi della ricerca medica sul virus, ma anche le
+    superstizioni degli africani – e quelle degli
+    occidentali. In questa testimonianza straordinaria la voce di
+    Gino Strada torna a levarsi per denunciare l’ingiustizia
+    di un mondo diviso tra chi può curarsi e chi può solo
+    fare il favore di morire senza infettare nessun altro, tra chi
+    gestisce l’emergenza stabilendo linee guida burocratiche
+    e chi resta in mezzo ai malati spendendosi in prima persona,
+    tra chi costruisce strade per sfruttare con maggiore efficienza
+    le miniere e chi le percorre portando con sé dappertutto
+    un virus che ha contratto perché a casa propria non ha
+    fogne, né acqua pulita, né conoscenze mediche di
+    base.</p>
+  </content>
+  <link href="../author_0/author_4_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Roberto Satolli" />
+  <link href="../author_0/author_5_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Gino Strada" />
+  <link href="http://www.goodreads.com/book/title/Zona%20rossa" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Zona%20rossa" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Zona%20rossa%20Roberto%20Satolli" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Zona%20rossa&amp;field-author=Roberto%20Satolli" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Roberto%20Satolli" type="text/html" rel="related" title="Roberto Satolli on Goodreads" />
+  <link href="http://www.goodreads.com/book/author/Gino%20Strada" type="text/html" rel="related" title="Gino Strada on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Roberto%20Satolli" type="text/html" rel="related" title="Roberto Satolli on Wikipedia" />
+  <link href="http://en.wikipedia.org/wiki/Gino%20Strada" type="text/html" rel="related" title="Gino Strada on Wikipedia" />
+  <link href="http://www.librarything.com/author/SatolliRoberto" type="text/html" rel="related" title="Roberto Satolli on LibraryThing" />
+  <link href="http://www.librarything.com/author/StradaGino" type="text/html" rel="related" title="Gino Strada on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Roberto%20Satolli" type="text/html" rel="related" title="Roberto Satolli on Amazon" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Gino%20Strada" type="text/html" rel="related" title="Gino Strada on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Roberto%20Satolli" type="text/html" rel="related" title="Roberto Satolli on ISFDB" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Gino%20Strada" type="text/html" rel="related" title="Gino Strada on ISFDB" />
+</entry>

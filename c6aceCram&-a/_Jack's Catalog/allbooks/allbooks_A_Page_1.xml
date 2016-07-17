@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with A</title>
+  <id>Calibre2opds:allbooks:A</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with A" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <link href="../allbooks/allbooks_A_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (2 of 2)" />
+  <entry>
+    <title>A me le guardie!</title>
+    <id>calibre:book:120</id>
+    <updated>2016-07-17T05:53:31Z</updated>
+    <link href="../../Terry%20Pratchett/A%20me%20le%20guardie%21%20%28120%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Terry%20Pratchett/A%20me%20le%20guardie%21%20%28120%29/A%20me%20le%20guardie%21%20-%20Terry%20Pratchett.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="667 KB" />
+    <author>
+      <name>Terry Pratchett</name>
+      <uri>../author_0/author_92_Page_1.xml</uri>
+    </author>
+    <published>2010-06-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>TEA</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>Ankh-Morpork è la città più grande del Mondo Disco, che è un mondo piatto che vaga nello spazio, sorretto da quattro elefanti che poggiano sul guscio di una tartaruga gigante... Ad Ankh-Morpork tutto è in vendita, i ladri rubano solamente su appuntam...</summary>
+    <link href="../book_0/book_120.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A tuo rischio e pericolo</title>
+    <id>calibre:book:25</id>
+    <updated>2016-07-17T05:53:03Z</updated>
+    <link href="../../Josh%20Bazell/A%20tuo%20rischio%20e%20pericolo%20%2825%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Josh%20Bazell/A%20tuo%20rischio%20e%20pericolo%20%2825%29/A%20tuo%20rischio%20e%20pericolo%20-%20Josh%20Bazell.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Josh Bazell</name>
+      <uri>../author_0/author_14_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Einaudi</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>Il dottor Peter Brown è tornato. Il comico e 
+spiazzante medico-killer affronta di nuovo pazienti e criminali ma, 
+questa volta, soprattutto uno strano mostro omicida che si nasconde 
+nelle acque di un lago. È lí che viene spedito insieme alla paleon...</summary>
+    <link href="../book_0/book_25.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A viso coperto</title>
+    <id>calibre:book:279</id>
+    <updated>2016-07-17T05:54:18Z</updated>
+    <link href="../../Riccardo%20Gazzaniga/A%20viso%20coperto%20%28279%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Riccardo%20Gazzaniga/A%20viso%20coperto%20%28279%29/A%20viso%20coperto%20-%20Riccardo%20Gazzaniga.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+    <author>
+      <name>Riccardo Gazzaniga</name>
+      <uri>../author_0/author_176_Page_1.xml</uri>
+    </author>
+    <published>2013-03-26T06:44:54Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Giulio Einaudi Editore</dcterms:publisher>
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>Leggi un estratto *** Due schieramenti nemici si sfidano ogni settimana su un terreno di rabbia e violenza: sono gli ultrà e i celerini. A Genova un gruppo di tifosi sceglie di non accettare imposizioni e ingaggia uno scontro frontale con la polizia....</summary>
+    <link href="../book_0/book_279.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Abissi d'acciaio</title>
+    <id>calibre:book:278</id>
+    <updated>2016-07-17T05:54:18Z</updated>
+    <link href="../../Isaac%20Asimov/Abissi%20d%27acciaio%20%28278%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Isaac%20Asimov/Abissi%20d%27acciaio%20%28278%29/Abissi%20d%27acciaio%20-%20Isaac%20Asimov.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="577 KB" />
+    <author>
+      <name>Isaac Asimov</name>
+      <uri>../author_0/author_124_Page_1.xml</uri>
+    </author>
+    <published>1995-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <link href="../book_0/book_278.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Absolution Gap</title>
+    <id>calibre:book:280</id>
+    <updated>2016-07-17T05:54:19Z</updated>
+    <link href="../../Alastair%20Reynolds/Absolution%20Gap%20%28280%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alastair%20Reynolds/Absolution%20Gap%20%28280%29/Absolution%20Gap%20-%20Alastair%20Reynolds.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Alastair Reynolds</name>
+      <uri>../author_0/author_47_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Alessandro Vezzoli</name>
+      <uri>../author_0/author_177_Page_1.xml</uri>
+    </author>
+    <published>2015-07-01T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Fantasy" />
+    <category term="Foreign Language Fiction" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Italian" />
+    <category term="Lang:it" />
+    <summary>Esiste ancora un fantascienza "cosmologica"? Alastair Reynolds, connazionale di Olaf Stapledon, ha cercato di ricrearne una, descrivendo un universo ricco di storia e religioni; una tecnologia avanzata che permette di viaggiare tra le stelle senza in...</summary>
+    <link href="../book_0/book_280.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Accettazione</title>
+    <id>calibre:book:277</id>
+    <updated>2016-07-17T05:54:18Z</updated>
+    <link href="../../Jeff%20Vandermeer/Accettazione%20%28277%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jeff%20Vandermeer/Accettazione%20%28277%29/Accettazione%20-%20Jeff%20Vandermeer.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+    <author>
+      <name>Jeff Vandermeer</name>
+      <uri>../author_0/author_166_Page_1.xml</uri>
+    </author>
+    <published>2015-09-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Giulio Einaudi Editore</dcterms:publisher>
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>Dopo che, al termine di Autorità, il confine dell'Area X ha iniziato improvvisamente a espandersi e inghiottire ogni cosa nella sua avanzata, a cominciare dalla sede della Southern Reach, la situazione sulla «costa dimenticata» sta precipitando. Cont...</summary>
+    <link href="../book_0/book_277.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'Alchimista delle Stelle Volume 1 - I Morti contro i Vivi</title>
+    <id>calibre:book:142</id>
+    <updated>2016-07-17T05:53:38Z</updated>
+    <link href="../../Peter%20F.%20Hamilton/L%27Alchimista%20delle%20Stelle%20Volume%201%20%28142%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Peter%20F.%20Hamilton/L%27Alchimista%20delle%20Stelle%20Volume%201%20%28142%29/L%27Alchimista%20delle%20Stelle%20Volum%20-%20Peter%20F.%20Hamilton.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="463 KB" />
+    <author>
+      <name>Peter F. Hamilton</name>
+      <uri>../author_0/author_103_Page_1.xml</uri>
+    </author>
+    <published>2011-07-09T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <link href="../book_0/book_142.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'Alchimista delle Stelle Volume 2 - Il Nemico</title>
+    <id>calibre:book:141</id>
+    <updated>2016-07-17T05:53:38Z</updated>
+    <link href="../../Peter%20F.%20Hamilton/L%27Alchimista%20delle%20Stelle%20Volume%202%20%28141%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Peter%20F.%20Hamilton/L%27Alchimista%20delle%20Stelle%20Volume%202%20%28141%29/L%27Alchimista%20delle%20Stelle%20Volum%20-%20Peter%20F.%20Hamilton.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="501 KB" />
+    <author>
+      <name>Peter F. Hamilton</name>
+      <uri>../author_0/author_103_Page_1.xml</uri>
+    </author>
+    <published>2011-07-09T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <link href="../book_0/book_141.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'Alchimista delle Stelle Volume 3 - Collasso</title>
+    <id>calibre:book:140</id>
+    <updated>2016-07-17T05:53:38Z</updated>
+    <link href="../../Peter%20F.%20Hamilton/L%27Alchimista%20delle%20Stelle%20Volume%203%20%28140%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Peter%20F.%20Hamilton/L%27Alchimista%20delle%20Stelle%20Volume%203%20%28140%29/L%27Alchimista%20delle%20Stelle%20Volum%20-%20Peter%20F.%20Hamilton.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="456 KB" />
+    <author>
+      <name>Peter F. Hamilton</name>
+      <uri>../author_0/author_103_Page_1.xml</uri>
+    </author>
+    <published>2011-07-29T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <link href="../book_0/book_140.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'Alchimista delle Stelle Volume 4 - Il Grande Conflitto</title>
+    <id>calibre:book:138</id>
+    <updated>2016-07-17T05:53:37Z</updated>
+    <link href="../../Peter%20F.%20Hamilton/L%27Alchimista%20delle%20Stelle%20Volume%204%20%28138%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Peter%20F.%20Hamilton/L%27Alchimista%20delle%20Stelle%20Volume%204%20%28138%29/L%27Alchimista%20delle%20Stelle%20Volum%20-%20Peter%20F.%20Hamilton.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="444 KB" />
+    <author>
+      <name>Peter F. Hamilton</name>
+      <uri>../author_0/author_103_Page_1.xml</uri>
+    </author>
+    <published>2011-07-29T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <link href="../book_0/book_138.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Alif l'invisibile</title>
+    <id>calibre:book:274</id>
+    <updated>2016-07-17T05:54:17Z</updated>
+    <link href="../../Willow%20Wilson/Alif%20l%27invisibile%20%28274%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Willow%20Wilson/Alif%20l%27invisibile%20%28274%29/Alif%20l%27invisibile%20-%20Willow%20Wilson.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="848 KB" />
+    <author>
+      <name>Willow Wilson</name>
+      <uri>../author_0/author_171_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>G.</name>
+      <uri>../author_0/author_172_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>L. Fusari</name>
+      <uri>../author_0/author_173_Page_1.xml</uri>
+    </author>
+    <published>2016-05-31T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Il Saggiatore</dcterms:publisher>
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Thriller &amp; Suspense" />
+    <category term="Technothrillers" />
+    <category term="Paranormal &amp; Urban" />
+    <category term="Mystery" />
+    <category term="Fantasy" />
+    <category term="Foreign Language Fiction" />
+    <category term="Contemporary" />
+    <category term="Thrillers" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Italian" />
+    <category term="Lang:it" />
+    <summary>La Città sorge da tempo immemorabile in un piccolo emirato del Medio Oriente, ricco di petrolio, corruzione e ingiustizie. Il potere dei suoi governanti si regge sulla polizia segreta e sui censori che filtrano tutto ciò che passa su internet, capegg...</summary>
+    <link href="../book_0/book_274.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Alla fine John muore</title>
+    <id>calibre:book:272</id>
+    <updated>2016-07-17T05:54:16Z</updated>
+    <link href="../../David%20Wong/Alla%20fine%20John%20muore%20%28272%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../David%20Wong/Alla%20fine%20John%20muore%20%28272%29/Alla%20fine%20John%20muore%20-%20David%20Wong.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="933 KB" />
+    <author>
+      <name>David Wong</name>
+      <uri>../author_0/author_170_Page_1.xml</uri>
+    </author>
+    <published>2016-03-04T00:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>Fermati. Non avresti dovuto toccare questo libro a mani nude. No, non metterlo giù. È troppo tardi. Ti stanno guardando. Il mio nome è David Wong, e il mio migliore amico si chiama John. Sono nomi falsi. Anche tu potresti voler cambiare il tuo. Potre...</summary>
+    <link href="../book_0/book_272.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Alleanza fatale</title>
+    <id>calibre:book:271</id>
+    <updated>2016-07-17T05:54:16Z</updated>
+    <link href="../../Sean%20Williams/Alleanza%20fatale%20%28271%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Sean%20Williams/Alleanza%20fatale%20%28271%29/Alleanza%20fatale%20-%20Sean%20Williams.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Sean Williams</name>
+      <uri>../author_0/author_62_Page_1.xml</uri>
+    </author>
+    <published>2013-01-28T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it</dcterms:publisher>
+    <category term="The Old Republic" />
+    <category term="Fantascienza" />
+    <category term="Star Wars" />
+    <category term="Lang:it" />
+    <summary>Sono arrivati dai quattro angoli della galassia: agenti della Repubblica e dell'Impero Sith, un Jedi Padawan investigatore, un ex soldato repubblicano cacciato dallo Squadrone d'Elite Blackstar e un misterioso Mandaloriano. Un'asta straordinaria li h...</summary>
+    <link href="../book_0/book_271.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>American Gods</title>
+    <id>calibre:book:273</id>
+    <updated>2016-07-17T05:54:16Z</updated>
+    <link href="../../Neil%20Gaiman/American%20Gods%20%28273%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Neil%20Gaiman/American%20Gods%20%28273%29/American%20Gods%20-%20Neil%20Gaiman.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="811 KB" />
+    <author>
+      <name>Neil Gaiman</name>
+      <uri>../author_0/author_50_Page_1.xml</uri>
+    </author>
+    <published>2003-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>Dopo tre anni di prigione Shadow sta per tornare in libertà quando viene a sapere della morte misteriosa della moglie e del suo migliore amico. Sull'aereo che lo riporta a casa l'uomo riceve una proposta di lavoro da un tipo piuttosto enigmatico, Mis...</summary>
+    <link href="../book_0/book_273.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ancillary Sword - La Stazione Di Athoek</title>
+    <id>calibre:book:268</id>
+    <updated>2016-07-17T05:54:15Z</updated>
+    <link href="../../Ann%20Leckie/Ancillary%20Sword%20-%20La%20Stazione%20Di%20At%20%28268%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ann%20Leckie/Ancillary%20Sword%20-%20La%20Stazione%20Di%20At%20%28268%29/Ancillary%20Sword%20-%20La%20Stazione%20D%20-%20Ann%20Leckie.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="544 KB" />
+    <author>
+      <name>Ann Leckie</name>
+      <uri>../author_0/author_169_Page_1.xml</uri>
+    </author>
+    <published>2015-07-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+    <category term="Sci Fi &amp; Fantasy" />
+    <category term="Space Opera" />
+    <category term="Lang:it" />
+    <summary>SinossiAnaander, il signore del Radch, ha nominato Breq Ammiraglio e le ha affidato il comando della nave spaziale Mercy of Kalr. La missione che le è stata assegnata prevede il trasferimento presso la stazione di Athoek, uno degli avamposti dell’imp...</summary>
+    <link href="../book_0/book_268.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Ancillary justice - La vendetta di Breq</title>
+    <id>calibre:book:270</id>
+    <updated>2016-07-17T05:54:15Z</updated>
+    <link href="../../Ann%20Leckie/Ancillary%20justice%20-%20La%20vendetta%20di%20%28270%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ann%20Leckie/Ancillary%20justice%20-%20La%20vendetta%20di%20%28270%29/Ancillary%20justice%20-%20La%20vendetta%20-%20Ann%20Leckie.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="555 KB" />
+    <author>
+      <name>Ann Leckie</name>
+      <uri>../author_0/author_169_Page_1.xml</uri>
+    </author>
+    <published>2014-11-17T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <link href="../book_0/book_270.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Angeli spezzati</title>
+    <id>calibre:book:269</id>
+    <updated>2016-07-17T05:54:15Z</updated>
+    <link href="../../Richard%20K.%20Morgan/Angeli%20spezzati%20%28269%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Richard%20K.%20Morgan/Angeli%20spezzati%20%28269%29/Angeli%20spezzati%20-%20Richard%20K.%20Morgan.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="972 KB" />
+    <author>
+      <name>Richard K. Morgan</name>
+      <uri>../author_0/author_128_Page_1.xml</uri>
+    </author>
+    <published>2004-12-31T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <category term="Lang:it" />
+    <summary>Cinquant'anni dopo le indagini a Bay City, il cinico Takeshi Kovacs ha cambiato custodia e lavoro: adesso è un mercenario al soldo del governo di Sanzione IV, pagato per soffocare una rivolta. Ma la fedeltà a una causa non è mai stato il suo forte, c...</summary>
+    <link href="../book_0/book_269.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Annihilation</title>
+    <id>calibre:book:267</id>
+    <updated>2016-07-17T05:54:15Z</updated>
+    <link href="../../Jeff%20Vandermeer/Annihilation%20%28267%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jeff%20Vandermeer/Annihilation%20%28267%29/Annihilation%20-%20Jeff%20Vandermeer.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Jeff Vandermeer</name>
+      <uri>../author_0/author_166_Page_1.xml</uri>
+    </author>
+    <published>0101-01-01T00:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Einaudi</dcterms:publisher>
+    <category term="Lang:it" />
+    <link href="../book_0/book_267.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Apocalypse Now Now</title>
+    <id>calibre:book:266</id>
+    <updated>2016-07-17T05:54:14Z</updated>
+    <link href="../../Charlie%20Human/Apocalypse%20Now%20Now%20%28266%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Charlie%20Human/Apocalypse%20Now%20Now%20%28266%29/Apocalypse%20Now%20Now%20-%20Charlie%20Human.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="686 KB" />
+    <author>
+      <name>Charlie Human</name>
+      <uri>../author_0/author_168_Page_1.xml</uri>
+    </author>
+    <published>2015-01-31T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Gargoyle</dcterms:publisher>
+    <category term="Urban Fantasy" />
+    <category term="Lang:it" />
+    <summary>Baxter Zevcenko non è proprio un comune liceale: certo, è imbevuto di cultura pop come gli altri, ma lui è a capo di una gang clandestina che vende materiale pornografico nel cortile della scuola ed è assillato da inquietanti visioni di inaudita viol...</summary>
+    <link href="../book_0/book_266.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Area di contagio</title>
+    <id>calibre:book:264</id>
+    <updated>2016-07-17T05:54:14Z</updated>
+    <link href="../../Richard%20Preston/Area%20di%20contagio%20%28264%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Richard%20Preston/Area%20di%20contagio%20%28264%29/Area%20di%20contagio%20-%20Richard%20Preston.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="920 KB" />
+    <author>
+      <name>Richard Preston</name>
+      <uri>../author_0/author_137_Page_1.xml</uri>
+    </author>
+    <published>1996-08-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Rizzoli</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <link href="../book_0/book_264.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Atletico Minaccia Football Club</title>
+    <id>calibre:book:265</id>
+    <updated>2016-07-17T05:54:14Z</updated>
+    <link href="../../Marco%20Marsullo/Atletico%20Minaccia%20Football%20Club%20%28265%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Marco%20Marsullo/Atletico%20Minaccia%20Football%20Club%20%28265%29/Atletico%20Minaccia%20Football%20Club%20-%20Marco%20Marsullo.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Marco Marsullo</name>
+      <uri>../author_0/author_167_Page_1.xml</uri>
+    </author>
+    <published>2013-01-21T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Einaudi</dcterms:publisher>
+    <category term="Foreign Languages" />
+    <category term="Contemporary Fiction" />
+    <category term="Foreign Language Fiction" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Italian" />
+    <category term="Lang:it" />
+    <summary>Un esordio inatteso, tra commedia scatenata ed epica stracciona.  
+Ecco a voi Vanni Cascione.
+Un po' arrogante un po' ingenuo, un po' sognatore un po' canaglia.
+È l'allenatore dell'Atletico Minaccia Football Club: l'Armata Brancaleone dei gironi d'Ec...</summary>
+    <link href="../book_0/book_265.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Autorità</title>
+    <id>calibre:book:263</id>
+    <updated>2016-07-17T05:54:13Z</updated>
+    <link href="../../Jeff%20Vandermeer/Autorita%20%28263%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jeff%20Vandermeer/Autorita%20%28263%29/Autorita%20-%20Jeff%20Vandermeer.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Jeff Vandermeer</name>
+      <uri>../author_0/author_166_Page_1.xml</uri>
+    </author>
+    <published>2015-05-31T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Giulio Einaudi Editore</dcterms:publisher>
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>Da trent'anni l'Area X resta un mistero. Cosa (o chi...) l'ha generata, cosa avviene all'interno del confine impenetrabile che la divide dal resto del mondo, cosa succede a chi decide di esplorarla. Da trent'anni la Southern Reach tenta di risolvere ...</summary>
+    <link href="../book_0/book_263.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Gli abitatori delle tenebre</title>
+    <id>calibre:book:276</id>
+    <updated>2016-07-17T05:54:17Z</updated>
+    <link href="../../Stefan%20Spjut/Gli%20abitatori%20delle%20tenebre%20%28276%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stefan%20Spjut/Gli%20abitatori%20delle%20tenebre%20%28276%29/Gli%20abitatori%20delle%20tenebre%20-%20Stefan%20Spjut.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="948 KB" />
+    <author>
+      <name>Stefan Spjut</name>
+      <uri>../author_0/author_175_Page_1.xml</uri>
+    </author>
+    <published>2015-12-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Salani</dcterms:publisher>
+    <category term="Horror" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>«Cupo ed emozionante... come King, Spjut spinge a credere nell’incredibile. Ma è anche semplice ed elegante: non solo cattura il quotidiano, ma fonde le proprie creature fantastiche nella storia con estrema naturalezza. E fa anche paura, tanta paura»...</summary>
+    <link href="../book_0/book_276.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'algoritmo bianco</title>
+    <id>calibre:book:275</id>
+    <updated>2016-07-17T05:54:17Z</updated>
+    <link href="../../Dario%20Tonani/L%27algoritmo%20bianco%20%28275%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dario%20Tonani/L%27algoritmo%20bianco%20%28275%29/L%27algoritmo%20bianco%20-%20Dario%20Tonani.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+    <author>
+      <name>Dario Tonani</name>
+      <uri>../author_0/author_152_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Mondadori</name>
+      <uri>../author_0/author_174_Page_1.xml</uri>
+    </author>
+    <published>2009-10-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="Lang:it" />
+    <link href="../book_0/book_275.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Un altro mondo</title>
+    <id>calibre:book:27</id>
+    <updated>2016-07-17T05:53:04Z</updated>
+    <link href="../../Jo%20Walton/Un%20altro%20mondo%20%2827%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jo%20Walton/Un%20altro%20mondo%20%2827%29/Un%20altro%20mondo%20-%20Jo%20Walton.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="700 KB" />
+    <author>
+      <name>Jo Walton</name>
+      <uri>../author_0/author_24_Page_1.xml</uri>
+    </author>
+    <published>2013-10-13T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Gargoyle</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Lang:it" />
+    <summary>Allevata da una madre instabile che si diletta di magia, Morwenna Phelps trova rifugio in due mondi: tra gli spiriti che dimorano nei siti industriali abbandonati, nella sua città natale in Galles, e nei romanzi di fantascienza, suoi fedeli compagni,...</summary>
+    <link href="../book_0/book_27.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

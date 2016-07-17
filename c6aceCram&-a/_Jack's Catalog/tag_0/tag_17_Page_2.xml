@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Fantasy</title>
+  <id>Calibre2opds:taglist:F:17</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tag_17_Page_2.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Fantasy" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with F" />
+  <link href="../tag_0/tag_17_Page_3.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="next" title="next page (3 of 3)" />
+  <entry>
+    <title>Il mezzo re</title>
+    <id>calibre:book:111</id>
+    <updated>2016-07-17T05:53:29Z</updated>
+    <link href="../../Joe%20Abercrombie/Il%20mezzo%20re%20%28111%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Joe%20Abercrombie/Il%20mezzo%20re%20%28111%29/Il%20mezzo%20re%20-%20Joe%20Abercrombie.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="494 KB" />
+    <author>
+      <name>Joe Abercrombie</name>
+      <uri>../author_0/author_51_Page_1.xml</uri>
+    </author>
+    <published>2014-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="General" />
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>Yarvi non aveva mai pensato che sarebbe potuto salire al trono. Nato con una mano deforme è inadatto al combattimento e, nel disprezzo del padre, il re del Gettland, il suo destino è diventare uno dei "ministranti", l'ordine di potenti sacerdoti cons...</summary>
+    <link href="../book_0/book_111.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Mezzo Mondo</title>
+    <id>calibre:book:112</id>
+    <updated>2016-07-17T05:53:29Z</updated>
+    <link href="../../Joe%20Abercrombie/Mezzo%20Mondo%20%28112%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Joe%20Abercrombie/Mezzo%20Mondo%20%28112%29/Mezzo%20Mondo%20-%20Joe%20Abercrombie.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="653 KB" />
+    <author>
+      <name>Joe Abercrombie</name>
+      <uri>../author_0/author_51_Page_1.xml</uri>
+    </author>
+    <published>2015-03-16T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Edizioni Mondadori</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Può accadere che una donna sia toccata dal bacio di Madre Guerra. Può accadere che una donna sia destinata a diventare una grande guerriera. Ed è proprio questo il fato di Thorn. Mossa da una volontà incrollabile di vendicare il padre, ucciso in un d...</summary>
+    <link href="../book_0/book_112.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>A me le guardie!</title>
+    <id>calibre:book:120</id>
+    <updated>2016-07-17T05:53:31Z</updated>
+    <link href="../../Terry%20Pratchett/A%20me%20le%20guardie%21%20%28120%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Terry%20Pratchett/A%20me%20le%20guardie%21%20%28120%29/A%20me%20le%20guardie%21%20-%20Terry%20Pratchett.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="667 KB" />
+    <author>
+      <name>Terry Pratchett</name>
+      <uri>../author_0/author_92_Page_1.xml</uri>
+    </author>
+    <published>2010-06-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>TEA</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="General" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>Ankh-Morpork è la città più grande del Mondo Disco, che è un mondo piatto che vaga nello spazio, sorretto da quattro elefanti che poggiano sul guscio di una tartaruga gigante... Ad Ankh-Morpork tutto è in vendita, i ladri rubano solamente su appuntam...</summary>
+    <link href="../book_0/book_120.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il mago</title>
+    <id>calibre:book:121</id>
+    <updated>2016-07-17T05:53:32Z</updated>
+    <link href="../../Lev%20Grossman/Il%20mago%20%28121%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lev%20Grossman/Il%20mago%20%28121%29/Il%20mago%20-%20Lev%20Grossman.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="656 KB" />
+    <author>
+      <name>Lev Grossman</name>
+      <uri>../author_0/author_93_Page_1.xml</uri>
+    </author>
+    <published>2010-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Rizzoli</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Quentin Coldwater ha diciassette anni, la mente di un genio e molte, troppe inquietudini. Da cui si libera solo volando a Fillory, magico mondo di libri per ragazzi tra le cui pagine riesce a sentire il sapore sconosciuto della felicità. Come non gli...</summary>
+    <link href="../book_0/book_121.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'ultima ragione dei re</title>
+    <id>calibre:book:123</id>
+    <updated>2016-07-17T05:53:32Z</updated>
+    <link href="../../Joe%20Abercrombie/L%27ultima%20ragione%20dei%20re%20%28123%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Joe%20Abercrombie/L%27ultima%20ragione%20dei%20re%20%28123%29/L%27ultima%20ragione%20dei%20re%20-%20Joe%20Abercrombie.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Joe Abercrombie</name>
+      <uri>../author_0/author_51_Page_1.xml</uri>
+    </author>
+    <published>2014-02-28T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Gargoyle</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Lang:it" />
+    <summary>La fine è vicina. La battaglia infuria, il Re degli Uomini del Nord non accenna a cedere, e c'è solo un uomo che può fermarlo. Il suo più vecchio amico, che è anche il suo più vecchio nemico. Per Novedita il Sanguinario è ora di tornare a casa. Con t...</summary>
+    <link href="../book_0/book_123.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'Orda del Vento</title>
+    <id>calibre:book:124</id>
+    <updated>2016-07-17T05:53:33Z</updated>
+    <link href="../../Alain%20Damasio/L%27Orda%20del%20Vento%20%28124%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alain%20Damasio/L%27Orda%20del%20Vento%20%28124%29/L%27Orda%20del%20Vento%20-%20Alain%20Damasio.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="3 MB" />
+    <author>
+      <name>Alain Damasio</name>
+      <uri>../author_0/author_94_Page_1.xml</uri>
+    </author>
+    <published>2008-12-31T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Casa Editrice Nord</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Lang:it" />
+    <summary>Questa è la storia di una terra circondata dai ghiacci e spazzata dal vento. Da un vento che cambia sempre forza, intensità e direzione. Ma non smette mai di soffiare. Costante e implacabile. Questa è la storia della 34a Orda, decisa a scoprire l'ori...</summary>
+    <link href="../book_0/book_124.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>L'ombra della maledizione</title>
+    <id>calibre:book:125</id>
+    <updated>2016-07-17T05:53:33Z</updated>
+    <link href="../../Lois%20McMaster%20Bujold/L%27ombra%20della%20maledizione%20%28125%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Lois%20McMaster%20Bujold/L%27ombra%20della%20maledizione%20%28125%29/L%27ombra%20della%20maledizione%20-%20Lois%20McMaster%20Bujold.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="943 KB" />
+    <author>
+      <name>Lois McMaster Bujold</name>
+      <uri>../author_0/author_95_Page_1.xml</uri>
+    </author>
+    <published>2003-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Nord</dcterms:publisher>
+    <category term="General" />
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>Sopravvissuto a una lunga prigionia, ma distrutto nel corpo e nello spirito, Cazaril ritorna nei domini della nobile casata per cui aveva servito come paggio ed è nominato, a sorpresa, tutore di Royesse, bella e intelligente sorella dell'erede al tro...</summary>
+    <link href="../book_0/book_125.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Le mie due vite</title>
+    <id>calibre:book:137</id>
+    <updated>2016-07-17T05:53:37Z</updated>
+    <link href="../../Jo%20Walton/Le%20mie%20due%20vite%20%28137%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jo%20Walton/Le%20mie%20due%20vite%20%28137%29/Le%20mie%20due%20vite%20-%20Jo%20Walton.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="744 KB" />
+    <author>
+      <name>Jo Walton</name>
+      <uri>../author_0/author_24_Page_1.xml</uri>
+    </author>
+    <published>2014-10-01T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Gargoyle</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Lang:it" />
+    <summary>Patricia ha dei ricordi molto confusi del suo passato. Le immagini dell’adolescenza sono nitide e intatte, ma dopo cosa è successo?
+Ha sposato Mark ed è stata moglie e madre come le sue coetanee, oppure ha scelto di amare liberamente la sua compagna ...</summary>
+    <link href="../book_0/book_137.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La Mezza Guerra</title>
+    <id>calibre:book:152</id>
+    <updated>2016-07-17T05:53:42Z</updated>
+    <link href="../../Joe%20Abercrombie/La%20Mezza%20Guerra%20%28152%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Joe%20Abercrombie/La%20Mezza%20Guerra%20%28152%29/La%20Mezza%20Guerra%20-%20Joe%20Abercrombie.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Joe Abercrombie</name>
+      <uri>../author_0/author_51_Page_1.xml</uri>
+    </author>
+    <published>2015-09-07T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Fantasy" />
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Lang:it" />
+    <summary>L'ora dello scontro finale è arrivata. Il Gran Re e Gran Madre Wexen hanno giurato vendetta, più feroci che mai. Sono stati traditi dal possente Grom-gil-Gorm, lo Spezza-spade, il Creatore di Orfani, il re che non può essere ucciso da nessun uomo, ch...</summary>
+    <link href="../book_0/book_152.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La quinta onda</title>
+    <id>calibre:book:153</id>
+    <updated>2016-07-17T05:53:43Z</updated>
+    <link href="../../Rick%20Yancey/La%20quinta%20onda%20%28153%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Rick%20Yancey/La%20quinta%20onda%20%28153%29/La%20quinta%20onda%20-%20Rick%20Yancey.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Rick Yancey</name>
+      <uri>../author_0/author_108_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Elisabetta Spediacci</name>
+      <uri>../author_0/author_109_Page_1.xml</uri>
+    </author>
+    <published>2014-03-17T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Fantasy" />
+    <category term="Foreign Language Fiction" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Italian" />
+    <category term="Lang:it" />
+    <summary>Di notte, Cassie non può più guardare il cielo stellato con gli stessi occhi di prima; ora sa che loro arrivano da lì, da quegli astri luminosi e distanti, e arrivano per distruggere il suo mondo. Cassie è tra gli ultimi superstiti, sola, in fuga da ...</summary>
+    <link href="../book_0/book_153.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Internet Apocalypse</title>
+    <id>calibre:book:172</id>
+    <updated>2016-07-17T05:53:48Z</updated>
+    <link href="../../Wayne%20Gladstone/Internet%20Apocalypse%20%28172%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Wayne%20Gladstone/Internet%20Apocalypse%20%28172%29/Internet%20Apocalypse%20-%20Wayne%20Gladstone.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="807 KB" />
+    <author>
+      <name>Wayne Gladstone</name>
+      <uri>../author_0/author_119_Page_1.xml</uri>
+    </author>
+    <published>2014-11-10T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Hard Science Fiction" />
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Teen &amp; Young Adult" />
+    <category term="Science Fiction" />
+    <category term="Foreign Language Fiction" />
+    <category term="Post-Apocalyptic" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Italian" />
+    <category term="Lang:it" />
+    <summary>IL VIAGGIO DI UN UOMO IN UN MONDO SENZA INTERNET, UN’APOCALISSE CHE POTREBBE RIVELARSI NECESSARIA PER RICORDARE CHI SIAMO DAVVERO.   
+Il World Wide Web è scomparso. Nessuno - nemmeno il Presidente degli Stati Uniti – è in grado di trovare un segnale ...</summary>
+    <link href="../book_0/book_172.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il Trono di Spade 5. I guerrieri del ghiaccio, I fuochi di Valyria, La Danza dei Draghi</title>
+    <id>calibre:book:177</id>
+    <updated>2016-07-17T05:53:49Z</updated>
+    <link href="../../George%20R.%20R.%20Martin/Il%20Trono%20di%20Spade%205.%20I%20guerrieri%20de%20%28177%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../George%20R.%20R.%20Martin/Il%20Trono%20di%20Spade%205.%20I%20guerrieri%20de%20%28177%29/Il%20Trono%20di%20Spade%205.%20I%20guerrier%20-%20George%20R.%20R.%20Martin.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="3 MB" />
+    <author>
+      <name>George R. R. Martin</name>
+      <uri>../author_0/author_26_Page_1.xml</uri>
+    </author>
+    <published>2015-04-06T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Edizioni Mondadori</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>La "vittoria" del leone dei Lannister ha lasciato un'interminabile scia di sangue: sepolto l'infame lord Tywin, assassinato dal proprio figlio nano, finita in catene la regina Cersei, seduto il piccolo re Tommen su un trono di lame pronte a ucciderlo...</summary>
+    <link href="../book_0/book_177.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il Trono di Spade 1. Il Trono di Spade, Il Grande Inverno.</title>
+    <id>calibre:book:179</id>
+    <updated>2016-07-17T05:53:50Z</updated>
+    <link href="../../George%20R.%20R.%20Martin/Il%20Trono%20di%20Spade%201.%20Il%20Trono%20di%20Sp%20%28179%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../George%20R.%20R.%20Martin/Il%20Trono%20di%20Spade%201.%20Il%20Trono%20di%20Sp%20%28179%29/Il%20Trono%20di%20Spade%201.%20Il%20Trono%20d%20-%20George%20R.%20R.%20Martin.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+    <author>
+      <name>George R. R. Martin</name>
+      <uri>../author_0/author_26_Page_1.xml</uri>
+    </author>
+    <published>2013-10-30T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Edizioni Mondadori</dcterms:publisher>
+    <category term="General" />
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>In una terra fuori dal mondo, dove le estati e gli inverni possono durare intere generazioni, sta per esplodere un immane conflitto. Sul Trono di Spade, nel Sud caldo e opulento, siede Robert Baratheon. L'ha conquistato dopo una guerra sanguinosa, to...</summary>
+    <link href="../book_0/book_179.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il Sentiero Della Distruzione</title>
+    <id>calibre:book:180</id>
+    <updated>2016-07-17T05:53:50Z</updated>
+    <link href="../../Drew%20Karpyshyn/Il%20Sentiero%20Della%20Distruzione%20%28180%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Drew%20Karpyshyn/Il%20Sentiero%20Della%20Distruzione%20%28180%29/Il%20Sentiero%20Della%20Distruzione%20-%20Drew%20Karpyshyn.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="619 KB" />
+    <author>
+      <name>Drew Karpyshyn</name>
+      <uri>../author_0/author_33_Page_1.xml</uri>
+    </author>
+    <published>2013-01-30T00:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Foreign Languages" />
+    <category term="Action &amp; Adventure" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Genre Fiction" />
+    <category term="Star Wars" />
+    <category term="Fantasy" />
+    <category term="Lang:it" />
+    <summary>Sin dall’infanzia Dessel non ha conosciuto che i maltrattamenti del suo detestabile padre e il lavoro sfiancante e pericoloso nelle miniere di corto site. Nelle profondità delle gallerie del desolato pianeta Apatros, costretto a estrarre senza fine i...</summary>
+    <link href="../book_0/book_180.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il Richiamo delle Spade</title>
+    <id>calibre:book:186</id>
+    <updated>2016-07-17T05:53:52Z</updated>
+    <link href="../../Joe%20Abercrombie/Il%20Richiamo%20delle%20Spade%20%28186%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Joe%20Abercrombie/Il%20Richiamo%20delle%20Spade%20%28186%29/Il%20Richiamo%20delle%20Spade%20-%20Joe%20Abercrombie.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Joe Abercrombie</name>
+      <uri>../author_0/author_51_Page_1.xml</uri>
+    </author>
+    <published>2013-02-28T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Gargoyle</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Lang:it" />
+    <summary>Logen Novedita, il famigerato guerriero, ha infine esaurito la sua fortuna. Si è fatto un nemico di troppo e ora ha davanti a sé un futuro solitario e cupo, in cui da un momento all'altro potrebbe ritrovarsi a guardare la morte in faccia per l'ultima...</summary>
+    <link href="../book_0/book_186.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>The Heroes</title>
+    <id>calibre:book:198</id>
+    <updated>2016-07-17T05:53:55Z</updated>
+    <link href="../../Joe%20Abercrombie/The%20Heroes%20%28198%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Joe%20Abercrombie/The%20Heroes%20%28198%29/The%20Heroes%20-%20Joe%20Abercrombie.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="3 MB" />
+    <author>
+      <name>Joe Abercrombie</name>
+      <uri>../author_0/author_51_Page_1.xml</uri>
+    </author>
+    <published>2012-10-07T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Gargoyle</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Lang:it" />
+    <summary>Bremer dan Gorst, maestro di spade caduto in disgrazia, ha giurato di reclamare sul campo di battaglia l'onore perduto. È ossessionato dalla redenzione e assetato di violenza, dunque non gli importa molto di quanto sangue scorrerà, anche se si tratta...</summary>
+    <link href="../book_0/book_198.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Globalia</title>
+    <id>calibre:book:199</id>
+    <updated>2016-07-17T05:53:55Z</updated>
+    <link href="../../Jean-Cristophe%20Rufin/Globalia%20%28199%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Jean-Cristophe%20Rufin/Globalia%20%28199%29/Globalia%20-%20Jean-Cristophe%20Rufin.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="891 KB" />
+    <author>
+      <name>Jean-Cristophe Rufin</name>
+      <uri>../author_0/author_132_Page_1.xml</uri>
+    </author>
+    <published>2016-05-18T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Edizioni e/o</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Foreign Language Fiction" />
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Science Fiction" />
+    <category term="Literary Fiction" />
+    <category term="Literary" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Post-Apocalyptic" />
+    <category term="Italian" />
+    <category term="Foreign Languages" />
+    <category term="Lang:it" />
+    <summary>Dall’autore de L’uomo dei sogni, un libro che merita di stare a fianco di Orwell e Huxley sullo scaffale delle grandi distopie del nostro tempo.  
+In un futuro prossimo, così prossimo da apparirci verosimile in maniera preoccupante, il pianeta è un u...</summary>
+    <link href="../book_0/book_199.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La giornata di un opričnik (biblioteca del fuoco) (Italian Edition)</title>
+    <id>calibre:book:207</id>
+    <updated>2016-07-17T05:53:58Z</updated>
+    <link href="../../Vladimir%20Sorokin/La%20giornata%20di%20un%20opricnik%20%28bibliot%20%28207%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Vladimir%20Sorokin/La%20giornata%20di%20un%20opricnik%20%28bibliot%20%28207%29/La%20giornata%20di%20un%20opricnik%20%28bib%20-%20Vladimir%20Sorokin.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Vladimir Sorokin</name>
+      <uri>../author_0/author_139_Page_1.xml</uri>
+    </author>
+    <published>2014-03-22T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Atmosphere libri</dcterms:publisher>
+    <category term="Italian" />
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Fantasy" />
+    <category term="Foreign Language Fiction" />
+    <category term="Foreign Languages" />
+    <category term="Paranormal &amp; Urban" />
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Lang:it" />
+    <summary>Russia, 2027. La monarchia è stata restaurata. Una rivoluzione neozarista ha costruito un nuovo Stato repressivo. La fustigazione è tornata, e il Cremlino è stato ridipinto del suo colore bianco originale. Il sublime auto-isolamento nazionale è stato...</summary>
+    <link href="../book_0/book_207.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>I fiumi di Londra</title>
+    <id>calibre:book:216</id>
+    <updated>2016-07-17T05:54:00Z</updated>
+    <link href="../../Ben%20Aaronovitch/I%20fiumi%20di%20Londra%20%28216%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ben%20Aaronovitch/I%20fiumi%20di%20Londra%20%28216%29/I%20fiumi%20di%20Londra%20-%20Ben%20Aaronovitch.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Ben Aaronovitch</name>
+      <uri>../author_0/author_141_Page_1.xml</uri>
+    </author>
+    <published>2012-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci</dcterms:publisher>
+    <category term="General" />
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>Peter Grant, un aspirante agente di polizia in attesa di accedere al famigerato Metropolitan Police Service di Londra, ha due preoccupazioni: evitare la prospettiva di un noioso lavoro d’ufficio e guadagnarsi i favori della vivace e spregiudicata col...</summary>
+    <link href="../book_0/book_216.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il fiume degli dei (Urania)</title>
+    <id>calibre:book:217</id>
+    <updated>2016-07-17T05:54:00Z</updated>
+    <link href="../../Ian%20McDonald/Il%20fiume%20degli%20dei%20%28Urania%29%20%28217%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Ian%20McDonald/Il%20fiume%20degli%20dei%20%28Urania%29%20%28217%29/Il%20fiume%20degli%20dei%20%28Urania%29%20-%20Ian%20McDonald.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="863 KB" />
+    <author>
+      <name>Ian McDonald</name>
+      <uri>../author_0/author_142_Page_1.xml</uri>
+    </author>
+    <published>2013-07-02T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Edizioni Mondadori</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>IL FIUME DEGLI DEI è il Gange, "che scorre dall'Himalaya al golfo del Bengala attraverso le pianure dell'India settentrionale. Dopo anni di siccità, nell'agosto 2047 la diga costruita illegalmente a Kunda Khadar è diventata il casus belli del conflit...</summary>
+    <link href="../book_0/book_217.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Firefight</title>
+    <id>calibre:book:218</id>
+    <updated>2016-07-17T05:54:01Z</updated>
+    <link href="../../Brandon%20Sanderson/Firefight%20%28218%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Brandon%20Sanderson/Firefight%20%28218%29/Firefight%20-%20Brandon%20Sanderson.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="718 KB" />
+    <author>
+      <name>Brandon Sanderson</name>
+      <uri>../author_0/author_32_Page_1.xml</uri>
+    </author>
+    <published>2015-11-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Gli Eliminatori #2" />
+    <category term="Lang:it" />
+    <summary>Nessuno credeva che un Eliminatore potesse sconfiggere un Epico, eppure l’indomabile Steelheart è morto per mano di David Charleston. Nonostante la vendetta di David sia compiuta e suo padre sia stato vendicato, la scomparsa di Steelheart non ha aiut...</summary>
+    <link href="../book_0/book_218.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La figlia della spada - Le cronache delle spade di Inazuma</title>
+    <id>calibre:book:219</id>
+    <updated>2016-07-17T05:54:01Z</updated>
+    <link href="../../Steve%20Bein/La%20figlia%20della%20spada%20-%20Le%20cronache%20%28219%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Steve%20Bein/La%20figlia%20della%20spada%20-%20Le%20cronache%20%28219%29/La%20figlia%20della%20spada%20-%20Le%20cron%20-%20Steve%20Bein.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="703 KB" />
+    <author>
+      <name>Steve Bein</name>
+      <uri>../author_0/author_143_Page_1.xml</uri>
+    </author>
+    <published>2014-04-16T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+    <category term="General" />
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>Oshiro Mariko è l’unica detective donna del Dipartimento della polizia metropolitana di Tokyo, ed è costretta a lottare per guadagnarsi ogni grammo di rispetto. Decisa a investigare sul narcotraffico della yakuza, si trova invece assegnata a un caso ...</summary>
+    <link href="../book_0/book_219.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Epidemia Zombie</title>
+    <id>calibre:book:221</id>
+    <updated>2016-07-17T05:54:01Z</updated>
+    <link href="../../Z.%20A.%20Recht/Epidemia%20Zombie%20%28221%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Z.%20A.%20Recht/Epidemia%20Zombie%20%28221%29/Epidemia%20Zombie%20-%20Z.%20A.%20Recht.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="951 KB" />
+    <author>
+      <name>Z. A. Recht</name>
+      <uri>../author_0/author_145_Page_1.xml</uri>
+    </author>
+    <published>2014-11-26T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Science Fiction" />
+    <category term="Foreign Language Fiction" />
+    <category term="Italian" />
+    <category term="Post-Apocalyptic" />
+    <category term="Foreign Languages" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Fantasy" />
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Adventure" />
+    <category term="Lang:it" />
+    <summary>Il tema dell‘apocalisse zombie, un tempo ai margini del panorama horror, ha assunto un ruolo centrale nella moderna cultura pop. Ora, con “Epidemia Zombie“, Z.A. Recht dà vita a un‘opera acuta e appassionante, un thriller che lascerà senza fiato sia ...</summary>
+    <link href="../book_0/book_221.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Embassytown</title>
+    <id>calibre:book:225</id>
+    <updated>2016-07-17T05:54:03Z</updated>
+    <link href="../../China%20Mieville/Embassytown%20%28225%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../China%20Mieville/Embassytown%20%28225%29/Embassytown%20-%20China%20Mieville.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="655 KB" />
+    <author>
+      <name>China Miéville</name>
+      <uri>../author_0/author_147_Page_1.xml</uri>
+    </author>
+    <published>2016-03-16T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+    <category term="Science Fiction &amp; Fantasy" />
+    <category term="Horror &amp; Science Fiction" />
+    <category term="Fantasy" />
+    <category term="Foreign Language Fiction" />
+    <category term="Foreign Languages" />
+    <category term="Science Fiction" />
+    <category term="Literature &amp; Fiction" />
+    <category term="Italian" />
+    <category term="Lang:it" />
+    <summary>In un futuro remoto, gli esseri umani si sono spinti ai confini dell’universo, colonizzando il pianeta Areka. Qui, i rapporti tra gli uomini e il misterioso popolo degli Arekei, custode di una lingua misteriosa e inaccessibile, sono possibili solo gr...</summary>
+    <link href="../book_0/book_225.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Dust: La trilogia del Silo 3</title>
+    <id>calibre:book:228</id>
+    <updated>2016-07-17T05:54:03Z</updated>
+    <link href="../../Hugh%20Howey/Dust_%20La%20trilogia%20del%20Silo%203%20%28228%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Hugh%20Howey/Dust_%20La%20trilogia%20del%20Silo%203%20%28228%29/Dust_%20La%20trilogia%20del%20Silo%203%20-%20Hugh%20Howey.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Hugh Howey</name>
+      <uri>../author_0/author_8_Page_1.xml</uri>
+    </author>
+    <published>2014-05-26T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fabbri</dcterms:publisher>
+    <category term="General" />
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="Science Fiction" />
+    <category term="Lang:it" />
+    <summary>Cosa faresti se il destino di tutte le persone che ami fosse nelle tue mani? Se le tue scelte potessero salvare o condannare a morte l’umanità intera? La storia del Silo finisce così, con il ritorno alla polvere. Dust, polvere: quella che cade sugli ...</summary>
+    <link href="../book_0/book_228.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <link href="../tag_0/tag_17_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="prev" title="previous page (1 of 3)" />
+</feed>

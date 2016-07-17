@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>God breaker</title>
+  <id>urn:book:7e21e64b-263f-4a09-bee3-be3fd341e258</id>
+  <updated>2016-07-17T05:53:56Z</updated>
+  <link href="./book_201.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="God breaker" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_T_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with T" />
+  <link href="../../Luca%20Tarenzi/God%20breaker%20%28201%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Luca%20Tarenzi/God%20breaker%20%28201%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Luca%20Tarenzi/God%20breaker%20%28201%29/God%20breaker%20-%20Luca%20Tarenzi.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+  <author>
+    <name>Luca Tarenzi</name>
+    <uri>../author_0/author_133_Page_1.xml</uri>
+  </author>
+  <published>2013-11-11T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Salani</dcterms:publisher>
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <span xmlns="" class="tcorpotesto">Gli dei esistono. Camminano in mezzo
+    a noi, vivono dentro e fuori la realtà di tutti i giorni,
+    hanno macchine, uffici, soldi... Ma non tutti. Alcuni stanno
+    morendo, travolti dalla perdita di tutti i loro seguaci; altri
+    combattono una lotta spietata per tenersi il proprio posto nel
+    mondo, usando tutti i loro poteri per conquistarsi l'agiatezza
+    e agire in incognito. Ma un giorno uno di loro, Liathàn,
+    si ritrova coinvolto in una sfida: un ragazzo, giovane e
+    apparentemente potentissimo, è sulle sue tracce, e non si
+    fermerà finché non sarà riuscito ad annientarlo.
+    Chi è questo giovane? Edwin - questo è il nome del
+    ragazzo - mostrerà di essere un nemico estremamente
+    pericoloso, in cerca di una vendetta i cui motivi Liàthan
+    ignora del tutto. Un anno esatto durerà la sfida, e se al
+    termine Liàthan non sarà riuscito a fermare il suo
+    avversario morirà, inesorabilmente e senza che niente
+    possa impedirlo. </span>
+  </content>
+  <link href="../author_0/author_133_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Luca Tarenzi" />
+  <link href="http://www.goodreads.com/book/title/God%20breaker" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/God%20breaker" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/God%20breaker%20Luca%20Tarenzi" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=God%20breaker&amp;field-author=Luca%20Tarenzi" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Luca%20Tarenzi" type="text/html" rel="related" title="Luca Tarenzi on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Luca%20Tarenzi" type="text/html" rel="related" title="Luca Tarenzi on Wikipedia" />
+  <link href="http://www.librarything.com/author/TarenziLuca" type="text/html" rel="related" title="Luca Tarenzi on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Luca%20Tarenzi" type="text/html" rel="related" title="Luca Tarenzi on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Luca%20Tarenzi" type="text/html" rel="related" title="Luca Tarenzi on ISFDB" />
+</entry>

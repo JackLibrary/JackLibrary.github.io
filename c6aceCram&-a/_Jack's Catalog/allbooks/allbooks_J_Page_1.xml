@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with J</title>
+  <id>Calibre2opds:allbooks:J</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./allbooks_J_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with J" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="./allbooks_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="All books" />
+  <entry>
+    <title>Jonathan Strange &amp; il signor Norrell</title>
+    <id>calibre:book:165</id>
+    <updated>2016-07-17T05:53:46Z</updated>
+    <link href="../../Susanna%20Clarke/Jonathan%20Strange%20%26%20il%20signor%20Norrel%20%28165%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Susanna%20Clarke/Jonathan%20Strange%20%26%20il%20signor%20Norrel%20%28165%29/Jonathan%20Strange%20%26%20il%20signor%20No%20-%20Susanna%20Clarke.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+    <author>
+      <name>Susanna Clarke</name>
+      <uri>../author_0/author_114_Page_1.xml</uri>
+    </author>
+    <published>2006-08-01T10:00:00Z</published>
+    <dcterms:language>en</dcterms:language>
+    <dcterms:publisher>Tor Books</dcterms:publisher>
+    <category term="Literary" />
+    <category term="Media Tie-In" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:en" />
+    <summary>At the dawn of the nineteenth century, two very different magicians emerge to change England's history. In the year 1806, with the Napoleonic Wars raging on land and sea, most people believe magic to be long dead in England--until the reclusive Mr No...</summary>
+    <link href="../book_0/book_165.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Joyland</title>
+    <id>calibre:book:163</id>
+    <updated>2016-07-17T05:53:45Z</updated>
+    <link href="../../Stephen%20King/Joyland%20%28163%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/Joyland%20%28163%29/Joyland%20-%20Stephen%20King.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="532 KB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2013-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondolibri</dcterms:publisher>
+    <category term="Horror" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>Estate 1973, Heavens Bay, Carolina del Nord. Devin Jones è uno studente universitario squattrinato e con il cuore a pezzi, perché la sua ragazza lo ha tradito. Per dimenticare lei e guadagnare qualche dollaro, decide di accettare il lavoro in un luna...</summary>
+    <link href="../book_0/book_163.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Juggernaut</title>
+    <id>calibre:book:166</id>
+    <updated>2016-07-17T05:53:46Z</updated>
+    <link href="../../Alan%20D.%20Altieri/Juggernaut%20%28166%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Alan%20D.%20Altieri/Juggernaut%20%28166%29/Juggernaut%20-%20Alan%20D.%20Altieri.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Alan D. Altieri</name>
+      <uri>../author_0/author_115_Page_1.xml</uri>
+    </author>
+    <published>2013-06-11T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>TEA</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>La guerra è finita. Così è scritto su monumento battuto dalla pioggia tossica, davanti a un edificio-simulacro. Non ci sono vincitori, dopo la guerra, non ci sono vinti, soltanto vittime. In un mondo in cui un’unica mega-corporazione chiamata Gottsch...</summary>
+    <link href="../book_0/book_166.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

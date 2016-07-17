@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>La lunga oscura pausa caffé dell'anima</title>
+  <id>urn:book:9f748968-67d4-4bbc-b3fe-911980fe2e38</id>
+  <updated>2016-07-17T05:53:42Z</updated>
+  <link href="./book_151.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="La lunga oscura pausa caffé dell'anima" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_A_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with A" />
+  <link href="../../Douglas%20Adams/La%20lunga%20oscura%20pausa%20caffe%20dell%27an%20%28151%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Douglas%20Adams/La%20lunga%20oscura%20pausa%20caffe%20dell%27an%20%28151%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Douglas%20Adams/La%20lunga%20oscura%20pausa%20caffe%20dell%27an%20%28151%29/La%20lunga%20oscura%20pausa%20caffe%20del%20-%20Douglas%20Adams.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="424 KB" />
+  <author>
+    <name>Douglas Adams</name>
+    <uri>../author_0/author_101_Page_1.xml</uri>
+  </author>
+  <published>2011-01-26T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Mondadori</dcterms:publisher>
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">
+      Dirk Gently, “detective
+    olistico”, si trova invischiato in un pericoloso intrigo
+      <br />
+      internazionale. Tutto inizia all’aeroporto
+    londinese di Heathrow con un misterioso personaggio che tenta
+    di imbarcarsi sul volo delle 15.37 per Oslo. Chi è? E
+    cos’ha a che fare con la strana morte dell’ultimo,
+    bizzarro cliente di Gently, trovato cadavere proprio quella
+    mattina, la testa spiccata dal corpo? Stretto tra le attenzioni
+    poco amichevoli di un’aquila smarrita e il problema di un
+    frigorifero molto, molto sporco, Dirk Gently riuscirà
+    ancora una volta a venire a capo di uno dei grandi misteri
+    dell’Universo. Con La lunga oscura pausa caffè
+    dell’anima l’effervescente fantasia di Adams
+    trascina il lettore in un fantasmagorico viaggio tra le antiche
+    divinità nordiche, svelando i difficili legami familiari
+    tra Odino e Thor, il patto diabolico stretto con due ricchi
+    signori inglesi, e quanto sia difficile essere immortale e non
+    avere più nessuno che ti adori...
+    </p>
+  </content>
+  <link href="../author_0/author_101_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Douglas Adams" />
+  <link href="http://www.goodreads.com/book/title/La%20lunga%20oscura%20pausa%20caff%C3%A9%20dell%27anima" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/La%20lunga%20oscura%20pausa%20caff%C3%A9%20dell%27anima" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/La%20lunga%20oscura%20pausa%20caff%C3%A9%20dell%27anima%20Douglas%20Adams" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=La%20lunga%20oscura%20pausa%20caff%C3%A9%20dell%27anima&amp;field-author=Douglas%20Adams" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Douglas%20Adams" type="text/html" rel="related" title="Douglas Adams on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Douglas%20Adams" type="text/html" rel="related" title="Douglas Adams on Wikipedia" />
+  <link href="http://www.librarything.com/author/AdamsDouglas" type="text/html" rel="related" title="Douglas Adams on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Douglas%20Adams" type="text/html" rel="related" title="Douglas Adams on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Douglas%20Adams" type="text/html" rel="related" title="Douglas Adams on ISFDB" />
+</entry>

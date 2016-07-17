@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Accettazione</title>
+  <id>urn:book:cb8a0602-9da1-48ae-a0c3-57ee3453a286</id>
+  <updated>2016-07-17T05:54:18Z</updated>
+  <link href="./book_277.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="Accettazione" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../authorlist/authorlist_V_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors starting with V" />
+  <link href="../../Jeff%20Vandermeer/Accettazione%20%28277%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Jeff%20Vandermeer/Accettazione%20%28277%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Jeff%20Vandermeer/Accettazione%20%28277%29/Accettazione%20-%20Jeff%20Vandermeer.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="2 MB" />
+  <author>
+    <name>Jeff Vandermeer</name>
+    <uri>../author_0/author_166_Page_1.xml</uri>
+  </author>
+  <published>2015-09-14T10:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>Giulio Einaudi Editore</dcterms:publisher>
+  <category term="General" />
+  <category term="Fiction" />
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      General, Fiction, Lang:it
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">Dopo che, al termine di Autorità,
+    il confine dell'Area X ha iniziato improvvisamente a espandersi
+    e inghiottire ogni cosa nella sua avanzata, a cominciare dalla
+    sede della Southern Reach, la situazione sulla «costa
+    dimenticata» sta precipitando. Controllo, aiutato dalla
+    misteriosa creatura che ha le fattezze e i ricordi della
+    biologa e si fa chiamare Uccello Fantasma, si inoltra nel cuore
+    dell'Area X, verso il faro da cui ogni cosa sembra essere
+    partita. Sembra che tutti i personaggi della trilogia dell'Area
+    X in qualche momento della loro vita abbiano visitato il faro.
+    Verremo cosí a conoscenza della storia del suo guardiano,
+    un uomo tormentato, con un passato di predicatore e troppi,
+    forse ingiustificati, sensi di colpa, che proprio al faro pare
+    aver riconquistato una qualche forma di pur precaria
+    serenità. Anche grazie all'amicizia di una bambina dei
+    dintorni, Gloria, con cui stabilisce un legame profondo, una
+    relazione che saprà sopravvivere ai cataclismi successivi
+    all'«evento». Ma veramente la Southern Reach è
+    stata creata dopo l'evento che ha generato l'Area X o esisteva
+    da molto, molto prima? E, soprattutto, chi ha innescato il
+    processo che ha dato vita all'Area X e perché? Forse
+    già ora, in qualche angolo del pianeta,
+    un'«anomalia» dall'origine sconosciuta sta alterando
+    la realtà in modi cosí sottili che probabilmente
+    passerebbero inosservati. Oppure, sembra dirci Jeff VanderMeer,
+    l'Area X è già dentro di noi, è un qualche seme
+    gettato nel nostro passato - un silenzio, un rimpianto, un
+    dolore soffocato, un amore mai dimenticato - che cresce e ci
+    altera, ci trasforma in modi che non sempre siamo pronti ad
+    accettare. O, invece, l'Area X è il totalmente altro,
+    qualcosa di cosí lontano dall'esperienza umana da apparire
+    alieno, incomprensibile, terribile anche quando persegue scopi
+    tutt'altro che distruttivi? Non è di risposte che abbiamo
+    bisogno oggi, ma di nuove e piú giuste domande. Con
+    Accettazione VanderMeer porta a compimento il grandioso
+    affresco iniziato con Annientamento e Autorità, una
+    creazione potente e di straordinaria forza immaginativa
+    salutata come il nuovo classico della letteratura fantastica.
+    *** «VanderMeer stupisce per la profondità con cui
+    tratta una storia d'amore come se fosse un territorio
+    contaminato dal mistero. L'area X non è solo lo spazio di
+    crisi tra l'umanità e i suoi eccessi, ma è anche il
+    nebuloso territorio della relazione tra un uomo e una
+    donna». Michela Murgia</p>
+  </content>
+  <link href="../author_0/author_166_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Jeff Vandermeer" />
+  <link href="http://www.goodreads.com/book/title/Accettazione" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Accettazione" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/Accettazione%20Jeff%20Vandermeer" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=Accettazione&amp;field-author=Jeff%20Vandermeer" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Jeff%20Vandermeer" type="text/html" rel="related" title="Jeff Vandermeer on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Jeff%20Vandermeer" type="text/html" rel="related" title="Jeff Vandermeer on Wikipedia" />
+  <link href="http://www.librarything.com/author/VandermeerJeff" type="text/html" rel="related" title="Jeff Vandermeer on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Jeff%20Vandermeer" type="text/html" rel="related" title="Jeff Vandermeer on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Jeff%20Vandermeer" type="text/html" rel="related" title="Jeff Vandermeer on ISFDB" />
+</entry>

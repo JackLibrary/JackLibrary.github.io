@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Books starting with C</title>
+  <id>Calibre2opds:taglist:F:2:C</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./tag_2_C_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Books starting with C" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../taglist/taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags" />
+  <link href="../taglist/taglist_F_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Tags starting with F" />
+  <link href="./tag_2_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Fiction" />
+  <entry>
+    <title>Caliban. La guerra</title>
+    <id>calibre:book:256</id>
+    <updated>2016-07-17T05:54:11Z</updated>
+    <link href="../../James%20s.%20A.%20Corey/Caliban.%20La%20guerra%20%28256%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../James%20s.%20A.%20Corey/Caliban.%20La%20guerra%20%28256%29/Caliban.%20La%20guerra%20-%20James%20s.%20A.%20Corey.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>James s. A. Corey</name>
+      <uri>../author_0/author_2_Page_1.xml</uri>
+    </author>
+    <published>2015-11-10T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci Editore</dcterms:publisher>
+    <category term="Science Fiction" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Su Ganimede, il pianeta granaio dell’intero sistema gioviano e fonte di approvvigionamento per i pianeti più esterni, un marine dell’esercito di Marte assiste inerme allo sterminio del suo plotone, massacrato da un mostruoso supersoldato. Nel frattem...</summary>
+    <link href="../book_0/book_256.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Catrame</title>
+    <id>calibre:book:249</id>
+    <updated>2016-07-17T05:54:09Z</updated>
+    <link href="../../Giuseppe%20Genna/Catrame%20%28249%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Giuseppe%20Genna/Catrame%20%28249%29/Catrame%20-%20Giuseppe%20Genna.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="217 KB" />
+    <author>
+      <name>Giuseppe Genna</name>
+      <uri>../author_0/author_158_Page_1.xml</uri>
+    </author>
+    <published>2008-05-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="Thrillers" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Fumo di asfalto colloso nella spossante Milano estiva delle periferie. Tra le case popolari di Calvairate, il quartiere dormitorio di Quarto Oggiaro e il carcere di Opera emergono, come strani zombie dal sottosuolo, un suicidio sospetto, un giro di p...</summary>
+    <link href="../book_0/book_249.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Codice Beta</title>
+    <id>calibre:book:246</id>
+    <updated>2016-07-17T05:54:08Z</updated>
+    <link href="../../Michael%20Crichton/Codice%20Beta%20%28246%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michael%20Crichton/Codice%20Beta%20%28246%29/Codice%20Beta%20-%20Michael%20Crichton.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="325 KB" />
+    <author>
+      <name>Michael Crichton</name>
+      <uri>../author_0/author_155_Page_1.xml</uri>
+    </author>
+    <published>2014-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Garzanti</dcterms:publisher>
+    <category term="Thrillers" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Deserto dello Utah. La sagoma scura di un treno blindato attraversa la notte. All’improvviso, un’esplosione scuote il silenzio del deserto. Il treno si ferma, un gruppo di uomini armati circonda i portelloni avvolti dal fumo. I gesti sono rapidi e pr...</summary>
+    <link href="../book_0/book_246.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Colosseum: Arena di sangue</title>
+    <id>calibre:book:241</id>
+    <updated>2016-07-17T05:54:07Z</updated>
+    <link href="../../Simone%20Sarasso/Colosseum_%20Arena%20di%20sangue%20%28241%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Simone%20Sarasso/Colosseum_%20Arena%20di%20sangue%20%28241%29/Colosseum_%20Arena%20di%20sangue%20-%20Simone%20Sarasso.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Simone Sarasso</name>
+      <uri>../author_0/author_39_Page_1.xml</uri>
+    </author>
+    <published>2013-03-24T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Rizzoli Max</dcterms:publisher>
+    <category term="Historical" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>80 d.C. È il primo giorno dei giochi inaugurali dell’Anfiteatro Flavio, il primo di cento. La folla sugli spalti è in fibrillazione e il meglio dell’aristocrazia riempie la tribuna d’onore. Da qui, l’imperatore Tito si gode il suo capolavoro: un giga...</summary>
+    <link href="../book_0/book_241.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cose fragili</title>
+    <id>calibre:book:237</id>
+    <updated>2016-07-17T05:54:06Z</updated>
+    <link href="../../Neil%20Gaiman/Cose%20fragili%20%28237%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Neil%20Gaiman/Cose%20fragili%20%28237%29/Cose%20fragili%20-%20Neil%20Gaiman.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="545 KB" />
+    <author>
+      <name>Neil Gaiman</name>
+      <uri>../author_0/author_50_Page_1.xml</uri>
+    </author>
+    <published>2014-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Un circo misterioso terrorizza il pubblico con una performance straordinaria prima di svanire nella notte, portando con sé uno spettatore… Due anni dopo American Gods, Shadow va a visitare una vecchia villa scozzese e si trova intrappolato in un gioc...</summary>
+    <link href="../book_0/book_237.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Cyberstorm</title>
+    <id>calibre:book:234</id>
+    <updated>2016-07-17T05:54:05Z</updated>
+    <link href="../../Matthew%20Mather/Cyberstorm%20%28234%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Matthew%20Mather/Cyberstorm%20%28234%29/Cyberstorm%20-%20Matthew%20Mather.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="562 KB" />
+    <author>
+      <name>Matthew Mather</name>
+      <uri>../author_0/author_149_Page_1.xml</uri>
+    </author>
+    <published>2014-08-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="Suspense" />
+    <category term="Thrillers" />
+    <category term="Lang:it" />
+    <summary>A Mike Mitchell sembrava già difficile tenere unite la propria famiglia, ma non pensava che si sarebbe ritrovato a lottare per tenerla in vita, quando una serie di inspiegabili catastrofi inizia a dominare i telegiornali di tutto il mondo. Mentre il ...</summary>
+    <link href="../book_0/book_234.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La canzone del sangue</title>
+    <id>calibre:book:251</id>
+    <updated>2016-07-17T05:54:10Z</updated>
+    <link href="../../Anthony%20Ryan/La%20canzone%20del%20sangue%20%28251%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Anthony%20Ryan/La%20canzone%20del%20sangue%20%28251%29/La%20canzone%20del%20sangue%20-%20Anthony%20Ryan.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="1 MB" />
+    <author>
+      <name>Anthony Ryan</name>
+      <uri>../author_0/author_159_Page_1.xml</uri>
+    </author>
+    <published>2013-09-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Fanucci</dcterms:publisher>
+    <category term="Fantasy" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>La vita di Vaelin Al Sorna cambia per sempre il giorno in cui suo padre lo abbandona alle porte del Sesto Ordine, una frangia militare segreta della Fede. Vaelin intraprende un regime di allenamento brutale, dove il prezzo del fallimento è spesso la ...</summary>
+    <link href="../book_0/book_251.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La canzone di Susannah</title>
+    <id>calibre:book:252</id>
+    <updated>2016-07-17T05:54:10Z</updated>
+    <link href="../../Stephen%20King/La%20canzone%20di%20Susannah%20%28252%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/La%20canzone%20di%20Susannah%20%28252%29/La%20canzone%20di%20Susannah%20-%20Stephen%20King.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="732 KB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2004-09-14T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Sperling &amp; Kupfer Editori</dcterms:publisher>
+    <category term="Horror" />
+    <category term="Fiction" />
+    <category term="Lang:it" />
+    <summary>"Il pistolero Roland guida l'ex drogato Eddie, il ragazzino Jake e la bella Susannah attraverso una geografia vacillante - l'Entromondo, il Medio Mondo, il Fine Mondo - dove universi onirici, ma concreti, tracimano l'uno nell'altro. I quattro sono un...</summary>
+    <link href="../book_0/book_252.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Il cerchio</title>
+    <id>calibre:book:248</id>
+    <updated>2016-07-17T05:54:09Z</updated>
+    <link href="../../Dave%20Eggers/Il%20cerchio%20%28248%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Dave%20Eggers/Il%20cerchio%20%28248%29/Il%20cerchio%20-%20Dave%20Eggers.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="642 KB" />
+    <author>
+      <name>Dave Eggers</name>
+      <uri>../author_0/author_157_Page_1.xml</uri>
+    </author>
+    <published>2014-11-03T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Mondadori</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>"Mio Dio, questo è un paradiso" pensa Mae Holland un assolato lunedì di giugno quando fa il suo ingresso al Cerchio. Mai avrebbe pensato di lavorare in un posto simile: la più influente azienda al mondo nella gestione di informazioni web, un asteroid...</summary>
+    <link href="../book_0/book_248.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La chiamata dei tre</title>
+    <id>calibre:book:161</id>
+    <updated>2016-07-17T05:53:45Z</updated>
+    <link href="../../Stephen%20King/La%20chiamata%20dei%20tre%20%28161%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Stephen%20King/La%20chiamata%20dei%20tre%20%28161%29/La%20chiamata%20dei%20tre%20-%20Stephen%20King.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="840 KB" />
+    <author>
+      <name>Stephen King</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <published>2015-05-11T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Sperling &amp; Kupfer</dcterms:publisher>
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Secondo romanzo del ciclo de La Torre Nera, La chiamata dei tre riprende la narrazione delle gesta di Roland, l'eroe solitario deciso a raggiungere la misteriosa Torre. Nel loro ultimo confronto-scontro, l'uomo in nero aveva predetto la sorte a Rolan...</summary>
+    <link href="../book_0/book_161.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La città buia</title>
+    <id>calibre:book:247</id>
+    <updated>2016-07-17T05:54:09Z</updated>
+    <link href="../../Michael%20Connelly/La%20citta%20buia%20%28247%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Michael%20Connelly/La%20citta%20buia%20%28247%29/La%20citta%20buia%20-%20Michael%20Connelly.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="398 KB" />
+    <author>
+      <name>Michael Connelly</name>
+      <uri>../author_0/author_156_Page_1.xml</uri>
+    </author>
+    <published>2010-10-06T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Piemme</dcterms:publisher>
+    <category term="Thrillers" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Sul belvedere vicino a Mulholland Drive viene ritrovato un cadavere. La vittima, identificata come il dottor Stanley Kent, è stata freddata con due colpi di pistola alla nuca: a prima vista, una tipica esecuzione. L'indagine è affidata al detective H...</summary>
+    <link href="../book_0/book_247.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>La crociata dei bambini.</title>
+    <id>calibre:book:154</id>
+    <updated>2016-07-17T05:53:43Z</updated>
+    <link href="../../Tullio%20Avoledo/La%20crociata%20dei%20bambini_%20%28154%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Tullio%20Avoledo/La%20crociata%20dei%20bambini_%20%28154%29/La%20crociata%20dei%20bambini_%20-%20Tullio%20Avoledo.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="632 KB" />
+    <author>
+      <name>Tullio Avoledo</name>
+      <uri>../author_0/author_110_Page_1.xml</uri>
+    </author>
+    <published>2014-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="370" />
+    <category term="Science Fiction" />
+    <category term="Fiction" />
+    <category term="General" />
+    <category term="Lang:it" />
+    <summary>Tra Iliade metropolitana e Odissea distopica, è un viaggio che dalle gallerie della metro non tarda a scivolare negli abissi della mente. John Daniels, il sacerdote già protagonista de "Le radici del cielo", dovrà cercare, fra le comunità che popolan...</summary>
+    <link href="../book_0/book_154.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>
