@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Not rated</title>
+  <id>Calibre2opds:rated:NOTRATED</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./rated_NOTRATED_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Not rated" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="./rated.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Rating" />
+  <entry>
+    <title>ZOMBIE STORY</title>
+    <id>calibre:book:116</id>
+    <updated>2016-07-17T08:45:21Z</updated>
+    <link href="../../Max%20Brooks/ZOMBIE%20STORY%20%28116%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Max%20Brooks/ZOMBIE%20STORY%20%28116%29/ZOMBIE%20STORY%20-%20Max%20Brooks.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="221 KB" />
+    <author>
+      <name>Max Brooks</name>
+      <uri>../author_0/author_1_Page_1.xml</uri>
+    </author>
+    <published>2011-11-04T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>[eBL 042 by Pico &amp; Elena77]</dcterms:publisher>
+    <category term="Lang:it" />
+    <summary>[eBL 042] MAX BROOKS - ZOMBIE STORY[by Pico &amp;amp; Elena77]Max Brooks continua a raccontare il mondo contemporaneo attraverso la grande metafora dei “non-morti”, stavolta scegliendo il genere del racconto. Conflitti mondiali che vedono i Vampiri sfida...</summary>
+    <link href="../book_0/book_116.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>You. Crea il tuo destino</title>
+    <id>calibre:book:117</id>
+    <updated>2016-07-17T08:45:21Z</updated>
+    <link href="../../Austin%20Grossman/You.%20Crea%20il%20tuo%20destino%20%28117%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Austin%20Grossman/You.%20Crea%20il%20tuo%20destino%20%28117%29/You.%20Crea%20il%20tuo%20destino%20-%20Austin%20Grossman.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="745 KB" />
+    <author>
+      <name>Austin Grossman</name>
+      <uri>../author_0/author_2_Page_1.xml</uri>
+    </author>
+    <published>2014-01-01T11:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Multiplayer.it Edizioni</dcterms:publisher>
+    <category term="Thrillers" />
+    <category term="Fiction" />
+    <category term="Suspense" />
+    <category term="Lang:it" />
+    <summary>Quando Russell inizia a lavorare alla Black Arts Games, fondata da due designer visionari che un tempo suoi amici, si trova a collaborare con un eccentrico gruppo di nerd che intendono superare le frontiere della tecnologia e dell'intrattenimento. Da...</summary>
+    <link href="../book_0/book_117.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+  <entry>
+    <title>Zona rossa</title>
+    <id>calibre:book:118</id>
+    <updated>2016-07-17T08:45:22Z</updated>
+    <link href="../../Roberto%20Satolli/Zona%20rossa%20%28118%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+    <link href="../../Roberto%20Satolli/Zona%20rossa%20%28118%29/Zona%20rossa%20-%20Roberto%20Satolli.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="376 KB" />
+    <author>
+      <name>Roberto Satolli</name>
+      <uri>../author_0/author_3_Page_1.xml</uri>
+    </author>
+    <author>
+      <name>Gino Strada</name>
+      <uri>../author_0/author_4_Page_1.xml</uri>
+    </author>
+    <published>2015-06-15T10:00:00Z</published>
+    <dcterms:language>it</dcterms:language>
+    <dcterms:publisher>Feltrinelli Editore</dcterms:publisher>
+    <category term="Hospital Administration &amp; Care" />
+    <category term="Health Policy" />
+    <category term="Emergency Management" />
+    <category term="Medical" />
+    <category term="Human Rights" />
+    <category term="Healing" />
+    <category term="Ebola" />
+    <category term="General" />
+    <category term="Technology &amp; Engineering" />
+    <category term="Emergency Medicine" />
+    <category term="Political Science" />
+    <category term="Epidemiology" />
+    <category term="Lang:it" />
+    <summary>Per qualche mese, nel 2014, tutto il mondo ha tremato di fronte a un minuscolo virus. Ebola è uscito dalle foreste dell’Africa equatoriale e ha conquistato tre paesi – minacciando di spostarsi a bordo di navi e aerei, arrivando a lambire le nazioni c...</summary>
+    <link href="../book_0/book_118.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="alternate" />
+  </entry>
+</feed>

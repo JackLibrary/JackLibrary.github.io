@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">116</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">75437091-0e5c-43e9-b032-ba690d1edbc7</dc:identifier>
+        <dc:title>ZOMBIE STORY</dc:title>
+        <dc:creator opf:file-as="Brooks, Max" opf:role="aut">Max Brooks</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.52.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-04T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;[eBL 042] MAX BROOKS - ZOMBIE STORY[by Pico &amp;amp; Elena77]&lt;br&gt;&lt;br&gt;Max Brooks continua a raccontare il mondo contemporaneo attraverso la grande metafora dei “non-morti”, stavolta scegliendo il genere del racconto. Conflitti mondiali che vedono i Vampiri sfidare gli Zombi per conservare il sangue della razza umana, senza la quale i parassiti dai denti aguzzi non potrebbero sopravvivere; attacchi di zombi alla grande muraglia cinese, scenari catastrofici in cui esseri umani eroici combattono contro i non-morti in sella a motociclette supersoniche, giovani umani che vivono la trasformazione allo stato di non-morti come una metamorfosi kafkiana: questi sono gli ingredienti dell’orrore che compongono questa strepitosa raccolta. “ebook di ebooklove.altervista.org se lo hai scaricato da altri siti... allora non e' originale”.Max Brooks ci regala degli affreschi pulp, scritti con penna graffiante e acuta, intelligente e ironica, che affonda nelle paure ancestrali dell’uomo in un continuo gioco di realtà e finzione. «Gli zombi mi hanno sempre terrorizzato. Mi spaventavano a morte sia i film di George Romero sia quelli di Dario Argento. Ma non si tratta solo di questo. Gli zombie hanno in sé una natura apocalittica. Le storie di zombie in qualche modo parlano della fine del mondo. È questo a interessarmi». Parola di Max Brooks.&lt;/p&gt;</dc:description>
+        <dc:publisher>[eBL 042 by Pico &amp; Elena77]</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">a7ddd9d3-f8bb-4d1a-be20-62f02d58a390</dc:identifier>
+        <dc:language>ita</dc:language>
+        <meta content="{&quot;Max Brooks&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-07-17T18:45:21.347000+00:00" name="calibre:timestamp"/>
+        <meta content="ZOMBIE STORY" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Copertina" type="cover"/>
+    </guide>
+</package>

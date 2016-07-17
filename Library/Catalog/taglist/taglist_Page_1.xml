@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>Tags</title>
+  <id>Calibre2opds:taglist</id>
+  <author>
+    <name>David Pierron</name>
+    <uri>http://calibre2opds.com/</uri>
+    <email>dpierron+calibre2opds@gmail.com</email>
+  </author>
+  <updated>1973-01-26T08:00:00Z</updated>
+  <link href="./taglist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="self" title="Tags" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <entry>
+    <title>Ebola</title>
+    <id>Calibre2opds:taglist:10</id>
+    <content type="text">Zona rossa</content>
+    <link href="../tag_0/tag_10_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Emergency Management</title>
+    <id>Calibre2opds:taglist:6</id>
+    <content type="text">Zona rossa</content>
+    <link href="../tag_0/tag_6_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Emergency Medicine</title>
+    <id>Calibre2opds:taglist:13</id>
+    <content type="text">Zona rossa</content>
+    <link href="../tag_0/tag_13_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Epidemiology</title>
+    <id>Calibre2opds:taglist:15</id>
+    <content type="text">Zona rossa</content>
+    <link href="../tag_0/tag_15_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Fiction</title>
+    <id>Calibre2opds:taglist:2</id>
+    <content type="text">You. Crea il tuo destino</content>
+    <link href="../tag_0/tag_2_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>General</title>
+    <id>Calibre2opds:taglist:11</id>
+    <content type="text">Zona rossa</content>
+    <link href="../tag_0/tag_11_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Healing</title>
+    <id>Calibre2opds:taglist:9</id>
+    <content type="text">Zona rossa</content>
+    <link href="../tag_0/tag_9_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Health Policy</title>
+    <id>Calibre2opds:taglist:5</id>
+    <content type="text">Zona rossa</content>
+    <link href="../tag_0/tag_5_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Hospital Administration &amp; Care</title>
+    <id>Calibre2opds:taglist:4</id>
+    <content type="text">Zona rossa</content>
+    <link href="../tag_0/tag_4_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Human Rights</title>
+    <id>Calibre2opds:taglist:8</id>
+    <content type="text">Zona rossa</content>
+    <link href="../tag_0/tag_8_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Lang:it</title>
+    <id>Calibre2opds:taglist:16</id>
+    <content type="text">3 books</content>
+    <link href="../tag_0/tag_16_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Medical</title>
+    <id>Calibre2opds:taglist:7</id>
+    <content type="text">Zona rossa</content>
+    <link href="../tag_0/tag_7_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Political Science</title>
+    <id>Calibre2opds:taglist:14</id>
+    <content type="text">Zona rossa</content>
+    <link href="../tag_0/tag_14_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Suspense</title>
+    <id>Calibre2opds:taglist:3</id>
+    <content type="text">You. Crea il tuo destino</content>
+    <link href="../tag_0/tag_3_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Technology &amp; Engineering</title>
+    <id>Calibre2opds:taglist:12</id>
+    <content type="text">Zona rossa</content>
+    <link href="../tag_0/tag_12_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Thrillers</title>
+    <id>Calibre2opds:taglist:1</id>
+    <content type="text">You. Crea il tuo destino</content>
+    <link href="../tag_0/tag_1_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" />
+    <link href="../tags.png" type="image/png" rel="http://opds-spec.org/image/thumbnail" />
+    <updated>1973-01-26T08:00:00Z</updated>
+  </entry>
+</feed>

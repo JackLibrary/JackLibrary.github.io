@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entry xmlns="http://www.w3.org/2005/Atom" xmlns:dcterms="http://purl.org/dc/terms" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <title>ZOMBIE STORY</title>
+  <id>urn:book:75437091-0e5c-43e9-b032-ba690d1edbc7</id>
+  <updated>2016-07-17T08:45:21Z</updated>
+  <link href="./book_116.xml" type="application/atom+xml;type=entry;profile=opds-catalog" rel="self" title="ZOMBIE STORY" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="start" title="Jack's Library" />
+  <link href="../index.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Jack's Library" />
+  <link href="../authorlist/authorlist_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="breadcrumb" title="Authors" />
+  <link href="../../Max%20Brooks/ZOMBIE%20STORY%20%28116%29/c2o_resizedcover.jpg" type="image/jpg" rel="http://opds-spec.org/image" />
+  <link href="../../Max%20Brooks/ZOMBIE%20STORY%20%28116%29/c2o_thumbnail.jpg" type="image/jpg" rel="http://opds-spec.org/image/thumbnail" />
+  <link href="../../Max%20Brooks/ZOMBIE%20STORY%20%28116%29/ZOMBIE%20STORY%20-%20Max%20Brooks.azw3" type="application/octet-stream" rel="http://opds-spec.org/acquisition" title="Download this ebook as AZW3" displaysize="221 KB" />
+  <author>
+    <name>Max Brooks</name>
+    <uri>../author_0/author_1_Page_1.xml</uri>
+  </author>
+  <published>2011-11-04T11:00:00Z</published>
+  <dcterms:language>it</dcterms:language>
+  <dcterms:publisher>[eBL 042 by Pico &amp; Elena77]</dcterms:publisher>
+  <category term="Lang:it" />
+  <content type="text/html">
+    <p>
+      <strong>Rating:</strong>
+      Not rated
+    </p>
+    <p>
+      <strong>Tags:</strong>
+      Lang:it
+    </p>
+    <p>
+      <strong>Publisher:</strong>
+      [eBL 042 by Pico &amp; Elena77]
+    </p>
+    <p>
+      <strong>Summary</strong>
+    </p>
+    <p xmlns="" class="description">
+      [eBL 042] MAX BROOKS - ZOMBIE STORY[by
+    Pico &amp; Elena77]
+      <br />
+      <br />
+      Max Brooks continua a raccontare il mondo contemporaneo
+    attraverso la grande metafora dei “non-morti”,
+    stavolta scegliendo il genere del racconto. Conflitti mondiali
+    che vedono i Vampiri sfidare gli Zombi per conservare il sangue
+    della razza umana, senza la quale i parassiti dai denti aguzzi
+    non potrebbero sopravvivere; attacchi di zombi alla grande
+    muraglia cinese, scenari catastrofici in cui esseri umani
+    eroici combattono contro i non-morti in sella a motociclette
+    supersoniche, giovani umani che vivono la trasformazione allo
+    stato di non-morti come una metamorfosi kafkiana: questi sono
+    gli ingredienti dell’orrore che compongono questa
+    strepitosa raccolta. “ebook di ebooklove.altervista.org
+    se lo hai scaricato da altri siti... allora non e'
+    originale”.Max Brooks ci regala degli affreschi pulp,
+    scritti con penna graffiante e acuta, intelligente e ironica,
+    che affonda nelle paure ancestrali dell’uomo in un
+    continuo gioco di realtà e finzione. «Gli zombi mi
+    hanno sempre terrorizzato. Mi spaventavano a morte sia i film
+    di George Romero sia quelli di Dario Argento. Ma non si tratta
+    solo di questo. Gli zombie hanno in sé una natura
+    apocalittica. Le storie di zombie in qualche modo parlano della
+    fine del mondo. È questo a interessarmi». Parola di
+    Max Brooks.
+    </p>
+  </content>
+  <link href="../author_0/author_1_Page_1.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation" rel="related" title="Books by Max Brooks" />
+  <link href="http://www.goodreads.com/book/title/ZOMBIE%20STORY" type="text/html" rel="related" title="This book on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/ZOMBIE%20STORY" type="text/html" rel="related" title="This book on Wikipedia" />
+  <link href="http://www.librarything.com/title/ZOMBIE%20STORY%20Max%20Brooks" type="text/html" rel="related" title="This book on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-title=ZOMBIE%20STORY&amp;field-author=Max%20Brooks" type="text/html" rel="related" title="This book on Amazon" />
+  <link href="http://www.goodreads.com/book/author/Max%20Brooks" type="text/html" rel="related" title="Max Brooks on Goodreads" />
+  <link href="http://en.wikipedia.org/wiki/Max%20Brooks" type="text/html" rel="related" title="Max Brooks on Wikipedia" />
+  <link href="http://www.librarything.com/author/BrooksMax" type="text/html" rel="related" title="Max Brooks on LibraryThing" />
+  <link href="http://www.amazon.com/gp/search/ref=sr_adv_b/?search-alias=stripbooks&amp;unfiltered=1&amp;sort=relevanceexprank&amp;field-author=Max%20Brooks" type="text/html" rel="related" title="Max Brooks on Amazon" />
+  <link href="http://www.isfdb.org/cgi-bin/ea.cgi?Max%20Brooks" type="text/html" rel="related" title="Max Brooks on ISFDB" />
+</entry>
